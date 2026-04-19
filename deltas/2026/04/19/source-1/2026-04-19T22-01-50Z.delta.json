@@ -1,0 +1,469 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T21-51-40Z",
+    "revision_id": "AMHacu51Rv0Zp5b47ILy1kEDNcQhvl_hl_k7tTGwNjgl1q28M1TSL7_Rgtf7kX4lEWvVe16-BobvC6Eu1rNTDf3wTA",
+    "paragraph_count": 349
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-01-50Z",
+    "revision_id": "AMHacu6KvyZND5whzmUR4Wpm8ujjbimk4dw9H6epOBx3OOXBjAbNSLW3K3Wkbkub37mbkLXNim-vrHL82PKBXyglRg",
+    "paragraph_count": 361
+  },
+  "summary": {
+    "inserted_paragraphs": 36,
+    "deleted_paragraphs": 24,
+    "operations": 18,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 2,
+      "at_to": 2,
+      "from_paragraphs": [
+        {
+          "content_hash": "c876b6e049b14540",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。 (友情提示：根据事实自由说话)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "abbf1cfd5d687980",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。 (友情提示：根据事实自由说话，可以反驳其他人的不实信息)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 45,
+      "at_to": 45,
+      "from_paragraphs": [
+        {
+          "content_hash": "4a44c53601621e34",
+          "style": "NORMAL_TEXT",
+          "text": "跑路之后组内学生怎么样了(蹲）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "64613722ad146121",
+          "style": "NORMAL_TEXT",
+          "text": "跑路之后组内学生怎么样了(蹲）（+1）(蹲)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 48,
+      "at_to": 48,
+      "from_paragraphs": [
+        {
+          "content_hash": "253ef1aa09e0491b",
+          "style": "NORMAL_TEXT",
+          "text": "组内的建议：太Push，不能忍受的别来"
+        },
+        {
+          "content_hash": "1d1f627878830a68",
+          "style": "NORMAL_TEXT",
+          "text": "最近有博后受不了quit了 → （感觉postdoc side问题比较大，建议postdoc也上黑榜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fb16e6167a7eca3d",
+          "style": "NORMAL_TEXT",
+          "text": "组内的建议：太Push，不能忍受的别来，deadline前压力大"
+        },
+        {
+          "content_hash": "28959fe0f5d02063",
+          "style": "NORMAL_TEXT",
+          "text": "最近有博后受不了quit了 → （感觉postdoc side问题比较大，建议这个postdoc也上黑榜"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 53,
+      "paragraphs": [
+        {
+          "content_hash": "882b1ce5c6c20030",
+          "style": "NORMAL_TEXT",
+          "text": "deadline前压力大"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 138,
+      "at_to": 137,
+      "from_paragraphs": [
+        {
+          "content_hash": "af6fad7bba0cdfe4",
+          "style": "NORMAL_TEXT",
+          "text": "女方学术水平无法评价，纯靠Yuille carry出教职"
+        },
+        {
+          "content_hash": "dea921c51e25408b",
+          "style": "NORMAL_TEXT",
+          "text": "长期PUA组内学生，实习期间高强度打工"
+        },
+        {
+          "content_hash": "ef84e711dc0fccaa",
+          "style": "NORMAL_TEXT",
+          "text": "Push家常便饭，脾气差，心里折磨"
+        },
+        {
+          "content_hash": "63f97816edf58146",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit"
+        },
+        {
+          "content_hash": "8118afddc0e60385",
+          "style": "NORMAL_TEXT",
+          "text": "但似乎学生出路都很好？（主要靠学生自己）"
+        },
+        {
+          "content_hash": "332ec2573b5ec797",
+          "style": "NORMAL_TEXT",
+          "text": "让学生接送机场"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4cfdb69a67582607",
+          "style": "NORMAL_TEXT",
+          "text": "女方学术水平无法评价，纯靠Yuille carry出教职；Bias，拉 funding + frontier lab visiting faculty"
+        },
+        {
+          "content_hash": "27b1bc93d560d3c9",
+          "style": "NORMAL_TEXT",
+          "text": "长期PUA组内学生，实习期间高强度打工；Depends on projects，合作 PIs，合作PhDs"
+        },
+        {
+          "content_hash": "6449b593fb487df9",
+          "style": "NORMAL_TEXT",
+          "text": "Push家常便饭，脾气差，心里折磨；没骂过人"
+        },
+        {
+          "content_hash": "db8060ca61ea19c4",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit；truth"
+        },
+        {
+          "content_hash": "2cc7de76e5dbd0fe",
+          "style": "NORMAL_TEXT",
+          "text": "但似乎学生出路都很好？（主要靠学生自己）；去年今年推成功了aws ms gdm"
+        },
+        {
+          "content_hash": "58d3666806b2c052",
+          "style": "NORMAL_TEXT",
+          "text": "让学生接送机场；fake"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 180,
+      "at_to": 180,
+      "from_paragraphs": [
+        {
+          "content_hash": "1b05d3f520a387a5",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）("
+        },
+        {
+          "content_hash": "e2817c236452e8da",
+          "style": "NORMAL_TEXT",
+          "text": "学术品味一般，感觉招生纯数paper"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b9a9d85d602c684",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们（你，并非们）还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）(没拿到return破防了开始全网黑julian是吧) (马甲掉了)"
+        },
+        {
+          "content_hash": "2c103e599d1c1003",
+          "style": "NORMAL_TEXT",
+          "text": "学术品味一般，感觉招生纯数paper (建议你把99%的老师都列在黑榜，学术品位都一般)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 190,
+      "paragraphs": [
+        {
+          "content_hash": "aad1756556f58ea9",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头，最后全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 194,
+      "paragraphs": [
+        {
+          "content_hash": "a591517e6c34f1a0",
+          "style": "NORMAL_TEXT",
+          "text": "著名大水车，大家看看此人phd 期间发了多少文章就知道了。每年水的论文数量太过分到这种量级，不以为耻，反以为荣。"
+        },
+        {
+          "content_hash": "2d86516561b3dcd9",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 201,
+      "at_to": 204,
+      "from_paragraphs": [
+        {
+          "content_hash": "3309401be5dbafef",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很大，非常push，项目一卡就辱骂学生，经常有phd被骂得半夜给同学打电话哭"
+        },
+        {
+          "content_hash": "63f97816edf58146",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit"
+        },
+        {
+          "content_hash": "1fbb0b3022468b33",
+          "style": "NORMAL_TEXT",
+          "text": "对白人意见很大，私下里经常喷同方向的各种好论文"
+        },
+        {
+          "content_hash": "33bde43ff650d0fc",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7ebe7a76dde07f94",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很大（？），非常push，项目一卡就辱骂学生，经常有phd被骂得半夜给同学打电话哭（从来都是对事不对人，yu的耐心比我合作过的大部分教授都好得多。我都准备把yu写红榜的在黑榜看到我真惊了）"
+        },
+        {
+          "content_hash": "3afbfe320488b146",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit （谁写的多人quit？自己去wayback machine看历史上主页上列出来的的学生，上了的没有下掉的学生，谁quit了？）"
+        },
+        {
+          "content_hash": "135d887ca8f3612a",
+          "style": "NORMAL_TEXT",
+          "text": "对白人意见很大，私下里经常喷同方向的各种好论文 （逆天，就一个白人学生 2年没出结果最后拿best student paper，给足了时间和耐心，啥叫意见很大？）"
+        },
+        {
+          "content_hash": "3609a2b510ab2183",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 215,
+      "at_to": 218,
+      "from_paragraphs": [
+        {
+          "content_hash": "fef3916c4cc55ace",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "57ab3f236c06d502",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 217,
+      "at_to": 220,
+      "from_paragraphs": [
+        {
+          "content_hash": "d059bb9033f61331",
+          "style": "NORMAL_TEXT",
+          "text": "学生拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b0db346318fdab0d",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 219,
+      "at_to": 222,
+      "from_paragraphs": [
+        {
+          "content_hash": "3e8b4d0e2a6e9e2d",
+          "style": "NORMAL_TEXT",
+          "text": "搞了一堆intern过来实习，实则养蛊"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "43da04c8ce3d1baf",
+          "style": "NORMAL_TEXT",
+          "text": "搞了一堆intern过来实习，实则养蛊，phd前几年的quit不少"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 227,
+      "at_to": 230,
+      "from_paragraphs": [
+        {
+          "content_hash": "4e16f140936d92ec",
+          "style": "NORMAL_TEXT",
+          "text": "学生如果要找教职低于Top50不给推荐信，因为UMD是Top10（？这也太糖了) （6666）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "12bc643b73efd34e",
+          "style": "NORMAL_TEXT",
+          "text": "学生如果要找教职低于Top50不给推荐信，因为UMD是Top10（？这也太糖了) （6666）（他上一个学校匹大排名多少？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 236,
+      "at_to": 239,
+      "from_paragraphs": [
+        {
+          "content_hash": "3ff48be566307427",
+          "style": "NORMAL_TEXT",
+          "text": "被合作者追着在不同微信群骂，被@骂了就退群"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "87ac0a72288c00ed",
+          "style": "NORMAL_TEXT",
+          "text": "被合作者ap追着在不同微信群骂，被@骂了就退群"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 284,
+      "paragraphs": [
+        {
+          "content_hash": "0dc9ec9b81cbda8f",
+          "style": "NORMAL_TEXT",
+          "text": "UTD Xinya Du"
+        },
+        {
+          "content_hash": "a31e3366ca12d6cc",
+          "style": "NORMAL_TEXT",
+          "text": "Meeting频繁迟到且不通知，Meeting中有一半以上的时间反复问同样的问题且抓不住研究重点"
+        },
+        {
+          "content_hash": "5fd80f2fc6edaf7b",
+          "style": "NORMAL_TEXT",
+          "text": "学生身体不适强制要求完成工作"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 282,
+      "at_to": 288,
+      "from_paragraphs": [
+        {
+          "content_hash": "0dc9ec9b81cbda8f",
+          "style": "NORMAL_TEXT",
+          "text": "UTD Xinya Du"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6cfcb04be8efc9e6",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Quanquan Gu"
+        },
+        {
+          "content_hash": "258598b16433d620",
+          "style": "NORMAL_TEXT",
+          "text": "神人一个"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 340,
+      "at_to": 347,
+      "from_paragraphs": [
+        {
+          "content_hash": "03d7cc330c8d6ac9",
+          "style": "NORMAL_TEXT",
+          "text": "经典npd，不顺他的意或者做的不好就会一直否定你"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5d1d675eeb77af94",
+          "style": "NORMAL_TEXT",
+          "text": "经典npd，不顺他的意或者做的不好就会一直否定你。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ee77a4244176a76a",
+          "style": "NORMAL_TEXT",
+          "text": "CSU, 可视化夫妻店"
+        },
+        {
+          "content_hash": "b3974e63932343c1",
+          "style": "NORMAL_TEXT",
+          "text": "横向多到做不完"
+        },
+        {
+          "content_hash": "66bc86f8395fbc1e",
+          "style": "NORMAL_TEXT",
+          "text": "教授抢PhD一作，PhD抢本科生一作"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 360,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
