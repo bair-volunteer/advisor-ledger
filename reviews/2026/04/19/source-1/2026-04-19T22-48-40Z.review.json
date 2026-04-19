@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-48-40Z.delta.json",
+  "delta_ts": "2026-04-19T22-48-40Z",
+  "reviewed_at_utc": "2026-04-19T22:50:09Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Inflammatory insults comparing the subject to a rat living in a cesspool and playing kindergarten tricks constitute pure personal attacks rather than substantive criticism of advising practices.",
+      "excerpt": "多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊，多么的愚蠢地玩弄一些幼稚园的把戏"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive gossip about a specific advisor couple's job mobility (applying to HY and preparing to leave), which is relevant to student advising stability.",
+      "excerpt": "(夫妻二人依托东部沿海某校申了hy都准备跑路了)"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes first-hand observation about sexual rumors previously circulated about the advisor, which is substantive context regarding the rumor environment.",
+      "excerpt": "真的之前我还没有合作的时候就有人造黄遥，吓得我一开始都跑了..."
+    }
+  ],
+  "prompt_sha256": "2c27e13c73f9e85fba8d9584692603337adc795740cba810541b9f3c0f4a1ab9",
+  "finish_reason": "stop",
+  "completion_tokens": 7662
+}
