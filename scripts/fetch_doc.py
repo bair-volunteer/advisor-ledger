@@ -56,6 +56,24 @@ def build_services():
     return docs, drive
 
 
+def prior_modified_time(source_id: str) -> str | None:
+    metas = sorted(SNAPSHOTS_DIR.rglob(f"*/{source_id}/*.meta.json"))
+    if not metas:
+        return None
+    try:
+        meta = json.loads(metas[-1].read_text(encoding="utf-8"))
+        return meta.get("drive_metadata", {}).get("modifiedTime")
+    except Exception:
+        return None
+
+
+def current_modified_time(drive, doc_id: str) -> str | None:
+    resp = drive.files().get(
+        fileId=doc_id, fields="modifiedTime", supportsAllDrives=True
+    ).execute()
+    return resp.get("modifiedTime")
+
+
 def fetch_one(docs, drive, source: dict, ts: str) -> Path:
     doc_id = source["google_doc_id"]
     source_id = source["source_id"]
@@ -115,6 +133,13 @@ def main() -> int:
     exit_code = 0
     for source in sources:
         try:
+            prior = prior_modified_time(source["source_id"])
+            current = current_modified_time(drive, source["google_doc_id"])
+            if prior is not None and current is not None and prior == current:
+                print(
+                    f"[{source['source_id']}] unchanged (modifiedTime={current}), skipping"
+                )
+                continue
             out_dir = fetch_one(docs, drive, source, ts)
             print(f"[{source['source_id']}] wrote snapshot to {out_dir}/{ts}.*")
         except HttpError as e:

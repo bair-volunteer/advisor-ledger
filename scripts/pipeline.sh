@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
-# Phase 2 pipeline: fetch -> normalize -> diff -> git commit (if changed).
-# Designed to be idempotent and safe to run from a systemd timer.
-#
-# Exit codes: 0 = ran cleanly (committed or nothing to commit); non-zero = error.
+# Pipeline: fetch -> normalize -> diff -> review -> render -> commit -> push.
+# Safe to run from a systemd timer. Idempotent; review/push are non-fatal.
 
 set -euo pipefail
 
@@ -20,30 +18,55 @@ log "fetch"
 log "normalize"
 "$PY" scripts/normalize_doc.py --all
 
-# For each enabled source in config, diff its latest pair if there are >=2 snapshots.
-log "diff"
 SOURCES="$("$PY" -c '
-import json,sys
+import json
 cfg=json.load(open("config/source_docs.json"))
 for s in cfg.get("sources",[]):
   if s.get("enabled"): print(s["source_id"])
 ')"
+
+log "diff"
 for sid in $SOURCES; do
-  if [ "$(find normalized -type f -name "*.normalized.json" -path "*/$sid/*" | wc -l)" -ge 2 ]; then
+  if [ "$(find normalized -type f -name "*.normalized.json" -path "*/$sid/*" 2>/dev/null | wc -l)" -ge 2 ]; then
     "$PY" scripts/diff_snapshots.py --latest "$sid" || true
   fi
 done
 
-# Commit any new snapshots/ or deltas/. normalized/ is gitignored (derived).
-log "git commit"
+# Review every delta that doesn't yet have a review (catches up if prior tick failed).
+# Non-fatal: a review failure must not block commit/push.
+log "review"
+for sid in $SOURCES; do
+  while IFS= read -r d; do
+    ts="$(basename "$d" .delta.json)"
+    r="reviews/${ts:0:4}/${ts:5:2}/${ts:8:2}/$sid/${ts}.review.json"
+    if [ ! -f "$r" ]; then
+      if ! "$PY" scripts/review_agent.py "$d"; then
+        log "review failed for $d (non-fatal)"
+      fi
+    fi
+  done < <(find deltas -type f -name "*.delta.json" -path "*/$sid/*" 2>/dev/null | sort)
+done
+
+log "render"
+"$PY" scripts/render_ledger.py >/dev/null
+
+# Commit + push if anything new is staged. Derived dirs (normalized/, site/) are gitignored.
+log "git"
 if [ -d .git ]; then
-  git add snapshots deltas 2>/dev/null || true
+  git add snapshots deltas reviews 2>/dev/null || true
   if ! git diff --cached --quiet; then
-    git commit -m "chore(ledger): pipeline run $LOG_TS" >/dev/null
+    git commit -m "ledger: $LOG_TS" >/dev/null
     log "committed: $(git rev-parse --short HEAD)"
+    if git remote get-url origin >/dev/null 2>&1; then
+      if git push origin main >/dev/null 2>&1; then
+        log "pushed to origin/main"
+      else
+        log "git push failed (non-fatal)"
+      fi
+    fi
   else
-    log "no changes to commit"
+    log "nothing to commit"
   fi
 else
-  log "no .git — skipping commit"
+  log "no .git — skipping"
 fi
