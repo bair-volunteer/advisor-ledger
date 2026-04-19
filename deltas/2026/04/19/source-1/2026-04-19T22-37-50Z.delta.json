@@ -1,0 +1,76 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-35-40Z",
+    "revision_id": "AMHacu4C9Y49-Q7t1XAaDf1oRkf8bRFA_rvH6CwLb1eeDAvQRjIUvi4Cq0nrQu8VNEtri_qpYwYVsDXTFgsVrgCxGA",
+    "paragraph_count": 409
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-37-50Z",
+    "revision_id": "AMHacu4MR6QfXcElib67gVIOT_j_9FBjFpXBHcpGiPjAWB5kUgkjX8e1nCvmTRxWlUBVO181YkbJQh1RcI8nRw-whw",
+    "paragraph_count": 411
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 2,
+    "operations": 3,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 47,
+      "at_to": 47,
+      "from_paragraphs": [
+        {
+          "content_hash": "64613722ad146121",
+          "style": "NORMAL_TEXT",
+          "text": "跑路之后组内学生怎么样了(蹲）（+1）(蹲)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "255f0200f218a20e",
+          "style": "NORMAL_TEXT",
+          "text": "跑路之后组内学生怎么样了(蹲）（+2）(蹲)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 213,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 225,
+      "from_paragraphs": [
+        {
+          "content_hash": "087d281bfc4cece2",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）（我在读期间氛围很好啊？？）（yu su绝对不鼓励斗争，发生小摩擦他第一时间写组内的culture guidance让大家互相尊重）（就感觉有的评论纯属断章取义，经典）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f58939c75ccf0e24",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）（我在读期间氛围很好啊？？）（yu su绝对不鼓励斗争，发生小摩擦他第一时间写组内的culture guidance让大家互相尊重）（就感觉有的评论纯属断章取义，经典网友）"
+        }
+      ]
+    }
+  ]
+}
