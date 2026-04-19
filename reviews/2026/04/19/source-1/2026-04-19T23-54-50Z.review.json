@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-54-50Z.delta.json",
+  "delta_ts": "2026-04-19T23-54-50Z",
+  "reviewed_at_utc": "2026-04-19T23:55:22Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added mocking insult targeting an individual's academic achievement rather than advising practices. The phrase sarcastically belittles someone's admission offer ('拿到UNC phd的offer是你这辈子的巅峰了吧，真不容易啊'), constituting a personal attack.",
+      "excerpt": "拿到UNC phd的offer是你这辈子的巅峰了吧，真不容易啊"
+    }
+  ],
+  "prompt_sha256": "f9532bbcf3466101b7ed52f93c90203c3b62f5784232403aa6caff7bc1686a75",
+  "finish_reason": "stop",
+  "completion_tokens": 2599
+}
