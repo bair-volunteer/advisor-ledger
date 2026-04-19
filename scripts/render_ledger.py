@@ -26,7 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 NORMALIZED_DIR = ROOT / "normalized"
 DELTAS_DIR = ROOT / "deltas"
-SITE_DIR = ROOT / "site"
+SITE_DIR = ROOT / "docs"
 
 BLANK_HASH = "0" * 16
 
