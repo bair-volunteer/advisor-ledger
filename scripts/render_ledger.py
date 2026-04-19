@@ -26,6 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 NORMALIZED_DIR = ROOT / "normalized"
 DELTAS_DIR = ROOT / "deltas"
+REVIEWS_DIR = ROOT / "reviews"
 SITE_DIR = ROOT / "docs"
 
 BLANK_HASH = "0" * 16
@@ -41,6 +42,69 @@ def list_normalized(source_id: str) -> list[Path]:
 
 def list_deltas(source_id: str) -> list[Path]:
     return sorted(DELTAS_DIR.rglob(f"*/{source_id}/*.delta.json"))
+
+
+def list_reviews(source_id: str) -> list[Path]:
+    return sorted(REVIEWS_DIR.rglob(f"*/{source_id}/*.review.json"))
+
+
+def suspicious_by_ts(source_id: str) -> dict[str, list[dict]]:
+    """Return {delta_ts: [suspicious_deletion concerns]} for the source."""
+    out: dict[str, list[dict]] = defaultdict(list)
+    for p in list_reviews(source_id):
+        r = load_json(p)
+        for c in r.get("concerns", []) or []:
+            if c.get("type") == "suspicious_deletion":
+                out[r["delta_ts"]].append(c)
+    return out
+
+
+def concern_matches_text(concern: dict, text: str) -> bool:
+    """Fuzzy match: share a contiguous 6-char window, or one is substring of the other."""
+    excerpt = (concern.get("excerpt") or "").replace("...", "").replace("…", "").strip()
+    if not excerpt or not text:
+        return False
+    if excerpt in text or text in excerpt:
+        return True
+    # window-based fuzzy match to tolerate paraphrase/truncation
+    for s, l in ((excerpt, text), (text, excerpt)):
+        if len(s) < 6:
+            continue
+        for i in range(len(s) - 5):
+            if s[i : i + 6] in l:
+                return True
+    return False
+
+
+def attach_suspicious(
+    ghosts_head: list[dict],
+    ghosts_by_anchor: dict[str, list[dict]],
+    by_ts: dict[str, list[dict]],
+) -> None:
+    """Mutate ghost dicts in-place: add 'suspicious_concerns' where matched.
+    Unmatched concerns fall back to every ghost in the same delta (conservative)."""
+    all_ghosts = list(ghosts_head) + [g for lst in ghosts_by_anchor.values() for g in lst]
+    by_ts_ghosts: dict[str, list[dict]] = defaultdict(list)
+    for g in all_ghosts:
+        by_ts_ghosts[g["deleted_at"]].append(g)
+    for ts, concerns in by_ts.items():
+        ghosts_here = by_ts_ghosts.get(ts, [])
+        if not ghosts_here:
+            continue
+        unmatched: list[dict] = []
+        for c in concerns:
+            matched = False
+            for g in ghosts_here:
+                if concern_matches_text(c, g["text"]):
+                    g.setdefault("suspicious_concerns", []).append(c)
+                    matched = True
+            if not matched:
+                unmatched.append(c)
+        if unmatched:
+            for g in ghosts_here:
+                # only add fallback concerns where no specific match already exists
+                if "suspicious_concerns" not in g:
+                    g["suspicious_concerns"] = list(unmatched)
 
 
 def discover_source_ids() -> list[str]:
@@ -112,10 +176,25 @@ def render_live(p: dict, added_at: str | None) -> str:
 def render_ghost(g: dict) -> str:
     style = html.escape(g.get("style", "NORMAL_TEXT"))
     text = esc(g["text"])
+    concerns = g.get("suspicious_concerns") or []
+    cls = "p ghost suspicious" if concerns else "p ghost"
+    badges = [f'<span class="badge deleted">− {html.escape(g["deleted_at"])}</span>']
+    detail_html = ""
+    if concerns:
+        badges.append('<span class="badge flag">⚠ 可疑删除</span>')
+        items = "".join(
+            f'<li>{html.escape(c.get("detail", ""))}</li>' for c in concerns
+        )
+        detail_html = (
+            f'<details class="flag-detail"><summary>AI 审查意见 ({len(concerns)})</summary>'
+            f'<ul>{items}</ul></details>'
+        )
     return (
-        f'<div class="p ghost" data-style="{style}">'
-        f'<span class="badge deleted">− {html.escape(g["deleted_at"])}</span>'
-        f'<div class="text">{text}</div></div>'
+        f'<div class="{cls}" data-style="{style}">'
+        f'{"".join(badges)}'
+        f'<div class="text">{text}</div>'
+        f'{detail_html}'
+        f'</div>'
     )
 
 
@@ -131,19 +210,28 @@ HTML_TEMPLATE = """<!DOCTYPE html>
  .p[data-style=HEADING_1] .text{{font-size:1.3em;font-weight:600;}}
  .p[data-style=HEADING_2] .text{{font-size:1.15em;font-weight:600;}}
  .p[data-style=HEADING_3] .text{{font-size:1.05em;font-weight:600;}}
- .p.ghost{{background:#fff4f4;border-left-color:#c33;color:#a33;text-decoration:line-through;}}
+ .p.ghost{{background:#fff4f4;border-left-color:#c33;}}
+ .p.ghost .text{{color:#a33;text-decoration:line-through;}}
+ .p.ghost.suspicious{{background:#fff6d6;border-left-color:#d4a017;box-shadow:inset 3px 0 0 #d4a017, 0 0 0 1px #d4a017;}}
+ .p.ghost.suspicious .text{{color:#7a5c00;}}
  .p.added{{background:#f0fff4;border-left-color:#2a8;}}
  .badge{{display:inline-block;font-size:.7em;padding:.05em .45em;border-radius:3px;margin-right:.6em;font-family:ui-monospace,monospace;vertical-align:middle;text-decoration:none;color:#fff;}}
  .badge.added{{background:#2a8;}}
  .badge.deleted{{background:#c33;}}
+ .badge.flag{{background:#d4a017;}}
+ .flag-detail{{margin-top:.3em;font-size:.8em;color:#555;text-decoration:none;}}
+ .flag-detail summary{{cursor:pointer;color:#9a7a00;}}
+ .flag-detail ul{{margin:.3em 0 .2em 1.4em;padding:0;}}
+ .flag-detail li{{margin:.15em 0;}}
  h2.section{{margin-top:3em;font-size:1.1em;color:#666;border-top:1px dashed #ccc;padding-top:1em;}}
 </style></head><body>
 <h1>{title}</h1>
 <div class="meta">
  source: <code>{source_id}</code> · snapshots: {n_snapshots} · range: {earliest_ts} → {latest_ts}<br>
- live paragraphs: {n_live} · deleted (preserved): {n_ghosts} · added since start: {n_added}<br>
+ live paragraphs: {n_live} · deleted (preserved): {n_ghosts} · added since start: {n_added} · flagged as suspicious: {n_suspicious}<br>
  <span class="legend"><span class="badge added">+ ts</span>added after first snapshot</span>
  <span class="legend"><span class="badge deleted">− ts</span>deleted (kept with strike-through)</span>
+ <span class="legend"><span class="badge flag">⚠</span>AI 标注为可疑删除</span>
 </div>
 <main>
 {body}
@@ -163,6 +251,7 @@ def render_source(source_id: str) -> str | None:
     earliest_ts = norms[0]["captured_at_utc"]
     fs = first_seen_map(norms)
     ghosts_head, ghosts_by_anchor = build_ghosts(norms, deltas)
+    attach_suspicious(ghosts_head, ghosts_by_anchor, suspicious_by_ts(source_id))
 
     parts: list[str] = []
     n_added = 0
@@ -195,6 +284,11 @@ def render_source(source_id: str) -> str | None:
             parts.append(render_ghost(g))
 
     n_ghosts = len(ghosts_head) + sum(len(v) for v in ghosts_by_anchor.values())
+    n_suspicious = sum(
+        1
+        for g in ghosts_head + [x for lst in ghosts_by_anchor.values() for x in lst]
+        if g.get("suspicious_concerns")
+    )
     return HTML_TEMPLATE.format(
         title=html.escape(latest.get("title") or source_id),
         source_id=html.escape(source_id),
@@ -204,6 +298,7 @@ def render_source(source_id: str) -> str | None:
         n_live=len(latest["paragraphs"]),
         n_ghosts=n_ghosts,
         n_added=n_added,
+        n_suspicious=n_suspicious,
         body="\n".join(parts),
     )
 
