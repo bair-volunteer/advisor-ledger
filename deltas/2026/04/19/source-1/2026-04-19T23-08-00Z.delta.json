@@ -1,0 +1,242 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-05-50Z",
+    "revision_id": "AMHacu7fYk7FnSbbC2aQC-c9vOt2vuNEFlRNr0XGf8_3lHWRfz9yacjujSzKyyaUe7Pu7JjOwgWpXmMIQ2v5QoKEjA",
+    "paragraph_count": 470
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-08-00Z",
+    "revision_id": "AMHacu48Feq6s12hWlwv9wa4X9HjzyBZM605Syz_9mqV7IL1061DcOdJkr4gaPaz_MLaensGwQrZLpNdbncQ_dOc3w",
+    "paragraph_count": 471
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 11,
+    "operations": 12,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 4,
+      "at_to": 4,
+      "from_paragraphs": [
+        {
+          "content_hash": "b5e90279dd595327",
+          "style": "NORMAL_TEXT",
+          "text": "本文档预计即将被和谐，已有Prof给我发邮件，大家可以保存备份"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "13a10020fe8771ed",
+          "style": "NORMAL_TEXT",
+          "text": "本文档预计即将被和谐，已有Prof给我发邮件，大家可以参考下面的备份"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 32,
+      "at_to": 32,
+      "from_paragraphs": [
+        {
+          "content_hash": "62055d3fc2be0e05",
+          "style": "NORMAL_TEXT",
+          "text": "跳槽的时候跟you'g学生说好的可以跟过去读phd后面毁约了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ca4bf1955080fa8b",
+          "style": "NORMAL_TEXT",
+          "text": "跳槽的时候跟有个学生说好的可以跟过去读phd后面毁约了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 104,
+      "at_to": 104,
+      "from_paragraphs": [
+        {
+          "content_hash": "5245beda9f9cfccb",
+          "style": "NORMAL_TEXT",
+          "text": "Citation很低，很难相信citation低的不如正常phd还能留在sd任教（只是讲师无所谓吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b7cb0086bdfe6962",
+          "style": "NORMAL_TEXT",
+          "text": "Citation很低，很难相信citation低的不如正常phd还能留在sd任教（只是讲师无所谓吧）(本身只是lecturer，当时让他带graduate course也是临危受命，因为一个professor走了，后来感觉还行就一直带着，他本人在外面有"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 190,
+      "at_to": 190,
+      "from_paragraphs": [
+        {
+          "content_hash": "e5974d01aed66d3f",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "29f89022832b72bb",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）（bo的确觉得vandy丢面，hen'mo'm）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 198,
+      "paragraphs": [
+        {
+          "content_hash": "2ce3f47a60bd8759",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 222,
+      "at_to": 223,
+      "from_paragraphs": [
+        {
+          "content_hash": "914d4efc6d099e43",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键是人家quit 之后申请了其他的phd 啊，又不是quit 之后直接工作）（quit还给master学位不挺好吗？）（人各有志而已，只能说不match。因为）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ddedc39a50da6753",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键是人家quit 之后申请了其他的phd 啊，又不是quit 之后直接工作）（quit还给master学位不挺好吗？）（人各有志而已，只能说不match。因为还有不止一个没有quit，这就是个人选择了）（有人没quit 就代表没问题了？？？什么逻辑）（主要是想表达，有一个人quit很常见）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 229,
+      "at_to": 230,
+      "from_paragraphs": [
+        {
+          "content_hash": "ad06360eab634812",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿），因为受不了老师push+骂人，而且投稿会被老师卡不准投（注：没有的事，只有觉得论文太差才不让投）。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8302e150b511b6d7",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿）（好像还有一个没入学前就跑了一个，之前合作的学生也有跑的），因为受不了老师push+骂人，而且投稿会被老师卡不准投（注：没有的事，只有觉得论文太差才不让投）。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 251,
+      "at_to": 252,
+      "from_paragraphs": [
+        {
+          "content_hash": "e5c11b85748325d7",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e93bdf3df195374",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）（bo li离开uiuc的时候已经tenure了？以为是从uchi回uiuc才给的tenure）（就是tenure了uiuc才没有办法因为学生举报和学生打架直接开除，才只能劝退，结果靠他那个傻逼老公Zhan）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 256,
+      "at_to": 257,
+      "from_paragraphs": [
+        {
+          "content_hash": "e4aed16c81a58134",
+          "style": "NORMAL_TEXT",
+          "text": "继续，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6a17319949f6984f",
+          "style": "NORMAL_TEXT",
+          "text": "继续，之前"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 313,
+      "at_to": 314,
+      "from_paragraphs": [
+        {
+          "content_hash": "be46f2f13d02472e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b0c9fa5f567a7f7d",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（openAI有几个师）（这么多人怎么写推荐信）(一般intern只要在组里参与项目，不管是否做出来东西了，都会给写positive letter，一般letter都给不错的分数)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 320,
+      "at_to": 321,
+      "from_paragraphs": [
+        {
+          "content_hash": "815070803a2a036f",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0104eab05cd09887",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu (?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 373,
+      "at_to": 374,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6f45a1599a5b7a9c",
+          "style": "NORMAL_TEXT",
+          "text": "+10086"
+        }
+      ]
+    }
+  ]
+}

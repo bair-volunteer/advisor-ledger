@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-08-00Z.delta.json",
+  "delta_ts": "2026-04-19T23-08-00Z",
+  "reviewed_at_utc": "2026-04-19T23:08:51Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of profanity '傻逼' (insulting term equivalent to 'stupid c*nt' or 'moron') to attack the character of a specific private individual identified as a professor's spouse",
+      "excerpt": "结果靠他那个傻逼老公Zhan"
+    }
+  ],
+  "prompt_sha256": "e66548ec2e3031ba10c9db0468c49f7b980e48822b142dc951065d76986c2085",
+  "finish_reason": "stop",
+  "completion_tokens": 4320
+}
