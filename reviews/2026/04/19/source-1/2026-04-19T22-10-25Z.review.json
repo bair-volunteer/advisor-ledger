@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-10-25Z.delta.json",
+  "delta_ts": "2026-04-19T22-10-25Z",
+  "reviewed_at_utc": "2026-04-19T22:16:31Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive entry about specific advisor Richard Peng including allegations of discriminatory language (su bei ren), appearing to suppress legitimate observations rather than cleanup",
+      "excerpt": "CMU Richard Peng\n对学生使用歧视性语言（su bei ren"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Pure personal attack mocking professor's maturity, self-esteem, and age based on social media behavior (Twitter follow/unfollow), wholly unrelated to academic advising practices",
+      "excerpt": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，满足他可怜的自尊，一大把年纪了还这样属实招笑。"
+    }
+  ],
+  "prompt_sha256": "e45e45b84043ce97c5bc574dcae2103bf3f8539c9bcabf28c3b2d676ecdbce55",
+  "finish_reason": "stop",
+  "completion_tokens": 5180
+}

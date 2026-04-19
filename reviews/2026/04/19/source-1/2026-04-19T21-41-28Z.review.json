@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T21-41-28Z.delta.json",
+  "delta_ts": "2026-04-19T21-41-28Z",
+  "reviewed_at_utc": "2026-04-19T22:11:38Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added vulgar insult '傻逼吗' (stupid/moron) attacking other contributors who supported the blacklisting",
+      "excerpt": "人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Added vulgar insult '脑子是有屎' (brains full of shit) attacking other discussants in the thread",
+      "excerpt": "你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？"
+    }
+  ],
+  "prompt_sha256": "e4346072ba106cb993dc2f4b3bfd41df8427c1338e33e4c68a8b296dc0e71afe",
+  "finish_reason": "stop",
+  "completion_tokens": 3599
+}

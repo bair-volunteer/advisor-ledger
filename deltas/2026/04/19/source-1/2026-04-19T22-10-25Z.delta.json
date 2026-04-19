@@ -1,0 +1,388 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-06-05Z",
+    "revision_id": "AMHacu6carVLTCX40dcnewIbq9OUhtWXyO66jOj4ByAONVFs2xZf57B654xwlgwdyeWUt8E0VY_VszpnEsqDk_HNZA",
+    "paragraph_count": 376
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-10-25Z",
+    "revision_id": "AMHacu6iY24F8WpuUaEzVBmDYDAKta1Sg5IQWuzxMPgMNldqnqV7WYIBlb0DUyBuXNOrTJPSNbnthVqhvJsGedlwDA",
+    "paragraph_count": 390
+  },
+  "summary": {
+    "inserted_paragraphs": 31,
+    "deleted_paragraphs": 17,
+    "operations": 16,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 0,
+      "at_to": 0,
+      "from_paragraphs": [
+        {
+          "content_hash": "d4e8830a71c73edf",
+          "style": "HEADING_2",
+          "text": "Purpose"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cf2c3f3f8ca1dab4",
+          "style": "HEADING_2",
+          "text": "zPurpose"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 45,
+      "paragraphs": [
+        {
+          "content_hash": "e912ef78c558d740",
+          "style": "NORMAL_TEXT",
+          "text": "非常差经常骂学生卡毕业"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 130,
+      "paragraphs": [
+        {
+          "content_hash": "37b50cc254ff574b",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Richard Peng"
+        },
+        {
+          "content_hash": "0fce78e1b9e06030",
+          "style": "NORMAL_TEXT",
+          "text": "对学生使用歧视性语言（su bei ren"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 151,
+      "at_to": 147,
+      "from_paragraphs": [
+        {
+          "content_hash": "3717e7d208b63154",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "acc8549609c70c14",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生"
+        },
+        {
+          "content_hash": "010188d6b292b2b5",
+          "style": "NORMAL_TEXT",
+          "text": "学生联名写信举报坏老师"
+        },
+        {
+          "content_hash": "7ab58efd786daa19",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业"
+        },
+        {
+          "content_hash": "ef039e2931a84d5d",
+          "style": "NORMAL_TEXT",
+          "text": "比其他人要黑很多，心坏表面也坏"
+        },
+        {
+          "content_hash": "5a9f087f1001667f",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 154,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 156,
+      "paragraphs": [
+        {
+          "content_hash": "0e53fb1c8be87c15",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，满足他可怜的自尊，一大把年纪了还这样属实招笑。"
+        },
+        {
+          "content_hash": "0685a836e46144a5",
+          "style": "NORMAL_TEXT",
+          "text": "‹"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 165,
+      "at_to": 168,
+      "from_paragraphs": [
+        {
+          "content_hash": "2275907487329f17",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD (不push，dan's)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5e479399b017f9e2",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD (不push)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 192,
+      "at_to": 195,
+      "from_paragraphs": [
+        {
+          "content_hash": "7db06ddffb3e28fe",
+          "style": "NORMAL_TEXT",
+          "text": "招了若干个学生也开了若干学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a9d5a47aab9026c2",
+          "style": "NORMAL_TEXT",
+          "text": "jing dian招了若干个学生也开了若干学生。RA名额很多。"
+        },
+        {
+          "content_hash": "35a924d4556eef0f",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢的学生就夸，不喜欢的学生天天挨批。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 200,
+      "at_to": 204,
+      "from_paragraphs": [
+        {
+          "content_hash": "e5cfb740376ca332",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，da'bu'f)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ad965bf1619d1c4d",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，大部分都得往下找才行)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 210,
+      "at_to": 214,
+      "from_paragraphs": [
+        {
+          "content_hash": "3afbfe320488b146",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit （谁写的多人quit？自己去wayback machine看历史上主页上列出来的的学生，上了的没有下掉的学生，谁quit了？）"
+        },
+        {
+          "content_hash": "135d887ca8f3612a",
+          "style": "NORMAL_TEXT",
+          "text": "对白人意见很大，私下里经常喷同方向的各种好论文 （逆天，就一个白人学生 2年没出结果最后拿best student paper，给足了时间和耐心，啥叫意见很大？）"
+        },
+        {
+          "content_hash": "fade49415e581b96",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）（我在读期间氛围很好啊？？）（yu su绝对不鼓励斗争，发生小摩擦他第一时间写"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4ff62056c05ff5fd",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit （谁写的多人quit？自己去wayback machine看历史上主页上列出来的的学生，上了的没有下掉的学生，谁quit了？）（我寻思实在不行你看huan主页上合照看每次学生走没走，走了多少不就完了？这种随便查证的东西在这里瞎写真看不下去了）"
+        },
+        {
+          "content_hash": "74d52116ef48f8a6",
+          "style": "NORMAL_TEXT",
+          "text": "对白人意见很大，私下里经常喷同方向的各种好论文 （逆天，就一个白人学生 第一年要做密码学, yu全力支持给他拉合作者，第二个项目做ai4sci 2年没出结果最后拿best student paper，给足了时间和耐心，现在毕业找工作还帮人各处frontier labs问。啥叫意见很大？到底啥叫意见很大？）"
+        },
+        {
+          "content_hash": "daccf861a5ebc47a",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）（我在读期间氛围很好啊？？）（yu su绝对不鼓励斗争，发生小摩擦他第一时间写组内的culture guidance让大家互相尊重）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 241,
+      "at_to": 245,
+      "from_paragraphs": [
+        {
+          "content_hash": "524f73e9756af638",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢骂人，开着zoom当着其他组面辱骂，有一次骂了学生半小时过激，老婆吓得直接过来站他身后"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4fa39262e0b356a8",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢骂人，开着zoom当着其他组面辱骂，被合作者说能不能回去私底下骂，影响不好，有一次骂了学生半小时过激，老婆吓得直接过来站他身后"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 247,
+      "at_to": 251,
+      "from_paragraphs": [
+        {
+          "content_hash": "72917c1117eb11cc",
+          "style": "NORMAL_TEXT",
+          "text": "组里面找教职资源倾斜，不找教职的就跟杀了他🐴一样，最后全组都说毕业找教职，实则没几个人找"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b49892221a668980",
+          "style": "NORMAL_TEXT",
+          "text": "组里面找教职资源倾斜，不找教职的就跟杀了他🐴一样，最后全组都说毕业要找教职，实则没几个人找，都糊弄他搞点资源跑路"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 255,
+      "at_to": 259,
+      "from_paragraphs": [
+        {
+          "content_hash": "667ae8bc85e90adf",
+          "style": "NORMAL_TEXT",
+          "text": "听过大瓜，等学生来说"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4b654d4eb1aa64bc",
+          "style": "NORMAL_TEXT",
+          "text": "听过大瓜，等学生来说,（蹲）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 262,
+      "at_to": 266,
+      "from_paragraphs": [
+        {
+          "content_hash": "4f8332dcc36c3a61",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "db61fdd05388b860",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 310,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 323,
+      "paragraphs": [
+        {
+          "content_hash": "2255c56ff2b62136",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST，Jiaya Jia"
+        },
+        {
+          "content_hash": "97e7477830c12eb4",
+          "style": "NORMAL_TEXT",
+          "text": "著名的头发没了的造假，知乎阅读过百万，点赞过万，后来被买下去了"
+        },
+        {
+          "content_hash": "d3d30f42af28980b",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，学生很难毕业"
+        },
+        {
+          "content_hash": "637ea8f07376de9b",
+          "style": "NORMAL_TEXT",
+          "text": "大组会公开骂学生，公开批斗，拍桌子，每周都骂"
+        },
+        {
+          "content_hash": "427c52f70de0ca00",
+          "style": "NORMAL_TEXT",
+          "text": "曾逼学生在他的企业打黑工，工资很低"
+        },
+        {
+          "content_hash": "b7b0c9ed21fc7d4c",
+          "style": "NORMAL_TEXT",
+          "text": "学生很多quit的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

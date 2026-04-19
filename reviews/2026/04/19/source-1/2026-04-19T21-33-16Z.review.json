@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T21-33-16Z.delta.json",
+  "delta_ts": "2026-04-19T21-33-16Z",
+  "reviewed_at_utc": "2026-04-19T22:12:20Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of the string 'qiu' appears to remove a professor's surname or identifier, potentially suppressing substantive information about a specific advisor rather than performing routine cleanup (e.g., typo or blank removal).",
+      "excerpt": "qiu"
+    }
+  ],
+  "prompt_sha256": "b4cd814b507920cd1ee1985a9e901ef6502e7efbe7b885bb6bd00504a226a965",
+  "finish_reason": "stop",
+  "completion_tokens": 2801
+}

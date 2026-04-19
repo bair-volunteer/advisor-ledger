@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-06-05Z.delta.json",
+  "delta_ts": "2026-04-19T22-06-05Z",
+  "reviewed_at_utc": "2026-04-19T22:15:36Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Uses ableist slur '智障' (mentally disabled/retard) to attack professor's intelligence rather than concrete advising practices",
+      "excerpt": "交流起来像是智障"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Adds vulgar insult '傻逼' (stupid/idiot) comparing professor to entire department, constituting unsupported character judgment",
+      "excerpt": "应该是ucsd整个cse dept最傻逼的吧说真的"
+    },
+    {
+      "type": "pii",
+      "detail": "Solicits personally identifying information by demanding a commenter reveal their real name to challenge their credentials",
+      "excerpt": "你有什么好paper实名列出来吧"
+    }
+  ],
+  "prompt_sha256": "bd390a84a304900079d114ab14306b1a043b9ec1d3003e0b315862d268ccc7b1",
+  "finish_reason": "stop",
+  "completion_tokens": 4860
+}
