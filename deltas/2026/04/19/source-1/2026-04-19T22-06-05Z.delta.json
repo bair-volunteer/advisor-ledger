@@ -1,0 +1,340 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-01-50Z",
+    "revision_id": "AMHacu6KvyZND5whzmUR4Wpm8ujjbimk4dw9H6epOBx3OOXBjAbNSLW3K3Wkbkub37mbkLXNim-vrHL82PKBXyglRg",
+    "paragraph_count": 361
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-06-05Z",
+    "revision_id": "AMHacu6carVLTCX40dcnewIbq9OUhtWXyO66jOj4ByAONVFs2xZf57B654xwlgwdyeWUt8E0VY_VszpnEsqDk_HNZA",
+    "paragraph_count": 376
+  },
+  "summary": {
+    "inserted_paragraphs": 27,
+    "deleted_paragraphs": 12,
+    "operations": 15,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 92,
+      "at_to": 92,
+      "from_paragraphs": [
+        {
+          "content_hash": "9dc9d6e77a0f91c3",
+          "style": "NORMAL_TEXT",
+          "text": "Ucsd 唯二的正统cse cv课教授（最傻逼的一个），其傻逼行为包括但不限于："
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a6ed445df82ade2a",
+          "style": "NORMAL_TEXT",
+          "text": "Ucsd 唯二的正统cse cv课教授（最傻逼的一个），其傻逼行为包括但不限于：（应该是ucsd整个cse dept最傻逼的吧说真的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 113,
+      "at_to": 113,
+      "from_paragraphs": [
+        {
+          "content_hash": "973e765f2194b553",
+          "style": "NORMAL_TEXT",
+          "text": "做sys的，这个老师特别push，对学生的发表节奏要求特别快，只有骗子才能跟上他的节奏"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "efd2ca5a473dd93c",
+          "style": "NORMAL_TEXT",
+          "text": "做sys的，这个老师特别push，对学生的发表节奏要求特别快，只有骗子才能跟上他的节奏（这位更是重量级，语言艺术能力list里面没人比得过"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 130,
+      "paragraphs": [
+        {
+          "content_hash": "37b50cc254ff574b",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Richard Peng"
+        },
+        {
+          "content_hash": "0fce78e1b9e06030",
+          "style": "NORMAL_TEXT",
+          "text": "对学生使用歧视性语言（su bei ren"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 137,
+      "at_to": 142,
+      "from_paragraphs": [
+        {
+          "content_hash": "4cfdb69a67582607",
+          "style": "NORMAL_TEXT",
+          "text": "女方学术水平无法评价，纯靠Yuille carry出教职；Bias，拉 funding + frontier lab visiting faculty"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "70c5ae143d9ebc60",
+          "style": "NORMAL_TEXT",
+          "text": "女方学术水平无法评价，纯靠Yuille carry出教职；Bias，拉大 funding + frontier lab visiting faculty"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 140,
+      "at_to": 145,
+      "from_paragraphs": [
+        {
+          "content_hash": "db8060ca61ea19c4",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit；truth"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cae3cde846a84c71",
+          "style": "NORMAL_TEXT",
+          "text": "多人quit；true, but changed"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 160,
+      "at_to": 165,
+      "from_paragraphs": [
+        {
+          "content_hash": "ef106402d0a8d99d",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2275907487329f17",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD (不push，dan's)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 181,
+      "at_to": 186,
+      "from_paragraphs": [
+        {
+          "content_hash": "2c103e599d1c1003",
+          "style": "NORMAL_TEXT",
+          "text": "学术品味一般，感觉招生纯数paper (建议你把99%的老师都列在黑榜，学术品位都一般)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c5af099bea9d2e27",
+          "style": "NORMAL_TEXT",
+          "text": "学术品味一般，感觉招生纯数paper (建议你把90%的老师都列在黑榜，学术品位都一般)(你有什么好paper实名列出来吧，我保你读博)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 194,
+      "at_to": 199,
+      "from_paragraphs": [
+        {
+          "content_hash": "a591517e6c34f1a0",
+          "style": "NORMAL_TEXT",
+          "text": "著名大水车，大家看看此人phd 期间发了多少文章就知道了。每年水的论文数量太过分到这种量级，不以为耻，反以为荣。"
+        },
+        {
+          "content_hash": "2d86516561b3dcd9",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0ba948081bf4ac65",
+          "style": "NORMAL_TEXT",
+          "text": "著名大水车，大家看看此人phd 期间发了多少文章就知道了。每年水的论文数量太过分到这种量级，不以为耻，反以为荣。（而且phd期间的cvpr据说是有造假，之前被挂过）"
+        },
+        {
+          "content_hash": "e5cfb740376ca332",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，da'bu'f)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 203,
+      "at_to": 208,
+      "from_paragraphs": [
+        {
+          "content_hash": "c6e56bc574608609",
+          "style": "NORMAL_TEXT",
+          "text": "OSU Yu Su"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "52e3a55f59a1cb77",
+          "style": "NORMAL_TEXT",
+          "text": "OSU Yu Su（？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 207,
+      "at_to": 212,
+      "from_paragraphs": [
+        {
+          "content_hash": "3609a2b510ab2183",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fade49415e581b96",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）（我在读期间氛围很好啊？？）（yu su绝对不鼓励斗争，发生小摩擦他第一时间写"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 220,
+      "at_to": 225,
+      "from_paragraphs": [
+        {
+          "content_hash": "b0db346318fdab0d",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6c9cfabbe69c4955",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉（真哭）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 228,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1a9ce926ad1b5b3",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢骂人、威胁人（断funding警告，延毕警告）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8e009e789d12da8d",
+          "style": "NORMAL_TEXT",
+          "text": "出了名的喜欢骂人、威胁人（断funding警告，延毕警告），迟到也是家常便饭"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 247,
+      "paragraphs": [
+        {
+          "content_hash": "72917c1117eb11cc",
+          "style": "NORMAL_TEXT",
+          "text": "组里面找教职资源倾斜，不找教职的就跟杀了他🐴一样，最后全组都说毕业找教职，实则没几个人找"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 295,
+      "paragraphs": [
+        {
+          "content_hash": "0137e450c3eb9e3f",
+          "style": "NORMAL_TEXT",
+          "text": "这位听说是重量级"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 297,
+      "paragraphs": [
+        {
+          "content_hash": "f8ff4daf8e19d81a",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "76c42f2f76e74b8e",
+          "style": "NORMAL_TEXT",
+          "text": "UCSC Chenguang Wang"
+        },
+        {
+          "content_hash": "85e45ba0ac04ba83",
+          "style": "NORMAL_TEXT",
+          "text": "我都怀疑这个人智力水平有点问题，交流起来像是智障"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

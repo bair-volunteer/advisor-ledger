@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-01-50Z.delta.json",
+  "delta_ts": "2026-04-19T22-01-50Z",
+  "reviewed_at_utc": "2026-04-19T22:04:46Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of profanity/insult '傻逼吗' (stupid/moron) attacking the character of the critic rather than addressing the argument about resource allocation",
+      "excerpt": "傻逼吗"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Use of dehumanizing insult '畜生' (beast/animal) directed at the professor, constituting a pure personal attack without substantive criticism of practices",
+      "excerpt": "铁黑榜畜生"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive criticism about advisor Xinya Du (meeting tardiness, forcing ill students to work) shortly after addition, appearing to suppress legitimate observations about a specific advisor rather than cleanup",
+      "excerpt": "UTD Xinya Du...学生身体不适强制要求完成工作"
+    }
+  ],
+  "prompt_sha256": "c80b09ad510c5fb15b186f1241e2efc1563dbaf15824f32a9e1c61c7390b112d",
+  "finish_reason": "stop",
+  "completion_tokens": 4630
+}
