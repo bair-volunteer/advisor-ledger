@@ -2,17 +2,17 @@
   "source_id": "source-1",
   "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-18-38Z.delta.json",
   "delta_ts": "2026-04-19T22-18-38Z",
-  "reviewed_at_utc": "2026-04-19T22:19:41Z",
+  "reviewed_at_utc": "2026-04-19T22:20:04Z",
   "model": "moonshotai/Kimi-K2.5",
   "verdict": "concerns",
   "concerns": [
     {
       "type": "ad_hominem",
-      "detail": "Pure personal attack using profanity and unsupported character judgments ('从里到外都烂透了', '爬满了蛆和老鼠', '内心肮脏'), rather than criticism of concrete advising practices.",
-      "excerpt": "大家千万不要单纯看这个人照片觉得他阳光开朗像是一个人，实际上真人从里到外都烂透了，仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆。"
+      "detail": "Insertion contains pure personal attack with dehumanizing imagery and unsupported character judgments unrelated to concrete advising practices",
+      "excerpt": "实际上真人从里到外都烂透了，仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆"
     }
   ],
   "prompt_sha256": "51d44e643d8a0463004e4360d6e3364b5db51b12079e655ae1be38652b83ae64",
   "finish_reason": "stop",
-  "completion_tokens": 5162
+  "completion_tokens": 7181
 }
