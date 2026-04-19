@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-55-10Z.delta.json",
+  "delta_ts": "2026-04-19T22-55-10Z",
+  "reviewed_at_utc": "2026-04-19T22:55:51Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "The phrase 'gou'zui'li'tu'bu'chu'xiang' (狗嘴里吐不出象牙) is a vulgar idiomatic insult attacking the advisor's character and speech rather than describing a concrete advising practice.",
+      "excerpt": "gou'zui'li'tu'bu'chu'xiang"
+    }
+  ],
+  "prompt_sha256": "e45e5c32616aef7f7627bc31cf2c2e36669330b51810c792c9a47331dad0944b",
+  "finish_reason": "stop",
+  "completion_tokens": 3492
+}

@@ -1,0 +1,155 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-53-00Z",
+    "revision_id": "AMHacu6dRy-ThV0qAXglUjWmLMZokrGLq3jDwgu4tlWziNYnv5DUhDR04opizISq2zYmkYA8hVmOUs0P5oy4QriXkg",
+    "paragraph_count": 448
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-55-10Z",
+    "revision_id": "AMHacu6oun7qXqGz6315V1kmJq6eWzxaVcj76qhDM7X55PUK8_CujLLUTzFmdOqYqPRHrqjUddRxT_z5pKXx_hxlnQ",
+    "paragraph_count": 452
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 5,
+    "operations": 8,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 157,
+      "at_to": 157,
+      "from_paragraphs": [
+        {
+          "content_hash": "ecb3868b1408f3e5",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 ← 最大一届学生才博三为什么有这个"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "68017ec6868a44b0",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 ← 最大一届学生才博三为什么有这条"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 168,
+      "at_to": 168,
+      "from_paragraphs": [
+        {
+          "content_hash": "4737c3a5f70839b5",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "91a880c7df8fbd8b",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 以学生情感关系作为主要话题。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 170,
+      "paragraphs": [
+        {
+          "content_hash": "d10660d108b5cea8",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 244,
+      "at_to": 245,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0fe766d066a4cb8f",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（xi）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 285,
+      "at_to": 286,
+      "from_paragraphs": [
+        {
+          "content_hash": "40a678b1b38217db",
+          "style": "NORMAL_TEXT",
+          "text": "大年三十让学生通宵赶论文，学生啃三明治，发朋友圈说自己想妈了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "386f06048ff5580e",
+          "style": "NORMAL_TEXT",
+          "text": "大年三十让学生通宵赶论文，学生啃三明治，发朋友圈说自己想妈了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 325,
+      "at_to": 326,
+      "from_paragraphs": [
+        {
+          "content_hash": "bb168081bd1df544",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，全靠老公 （老公的帖子下面说靠老婆。。。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "485447253a0e77c3",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，全靠老公 （老公的帖子下面说靠老婆。。。）（夫妻之间的小情趣（？））"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 366,
+      "paragraphs": [
+        {
+          "content_hash": "79f609fd2a3ca10c",
+          "style": "NORMAL_TEXT",
+          "text": "UofT Liang Ben"
+        },
+        {
+          "content_hash": "d2dc68257e691d3d",
+          "style": "NORMAL_TEXT",
+          "text": "学生基本全部master out，gou'zui'li'tu'bu'chu'xiang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 436,
+      "paragraphs": [
+        {
+          "content_hash": "3b4d1eec3eeeffce",
+          "style": "NORMAL_TEXT",
+          "text": "水平差，只会搞关系，学术道德差"
+        }
+      ]
+    }
+  ]
+}
