@@ -1,0 +1,282 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T21-33-16Z",
+    "revision_id": "AMHacu5M4PneQcPAatVgd4ToWU1TML271l-DYtIuUlZ8290noc3f7zaJ1XtAEFBtaYC14UIwkdgo4P4v2Ykf408N2A",
+    "paragraph_count": 329
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T21-41-28Z",
+    "revision_id": "AMHacu7YN_Rz35hZkhp6H14Ve6yZC_W2eG0TX0PMFVM2limtTxGUAc3HZhwdaEUVgu8Wbi0ecijrGEZfpAGKskBJJQ",
+    "paragraph_count": 340
+  },
+  "summary": {
+    "inserted_paragraphs": 21,
+    "deleted_paragraphs": 10,
+    "operations": 13,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 2,
+      "at_to": 2,
+      "from_paragraphs": [
+        {
+          "content_hash": "db71669671c403a1",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c876b6e049b14540",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。 (友情提示：根据事实自由说话)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 78,
+      "paragraphs": [
+        {
+          "content_hash": "14510de5eb537f4f",
+          "style": "NORMAL_TEXT",
+          "text": "是不是和Wei Hua （ASU那个）？他俩phd一个组的但是仿佛双方互相不认识一样"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 170,
+      "at_to": 171,
+      "from_paragraphs": [
+        {
+          "content_hash": "77c74d123ffa4fb5",
+          "style": "NORMAL_TEXT",
+          "text": "听说给组里intern写黑推"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d311a3032b5fcb61",
+          "style": "NORMAL_TEXT",
+          "text": "听说给组里intern写黑"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 178,
+      "at_to": 179,
+      "from_paragraphs": [
+        {
+          "content_hash": "88d2f789f45b8864",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬。（没看懂为什么上黑榜）(julian上黑榜你们还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "01f1c6c875131c03",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬。（没看懂为什么上黑榜）(julian上黑榜你们还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 192,
+      "at_to": 193,
+      "from_paragraphs": [
+        {
+          "content_hash": "83f40a9f8bb8f63c",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿），因为受不了老师push+骂人，而且投稿会被老师卡不准投。"
+        },
+        {
+          "content_hash": "6948cb0ce504c5f8",
+          "style": "NORMAL_TEXT",
+          "text": "但是现在听说去工业界兼职了也tenure了，可能会转型（转型为让学生干自己公司的活+经常要求陪吃饭）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ad06360eab634812",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿），因为受不了老师push+骂人，而且投稿会被老师卡不准投（注：没有的事，只有觉得论文太差才不让投）。"
+        },
+        {
+          "content_hash": "1ea486cf1af30fda",
+          "style": "NORMAL_TEXT",
+          "text": "但是现在听说去工业界兼职了也tenure了，可能会转型（转型为让学生干自己公司的活+经常要求陪吃饭）（注：压根没公司啊，而且也不陪吃饭啊，一学期全组聚餐一次，老板请客不愿意去就不去呗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 201,
+      "at_to": 202,
+      "from_paragraphs": [
+        {
+          "content_hash": "bc229c90b26b9111",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，phd之间私下里互相谩骂侮辱 (啊？？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "41215768f906a017",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，phd之间私下里互相谩骂侮辱 (啊？？真的吗)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 208,
+      "at_to": 209,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bcd210dd680cd776",
+          "style": "NORMAL_TEXT",
+          "text": "呵呵 （细说）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 239,
+      "paragraphs": [
+        {
+          "content_hash": "feb9b3c6b97b65f7",
+          "style": "NORMAL_TEXT",
+          "text": "A:无法评价,还需要评价吗？懂的懂的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 243,
+      "paragraphs": [
+        {
+          "content_hash": "667ae8bc85e90adf",
+          "style": "NORMAL_TEXT",
+          "text": "听过大瓜，等学生来说"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 246,
+      "at_to": 249,
+      "from_paragraphs": [
+        {
+          "content_hash": "1a26b2b280758a7c",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota了没）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "173bc6eab0cde6ef",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota了没）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 248,
+      "at_to": 251,
+      "from_paragraphs": [
+        {
+          "content_hash": "5e3320aa0f250ed5",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "be46f2f13d02472e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 251,
+      "at_to": 254,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b724b6ec74b90e1",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e3840201890c75b8",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来k)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 267,
+      "paragraphs": [
+        {
+          "content_hash": "8afaaa835898d706",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhiting Hu"
+        },
+        {
+          "content_hash": "ea605889b1f72712",
+          "style": "NORMAL_TEXT",
+          "text": "World model Phd 大兵团"
+        },
+        {
+          "content_hash": "774c25ae9cf2bf0c",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办"
+        },
+        {
+          "content_hash": "76e530a9120ee9ab",
+          "style": "NORMAL_TEXT",
+          "text": "据说夫妻店？(倒是和lianhui组互相通用phd这个确实，但是这两个人都还不错的）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "78e318a9b73f5fde",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Lianhui Qin"
+        },
+        {
+          "content_hash": "1d8a51a4695975d4",
+          "style": "NORMAL_TEXT",
+          "text": "这个除了人多我觉得没得喷吧，lianhui老师人挺好的"
+        },
+        {
+          "content_hash": "91d9aec554583700",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差"
+        }
+      ]
+    }
+  ]
+}
