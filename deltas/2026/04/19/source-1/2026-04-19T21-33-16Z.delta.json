@@ -1,0 +1,63 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T21-32-57Z",
+    "revision_id": "AMHacu6Cu5DsPq2VsVbp8ywNvcRnLU4DvyT895Zg9AoLq7heLQ6hGbfreJ9mjt4QDnhEy97-KMgkMuff0i_AAGY3oQ",
+    "paragraph_count": 329
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T21-33-16Z",
+    "revision_id": "AMHacu5M4PneQcPAatVgd4ToWU1TML271l-DYtIuUlZ8290noc3f7zaJ1XtAEFBtaYC14UIwkdgo4P4v2Ykf408N2A",
+    "paragraph_count": 329
+  },
+  "summary": {
+    "inserted_paragraphs": 2,
+    "deleted_paragraphs": 2,
+    "operations": 3,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 192,
+      "at_to": 192,
+      "from_paragraphs": [
+        {
+          "content_hash": "eae7abe98871a13e",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（PS），因为受不了老师push+骂人，而且投稿会被老师卡不准投。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "83f40a9f8bb8f63c",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿），因为受不了老师push+骂人，而且投稿会被老师卡不准投。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 228,
+      "paragraphs": [
+        {
+          "content_hash": "b938d38aa6a8433c",
+          "style": "NORMAL_TEXT",
+          "text": "qiu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 263,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
