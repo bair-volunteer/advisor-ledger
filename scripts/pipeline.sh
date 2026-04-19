@@ -59,10 +59,11 @@ done
 log "render"
 "$PY" scripts/render_ledger.py >/dev/null
 
-# Commit + push if anything new is staged. Derived dirs (normalized/, site/) are gitignored.
+# Commit + push if anything new is staged. normalized/ stays gitignored (purely derived);
+# site/ is tracked so GitHub Pages can serve the rendered ledger.
 log "git"
 if [ -d .git ]; then
-  git add snapshots deltas reviews 2>/dev/null || true
+  git add snapshots deltas reviews site 2>/dev/null || true
   if ! git diff --cached --quiet; then
     git commit -m "ledger: $LOG_TS" >/dev/null
     log "committed: $(git rev-parse --short HEAD)"
