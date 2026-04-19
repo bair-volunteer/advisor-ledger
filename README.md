@@ -1,45 +1,45 @@
-# Advisor Ledger
+# Advisor Ledger(学术黑榜镜像)
 
-Append-only mirror of the community-maintained "学术黑榜 / Advisor Red Flags Notes" Google Doc, with every edit tracked and every deletion preserved.
+只增不减地镜像社区维护的"学术黑榜 / Advisor Red Flags Notes" Google Doc,记录每一次编辑,保留每一次删除。
 
-**Live rendered view**: https://the-hidden-fish.github.io/advisor-ledger/
+**渲染后的实时视图**:https://the-hidden-fish.github.io/advisor-ledger/
 
-## What and why
+## 做什么 / 为什么
 
-The source doc is anonymously editable, which means substantive observations can be quietly removed. This repository captures the doc every few minutes and commits the result to git, so the edit history — including retracted or overwritten content — stays visible.
+原文档是匿名可编辑的,也就是说实质性的观察可能被悄悄删掉。本仓库每隔几分钟抓一次原文档并把结果提交到 git,这样编辑历史——包括被撤回或被覆盖的内容——都保留下来。
 
-Each commit in `main` corresponds to one real change to the source doc.
+`main` 分支上的每一个 commit 对应原文档的一次真实变更。
 
-## Layout
+## 目录结构
 
-| Path | Purpose |
+| 路径 | 用途 |
 |---|---|
-| `snapshots/YYYY/MM/DD/<source>/*.json` | Full `documents.get` JSON per capture |
-| `snapshots/.../*.txt` | Plain-text export |
-| `snapshots/.../*.meta.json` | Drive metadata + SHA-256 of the capture |
-| `deltas/.../*.delta.json` | Structured diff against the previous snapshot (insert / delete / replace per paragraph) |
-| `reviews/.../*.review.json` | Per-delta LLM audit; flags potential PII, personal attacks, or suspicious deletions. **Advisory only** — never blocks a commit |
-| `docs/index.html` | Rendered view: current text with deleted paragraphs preserved in-place (strikethrough + deletion timestamp), additions highlighted. Served by GitHub Pages. |
-| `scripts/` | Pipeline: fetch → normalize → diff → review → render → commit → push |
+| `snapshots/YYYY/MM/DD/<source>/*.json` | 每次抓取的完整 `documents.get` JSON |
+| `snapshots/.../*.txt` | 纯文本导出 |
+| `snapshots/.../*.meta.json` | Drive 元信息 + 抓取内容的 SHA-256 |
+| `deltas/.../*.delta.json` | 相对上一次快照的结构化差异(按段落的 insert / delete / replace) |
+| `reviews/.../*.review.json` | 每次 diff 的本地 LLM 审查结果,标注可能的人肉信息、纯人身攻击、可疑删除。**只做提示,不会阻塞 commit** |
+| `docs/index.html` | 渲染视图:当前文本,被删段落原地保留(删除线 + 删除时间戳),新增段落高亮。由 GitHub Pages 提供 |
+| `scripts/` | 流水线:fetch → normalize → diff → review → render → commit → push |
 
-## Pipeline
+## 流水线
 
-Runs every 2 minutes via a systemd timer.
+由 systemd timer 每 2 分钟触发:
 
-1. Query Drive for the doc's `modifiedTime`. If unchanged since the last snapshot, exit early.
-2. Fetch the structured JSON and plain-text export.
-3. Normalize paragraphs into a deterministic, diff-friendly form (NFC unicode, line-level rstrip, content-hash per paragraph).
-4. Diff the new normalized snapshot against the previous one, emitting operations keyed to paragraph content hashes so genuinely-unchanged paragraphs don't show up as churn.
-5. Run a local LLM review over the delta, flagging three things: PII about private individuals, pure personal attacks (not criticism of specific behavior), and suspicious deletions that look like suppression of substantive observations. The review is written as a JSON artifact alongside the delta.
-6. Re-render `docs/index.html` — current text plus preserved ghost paragraphs anchored near their last-known position.
-7. `git add` the new snapshot, delta, review, and rendered site; commit and push.
+1. 查询 Drive 的 `modifiedTime`,如果自上次快照以来没变化,直接短路退出。
+2. 抓取结构化 JSON 和纯文本导出。
+3. 把段落规范化成确定性、便于 diff 的形式(NFC Unicode、按行 rstrip、每段生成内容哈希)。
+4. 对比新旧规范化快照,按段落内容哈希生成操作,让真正没变的段落不算 churn。
+5. 对本次 delta 跑一次本地 LLM 审查,标三类问题:对私人的身份信息(PII)、纯人身攻击(不是对具体行为的批评)、看起来像压制性删除的改动。审查结果以 JSON 写在 delta 旁边。
+6. 重新渲染 `docs/index.html`——当前文本加上按最后已知位置锚定的 ghost 段落。
+7. `git add` 新快照、delta、review、渲染产物;commit;push。
 
-A `flock` on the pipeline prevents a manual invocation and a timer-triggered run from racing on git.
+流水线用 `flock` 保护,防止手动触发和 timer 触发撞车。
 
-## About the source
+## 关于原文档
 
-This repo is an **observational mirror**. It is not produced, endorsed, or moderated by any party named in the source document. Content in `snapshots/` and `docs/` belongs to its original anonymous contributors. To add, correct, or retract something, edit the source Google Doc directly — this repo only observes.
+本仓库是**观察性镜像**。不代表原文档中被点名的任何一方,也不由其制作、背书或审核。`snapshots/` 和 `docs/` 里的内容归原匿名贡献者所有。要补充、更正或撤回,请直接编辑原 Google Doc——本仓库只观察。
 
-## License
+## 许可证
 
-Pipeline code (`scripts/`) is released into the public domain (CC0). The mirrored content in `snapshots/`, `deltas/`, and `docs/` retains its original authors' rights.
+流水线代码(`scripts/`)以公有领域(CC0)发布。`snapshots/`、`deltas/`、`docs/` 中被镜像的内容保留原作者权利。
