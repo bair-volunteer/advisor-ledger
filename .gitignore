@@ -1,0 +1,7 @@
+venv/
+secrets/
+site/
+normalized/
+__pycache__/
+*.pyc
+.DS_Store
