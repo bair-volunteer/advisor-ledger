@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-46-10Z.delta.json",
+  "delta_ts": "2026-04-20T21-46-10Z",
+  "reviewed_at_utc": "2026-04-20T21:47:09Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Insertion of surname 'zhu' potentially identifies the PhD student making the declaration/signature in the parenthetical note",
+      "excerpt": "committee. zhu)"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Added unsupported personal insults attacking the professor's individual capabilities and PhD history rather than concrete advising practices",
+      "excerpt": "实力很一般，phd期间没什么成果，最后被phd advisor赶走毕业了"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive observations about advisor Sharon Li regarding funding interruptions, RA offer rescissions, and student attrition rates",
+      "excerpt": "UW-Madison Sharon Li\nAp时候半年发不出来paper断funding换组，组内quit换组极多，都tenure了才毕业三个..."
+    }
+  ],
+  "prompt_sha256": "173d92a17c88b39b7ca9e13b75ab564315f987b29e3268618aa9b90c0ba11d20",
+  "finish_reason": "stop",
+  "completion_tokens": 5929
+}
