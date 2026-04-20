@@ -1,0 +1,290 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-34-40Z",
+    "revision_id": "AMHacu6S2XVA8Mn5YQgGp4yz_c8Q4qwSTUzPCv59vNvDtDgCtj6gGcWAZSPexfipA84sBVP3uJD3xBvMCGquSTGYzQ",
+    "paragraph_count": 958
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-36-41Z",
+    "revision_id": "AMHacu5ZuDT1Te0vYb1ooBL2ozcZkpAh9kFC6Hv0zMZivioOL4NSzvLo_jLJPm_IjGeh7vlhqpploUbbEEnOJJzt0A",
+    "paragraph_count": 970
+  },
+  "summary": {
+    "inserted_paragraphs": 21,
+    "deleted_paragraphs": 9,
+    "operations": 15,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0094,
+    "insertion_ratio": 0.0216
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 21,
+      "paragraphs": [
+        {
+          "content_hash": "fc1ddc5960ab1a5d",
+          "style": "NORMAL_TEXT",
+          "text": "Chaowei"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 27,
+      "paragraphs": [
+        {
+          "content_hash": "033efb330992ef2c",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地好像被爆过，不知道为啥帖子被删了，但还是能看出端倪"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 29,
+      "at_to": 32,
+      "from_paragraphs": [
+        {
+          "content_hash": "0a2de34e3f7db893",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d320a1a3e525e940",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）（跟谁3p啊？？wc）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 89,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 322,
+      "paragraphs": [
+        {
+          "content_hash": "8e4a053c68ba37b8",
+          "style": "NORMAL_TEXT",
+          "text": "组里学生也好几个神仙，有到处是"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 429,
+      "paragraphs": [
+        {
+          "content_hash": "bb12a74c8f1b741c",
+          "style": "NORMAL_TEXT",
+          "text": "Yale，Arman Cohan"
+        },
+        {
+          "content_hash": "e4ff837d063095d3",
+          "style": "NORMAL_TEXT",
+          "text": "水平低，大水车"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 428,
+      "at_to": 437,
+      "from_paragraphs": [
+        {
+          "content_hash": "dd7f0f27f9cc684a",
+          "style": "NORMAL_TEXT",
+          "text": "我在尤老师这里做的intern，体验感很好，老师很supportive，GPU资源+人脉资源"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5a9aa40903608648",
+          "style": "NORMAL_TEXT",
+          "text": "我在尤老师这里做的intern，体验感很好，老师很supportive，GPU资源+人脉资源+推荐信都拉满了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 451,
+      "at_to": 460,
+      "from_paragraphs": [
+        {
+          "content_hash": "486ce0818616ea1a",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（洗地侠真的丢人啊，一点碧莲都不要了，各种换话题更换概念，是不是帮你水了几篇垃圾顶会？）（证据说话啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "86501aa631a8e527",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（别相互攻击）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 527,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 532,
+      "at_to": 542,
+      "from_paragraphs": [
+        {
+          "content_hash": "e575968ddfbc696b",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（是Yanzhi Wang和Xue吗）（写那么多假的干啥？不rebuttal？）"
+        },
+        {
+          "content_hash": "1e6d9cb739be5476",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会要求你投顶会，投不出来还喜欢嘲笑人（ 还不如直接骂），idea都是a+b"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6944c5b81c1e5b72",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（是Yanzhi Wang和Xue吗）（谁写那么多假的干啥？不rebuttal？本人？）"
+        },
+        {
+          "content_hash": "51741c25922c8bdf",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会叫你投顶会，idea都是a+b，投不出来还喜欢嘲笑人（ 还不如直接骂）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 553,
+      "paragraphs": [
+        {
+          "content_hash": "f7661ea81b2db997",
+          "style": "NORMAL_TEXT",
+          "text": "xue早年经典的“啥也不干女ap"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 573,
+      "at_to": 584,
+      "from_paragraphs": [
+        {
+          "content_hash": "c88ee4f3f33b76a6",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的人竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜的再看下面的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "789eb0359d710f21",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的人竟然会被放到黑榜，丧心病狂！（可以先看一下红榜对应的描述再看下面的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 585,
+      "at_to": 596,
+      "from_paragraphs": [
+        {
+          "content_hash": "63e443075dc9bcc8",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也\u000b3. 组里资源, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a40074f7e915813d",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也都不错\u000b3. 组里资源, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 587,
+      "at_to": 598,
+      "from_paragraphs": [
+        {
+          "content_hash": "5db6fe70d8d881c9",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充 （路人看完对intern小坑对phd很好）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "385259321152a6ed",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充"
+        },
+        {
+          "content_hash": "540b1dc2a794f051",
+          "style": "NORMAL_TEXT",
+          "text": "（路人看完对intern小坑对phd很好）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 731,
+      "at_to": 743,
+      "from_paragraphs": [
+        {
+          "content_hash": "de0a5c3633eee490",
+          "style": "NORMAL_TEXT",
+          "text": "上课戏耍学生，给学生作业好评，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4511eb1d091e9ca6",
+          "style": "NORMAL_TEXT",
+          "text": "上课戏耍学生，给学生作业份份好评，最后给个C-，导致学生GPA爆炸，申请季炸裂"
+        }
+      ]
+    }
+  ]
+}
