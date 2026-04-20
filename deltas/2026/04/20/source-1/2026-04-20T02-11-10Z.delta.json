@@ -1,0 +1,129 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-09-00Z",
+    "revision_id": "AMHacu7vx4RCCW9MDnDofPJwuVCbVc5NfzXQ-jfcn4P9Qea6ahz9yUJZ6G9AxyYdkeqicbVoHMsgOwub7im_EnIWCg",
+    "paragraph_count": 752
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-11-10Z",
+    "revision_id": "AMHacu4HCOg4zQbiuMlyiS_tT4b-VBP2Qw3p1eQf0yewPX5pzVe2AGRViblbi5fkrEM7NPtftx6ks1AE0-dooEZQcQ",
+    "paragraph_count": 760
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 3,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.004,
+    "insertion_ratio": 0.0145
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 190,
+      "paragraphs": [
+        {
+          "content_hash": "54de85add89caa00",
+          "style": "NORMAL_TEXT",
+          "text": "Duke University, Boyuan Chen"
+        },
+        {
+          "content_hash": "c842ea88f213c217",
+          "style": "NORMAL_TEXT",
+          "text": "极其 push"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 201,
+      "at_to": 206,
+      "from_paragraphs": [
+        {
+          "content_hash": "7736869a5569fa60",
+          "style": "NORMAL_TEXT",
+          "text": "原来写过著名的邪教pua大作，如何在读研的道路上快速失败 https://www.zhihu.com/question/314601453/answer/615436040"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "202a355b9bf66b1a",
+          "style": "NORMAL_TEXT",
+          "text": "曾经写过著名的邪教pua大作，可见一斑，《如何在读研的道路上快速失败》 https://www.zhihu.com/question/314601453/answer/615436040"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 297,
+      "at_to": 302,
+      "from_paragraphs": [
+        {
+          "content_hash": "3b0e3937013ad28f",
+          "style": "NORMAL_TEXT",
+          "text": "利用CS第一年rotation的特性，招一堆人进来，然后第一年年底之前把大部分人开掉,6留2，3"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4914351dbb943f01",
+          "style": "NORMAL_TEXT",
+          "text": "利用CS第一年rotation的特性，招一堆人进来，然后第一年年底之前把大部分人开掉,6留2，3留1这种"
+        },
+        {
+          "content_hash": "a6c547eb68b14a58",
+          "style": "NORMAL_TEXT",
+          "text": "每年秋季学期结束都有这个学期招进来的人被开"
+        },
+        {
+          "content_hash": "232dfb78e1bfa10d",
+          "style": "NORMAL_TEXT",
+          "text": "到目前为止似乎已经开了9个了"
+        },
+        {
+          "content_hash": "e423a472ef192110",
+          "style": "NORMAL_TEXT",
+          "text": "在一亩三分地上装的还挺像这么一回事儿"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 474,
+      "at_to": 482,
+      "from_paragraphs": [
+        {
+          "content_hash": "860b0443353c951f",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c8d8d5e933189f0c",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？水平很差能去xai？？？他博导也是佬完全rising star拿过那么多奖不知道差在何处。完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。"
+        }
+      ]
+    }
+  ]
+}
