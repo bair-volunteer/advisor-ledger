@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-03-35Z.delta.json",
+  "delta_ts": "2026-04-20T11-03-35Z",
+  "reviewed_at_utc": "2026-04-20T11:04:19Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Discloses full name of student ('ding yufei') and personal relationship status (referred to as 'ghr's npy')",
+      "excerpt": "ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Vulgar gendered slurs and insults (婊, 贱, bitch) constituting pure personal attack without substantive critique of advising practices",
+      "excerpt": "婊，贱，bitch"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Large deletion of substantive observations about SJTU Yong-lu Li (undergraduate mentoring, AI paper editing, PUA allegations) replaced with empty lines, indicating suppression of legitimate critique rather than cleanup",
+      "excerpt": "SJTU Yong-lu Li...手下一群本科生养蛊，得不到什么指导"
+    }
+  ],
+  "prompt_sha256": "e05dd8b4ea3827760be96c4d0c8d5b1aaa2a997b7c6487806aee88639f736f42",
+  "finish_reason": "stop",
+  "completion_tokens": 4777
+}

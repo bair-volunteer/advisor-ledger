@@ -1,0 +1,401 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T10-52-49Z",
+    "revision_id": "AMHacu400mpculjikuiWTfxJEsKHsm7uquivjiFXL6bUJf6gmhCPqtK0n5rL-JcqIxRLItZ0EaId-ph4XGPbCHY4wA",
+    "paragraph_count": 1526
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T11-03-35Z",
+    "revision_id": "AMHacu6Ba1LiBfLTXStUV-LV5yE09pPRQCHCXYYzkRjJjJcQj4ssWN5Q1w9X8po4dAsLFJQVNLDE2A1mryCz6Zq4gw",
+    "paragraph_count": 1512
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 31,
+    "operations": 19,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0203,
+    "insertion_ratio": 0.0112
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 0,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 229,
+      "at_to": 231,
+      "from_paragraphs": [
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "bd0ce59959dca8d4",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty haoran最近大批招本科intern在圈子里也算人尽皆知了，当时想骗我去给他"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "809a1bfbdd994757",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng"
+        },
+        {
+          "content_hash": "2487e02ce4abec73",
+          "style": "NORMAL_TEXT",
+          "text": "真热闹"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 233,
+      "at_to": 235,
+      "from_paragraphs": [
+        {
+          "content_hash": "b57291990b530fd0",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据:证据呢？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "663650e22b0a1b54",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8a6f34a5c0f4e310",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据: 黑子们点进来看, 这是jitendra本人给我发的email, ccl"
+        },
+        {
+          "content_hash": "58f5b463a1650da8",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人"
+        },
+        {
+          "content_hash": "b621f3864e376bd9",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 271,
+      "at_to": 273,
+      "from_paragraphs": [
+        {
+          "content_hash": "1ee315e663b2c029",
+          "style": "NORMAL_TEXT",
+          "text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(补充，这三个新phd都很厉害)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "599fdb3e6cc96ab1",
+          "style": "NORMAL_TEXT",
+          "text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。Intern有产出都会给return。)(补充，这三个新phd都很厉害)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 644,
+      "at_to": 646,
+      "from_paragraphs": [
+        {
+          "content_hash": "ed998a00dc0420fc",
+          "style": "NORMAL_TEXT",
+          "text": "对组里的p"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "10349aa3a743ce93",
+          "style": "NORMAL_TEXT",
+          "text": "对组里的phd咋样？"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 741,
+      "paragraphs": [
+        {
+          "content_hash": "cd6dfab89326bae9",
+          "style": "NORMAL_TEXT",
+          "text": "据说他本人在UVA也快待不下去了（什么原因？据说是开的人太多了，系里也受不了了，当然这个是听说的）（真就是造谣一张嘴）"
+        },
+        {
+          "content_hash": "b28f4b3f60715288",
+          "style": "NORMAL_TEXT",
+          "text": "跟zju kui ren和cispa的yang zhang串通审稿，因此近几年中了不少安全四大的文章，但是质量奇低"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 906,
+      "at_to": 906,
+      "from_paragraphs": [
+        {
+          "content_hash": "dcd4eb8964b21a4b",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) （老师你好，自己来洗地啦）(是谁写的重要吗? 我就是组里phd, RAGEN MindCube T*有没有拿award上网查查便知)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T*你就只拿RAGEN开刀, 你是RAGEN coauthor? )"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7c4d9f28111f1f42",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) （老师你好，自己来洗地啦）(是谁写的重要吗? 我就是组里phd, RAGEN MindCube T*有没有拿award上网查查便知)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T*你就只拿RAGEN开刀, 你是RAGEN coauthor? )"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1094,
+      "paragraphs": [
+        {
+          "content_hash": "530787e1c65eec2e",
+          "style": "NORMAL_TEXT",
+          "text": "合作过，相处下来我觉得王老师人非常好，只是真的很忙"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1334,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1373,
+      "at_to": 1375,
+      "from_paragraphs": [
+        {
+          "content_hash": "53705925f31caf45",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU Yong-lu Li"
+        },
+        {
+          "content_hash": "0a1bb285e35ed4ba",
+          "style": "NORMAL_TEXT",
+          "text": "手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工"
+        },
+        {
+          "content_hash": "797e5f10370b87c2",
+          "style": "NORMAL_TEXT",
+          "text": "只能说pua大师，面试的时候就看得出来"
+        },
+        {
+          "content_hash": "a89fd2a28161ece6",
+          "style": "NORMAL_TEXT",
+          "text": "AI改论文，盯着标点符号猛改，坚信AI是对的，改半天时态改不明白"
+        },
+        {
+          "content_hash": "e435a5a8f7b4c35c",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了（甚至xhs指名道姓内涵王兴兴，狂妄的没边了，发现留言人多就删帖）（人品有问题，内涵阴阳同学院其他女教授，婊，贱，bitch)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1388,
+      "paragraphs": [
+        {
+          "content_hash": "cd254dbddac20554",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU Su Jianbo"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1409,
+      "paragraphs": [
+        {
+          "content_hash": "fefcc7728afbb87d",
+          "style": "NORMAL_TEXT",
+          "text": "HITSZ, Shuo Yang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "39373783cbcb96d8",
+          "style": "NORMAL_TEXT",
+          "text": "WHU， Qian Wang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1445,
+      "paragraphs": [
+        {
+          "content_hash": "e18426b41d2c6a6f",
+          "style": "NORMAL_TEXT",
+          "text": "实验室的存在证明了一件事，学生们从不低贱，没有导师指导没有科研资源，学生们一样可以创造出伟大的成就"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1473,
+      "paragraphs": [
+        {
+          "content_hash": "ded0e2b42f9fade1",
+          "style": "NORMAL_TEXT",
+          "text": "SUSTech, Bo Tang"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1477,
+      "paragraphs": [
+        {
+          "content_hash": "dd88ce98de452990",
+          "style": "NORMAL_TEXT",
+          "text": "EITech, Xin Jin"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1480,
+      "paragraphs": [
+        {
+          "content_hash": "9f449d507abcdfed",
+          "style": "NORMAL_TEXT",
+          "text": "EITech, Wentao Zhu"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1487,
+      "paragraphs": [
+        {
+          "content_hash": "eead539e1cf0df73",
+          "style": "NORMAL_TEXT",
+          "text": "ShanghaiTech"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3e9b88e445a3b618",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK(SZ)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5f950d39b21c3994",
+          "style": "NORMAL_TEXT",
+          "text": "CASIA"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d70c91feb54aacd4",
+          "style": "NORMAL_TEXT",
+          "text": "HDU, Jun Yu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1508,
+      "at_to": 1493,
+      "from_paragraphs": [
+        {
+          "content_hash": "45c6c64ffd31a750",
+          "style": "NORMAL_TEXT",
+          "text": "BUPT"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "376d1f75bd3c6773",
+          "style": "NORMAL_TEXT",
+          "text": "NKU Z"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1525,
+      "paragraphs": [
+        {
+          "content_hash": "c6f26419923d51ae",
+          "style": "NORMAL_TEXT",
+          "text": "CISPA, Yang Zhang"
+        }
+      ]
+    }
+  ]
+}
