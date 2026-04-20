@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-14-10Z.delta.json",
+  "delta_ts": "2026-04-20T11-14-10Z",
+  "reviewed_at_utc": "2026-04-20T11:14:54Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student 'ding yufei' appears in text, identifying a private individual in relation to academic misconduct allegations",
+      "excerpt": "ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Use of profanity '瞎JB' (vulgar term) in description of professor's management style",
+      "excerpt": "要么瞎JB微操，要么绣花"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive allegations regarding paper fraud ('Paper造假') and threat to publish evidence, replaced with unrelated financial complaints",
+      "excerpt": "Paper造假 听说过这个事情...信不信我把paper名字和证据列上来？"
+    }
+  ],
+  "prompt_sha256": "96c866b82d6c5425f03d89afc461f02acc1c2094aa64a18c55367c45a95fb6a9",
+  "finish_reason": "stop",
+  "completion_tokens": 4401
+}

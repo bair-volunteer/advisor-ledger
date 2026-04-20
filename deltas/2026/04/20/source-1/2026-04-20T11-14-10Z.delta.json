@@ -1,0 +1,258 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T11-10-00Z",
+    "revision_id": "AMHacu5pbLIszTT-V86zX3OXe8p4-9yybKp-XKoria9BYOnj_E7ecYB2MZeCe1nYDbOHnBGBLlfNDwwiAgx0CsKjsw",
+    "paragraph_count": 1501
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T11-14-10Z",
+    "revision_id": "AMHacu7wJDqthWz2iLHYlxGEC8pazyN_HPhRL59LxqNU_5ksYthZ2mGBAUTkgfzqe11o_ewrLFDkiNYV6mqehIbwDg",
+    "paragraph_count": 1504
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 13,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0087,
+    "insertion_ratio": 0.0106
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 233,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "cb9116e1c53a5c0e",
+          "style": "NORMAL_TEXT",
+          "text": "真热闹  jitendra还有berkeley vision组一直奇奇怪怪 风气堪忧 但是"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "932d6e790207cc01",
+          "style": "NORMAL_TEXT",
+          "text": "真热闹  berkeley vision组一直风气堪忧 但是其他组管得还是严的 pieter sergey这种都是100%自己写信 真实度多高 各大学校committee审过材料的大家dddd"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 237,
+      "at_to": 237,
+      "from_paragraphs": [
+        {
+          "content_hash": "9a28db970a1c2a81",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, ta"
+        },
+        {
+          "content_hash": "b621f3864e376bd9",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？)"
+        },
+        {
+          "content_hash": "18a52f472a4ba3dd",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人” (没和我说过) （那你更惨patpat）"
+        },
+        {
+          "content_hash": "e423320b928a5498",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5ee7656a7b581224",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多"
+        },
+        {
+          "content_hash": "27df83f178540b67",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细"
+        },
+        {
+          "content_hash": "38b56cbe29df3f2b",
+          "style": "NORMAL_TEXT",
+          "text": "说吗？给ta写强推不至于给别人写黑推吧？)告诉所有intern“我只给你一个人写了最强推，你不要告诉别人” (没和我说过) （那你更惨patpat）"
+        },
+        {
+          "content_hash": "32772c7d1c31825f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 273,
+      "at_to": 273,
+      "from_paragraphs": [
+        {
+          "content_hash": "e8d506aacf31344b",
+          "style": "NORMAL_TEXT",
+          "text": "组里又穷又没资源 (Koushil资源ME做robotics的教授里面数一数二吧)"
+        },
+        {
+          "content_hash": "599fdb3e6cc96ab1",
+          "style": "NORMAL_TEXT",
+          "text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。Intern有产出都会给return。)(补充，这三个新phd都很厉害)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b01c51e50ba83aa2",
+          "style": "NORMAL_TEXT",
+          "text": "组里又穷又没资源 (Koushil资源ME做robotics的教授里面数一数二吧)(就是啊 ME的其他老师相比 Koushil资源很好了吧）"
+        },
+        {
+          "content_hash": "4f7c4026090bef4d",
+          "style": "NORMAL_TEXT",
+          "text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。Intern有产出都会给return。)(补充，这三个新phd都很厉害)(只是没钱招你。。。）(有些话不体面还是不说了)(xs hhh)（人家老师只是体面，出于好心不想直接拒绝你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 292,
+      "at_to": 292,
+      "from_paragraphs": [
+        {
+          "content_hash": "f1dc0aed810d629d",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0e084527fd87ffcf",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回。你是来找爹妈还是来找导师的？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 295,
+      "at_to": 295,
+      "from_paragraphs": [
+        {
+          "content_hash": "0514c23a683466e9",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c2fd799b0a71ae43",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 300,
+      "at_to": 300,
+      "from_paragraphs": [
+        {
+          "content_hash": "18f71bb6b08a8c11",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？(说这句话百分百不了解组里情况，纯乐子)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8ba43ee68e9133d7",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？(说这句话百分百不了解组里情况，纯乐子，连有phd都不知道)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1062,
+      "at_to": 1062,
+      "from_paragraphs": [
+        {
+          "content_hash": "e2e9a5a87c522421",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 无论是学术界还是工业界, 教职很多都去top10了, 也基本都是去大厂。然后和四大的connection非常紧密，每年都有本科生去四大，普林，UW之类的学校。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7bd6b3312a9c79d3",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着，同时有时候也会有一些情绪上的波动， 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 他对学生也很support, 无论是学术界还是工业界, 教职很多都去top10了, 业界也基本都是去top大厂。然后和四大的connection非常紧密，每年都有本科生去四大，普林，UW之类的学校。任何一个组有好也有坏，关键在于你能不能适应和习惯，或者说如何自洽。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1254,
+      "at_to": 1254,
+      "from_paragraphs": [
+        {
+          "content_hash": "fb5fc298ebffe694",
+          "style": "NORMAL_TEXT",
+          "text": "利益相关，大家自行判断。lijie的合作者之一。可以说lijie是我合作过这么多人里面对学生最nice的一个了。首先"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "64a076bee3eea9ce",
+          "style": "NORMAL_TEXT",
+          "text": "利益相关，大家自行判断。lijie的合作者之一。可以说lijie是我合作过这么多人里面对学生最nice的一个了。首先pua和push我相信随便问问组内的phd或者intern的学生都能够得到结论。AI本身就是一个要赶ddl的专业方向，但没赶上，改会议，lijie也从来不会说啥。如果定期追问进度就算是push的话，那没啥好说的，本身就不适合读phd。pua就更没有了，一作都是学生的，资源都是给够的，api、算力都充足。1. 入学半年直博生投稿量50+，真有心去翻翻arxiv和openreview就知道不存在这个人。2. 无数黑工？据我所知visiting都发钱吧？online的intern都有phd或者q"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1438,
+      "paragraphs": [
+        {
+          "content_hash": "33256a17b30120f8",
+          "style": "NORMAL_TEXT",
+          "text": "舜发于畎亩之中，傅说举于版筑之间，胶鬲举于鱼盐之中，管夷吾举于士，孙叔敖举于海，百里奚举于市。故天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1482,
+      "at_to": 1485,
+      "from_paragraphs": [
+        {
+          "content_hash": "30f38e382e7fa26f",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a578babebc0121ed",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，但是喜欢有参与感，不然怎么抢功劳（要么瞎JB微操，要么绣花，这里加个感叹号那里加个句号），大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+        }
+      ]
+    }
+  ]
+}
