@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-03-52Z.delta.json",
+  "delta_ts": "2026-04-20T16-03-52Z",
+  "reviewed_at_utc": "2026-04-20T16:04:40Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Disclosure of full names of students (Yufei Ding and Hao Ran Geng) along with their romantic relationship and specific academic misconduct allegations, violating privacy of private individuals",
+      "excerpt": "Yufei Ding (PKU)...今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊"
+    },
+    {
+      "type": "pii",
+      "detail": "Lab-specific descriptors detailed enough to de-anonymize a specific intern, including specific paper rejection history, recommendation letter content, and application outcomes",
+      "excerpt": "这intern和phd(我)之前一起合作, 他自己有篇paper一直没中...申请的时候给初稿写的是'Strongest Student of this year'"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Gendered personal attack using the slur 'academic Daji' (妲己) to demean a female student based on unsupported character judgments about her relationship rather than concrete advising practices",
+      "excerpt": "纯学术妲 己"
+    }
+  ],
+  "prompt_sha256": "2f0515643d954fa49cc2368c5c1fb3dc543598518a015521e6b46509809cb4a8",
+  "finish_reason": "stop",
+  "completion_tokens": 4104
+}
