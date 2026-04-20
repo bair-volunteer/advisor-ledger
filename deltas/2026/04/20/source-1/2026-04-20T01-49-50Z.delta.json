@@ -1,0 +1,195 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-47-40Z",
+    "revision_id": "AMHacu7tp0InpPUiNWbtGn2jIPI8ElOTXE4Ov-RKwENVqooF6W79oY0m6B8JN1XJRkfiui6PAcw5ED1c8x-Gt2VMfQ",
+    "paragraph_count": 729
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-49-50Z",
+    "revision_id": "AMHacu7SLuoFwqIrzO64NTodx4fjJhX2wVF2R9xKO2EvdDxcg9SiOWJIGkfN5m4oi0r1Ky7fVe7W0zuQ7zeXf1ggCQ",
+    "paragraph_count": 732
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 10,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0137,
+    "insertion_ratio": 0.0178
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 132,
+      "at_to": 132,
+      "from_paragraphs": [
+        {
+          "content_hash": "ab1eb910db91a1d1",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个phd家暴进局子，被他保释包庇了(????)（保释不算包庇吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bca78de8ee62bce6",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个phd家暴进局子，被他保释包庇了(????)（保释不算包庇吧）（xhs不是说xq吗，蹲一个）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 259,
+      "at_to": 259,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f7eb2f6825f733f5",
+          "style": "NORMAL_TEXT",
+          "text": "University of Delaware， Xi Peng"
+        },
+        {
+          "content_hash": "422f73c4fb7f83d5",
+          "style": "NORMAL_TEXT",
+          "text": "开组会直接骂人，据说把自己的大师兄给骂哭了"
+        },
+        {
+          "content_hash": "cb7a7757a35f5e15",
+          "style": "NORMAL_TEXT",
+          "text": "根据可靠消息，即将跳槽去University of Virginia"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 274,
+      "at_to": 276,
+      "from_paragraphs": [
+        {
+          "content_hash": "f4cd9db7f936fb0d",
+          "style": "NORMAL_TEXT",
+          "text": "You老师似乎在Meta了吧"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "95e2bcbe64406044",
+          "style": "NORMAL_TEXT",
+          "text": "You老师似乎在Meta了吧 (毕竟rhy和他都是一个组的）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 297,
+      "paragraphs": [
+        {
+          "content_hash": "9264791c146d69e6",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了看记录https://the-hidden-fish.github.io/advisor-ledger/，这句话加了又删，小红书都被不同人给挂了还洗啊"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 301,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3fa35714573d8c42",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD, Julian McAuley"
+        },
+        {
+          "content_hash": "78ff8c6adec9139e",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们（你，并非们）还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）(没拿到return破防了开始全网黑julian是吧)（julian都有人黑，UCSD第一大好人吧）"
+        },
+        {
+          "content_hash": "90a3ea9549a89f76",
+          "style": "NORMAL_TEXT",
+          "text": "学术品味一般，感觉招生纯数paper (建议你把90%的老师都列在黑榜，学术品位都一般)(何意味，paper少被人拒了急了？)"
+        },
+        {
+          "content_hash": "6a1db622767e5e59",
+          "style": "NORMAL_TEXT",
+          "text": "可以狠狠选他的课，毕竟给分挺松的总体上，但是ms找他做科研风险挺大的，如果有更好的选择去别的地方吧，别给 A6000们上压力了"
+        },
+        {
+          "content_hash": "9abe62232e0ef4b1",
+          "style": "NORMAL_TEXT",
+          "text": "组里的PhD抢ms的一作，真的很恶心🤢（哪个 phd？）（蹲一下）(谁啊？直接报名字) (虽然但是，phd恶心要怪老师是吗?)(说明全程放养啊)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 325,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c1a7f7cd0b6f645e",
+          "style": "NORMAL_TEXT",
+          "text": "UT Austin，Atlas Wang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "31e07e53db9d86d8",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名，和楼上也算师徒荣辱与共了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 513,
+      "at_to": 516,
+      "from_paragraphs": [
+        {
+          "content_hash": "45a5cf1e172818a2",
+          "style": "NORMAL_TEXT",
+          "text": "Dawn song的舔狗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "89e8e6696e176a5f",
+          "style": "NORMAL_TEXT",
+          "text": "Dawn song的舔狗（笑死"
+        }
+      ]
+    }
+  ]
+}

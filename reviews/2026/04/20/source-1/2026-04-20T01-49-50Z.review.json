@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-49-50Z.delta.json",
+  "delta_ts": "2026-04-20T01-49-50Z",
+  "reviewed_at_utc": "2026-04-20T01:49:54Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "error",
+  "concerns": [
+    {
+      "type": "review_error",
+      "detail": "API transport error: <HTTPError 429: 'Too Many Requests'>",
+      "excerpt": ""
+    }
+  ],
+  "prompt_sha256": "4c3d05f65393fda094b923dc16d4a88ee76d6a359022384a992116a2cdcfa09e",
+  "finish_reason": null,
+  "completion_tokens": null
+}
