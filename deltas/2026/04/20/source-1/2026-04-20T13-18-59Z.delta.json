@@ -1,0 +1,45 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-14-40Z",
+    "revision_id": "AMHacu5oaLUdXvGJcIcDoTnUm1Sa9YWldm-0vaM2MyFBgYkTImmxhwyEl4Ky7AIk8x1lIbE2fTbxdjHql9h_WXKOtQ",
+    "paragraph_count": 1870
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-18-59Z",
+    "revision_id": "AMHacu5UJOOkLoxdKOvQqpYR_fsSxLJZJ7_AG4CCBXdm2MWlhdwjj3ewMu2XPlW_3PnH7_sZoyd9Zfqo0QD5Z-Sp8Q",
+    "paragraph_count": 1870
+  },
+  "summary": {
+    "inserted_paragraphs": 1,
+    "deleted_paragraphs": 1,
+    "operations": 1,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0005,
+    "insertion_ratio": 0.0005
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 589,
+      "at_to": 589,
+      "from_paragraphs": [
+        {
+          "content_hash": "95e056270a3197c0",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aad01cb6f78b5226",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？有种发个不带cc haoran的，证明你不是本人？"
+        }
+      ]
+    }
+  ]
+}
