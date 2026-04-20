@@ -1,0 +1,358 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-11-40Z",
+    "revision_id": "AMHacu5UE3DdBZht7urA0Tq4pX70dtTpfiyyeZ1B4oYvULBPmQkOcf-OyDeSEhp_lAUHPLyozxHw40m_a4vL80p_Pg",
+    "paragraph_count": 1371
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-16-03Z",
+    "revision_id": "AMHacu6p7nwmiwvMN2ATXdw60RKyQrBvzrWT1WCU2ZLMf3euDmtg7OwPqyiwOJNFvDDe6dm87H8MWBiohZ0aLJqh6A",
+    "paragraph_count": 1368
+  },
+  "summary": {
+    "inserted_paragraphs": 20,
+    "deleted_paragraphs": 23,
+    "operations": 14,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0168,
+    "insertion_ratio": 0.0146
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 56,
+      "at_to": 56,
+      "from_paragraphs": [
+        {
+          "content_hash": "6ed2dfb0e1378de4",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f268911b7140653f",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper，自己女朋友，在北大被实锤作弊）的学生写了最强推，其他intern全黑推（确有此事）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 58,
+      "paragraphs": [
+        {
+          "content_hash": "9f8baf7dd9117f91",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励intern去偷别的组phd的东西，别的组phd来问就说是intern偷的，栽赃intern"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 60,
+      "at_to": 61,
+      "from_paragraphs": [
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7fe96578b313050e",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工，需要采购不给报销让intern贴钱"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 134,
+      "at_to": 135,
+      "from_paragraphs": [
+        {
+          "content_hash": "5ec816ee4e948429",
+          "style": "NORMAL_TEXT",
+          "text": "组里paper 超过 90% reproduce不出来"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1d73b117d7cc6106",
+          "style": "NORMAL_TEXT",
+          "text": "组里paper 超过 90% reproduce不出来(笑死，这也太真实了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 140,
+      "at_to": 141,
+      "from_paragraphs": [
+        {
+          "content_hash": "03d29d5bbb3c8fe2",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 （← 最大一届学生才博三为什么有这条）(因为ml不少人3年毕业的？）"
+        },
+        {
+          "content_hash": "ef039e2931a84d5d",
+          "style": "NORMAL_TEXT",
+          "text": "比其他人要黑很多，心坏表面也坏"
+        },
+        {
+          "content_hash": "5a9f087f1001667f",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生"
+        },
+        {
+          "content_hash": "a1f9861d1878e870",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学o校，给他们洗脑umass是top20的强校。"
+        },
+        {
+          "content_hash": "83bd0342fe091002",
+          "style": "NORMAL_TEXT",
+          "text": "避雷避雷避雷避雷避雷避雷避雷避雷避雷"
+        },
+        {
+          "content_hash": "2b65765885bb983d",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT-IBM Lab的卡大量外借给他干活 （+1 MIT Csail server也被他搞崩过好几次。）"
+        },
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ef6e6c91d83e1470",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 810,
+      "at_to": 805,
+      "from_paragraphs": [
+        {
+          "content_hash": "71b98ca1267ce272",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会抽空来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹"
+        },
+        {
+          "content_hash": "dd390b756d5e02ae",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给Junior学生，可以说比起以前更像是用爱发电。对年轻老师来说，在本来就繁忙的工作和项目压力下，还愿意帮人找方向、给反馈、兜底试错，这并不是理所当然的义务。更何况，对一些 commitment 本就有限的 RA 来说，导师的投入往往远大于他们自己的投入。。在这样的前提下，还把这件事简单说成“浪费 intern 时间”，我觉得既不客观，也不公允。"
+        },
+        {
+          "content_hash": "345db02d0273bfd0",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint, 包括下面三条几乎全是来自同一个账号Anonymous Pumpkin, 应该是在组里work了但没有发出一作paper/没有到达自己心仪的去向从而反目成仇的intern, 大家谨慎鉴别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eb83256ba7c28fae",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹"
+        },
+        {
+          "content_hash": "e8653a8207763922",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给Junior学生，可以说比起以前更像是用爱发电。对年轻老师来说，在本来就繁忙的工作和项目压力下，还愿意帮人找方向、给反馈、兜底试错，这并不是理所当然的义务。更何况，对一些 commitment 本就有限的 RA 来说，导师的投入往往远大于他们自己的投入。。在这样的前提下，还把这件事简单说成“浪费 intern 时间”，我觉得既不客观，也不公允。在我看来，如果说ml有错，那错就错在太open太inclusive了。。当好人如果反而要被喷的话那以后的环境下老师们可能会越来越不愿意给新人机会。。所以大家还是尽量抱有理解和善意去看待这些事情吧。。"
+        },
+        {
+          "content_hash": "733df9df1715d398",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint, 包括下面三条几乎全是来自同一个账号Anonymous Pumpkin, 应该是在组里work了但没有发出一作paper/没有到达自己心仪去向从而反目成仇的intern, 大家谨慎鉴别）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 814,
+      "paragraphs": [
+        {
+          "content_hash": "0fae038fa8d1f34f",
+          "style": "NORMAL_TEXT",
+          "text": "在这个组当phd太爽了，都说老师人好不push，第一年还有这么多paper awards，一定是我们phd都非常非常的厉害，四大水平的都来投奔李老师了才能有这么多贡献吧！(何意味)"
+        },
+        {
+          "content_hash": "9379c083291149f6",
+          "style": "NORMAL_TEXT",
+          "text": "知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀 (哪篇intern参与的工作是\"打白工”, 请举出具体例子??)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 915,
+      "at_to": 908,
+      "from_paragraphs": [
+        {
+          "content_hash": "ceb847633ac759e7",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Quanquan Gu（大的来了）（存在争议，请谨慎辨别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "89fce2ec2bc63026",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Jason Cong"
+        },
+        {
+          "content_hash": "893748944726fa45",
+          "style": "NORMAL_TEXT",
+          "text": "要求临近毕业的学生必须去自己公司工作，不去就不给毕业，不给funding。"
+        },
+        {
+          "content_hash": "8295cc70f3652a94",
+          "style": "NORMAL_TEXT",
+          "text": "招国内的学生去他自己在加州的公司实习，一天给200RMB以内。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7eadf1f4b8fbb987",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Quanquan Gu（大的来了）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 919,
+      "paragraphs": [
+        {
+          "content_hash": "421bc12583c028b7",
+          "style": "NORMAL_TEXT",
+          "text": "跪舔别人"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 930,
+      "at_to": 926,
+      "from_paragraphs": [
+        {
+          "content_hash": "fa57f7fd79ae7deb",
+          "style": "NORMAL_TEXT",
+          "text": "论文抄袭"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "17b0ce9b8eeb7f61",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1179,
+      "at_to": 1175,
+      "from_paragraphs": [
+        {
+          "content_hash": "c423383c6d3c7322",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54ee2ce8d8dc23a3",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）(我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得不太好反驳呀? 与其在这里破防撒泼打滚, 不如把具体数据或例子拿出来, 这样讨论才更有说服力。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1244,
+      "at_to": 1241,
+      "from_paragraphs": [
+        {
+          "content_hash": "a9d7a4d4808b5ba0",
+          "style": "NORMAL_TEXT",
+          "text": "组里一个实习生装自己是polyU phd在外面装逼替他招学生，实则自己本科刚毕业，一个ap招的本科实习生在外面招自己的实习生，是否有点太抽象了"
+        },
+        {
+          "content_hash": "9790534e6f3f7dbd",
+          "style": "NORMAL_TEXT",
+          "text": "这人真的算thu吗我忽然请问（"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8ad73fa59f8a3441",
+          "style": "NORMAL_TEXT",
+          "text": "组里一个实习生装自己是polyU phd在外面装逼替他招学生，实则自己本科刚毕业，一个ap招的本科实习生在外面招自己的实习生，是否有点太抽象了（确实搜不到主页，论文机构也是乱挂的）"
+        },
+        {
+          "content_hash": "fe47e7adfbce7d54",
+          "style": "NORMAL_TEXT",
+          "text": "这人真的算thu吗我忽然请问（THU AIR的应该是）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1261,
+      "at_to": 1258,
+      "from_paragraphs": [
+        {
+          "content_hash": "97244e1a05f8fd6e",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢作者压榨下面的人（点名姓Lu的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "990d5eba3d994f4d",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢作者压榨下面的人（+1, 点名姓Lu的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1266,
+      "at_to": 1263,
+      "from_paragraphs": [
+        {
+          "content_hash": "9e380015ab5fadba",
+          "style": "NORMAL_TEXT",
+          "text": "XD不至于"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dbe5503d3240f091",
+          "style": "NORMAL_TEXT",
+          "text": "XD不至于，你喷你的博后就行了"
+        }
+      ]
+    }
+  ]
+}
