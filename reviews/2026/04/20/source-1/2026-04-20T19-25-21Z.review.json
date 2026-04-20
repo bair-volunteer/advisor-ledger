@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-25-21Z.delta.json",
+  "delta_ts": "2026-04-20T19-25-21Z",
+  "reviewed_at_utc": "2026-04-20T19:26:23Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Contains profanity and severe personal insults ('走狗' meaning lackey/running dog, 'b人' meaning bastard/asshole) directed at an individual involved in editing the document, constituting a pure personal attack rather than criticism of advising practices.",
+      "excerpt": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Attacks the credibility of a contributor with an unsupported credential challenge ('你有没有发过paper存疑' - questioning if they have ever published papers) and character judgment ('纯尬黑' - pure defamation/awkward smearing), rather than addressing the factual claim about the advisor's papers.",
+      "excerpt": "（存疑这种词都来了。你有没有发过paper存疑。纯尬黑）"
+    }
+  ],
+  "prompt_sha256": "a5e8aee4b1b274653bff3f042a5fc68cc6e814cb66d511317fdcc4a5b23c9860",
+  "finish_reason": "stop",
+  "completion_tokens": 5183
+}

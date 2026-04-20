@@ -1,0 +1,310 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-21-10Z",
+    "revision_id": "AMHacu7kXwpTOlASwxaA5gnWyOpGxqF-Q_PAXLx94cf8XoQjztsSqICqaWZoI6TIxEUJIi3r_ufCUX4hsxGYfy8FnQ",
+    "paragraph_count": 2003
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-25-21Z",
+    "revision_id": "AMHacu5WaqJmh2rg2rpsOL7Us6FEnFb4TbVcdt0yniUlXuySuuiGhDESkijdbMLWt2kePYMFiUZBmEW2rCSkUm3Y-w",
+    "paragraph_count": 2016
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 9,
+    "operations": 17,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0045,
+    "insertion_ratio": 0.0109
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "05f8b07ec34fbe8b",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5558d11ffcde0560",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. g希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 256,
+      "at_to": 256,
+      "from_paragraphs": [
+        {
+          "content_hash": "e3a7907c98e56724",
+          "style": "NORMAL_TEXT",
+          "text": "因为学生要去别的老师那里rotation，要求对方当面写邮件跟别的老师说不去了然后bcc他"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "799bf4c05fb2c6bc",
+          "style": "NORMAL_TEXT",
+          "text": "因为学"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1291f2f6bc1d1b47",
+          "style": "NORMAL_TEXT",
+          "text": "生要去别的老师那里rotation，要求对方当面写邮件跟别的老师说不去了然后bcc他"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 313,
+      "at_to": 315,
+      "from_paragraphs": [
+        {
+          "content_hash": "2ef62c171575d146",
+          "style": "NORMAL_TEXT",
+          "text": "代表作和博后paper是不是自己做的存疑。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1ab7042ad5f4b776",
+          "style": "NORMAL_TEXT",
+          "text": "代表作和博后paper是不是自己做的存疑。（存疑这种词都来了。你有没有发过paper存疑。纯尬黑）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 548,
+      "paragraphs": [
+        {
+          "content_hash": "4d3fe32260665a5b",
+          "style": "NORMAL_TEXT",
+          "text": "Booth的老师们都ego比较大"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 586,
+      "at_to": 589,
+      "from_paragraphs": [
+        {
+          "content_hash": "857090980701cd06",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们们在哪儿呢 的目的永远是让这个人永远招不到学生！！！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c7de4472dad6f1ac",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你先想想你干的那些事吧！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "77beda51c084fc31",
+          "style": "NORMAL_TEXT",
+          "text": "你删的了一时删不了一世。我们们在哪儿呢 的目的永远是让这个人永远招不到学生！！！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 711,
+      "at_to": 716,
+      "from_paragraphs": [
+        {
+          "content_hash": "c5c53f567aefae11",
+          "style": "NORMAL_TEXT",
+          "text": "他深夜emo了会给学生打电话，先emo一会，最后又亢奋骂学生 (comment: 这么生动有点难绷)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e549b0750f6f0f2e",
+          "style": "NORMAL_TEXT",
+          "text": "他深夜emo了会给学生打电话，先emo一会，最后又亢奋骂学生 (comment: 这么生动有点难绷) （难绷+1）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 920,
+      "at_to": 925,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8799948a4b075ab5",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢蹭paper 爱嘴别的老师"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 961,
+      "paragraphs": [
+        {
+          "content_hash": "f83e99a9b81f4f1b",
+          "style": "NORMAL_TEXT",
+          "text": "人很好很supportive，自由度很高，不卡毕业不卡实习"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 998,
+      "paragraphs": [
+        {
+          "content_hash": "c74a15f2cef69f9b",
+          "style": "NORMAL_TEXT",
+          "text": "剪草坪？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1100,
+      "at_to": 1107,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fb20e5ab966de6b0",
+          "style": "NORMAL_TEXT",
+          "text": "heng 推特不公开，有无懂哥知道详情"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1172,
+      "paragraphs": [
+        {
+          "content_hash": "3cd73e4f8d0c3e96",
+          "style": "NORMAL_TEXT",
+          "text": "双飞斯坦福？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1201,
+      "paragraphs": [
+        {
+          "content_hash": "4d848ace981625a3",
+          "style": "NORMAL_TEXT",
+          "text": "水paper是真的 对学生好也是真的 江湖气重"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1218,
+      "at_to": 1227,
+      "from_paragraphs": [
+        {
+          "content_hash": "4e3e37d1116bcd7c",
+          "style": "NORMAL_TEXT",
+          "text": "组内政治斗争严重(有组内人印证一下吗?)(也感兴趣，组里学生能提供些信息吗？)(在读学生表示不太理解为啥会有这个说法)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5c7ca1ef0c01a6de",
+          "style": "NORMAL_TEXT",
+          "text": "组内政治斗争严重(有组内人印证一下吗?)(也感兴趣，组里学生能提供些信息吗？)(在读学生表示不太理解为啥会有这个说法，也很好奇)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1458,
+      "paragraphs": [
+        {
+          "content_hash": "86b3433438efeca4",
+          "style": "NORMAL_TEXT",
+          "text": "Paper太水了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1465,
+      "paragraphs": [
+        {
+          "content_hash": "9767a5efa489566f",
+          "style": "NORMAL_TEXT",
+          "text": "文章末尾Contribution列得很明确，从idea到执行一目了然"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1467,
+      "paragraphs": [
+        {
+          "content_hash": "c9d6207f332234bc",
+          "style": "NORMAL_TEXT",
+          "text": "顾老师被举报内容并非不当关系，学校也经明确阅读举报内容后同意了转组。不存在因谣言同意转组。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1789,
+      "at_to": 1801,
+      "from_paragraphs": [
+        {
+          "content_hash": "9f0841e2e60ebfcc",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红bang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dab5ad4bd5323502",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

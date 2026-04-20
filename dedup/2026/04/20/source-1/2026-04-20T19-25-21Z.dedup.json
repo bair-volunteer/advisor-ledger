@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T19-25-21Z",
+  "reviewed_at_utc": "2026-04-20T19:27:00Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 20,
+  "pairs": [
+    {
+      "ghost_hash": "05f8b07ec34fbe8b",
+      "insert_hash": "5558d11ffcde0560",
+      "note": "typo fix (added stray g)",
+      "ghost_text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。",
+      "insert_text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. g希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+    },
+    {
+      "ghost_hash": "4e3e37d1116bcd7c",
+      "insert_hash": "5c7ca1ef0c01a6de",
+      "note": "minor addition (added 也很好奇)",
+      "ghost_text": "组内政治斗争严重(有组内人印证一下吗?)(也感兴趣，组里学生能提供些信息吗？)(在读学生表示不太理解为啥会有这个说法)",
+      "insert_text": "组内政治斗争严重(有组内人印证一下吗?)(也感兴趣，组里学生能提供些信息吗？)(在读学生表示不太理解为啥会有这个说法，也很好奇)"
+    },
+    {
+      "ghost_hash": "9f0841e2e60ebfcc",
+      "insert_hash": "dab5ad4bd5323502",
+      "note": "typo fix (红bang->红榜) and added 吗",
+      "ghost_text": "这不应该上红bang",
+      "insert_text": "这不应该上红榜吗"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4722,
+  "skipped_reason": null
+}
