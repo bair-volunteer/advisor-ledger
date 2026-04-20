@@ -1,0 +1,109 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-52-23Z",
+    "revision_id": "AMHacu59F1jrYydkbReXDjTRhsKdj0XQnoPlegfMtHMHEtK7V3dUbyyF3781Ogbxvi2hdVFi1yZ2GWXVYO3rGy9z3w",
+    "paragraph_count": 605
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-56-24Z",
+    "revision_id": "AMHacu5fbZnw3uXY4d_YDeag_JcJlZCpAqCm5SBcoMrizzr45upILtMkp4_gYjE-a7w-ykLeDJXqvxAM-XDVAfyHWQ",
+    "paragraph_count": 605
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 5,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0083,
+    "insertion_ratio": 0.0083
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 85,
+      "at_to": 85,
+      "from_paragraphs": [
+        {
+          "content_hash": "03f3e392c068b256",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（个人是组里phd，这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）这阿姨脾"
+        },
+        {
+          "content_hash": "31f9b1c8bec477e2",
+          "style": "NORMAL_TEXT",
+          "text": "气应该说是更年期…（这个算是某种性别歧视？）"
+        },
+        {
+          "content_hash": "4a1536aa0824b47c",
+          "style": "NORMAL_TEXT",
+          "text": "六年AP生涯中组里PhD quit率超三分之一（据我所知只有一个学生，而且丁老师后来还给了他很好的recommendation，去处也还不错......）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d2811b49a33ddd0f",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（个人是组里phd，这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）这阿姨脾气应该说是更年期…（这个算是某种性别歧视？）"
+        },
+        {
+          "content_hash": "bc8ae6c9ed9785a6",
+          "style": "NORMAL_TEXT",
+          "text": "六年AP生涯中组里PhD quit率超三分之一（据我所知只有一个学生，而且丁老师后来还给了他很好的recommendation，去处也还不错）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 372,
+      "at_to": 371,
+      "from_paragraphs": [
+        {
+          "content_hash": "a7c01d087de3785f",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)，也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6199321d03a2fd4a",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)，也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 392,
+      "paragraphs": [
+        {
+          "content_hash": "5e0367d6175ecede",
+          "style": "NORMAL_TEXT",
+          "text": "Zhuowen 人很好"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 480,
+      "at_to": 480,
+      "from_paragraphs": [
+        {
+          "content_hash": "459b8563a30440af",
+          "style": "NORMAL_TEXT",
+          "text": "占个坑"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aa52737d8df1965b",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd，去年刚毕业，overall"
+        }
+      ]
+    }
+  ]
+}

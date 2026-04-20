@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T00-56-24Z.delta.json",
+  "delta_ts": "2026-04-20T00-56-24Z",
+  "reviewed_at_utc": "2026-04-20T00:57:14Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Insertion adds a lab-specific descriptor identifying the commenter as a recent PhD graduate from the specific group being discussed ('组里phd，去年刚毕业'), which is detailed enough to de-anonymize the individual.",
+      "excerpt": "组里phd，去年刚毕业，overall"
+    }
+  ],
+  "prompt_sha256": "fcb074d4b59adfc289d1d94586a22920bd0b8c5801fdf308d1915efa6e501ff4",
+  "finish_reason": "stop",
+  "completion_tokens": 3859
+}
