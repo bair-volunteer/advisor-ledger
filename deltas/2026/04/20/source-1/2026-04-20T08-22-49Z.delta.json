@@ -1,0 +1,323 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-20-30Z",
+    "revision_id": "AMHacu490eQe_vZA3-E8wPmqLRecJNRlNjsr44quavlE8dq14RiOuRA6Uuh9Jeaxn0yySTpD35bul7bE_e9NgYHrSQ",
+    "paragraph_count": 1364
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-22-49Z",
+    "revision_id": "AMHacu7VRTE1Ba2d286oQEqXMdq88gMN1B0hoZXXSH3TjbGGtKK3vRZe5lihKr2IB7eKn3KvENeMFAFxe4JsEyT6zg",
+    "paragraph_count": 1376
+  },
+  "summary": {
+    "inserted_paragraphs": 27,
+    "deleted_paragraphs": 15,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.011,
+    "insertion_ratio": 0.0196
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 48,
+      "at_to": 48,
+      "from_paragraphs": [
+        {
+          "content_hash": "654ca1615e69a767",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，be"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f7ea9c996926ab1",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 53,
+      "paragraphs": [
+        {
+          "content_hash": "6bd9968a19a0f035",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng (PhD)"
+        },
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        },
+        {
+          "content_hash": "6ed2dfb0e1378de4",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+        },
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "bad2bf12a5800164",
+          "style": "NORMAL_TEXT",
+          "text": "满口谎言，没有一句实话"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 696,
+      "at_to": 707,
+      "from_paragraphs": [
+        {
+          "content_hash": "dec8101f4fa11b01",
+          "style": "NORMAL_TEXT",
+          "text": "Phd面试考ai八股，压力面是真的，phd会陪着面，结束之后问也只有套话，只推荐m来，正常人别来"
+        },
+        {
+          "content_hash": "f8ef72c15014e8a2",
+          "style": "NORMAL_TEXT",
+          "text": "又矮又丑(您这是有多帅啊，还攻击上教授长相了，而且常老师和这两点不太zhan bian)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "475abb898eeb72b1",
+          "style": "NORMAL_TEXT",
+          "text": "Phd面试考ai八股，压力面是真的，phd会陪着面，结束之后问也只有套话，只推荐m来，正常人别来 （常老师今年才加的coding面，事实上他还问了我们这些phd意见，当时我们就开玩笑和他讲，你小心上黑榜。回到正题，当时大家一致认为，如果这一点点压力面都坚持不了，在现在这个形势下就别想找好一点的实习。）"
+        },
+        {
+          "content_hash": "636a82d32b12a234",
+          "style": "NORMAL_TEXT",
+          "text": "又矮又丑(您这是有多帅啊，还攻击上教授长相了，而且常老师和这两点不太沾边吧)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 807,
+      "at_to": 818,
+      "from_paragraphs": [
+        {
+          "content_hash": "d01d3eaad5726583",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 (怎么可能??组里最近2-4月发出来的paper难道没有preprint?)（这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？）（我看有的不是直接arxiv吗）（纯路人，这么多人的组会只有那几篇吗？）（慢挂，缓挂，有选择地挂，有节奏地挂 (这是个人才！)）（666还有申论考生）（挂arxiv也要讲究基本法）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "532662365ebbcdec",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 (怎么可能??组里最近2-4月发出来的paper难道没有preprint?)（这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？）（我看有的不是直接arxiv吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 903,
+      "at_to": 914,
+      "from_paragraphs": [
+        {
+          "content_hash": "893748944726fa45",
+          "style": "NORMAL_TEXT",
+          "text": "要求临近毕业的学生必须去自己公司工作，不去就不给毕业，不给funding。"
+        },
+        {
+          "content_hash": "8295cc70f3652a94",
+          "style": "NORMAL_TEXT",
+          "text": "招国内的学生去他自己在加州的公司实习，一天给200RMB以内。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "87eb5ad2de91c6e9",
+          "style": "NORMAL_TEXT",
+          "text": "要求临近毕业的学生必须去自己公司工作，不去就不给毕业，也不给校内funding。"
+        },
+        {
+          "content_hash": "3689a2398159b35d",
+          "style": "NORMAL_TEXT",
+          "text": "招国内的学生去他自己在加州的公司实习，一天给200RMB以内工资。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1018,
+      "paragraphs": [
+        {
+          "content_hash": "86b6e734a2a31aa9",
+          "style": "NORMAL_TEXT",
+          "text": "想知道Olga Russakovsky的瓜，为啥代表作是ImageNet Challenge，但是ImageNet是Deng Jia弄的。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1014,
+      "at_to": 1026,
+      "from_paragraphs": [
+        {
+          "content_hash": "fdfa0c112d6a077c",
+          "style": "NORMAL_TEXT",
+          "text": "和肖健雄和fisheryu（于夫）三人行被举报到普林斯顿（自己做的事情自己要反思而不是删除）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c6bfe0db1891be38",
+          "style": "NORMAL_TEXT",
+          "text": "和肖健雄和fisheryu（于夫）三人行被举报到普林斯顿（自己做的事情自己反思而不是删除，删除没有用）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1020,
+      "at_to": 1032,
+      "from_paragraphs": [
+        {
+          "content_hash": "8281584cf6c9e795",
+          "style": "NORMAL_TEXT",
+          "text": "道听途说就不要瞎黑了，谢谢！本人在jiajun组里做过暑研，是科研进步最快的一段时间了。老师人非常nice。我们这一届申请的也非常不错"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8861589e701977cb",
+          "style": "NORMAL_TEXT",
+          "text": "道听途说就不要瞎黑了，谢谢！本人在jiajun组里做过暑研，是科研进步最快的一段时间了。老师人非常nice。我们这一届申请的也非常不错。"
+        },
+        {
+          "content_hash": "25c6678b50479754",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun老师人本身非常nice，对学术也非常严格，很多同学去向都非常不错，如果对自己有信心准备return stanford的同学非常推荐到他那里暑研，他的信毫无疑问也是非常有含金量的，但不可否认和jiajun 老师work 需要讲究一些技巧"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1204,
+      "paragraphs": [
+        {
+          "content_hash": "cd382ebb8b40113c",
+          "style": "NORMAL_TEXT",
+          "text": "HKU Tao Yu"
+        },
+        {
+          "content_hash": "d656f07492398ea5",
+          "style": "NORMAL_TEXT",
+          "text": "为什么他在这里？"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1207,
+      "paragraphs": [
+        {
+          "content_hash": "da6f0a2402e587f3",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST(GZ) Xuming Hu （🤭）"
+        },
+        {
+          "content_hash": "f5e9f218bbbf8303",
+          "style": "NORMAL_TEXT",
+          "text": "(求原因，他不是据说挺好的吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1256,
+      "at_to": 1265,
+      "from_paragraphs": [
+        {
+          "content_hash": "cc40e407e18951c5",
+          "style": "NORMAL_TEXT",
+          "text": "致组里的既得利益者：删一次死一个家人 :)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4aee84fda9bebb01",
+          "style": "NORMAL_TEXT",
+          "text": "XD不至于，你喷你的博后就行了（你有本事就反驳，bu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f862c400c52d31dd",
+          "style": "NORMAL_TEXT",
+          "text": "回来以后原形毕露喜欢炫耀自己拿了多少经费想买什么车子对学生扣扣搜搜做项目不会多给一分钱补贴"
+        },
+        {
+          "content_hash": "45aaabc0080291d9",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习顶组找你不让去只让你去他谈的垃圾项目钱都到他自己手里"
+        },
+        {
+          "content_hash": "d79edce580b89bd9",
+          "style": "NORMAL_TEXT",
+          "text": "根本不懂科研"
+        },
+        {
+          "content_hash": "afc7d86a52b7a5e6",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢和外面吹牛逼说自 说自己学生去oai gdm"
+        },
+        {
+          "content_hash": "5f96ff13b4fa74ef",
+          "style": "NORMAL_TEXT",
+          "text": "XD不至于，你喷你的博后就行了（你有本事就反驳，不要删）"
+        },
+        {
+          "content_hash": "964b4154ffd5c98a",
+          "style": "NORMAL_TEXT",
+          "text": "带你的博后搞的鬼，你就狠狠喷他就行（其他的也没说错啊）"
+        }
+      ]
+    }
+  ]
+}
