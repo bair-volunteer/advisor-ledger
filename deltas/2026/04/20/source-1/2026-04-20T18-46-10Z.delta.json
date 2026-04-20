@@ -1,0 +1,245 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T18-41-50Z",
+    "revision_id": "AMHacu6f1E3hvDhm9VfLLb85D4Im1HJo5vNG_j7IWaKj4KKF2NDLB0rnCyE2Z-OM79VcTrA9e5gMsjsOhUqBMNXkvw",
+    "paragraph_count": 1998
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T18-46-10Z",
+    "revision_id": "AMHacu5HVcpMeZWggXzs9YVkInKjkd1jXIT41DQcej9bSmf_G6rQ00u7QebcXztNBqLqqZ24U0vJwGJh34xnTEfnBg",
+    "paragraph_count": 2009
+  },
+  "summary": {
+    "inserted_paragraphs": 19,
+    "deleted_paragraphs": 8,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.004,
+    "insertion_ratio": 0.0095
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 451,
+      "paragraphs": [
+        {
+          "content_hash": "bcbafa3ebe44435d",
+          "style": "NORMAL_TEXT",
+          "text": "UMN Katie Zhao"
+        },
+        {
+          "content_hash": "1f15fbc8bdcf1ead",
+          "style": "NORMAL_TEXT",
+          "text": "很push 组里有学生quit"
+        },
+        {
+          "content_hash": "6cd284ed3dfb5bfa",
+          "style": "NORMAL_TEXT",
+          "text": "她们组的学生和奴隶差不多"
+        },
+        {
+          "content_hash": "cf2348950d4e16db",
+          "style": "NORMAL_TEXT",
+          "text": "和celine一样hhh"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 664,
+      "at_to": 668,
+      "from_paragraphs": [
+        {
+          "content_hash": "16eb85dc214cfd93",
+          "style": "NORMAL_TEXT",
+          "text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "735b71acf2dbef94",
+          "style": "NORMAL_TEXT",
+          "text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？你用gmail自己给自己发"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 667,
+      "at_to": 671,
+      "from_paragraphs": [
+        {
+          "content_hash": "c190e99e141124e7",
+          "style": "NORMAL_TEXT",
+          "text": "你错了, 我就是在耿哥公司这里intern, 别什么都扯到人家身上, 现在美西凌晨, 我给耿哥发消息他都没回, 这图是我google drive发的(且只有第二张, 前面的不知道是谁)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "29a6b2ad41ab0b76",
+          "style": "NORMAL_TEXT",
+          "text": "你错了, 我就是在耿哥公司这里intern, 别什么都扯到人家身上, 现在美西凌晨, 我给耿哥发消息他都没回, 这图是我google drive发的(且只有第二张, 前面的不知道是谁) 怕是耿哥本人，彻夜难眠吧"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 751,
+      "at_to": 755,
+      "from_paragraphs": [
+        {
+          "content_hash": "e9343954ccdd8cd4",
+          "style": "NORMAL_TEXT",
+          "text": "和PhD老板gao"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c4018f6f87f8510d",
+          "style": "NORMAL_TEXT",
+          "text": "和PhD老板搞暧昧呗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 878,
+      "at_to": 882,
+      "from_paragraphs": [
+        {
+          "content_hash": "b695bf3873c80830",
+          "style": "NORMAL_TEXT",
+          "text": "听过talk，英语不行，不知道"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4a3a5f11e189e154",
+          "style": "NORMAL_TEXT",
+          "text": "听过talk，英语不行，不知道 (zhun英语不行吗，感觉还可以啊)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1418,
+      "at_to": 1422,
+      "from_paragraphs": [
+        {
+          "content_hash": "c55481a7726a0d44",
+          "style": "NORMAL_TEXT",
+          "text": "张老师早年确实"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6a874f9a0b59c5de",
+          "style": "NORMAL_TEXT",
+          "text": "张老师早年确实很卷, 当年写博客文章宣扬每周工作100个小时, 不过自己也跟着一起猛干, 凌晨还在给学生改文章."
+        },
+        {
+          "content_hash": "0e8b3cc85695444c",
+          "style": "NORMAL_TEXT",
+          "text": "现在Tenure之后加上当主任完全不push了啊, 而且跟学生距离感保持的很好基本只有学术上的交流, 我感觉华人老板里难得非常professional风格的, 应该被fang dao"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1555,
+      "at_to": 1560,
+      "from_paragraphs": [
+        {
+          "content_hash": "5aed119ec6ed66ba",
+          "style": "NORMAL_TEXT",
+          "text": "有没有老杭二人知道某 stanford phd 姐的故事（时代的眼泪了都……dang）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8c2b7fa793d5c2eb",
+          "style": "NORMAL_TEXT",
+          "text": "有没有老杭二人知道某 stanford phd 姐的故事（时代的眼泪了都……当时利益相关者真的没气晕吗，作弊者去了stanford美美读phd）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1781,
+      "at_to": 1786,
+      "from_paragraphs": [
+        {
+          "content_hash": "457a22a07361ed14",
+          "style": "NORMAL_TEXT",
+          "text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水，connection一般直接找自己做intern的不太容易给（今年直接找他做intern的没给conn，如果是先找jiheng然后挂到她那里的可能会给），加上今年有一开始答应好学生录他的但是十一月底忽然说不录了（后面还在招新的，）。总的来说性格是好的，老师也很认真帮助大家的，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7f4aa3dbf50dae3f",
+          "style": "NORMAL_TEXT",
+          "text": "总的来说，may人不坏，不pua，对待学生也很好，基本上intern/phd对她脾气的评价都ok，个人感觉要说不好就是老师因为是新ap需要建立connection所以对自己的名声在意程度会比较高，推荐信会拉开梯度给不会放水全给最高，connection一般直接找自己做intern的不太容易给（今年直接找他做intern的没给conn，如果是先找jiheng然后挂到她那里的可能会给），加上今年有一开始答应好给的return的但是十一月底忽然说不录了（后面还在招新的，估计还是想找厉害点的）。有缺点，但是总体性格是好的，老师也很认真帮助大家的，组里的人都还是希望老师可以往好发展"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1881,
+      "paragraphs": [
+        {
+          "content_hash": "bff758055563f7a6",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU Kui Ren"
+        },
+        {
+          "content_hash": "5b38d93e94a2a3a0",
+          "style": "NORMAL_TEXT",
+          "text": "读博改数据被导师除名"
+        },
+        {
+          "content_hash": "753f4b05cd0b0c4f",
+          "style": "NORMAL_TEXT",
+          "text": "跟别人串通审稿发了一堆低质量四大安全文章"
+        },
+        {
+          "content_hash": "5c90562baed6b65f",
+          "style": "NORMAL_TEXT",
+          "text": "水平烂，学术道德烂"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1961,
+      "at_to": 1970,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0679cbc82a4d5298",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua, Yang Yuan"
+        },
+        {
+          "content_hash": "15bdabbfc64f6217",
+          "style": "NORMAL_TEXT",
+          "text": "代表作On the power of foundation models, 用AI审一下一眼就发现所有theorems都是错的，逆变斜变符号写反了"
+        },
+        {
+          "content_hash": "357136641a80f178",
+          "style": "NORMAL_TEXT",
+          "text": "主要精力花在开中医公司上头，创业项目vest周期5年锁定期, 不干满5年一分钱没有，融资失败，团队基本都跑光了"
+        }
+      ]
+    }
+  ]
+}

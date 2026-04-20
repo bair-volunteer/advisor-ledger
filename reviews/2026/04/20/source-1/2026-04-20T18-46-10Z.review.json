@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T18-46-10Z.delta.json",
+  "delta_ts": "2026-04-20T18-46-10Z",
+  "reviewed_at_utc": "2026-04-20T18:47:44Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies specific student by high school alma mater (Hangzhou No. 2 High School) and current institution (Stanford PhD), alleging academic misconduct",
+      "excerpt": "老杭二人知道某 stanford phd 姐的故事...作弊者去了stanford美美读phd"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported allegation of romantic/sexual relationship targeting personal character",
+      "excerpt": "和PhD老板搞暧昧呗"
+    },
+    {
+      "type": "pii",
+      "detail": "Identifies private individual (company supervisor) by nickname in internship dispute and speculates on personal emotional state",
+      "excerpt": "怕是耿哥本人，彻夜难眠吧"
+    }
+  ],
+  "prompt_sha256": "85b079d597f4f34da2af8cd7e8cde8db18126e1b52321cedb140188559cca0c9",
+  "finish_reason": "stop",
+  "completion_tokens": 5566
+}
