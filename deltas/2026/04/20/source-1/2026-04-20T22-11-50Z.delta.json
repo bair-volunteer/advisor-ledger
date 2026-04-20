@@ -1,0 +1,544 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-03-20Z",
+    "revision_id": "AMHacu4giK-yc3o9seo3JRTN1OnVRjhQx--hwO9BTYyfMuI_xxxaGjIoKIQPo8bJSjN_wSbWQzEKyJSzgHd0su2jFA",
+    "paragraph_count": 2158
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-11-50Z",
+    "revision_id": "AMHacu4S28qongQoBLCUoCIWJIge_DR0e7n0xtf5kfgId-vBhmRbkv1iItot5jlzcax9ZU4xef9Xgb9wgolfok_CbA",
+    "paragraph_count": 2126
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 54,
+    "operations": 18,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.025,
+    "insertion_ratio": 0.0103
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 44,
+      "at_to": 44,
+      "from_paragraphs": [
+        {
+          "content_hash": "0b52a025dd0374f9",
+          "style": "NORMAL_TEXT",
+          "text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额。(是因为招不到phd,系里都知道他坑 ，连续好几年都没新生选，前几年好不容易搞进来几个都跑路了，只能招postdoc和ra干活 ）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6a1184de38b206ef",
+          "style": "NORMAL_TEXT",
+          "text": "给RA画超级大饼养🦴，实际上宁可招postdoc和ra都不想给phd名额。(是因为招不到phd,系里都知道他坑 ，连续好几年都没新生选，前几年好不容易搞进来几个都跑路了，只能招postdoc和ra干活 ）(实际上有的RA在申请季还没开始就内定了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 98,
+      "at_to": 98,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b548545df0d50967",
+          "style": "NORMAL_TEXT",
+          "text": "Northwestern University, Zhaoran Wang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 109,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "59c07532148d111d",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC, Haohan Wang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 475,
+      "paragraphs": [
+        {
+          "content_hash": "53b5ed984ed32f88",
+          "style": "NORMAL_TEXT",
+          "text": "UW Madison可不止这几位该上黑榜。。。学生们还是太体面了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 476,
+      "at_to": 480,
+      "from_paragraphs": [
+        {
+          "content_hash": "8435220ed93634fb",
+          "style": "NORMAL_TEXT",
+          "text": "对导师招生不做评价，但是他人真的很好，会一点点sh"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b2e125f1db41839d",
+          "style": "NORMAL_TEXT",
+          "text": "对导师招生不做评价，但是他人真的很好，会一点点手把手教你做实验写paper，平时也和学生当朋友非常平易近人，具体可以看红榜内容"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 514,
+      "at_to": 518,
+      "from_paragraphs": [
+        {
+          "content_hash": "f97385894c7e178e",
+          "style": "NORMAL_TEXT",
+          "text": "接国内留学机构的单子 国内高中生飞来亚特兰大住在我朋友的家里（2b2b）找了个他的PHD给他辅导科研 库库赚钱"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1bdb4462b89420ee",
+          "style": "NORMAL_TEXT",
+          "text": "（前两条都是单个学生行为请勿上升至全组，组里其他人也不支持这种行为更不会做这种事）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 516,
+      "at_to": 520,
+      "from_paragraphs": [
+        {
+          "content_hash": "a30ed2876e9872ce",
+          "style": "NORMAL_TEXT",
+          "text": "现在好像去硅谷拉人创业"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1a1e85c71df05471",
+          "style": "NORMAL_TEXT",
+          "text": "现在好像去硅谷拉人创业 （这是黑点？组里同学没找到实习可以去）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 593,
+      "at_to": 597,
+      "from_paragraphs": [
+        {
+          "content_hash": "eea4285b92f31363",
+          "style": "NORMAL_TEXT",
+          "text": "   * 一亩三分地上可搜看看十多年前在UA的时候什么样子 和学生闹到criminal charge 被强制休假 15年还是16年来的gwu 反正gwu ece 也是烂摊子一个 除了lan tian是一股清流之外 没有值得来的老板"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "69a79fd8d47a2632",
+          "style": "NORMAL_TEXT",
+          "text": "   * 一亩三分地上可搜看看十多年前在UA的时候什么样子 和学生闹到criminal charge 被强制休假 15年还是16年来的gwu 反正gwu ece 也是烂摊子一个 除了lan tian是一股清流之外 没有值得来的老板 (有一说一，新来的professor wu 还是很不错的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 707,
+      "at_to": 711,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc7def67d6b00943",
+          "style": "NORMAL_TEXT",
+          "text": "一股子AI味老师亲自下场吗哈哈哈哈哈哈哈"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "77961fb69dc2756e",
+          "style": "NORMAL_TEXT",
+          "text": "一股子AI味老师亲自下场吗哈哈哈哈哈哈哈 (那你可能要反思一下自己是不是个人机，看啥都是AI味，毕竟证据证据是拿不出的，只会嘴两句)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 713,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b8fa89d085968281",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d848098fb33d2ae1",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jiageng mao没水平-一个人带十几个intern（史称jiageng军团）啥都做不出来只想着水论文(这事跟yue没关系吧，要不单开一个)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "51d21cd3194fafce",
+          "style": "NORMAL_TEXT",
+          "text": "(xswl jiageng军团可还行哈哈哈哈哈哈)(还没进教职先进黑榜）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0165c6b69f2bc4a0",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友让人怀疑是否有利益交换。"
+        },
+        {
+          "content_hash": "a370a1e7f1efaa87",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "fb624fc54207ad82",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jimeng Sun (别删啊 我还没看完)"
+        },
+        {
+          "content_hash": "3e2146138ef08921",
+          "style": "NORMAL_TEXT",
+          "text": "从Gtech跳槽的时候没处理好之前的学生 （基本上就是全部开除了） https://www.1point3acres.com/bbs/thread-833309-1-1.html"
+        },
+        {
+          "content_hash": "8146bbbf19416628",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死 (????????????????????)（惊讶什么？这事情DM圈都知道啊）(这种不需要负责吗 法律上）（负责个屁，当时他已经去uiuc了）（这是真的）"
+        },
+        {
+          "content_hash": "54095975c9a752ae",
+          "style": "NORMAL_TEXT",
+          "text": "在GT的时候中国学生第一年没有一作paper就开除，有学生博三博四也被开除"
+        },
+        {
+          "content_hash": "b331bf080e47886e",
+          "style": "NORMAL_TEXT",
+          "text": "抛妻弃子，找小三 （把学生都推去小三的公司打工）"
+        },
+        {
+          "content_hash": "2976a0b6ddc1990c",
+          "style": "NORMAL_TEXT",
+          "text": "跪舔白人，白人没有被开除的，也不push"
+        },
+        {
+          "content_hash": "1cf92e32cd667584",
+          "style": "NORMAL_TEXT",
+          "text": "部分 AI for Health paper"
+        },
+        {
+          "content_hash": "02e96de90ffbc848",
+          "style": "NORMAL_TEXT",
+          "text": "歧视女性"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "095d20fbc2e00fb6",
+          "style": "NORMAL_TEXT",
+          "text": "-----------"
+        },
+        {
+          "content_hash": "e32e94a2929d0602",
+          "style": "NORMAL_TEXT",
+          "text": "↓↓↓ 注意：此发帖人造谣成性还喜欢乱咬人，已经造谣坑害多个同学！！！请各位仔细斟酌！！可信度极低！！！ （不维护XCW，只想让各位知道此人是什么人品🤣） ↓↓↓"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "53d53a7197d86998",
+          "style": "NORMAL_TEXT",
+          "text": "Johns Hopkins University，Chaowei Xiao （他单独的page总被删，这里保留一份）"
+        },
+        {
+          "content_hash": "b2020fe22ef5f014",
+          "style": "NORMAL_TEXT",
+          "text": "请大家别再涉及学生信息了，学生是无辜的！～ <- 不是你之前在这儿乱造谣学生吗，这会儿装起好人来了，搁这儿自导自演呢😅"
+        },
+        {
+          "content_hash": "85482ddda998380e",
+          "style": "NORMAL_TEXT",
+          "text": "我建议保留Chaowei Xiao在这里以防cs删tab但只保留事实陈述部分：这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）（给他送榜首吧）"
+        },
+        {
+          "content_hash": "a642a0da926ae2d3",
+          "style": "NORMAL_TEXT",
+          "text": "闹麻了🤣一个人编那么多条很累吧 🤡"
+        },
+        {
+          "content_hash": "e2a2fc1a32ace421",
+          "style": "NORMAL_TEXT",
+          "text": "之前编学生的怎么删了🤣 敢做不敢认？"
+        },
+        {
+          "content_hash": "c7de4472dad6f1ac",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你先想想你干的那些事吧！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "77beda51c084fc31",
+          "style": "NORMAL_TEXT",
+          "text": "你删的了一时删不了一世。我们们在哪儿呢 的目的永远是让这个人永远招不到学生！！！"
+        },
+        {
+          "content_hash": "e3ff650483c10583",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！在线等！急急急！！怎么还没有实名啊！！知道都是编的心虚了？警告你！被这个b人坑害的学生没没没，不如被你造谣的学生多 至少有上百人！太牛了，问问这上百人知不知道 你要是再jb删我们直接实名了！快快快！等着呢！(先生大义！还在这RP装圣人呢 ）我们群众的力量众在哪儿呢足够把你跟你的走狗一波带走。太对了，反驳你的都是走狗，众人皆浊我独清！ 别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+        },
+        {
+          "content_hash": "5055ce11e1b74b7d",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University 是不是把你认识的intern的学校都写了一遍🤡没错被NV举报但是还在NV哥们就是这么幽默desu"
+        },
+        {
+          "content_hash": "985c711d4e2ee7c3",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（私立学校只背调crime）(btw为什么私立学校只背调crime)（私立学校对于过往经历和reputation调查没有那么严格）（因为什么事情举报的？）（看下面）不容易，一个学生能够兼职UW-Madison HR"
+        },
+        {
+          "content_hash": "2e9215d59d0fcefc",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）(wisc也要脸；但是这个b由于跑得太快，wisc还在调查就让这个b跑了，于是后面调查报告以及处理结果不得不中断)还兼职警察！"
+        },
+        {
+          "content_hash": "56babb18e5496a95",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架还兼职系主任！！"
+        },
+        {
+          "content_hash": "907958084d49d73f",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱无敌了，压抑哥每次造谣经典节目，不得不品（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        },
+        {
+          "content_hash": "6966ea311c2b8861",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）（这个事情wisc CS正式调查和找他了）"
+        },
+        {
+          "content_hash": "4001ed19334fe03a",
+          "style": "NORMAL_TEXT",
+          "text": "此外，问gpt自己的孩子应该取什么名字才能以后至少是个phd (这你都知道？)"
+        },
+        {
+          "content_hash": "9bcb8492a359a0c0",
+          "style": "NORMAL_TEXT",
+          "text": "还有！给学生写推荐信使用gmail，推荐信内容大概率黑推，导致学生直接被desk rejec"
+        },
+        {
+          "content_hash": "179c534bf86f6a24",
+          "style": "NORMAL_TEXT",
+          "text": "我们继续！不许学生假期正常休假，只要微信/slack半个小时没回复就破口大骂；给学生半夜三四点直接打电话（微信call），不管学生是否在睡觉"
+        },
+        {
+          "content_hash": "eebd4b8f1fac0c80",
+          "style": "NORMAL_TEXT",
+          "text": "虽然是madison的ap之前，但是常年不在madison，让学生替他抗房租（哈哈哈哈哈哈哈这个笑死我了）(笑死了太难绷了)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1274,
+      "paragraphs": [
+        {
+          "content_hash": "4c46a4f549000828",
+          "style": "NORMAL_TEXT",
+          "text": "(能不能细说，有一次在neurips当时还是omni的party看到他女朋友了？)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1276,
+      "paragraphs": [
+        {
+          "content_hash": "7c6230f2fdd38e7c",
+          "style": "NORMAL_TEXT",
+          "text": "（这又是什么能不能细说？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1278,
+      "paragraphs": [
+        {
+          "content_hash": "9b9c8b61eb7e82cd",
+          "style": "NORMAL_TEXT",
+          "text": "（怎么说？北美特产impart不带我们？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1376,
+      "at_to": 1342,
+      "from_paragraphs": [
+        {
+          "content_hash": "93658191998dcd05",
+          "style": "NORMAL_TEXT",
+          "text": "朋友很高产，但是花了6年才毕业，但应该没啥别的黑料？（是对毕业要求高吗？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5a0fe717b8ba9b55",
+          "style": "NORMAL_TEXT",
+          "text": "朋友很高产，但是花了6年才毕业，但应该没啥别的黑料？（是对毕业要求高吗？）(会让学生一直延毕，要求一直变)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1411,
+      "paragraphs": [
+        {
+          "content_hash": "e927fc6ec1587243",
+          "style": "NORMAL_TEXT",
+          "text": "如果你很听话，能保证你毕业"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1620,
+      "at_to": 1587,
+      "from_paragraphs": [
+        {
+          "content_hash": "1794fa76d98f1c3f",
+          "style": "NORMAL_TEXT",
+          "text": "https://huaren.us/showtopic.html?topicid=3088729&fid=398 Gu教授是这里的ML大佬，把合作者逼疯了 （不是说andrewng吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b4a84c2262f8232f",
+          "style": "NORMAL_TEXT",
+          "text": "https://huaren.us/showtopic.html?topicid=3088729&fid=398 Gu教授是这里的ML大佬，把合作者逼疯了 （不是说andrewng吗）(别洗了就是Gu，这帖子里都写了当事人了，顺着Pub一找就知道是Gu组里的哪位了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1622,
+      "at_to": 1589,
+      "from_paragraphs": [
+        {
+          "content_hash": "4a344b5eec5e88e8",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "514ea3612e3aff4f",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据  (还有人看看github有多少人抱怨复现不出来:)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1665,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

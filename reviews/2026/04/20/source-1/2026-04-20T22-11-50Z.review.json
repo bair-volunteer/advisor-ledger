@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T22-11-50Z.delta.json",
+  "delta_ts": "2026-04-20T22-11-50Z",
+  "reviewed_at_utc": "2026-04-20T22:12:35Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Deleted text contains full name of PhD student 'jiageng mao' and identifying relationship details about specific students (e.g., romantic partner in another PhD program)",
+      "excerpt": "组里逆天phd jiageng mao没水平...该学生和Yue合作的一个四大phd是男女朋友"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted personal insult attacking another editor as a robot/AI ('人机') and dismissing their contributions as mere trash-talking without evidence",
+      "excerpt": "那你可能要反思一下自己是不是个人机，看啥都是AI味，毕竟证据证据是拿不出的，只会嘴两句"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Massive deletion removes substantive allegations about advisors Jimeng Sun (student death, mass firings) and Chaowei Xiao (office detention, forced phone/computer checks) that appear to be legitimate critical observations, suggesting suppression rather than cleanup",
+      "excerpt": "UIUC Jimeng Sun...逼死了学生...Johns Hopkins University，Chaowei Xiao...把学生关在办公室里要求查看学生电脑和手机"
+    }
+  ],
+  "prompt_sha256": "af4c24bde661703e86f329558e466eb5103f4fdac39d3fef137d6e803bfca8fa",
+  "finish_reason": "stop",
+  "completion_tokens": 4432
+}
