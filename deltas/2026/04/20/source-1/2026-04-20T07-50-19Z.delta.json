@@ -1,0 +1,274 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-46-00Z",
+    "revision_id": "AMHacu6A_n_MMZewNn735JqsW0bzOYWX3gucPOtlqDgvQKBvD0WeG1Sbvev5Tr2oCFXbt3ejGQWU1PxedcnQ9LyeyA",
+    "paragraph_count": 1323
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-50-19Z",
+    "revision_id": "AMHacu7He4OHbehTxM4NB1Mxp-tlsugPeuKtauJkZ3qRuMbCIZIIZaSROho40bPBhS4LvDwLXaPeqxeoCRXD9eOp7A",
+    "paragraph_count": 1330
+  },
+  "summary": {
+    "inserted_paragraphs": 19,
+    "deleted_paragraphs": 12,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0091,
+    "insertion_ratio": 0.0143
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 152,
+      "at_to": 152,
+      "from_paragraphs": [
+        {
+          "content_hash": "fb4c7f844e29caa2",
+          "style": "NORMAL_TEXT",
+          "text": "MIT的教职 靠她男朋友adam Chlipala拿到并维持"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3f8d94ee0290b4cf",
+          "style": "NORMAL_TEXT",
+          "text": "MIT的教职 靠她男朋友adam Chlipala拿到并维持 男朋友是dating app上面开始的"
+        },
+        {
+          "content_hash": "a4201ddc3df37057",
+          "style": "NORMAL_TEXT",
+          "text": "Paper有很多数据都是靠编 没有新算法 只有讲故事 炒冷饭"
+        },
+        {
+          "content_hash": "d678558a5d5d478f",
+          "style": "NORMAL_TEXT",
+          "text": "她既不懂网络 也不懂安全 更不懂物理 但是她非要做光学网络安全"
+        },
+        {
+          "content_hash": "648705b6cfbc020f",
+          "style": "NORMAL_TEXT",
+          "text": "跟学生1on1经常容易破防，说自己很难很容易悲伤 把学生当心理医生"
+        },
+        {
+          "content_hash": "9fa907b21016d891",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢拖延很久才开会 让学生在门外等30分钟 说自己忙"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 156,
+      "at_to": 160,
+      "from_paragraphs": [
+        {
+          "content_hash": "b52309abee68c41e",
+          "style": "NORMAL_TEXT",
+          "text": "岁数很大了 但是一直没有结婚 没有孩子 这个其实是很大的雷 女人na"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ce6e33fb608dc9d4",
+          "style": "NORMAL_TEXT",
+          "text": "岁数很大了 但是一直没有结婚 没有孩子 这个其实难说 女人难但是不要逼自己太紧"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 207,
+      "at_to": 212,
+      "from_paragraphs": [
+        {
+          "content_hash": "caf5af9fb8bb3c07",
+          "style": "NORMAL_TEXT",
+          "text": "FB大佬，喜欢和"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8626ee36bda0139d",
+          "style": "NORMAL_TEXT",
+          "text": "FB大佬，喜欢和白胡子IEEE老爷爷合照（参见本人Ins, pyq以及fb）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 352,
+      "at_to": 357,
+      "from_paragraphs": [
+        {
+          "content_hash": "3bd3473dd9bdbfb1",
+          "style": "NORMAL_TEXT",
+          "text": "上面很多负面评价有混淆视听嫌疑，摆出似是而非的表面事实却恶意捏造篡改背后原因，动机让人猜疑，更像是针对性打击报复而非客观陈述。下面简单列举看到的部分事实推测。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d9df567bbf16a0b2",
+          "style": "NORMAL_TEXT",
+          "text": "上面很多负面评价有混淆视听嫌疑，摆出似是而非的表面事实却捏造篡改背后原因，更像是针对性打击报复而非客观陈述。下面简单列举看到的部分事实推测。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 355,
+      "at_to": 360,
+      "from_paragraphs": [
+        {
+          "content_hash": "af34915eab8a14b2",
+          "style": "NORMAL_TEXT",
+          "text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到好的岗位）"
+        },
+        {
+          "content_hash": "04efa045cf3cc405",
+          "style": "NORMAL_TEXT",
+          "text": "最后，从丁老师组里的publication数目来推测，一定不会是特别轻松，没有任何压力的。但是能在这种sup p"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c49916e91de5584f",
+          "style": "NORMAL_TEXT",
+          "text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（羡慕啊）（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到合适的的岗位）"
+        },
+        {
+          "content_hash": "a502daf11f35661c",
+          "style": "NORMAL_TEXT",
+          "text": "最后，从丁老师组里的publication数目来看，一定不会是特别轻松没有任何压力的。但处理压力本身就是PhD的必修课，能在这种supportive和相互合作的氛围下工作，会成长很快。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5c948b9dc5a48b45",
+          "style": "NORMAL_TEXT",
+          "text": "(猜出来在编辑的是谁了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 562,
+      "at_to": 569,
+      "from_paragraphs": [
+        {
+          "content_hash": "1c858f7516195a1b",
+          "style": "NORMAL_TEXT",
+          "text": "已经有3-4个master students 做了work但是没有拿到学位"
+        },
+        {
+          "content_hash": "3da068ffc8cc45bb",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢micro manage，但是不了解学生的工作，自己水平也无法指导学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "090c1eb03cb05b01",
+          "style": "NORMAL_TEXT",
+          "text": "听说已经有3-4个master students 做了work但是没有拿到master学位"
+        },
+        {
+          "content_hash": "f0ece65b72db6f05",
+          "style": "NORMAL_TEXT",
+          "text": "好像喜欢micro manage，但是不了解学生的工作，自己水平也无法指导学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 654,
+      "at_to": 661,
+      "from_paragraphs": [
+        {
+          "content_hash": "ddd1d79f0b36f4cd",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）（听说成瘾者，可忽略）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，大部分都得往下找才行)（mit and harvard读了postdoc吧）（先拿UNC offer再defer一年去做的postdoc）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8e90594740ec7367",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）（听说成瘾者，可忽略）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，大部分都得往下找才行)（mit and harvard读了postdoc吧）（先拿UNC offer再defer一年去做的postdoc吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 898,
+      "at_to": 905,
+      "from_paragraphs": [
+        {
+          "content_hash": "0eb915a68329f211",
+          "style": "NORMAL_TEXT",
+          "text": "那这和学生转组或者婚外情有什么关系？难不成学生为了zhe g"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ec5deadc88b9ac93",
+          "style": "NORMAL_TEXT",
+          "text": "那这和学生转组或者婚外情有什么关系？难不成学生为了这个idea转的组？学生在哪个组做某个idea都是做，完全不涉及到转组。而且这到底是谁的idea？是学生自己的idea还是“听到的”（听到谁的？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1058,
+      "at_to": 1065,
+      "from_paragraphs": [
+        {
+          "content_hash": "e038d0c8a0fc7e0f",
+          "style": "NORMAL_TEXT",
+          "text": "听说半年3个学生离组。发pip信，当面开除，用的都是同一套理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e91fc70ca7ff158d",
+          "style": "NORMAL_TEXT",
+          "text": "听说半年3个学生离组。或发pip信或当面开除，用的都是同一套理由。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1077,
+      "paragraphs": [
+        {
+          "content_hash": "0d31294be0953788",
+          "style": "NORMAL_TEXT",
+          "text": "学生跟他说身体不舒服，他会说这我也没有办法，发烧你也得把结果跑出来。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1164,
+      "paragraphs": [
+        {
+          "content_hash": "6c3b420be248ee57",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST Lei Che"
+        }
+      ]
+    }
+  ]
+}
