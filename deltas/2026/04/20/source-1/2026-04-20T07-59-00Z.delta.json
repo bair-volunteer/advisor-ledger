@@ -1,0 +1,170 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-56-50Z",
+    "revision_id": "AMHacu5jx44sxLp9Vx_MkBK2_pZ5e5RFRFsdB8BesPoNUEF8QR6oVWV3brQEJAs2GA4RnInl2Hk7RaO6yDTC4rI43Q",
+    "paragraph_count": 1348
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-59-00Z",
+    "revision_id": "AMHacu4NN8oFq5ZWoXXqoBZhbUdTxJ_R2XH6WHDtbM84rZLbz9rznOoj0D078Fbdcxy_1lsMCK87esz8tIGdELRvXw",
+    "paragraph_count": 1350
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 8,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0059,
+    "insertion_ratio": 0.0074
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 19,
+      "at_to": 19,
+      "from_paragraphs": [
+        {
+          "content_hash": "e5dcffe836b6ec8a",
+          "style": "NORMAL_TEXT",
+          "text": "MIT"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "855b39a829ea17b2",
+          "style": "NORMAL_TEXT",
+          "text": "MIT, Kaiming He"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 361,
+      "at_to": 362,
+      "from_paragraphs": [
+        {
+          "content_hash": "ea56196e4355a05a",
+          "style": "NORMAL_TEXT",
+          "text": "1.业界合作广泛。从paper的单位和topic来看，实验室和很多企业有很多合作而且紧跟领域前沿。作为MLSys这种偏工程的学科，这对学生的个人发展意义重大。能做有意义的topic，也能建立和业界的connection。"
+        },
+        {
+          "content_hash": "fdc9aee65b5dae09",
+          "style": "NORMAL_TEXT",
+          "text": "2.组里氛围很好。每个学生方向相关但又不完全相同，因此没有任何组内恶意竞争且合作频繁。组里经常聚餐，也有各种活动，可以从他们lab的主页看到照片。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "694ba78d47883709",
+          "style": "NORMAL_TEXT",
+          "text": "1.业界合作广泛。从paper的单位和topic来看，实验室和很多企业有很多合作而且紧跟领域前沿。作为MLSys这种偏工程的学科，这对学生的个人发展意义重大。能做有价值的topic，也能建立和业界的connection。"
+        },
+        {
+          "content_hash": "00546dfd2765a70f",
+          "style": "NORMAL_TEXT",
+          "text": "2.组里氛围很好。每个学生方向相关但又不完全相同，因此没有组内恶意竞争且合作频繁。课题组经常聚餐，也有各种活动，可以从lab的主页看到照片。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 364,
+      "at_to": 365,
+      "from_paragraphs": [
+        {
+          "content_hash": "a502daf11f35661c",
+          "style": "NORMAL_TEXT",
+          "text": "最后，从丁老师组里的publication数目来看，一定不会是特别轻松没有任何压力的。但处理压力本身就是PhD的必修课，能在这种supportive和相互合作的氛围下工作，会成长很快。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b716bca5a9370133",
+          "style": "NORMAL_TEXT",
+          "text": "最后，从丁老师组里的publication数目来看，一定不会是特别轻松没有任何压力的。但处理压力本身就是PhD的必修课，能在这种导师supportive且同学nice的氛围下上好这一课，是非常幸运的。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1046,
+      "at_to": 1047,
+      "from_paragraphs": [
+        {
+          "content_hash": "59e599919c2b71bf",
+          "style": "NORMAL_TEXT",
+          "text": "把学生逼到肾出问题做手术，躺在床上养病，还push该学生写proposal"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d66b9c1936d80410",
+          "style": "NORMAL_TEXT",
+          "text": "把学生逼到腰出问题做手术，躺在床上养病，还push该学生写proposal"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1241,
+      "at_to": 1242,
+      "from_paragraphs": [
+        {
+          "content_hash": "a49b14f9c682c551",
+          "style": "NORMAL_TEXT",
+          "text": "手下一群本科生养蛊，得不到什么指导"
+        },
+        {
+          "content_hash": "39392675c634ca19",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a1bb285e35ed4ba",
+          "style": "NORMAL_TEXT",
+          "text": "手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工"
+        },
+        {
+          "content_hash": "c640928b4bbbda15",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，就这样居然还是xhs网红，别被骗了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1316,
+      "at_to": 1317,
+      "from_paragraphs": [
+        {
+          "content_hash": "381b704033b9c307",
+          "style": "NORMAL_TEXT",
+          "text": "EITech,"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dd88ce98de452990",
+          "style": "NORMAL_TEXT",
+          "text": "EITech, Xin Jin"
+        },
+        {
+          "content_hash": "bf859615204ffd63",
+          "style": "NORMAL_TEXT",
+          "text": "老师很强啊, 好多顶会顶刊, 二作加通讯,"
+        }
+      ]
+    }
+  ]
+}
