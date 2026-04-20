@@ -1,0 +1,379 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-20-55Z",
+    "revision_id": null,
+    "paragraph_count": 1179
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-25-09Z",
+    "revision_id": null,
+    "paragraph_count": 1173
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 23,
+    "operations": 18,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0195,
+    "insertion_ratio": 0.0145
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 348,
+      "at_to": 348,
+      "from_paragraphs": [
+        {
+          "content_hash": "6944c5b81c1e5b72",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（是Yanzhi Wang和Xue吗）（谁写那么多假的干啥？不rebuttal？本人？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b04adba106a61071",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（存在争议，请谨慎辨别）"
+        },
+        {
+          "content_hash": "c13485802657eb45",
+          "style": "NORMAL_TEXT",
+          "text": "（谁写那么多假的干啥？不rebuttal？本人？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 386,
+      "at_to": 387,
+      "from_paragraphs": [
+        {
+          "content_hash": "2457f40ce970b707",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD  Ochoa, Benjamin Lawrence"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "89d36b26a88570aa",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD  Ochoa, Benjamin Lawrence （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 442,
+      "at_to": 443,
+      "from_paragraphs": [
+        {
+          "content_hash": "93455b1b4f134a2d",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD，Biwei Huang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fc0a9e7afbd441ac",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD，Biwei Huang（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 461,
+      "at_to": 462,
+      "from_paragraphs": [
+        {
+          "content_hash": "faa751045b68632d",
+          "style": "NORMAL_TEXT",
+          "text": "TAMU/Rice Xia Hu（这个算应该红榜）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eebe94fabad8fce8",
+          "style": "NORMAL_TEXT",
+          "text": "TAMU/Rice Xia Hu（存在争议，请谨慎辨别）"
+        },
+        {
+          "content_hash": "977418a3cf10edae",
+          "style": "NORMAL_TEXT",
+          "text": "（这个算应该红榜）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 478,
+      "paragraphs": [
+        {
+          "content_hash": "37b50cc254ff574b",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Richard Peng"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "33c2ed3ff64d86f3",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Howie Choset"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9df77974df362942",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Eric Xing"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 485,
+      "at_to": 482,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "251b5359056c7fc6",
+          "style": "NORMAL_TEXT",
+          "text": "UCSC, CV夫妻店（感觉本人过来洗地写了一堆，实在太假删了，多人quit后面还写什么true but changed，你怎么知道changed？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cc43b82450f95f1c",
+          "style": "NORMAL_TEXT",
+          "text": "UCSC, CV夫妻店（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 501,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 509,
+      "at_to": 504,
+      "from_paragraphs": [
+        {
+          "content_hash": "c48153643db94d3e",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC，Huan Zhang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c6ae57a10be91ae1",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC，Huan Zhang （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 526,
+      "at_to": 521,
+      "from_paragraphs": [
+        {
+          "content_hash": "8d9e435c6d2528d9",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC，Jiaxuan You"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d40376e7c609cbd4",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC，Jiaxuan You（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 540,
+      "at_to": 535,
+      "from_paragraphs": [
+        {
+          "content_hash": "aba395bf19075980",
+          "style": "NORMAL_TEXT",
+          "text": "Yale，Rex Ying"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "097c2f1e35dc308e",
+          "style": "NORMAL_TEXT",
+          "text": "Yale，Rex Ying（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 549,
+      "at_to": 544,
+      "from_paragraphs": [
+        {
+          "content_hash": "39ce712d04b37676",
+          "style": "NORMAL_TEXT",
+          "text": "Stony Brook, Chenyu You"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9d2229dfacd1008a",
+          "style": "NORMAL_TEXT",
+          "text": "Stony Brook, Chenyu You（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 572,
+      "at_to": 567,
+      "from_paragraphs": [
+        {
+          "content_hash": "4a99b56201b94076",
+          "style": "NORMAL_TEXT",
+          "text": "UNC，Tianlong Chen"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7cc777bd1d688e4f",
+          "style": "NORMAL_TEXT",
+          "text": "UNC，Tianlong Chen （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 598,
+      "paragraphs": [
+        {
+          "content_hash": "dc62afd3173e514e",
+          "style": "NORMAL_TEXT",
+          "text": "UT Austin, Qixing Huang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 619,
+      "at_to": 613,
+      "from_paragraphs": [
+        {
+          "content_hash": "b19dd3eb2772e003",
+          "style": "NORMAL_TEXT",
+          "text": "MSU Sijia Liu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b6265d9b2c0ba0f8",
+          "style": "NORMAL_TEXT",
+          "text": "MSU Sijia Liu （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 643,
+      "at_to": 637,
+      "from_paragraphs": [
+        {
+          "content_hash": "52e3a55f59a1cb77",
+          "style": "NORMAL_TEXT",
+          "text": "OSU Yu Su（？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a47f99a43af8da8",
+          "style": "NORMAL_TEXT",
+          "text": "OSU Yu Su（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 650,
+      "at_to": 644,
+      "from_paragraphs": [
+        {
+          "content_hash": "f4567b7772317d4c",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech Tuo Zhao"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6a27c4cf2a82760e",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech Tuo Zhao（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 668,
+      "at_to": 662,
+      "from_paragraphs": [
+        {
+          "content_hash": "8dee3c04642aa0ab",
+          "style": "NORMAL_TEXT",
+          "text": "UCSB Eric Xin Wang (?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ceed36d81516c703",
+          "style": "NORMAL_TEXT",
+          "text": "UCSB Eric Xin Wang （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 691,
+      "at_to": 685,
+      "from_paragraphs": [
+        {
+          "content_hash": "9563d137be82b9dd",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Manling Li"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8d1792c4e09048ef",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Manling Li （存在争议，请谨慎辨别）"
+        }
+      ]
+    }
+  ]
+}
