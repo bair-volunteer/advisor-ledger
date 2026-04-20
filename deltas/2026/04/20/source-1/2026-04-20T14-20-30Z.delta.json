@@ -1,0 +1,326 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-14-10Z",
+    "revision_id": "AMHacu68pwRiJ9Q1PGXZE-ghMN2ZYfqr8e41wk9P7N9f_WHSSgQuEjO94RKnK57hgSOJe6-k6ANMunNylWdkrWvsQA",
+    "paragraph_count": 1904
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-20-30Z",
+    "revision_id": "AMHacu5Z52iW9Xe55LRElvC32dlarUJaFHvX12qf1HG3nHEkfGJaukkQJ2zS_N2t_jT3OZJ5st4FihLQQ1ltwAae0g",
+    "paragraph_count": 1914
+  },
+  "summary": {
+    "inserted_paragraphs": 23,
+    "deleted_paragraphs": 13,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0068,
+    "insertion_ratio": 0.012
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 111,
+      "at_to": 111,
+      "from_paragraphs": [
+        {
+          "content_hash": "b1eb40eb0c236837",
+          "style": "NORMAL_TEXT",
+          "text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有HKU加上顾老师这边的贡献。这里似乎应当有一篇 arxiv 文章的编辑记录作为证据，但我找不到了 XD 有没有懂的兄弟帮我 cite 啊 Lol - 利益无关：我不是顾老师的学生，毕竟没有亲历过这个转折点 （感觉不太好吧，挂了文章等于开盒学生了，纯路人视角。）（有病就去看医生）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "039074e64c505050",
+          "style": "NORMAL_TEXT",
+          "text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有HKU加上顾老师这边的贡献。这里似乎应当有一篇 arxiv 文章的编辑记录作为证据，但我找不到了 XD 有没有懂的兄弟帮我 cite 啊 Lol - 利益无关：我不是顾老师的学生，毕竟没有亲历过这个转折点 （感觉不太好吧，挂了文章等于开盒学生了，纯路人视角。）（有病就去看医生，拿只言片语造谣传谣不用负责的是吗）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 115,
+      "paragraphs": [
+        {
+          "content_hash": "82ad80027c2bee1d",
+          "style": "NORMAL_TEXT",
+          "text": "拿只言片语造谣传谣不用负责的是吗"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 358,
+      "paragraphs": [
+        {
+          "content_hash": "edfa9c5f55a89894",
+          "style": "NORMAL_TEXT",
+          "text": "（更正：叫罗剑岚）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 543,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 551,
+      "at_to": 555,
+      "from_paragraphs": [
+        {
+          "content_hash": "f6eb5dcaacc796a1",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生字就写的，你自己活做的怎么样心里有点数）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a5933c1350ee99a2",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生自己写的，你自己活做的怎么样心里有点数）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 591,
+      "at_to": 595,
+      "from_paragraphs": [
+        {
+          "content_hash": "0fc5cf9f22a853fa",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃药了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5f4693172fe10cef",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 627,
+      "at_to": 632,
+      "from_paragraphs": [
+        {
+          "content_hash": "f6eb5dcaacc796a1",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生字就写的，你自己活做的怎么样心里有点数）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a5933c1350ee99a2",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生自己写的，你自己活做的怎么样心里有点数）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 801,
+      "at_to": 806,
+      "from_paragraphs": [
+        {
+          "content_hash": "6117ca83b52d691e",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）(我们作为学生一直在澄清，不管有什么利益conflict或者道听途说，请不要人身攻击和在这里删我们lab学生的帖子)"
+        },
+        {
+          "content_hash": "5abef603383d5da2",
+          "style": "NORMAL_TEXT",
+          "text": "(一直有一个和组内有矛盾的人在这里删我们的回复。"
+        },
+        {
+          "content_hash": "b03d5fc4cdc7219d",
+          "style": "NORMAL_TEXT",
+          "text": "涉及人格侮辱和恶意带节奏，建议别拿匿名情绪输出当事实，更不要造谣传谣。"
+        },
+        {
+          "content_hash": "ba5ec51d07a4ac0e",
+          "style": "NORMAL_TEXT",
+          "text": ")"
+        },
+        {
+          "content_hash": "57ab3f236c06d502",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "27d74651d3d598b9",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）(我们作为学生一直在澄清，不管有什么利益conflict或者道听途说，请不要人身攻击和在这里删我们lab学生的回复)"
+        },
+        {
+          "content_hash": "a972de4089096220",
+          "style": "NORMAL_TEXT",
+          "text": "(一直有一个和组内有矛盾的人在这里删我们的回复。涉及人格侮辱和恶意带节奏，建议别拿匿名情绪输出当事实，更不要造谣传谣。)"
+        },
+        {
+          "content_hash": "92807b8377e0d6b7",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）（不要用龌龊的词了，大家都做科研）"
+        },
+        {
+          "content_hash": "fb582ddbc481a3a3",
+          "style": "NORMAL_TEXT",
+          "text": "这楼里真正的人格侮辱，恰恰就来自这种匿名谩骂本身。我这几年在美国见过不少分歧，但像这样靠侮辱、造谣、带节奏来发泄情绪的，反而只在这个帖子里见过。付老师本人一直很低调，学术声誉和影响力都很高，院士头衔多、关注度高，本来就容易树大招风；但树大招风不代表别人就可以随意造谣抹黑"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 811,
+      "paragraphs": [
+        {
+          "content_hash": "71df95215873de08",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里没有硬性毕业论文数量要求。之前组内整体水平高，很多人确实能做到接近甚至超过10篇一作，但实际毕业篇数因人而异，3-7篇都很常见，也有人能做到十几篇一作并拿到很强的教职。老师鼓励多出成果，本质上是为了学生未来的竞争力，不是机械卡毕业。真要说组里的“门槛”，那也是高标准、高产出，而不是低级压榨。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 813,
+      "paragraphs": [
+        {
+          "content_hash": "9b5b5c4ca3db2819",
+          "style": "NORMAL_TEXT",
+          "text": "这个说法纯属添油加醋。组内毕业生和导师普遍保持长期联系，沟通和合作都很多。实验室这些年出了很多很强的去向，十几个以上AP只是其中一部分，不少人无论留美还是回国都发展很好。真要说事实，那就是这个组长期能把学生送到学术界和工业界很强的位置，而不是靠造谣定义。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 815,
+      "paragraphs": [
+        {
+          "content_hash": "e1c2beaae2c6af6d",
+          "style": "NORMAL_TEXT",
+          "text": "实习方面绝对是良心组了。学生出去实习期间导师一般都暂停 regular meeting。导师对实习唯一要求就是希望做高质量、论文导向的研究实习，除此之外没有这些乱七八糟的东西。相反，老师一直非常鼓励学生去实习，很多同学毕业前都有3-4段 FAANG full-time intern 甚至更多 part-time 研究经历，工业界人脉和合作资源都非常强。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 817,
+      "paragraphs": [
+        {
+          "content_hash": "51155abf7e1fe896",
+          "style": "NORMAL_TEXT",
+          "text": "这也不符合事实。导师招实习生一直很谨慎，这两年反而基本不怎么收，因为默认是按未来读博名额的标准去看。确实会有极少数新人实习生自己犯很严重的问题，但组里通常都低调处理，不会到处说，更不会故意毁人。把个别人的不适配说成“养蛊”，只能说明说这话的人自己心态有问题。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 811,
+      "at_to": 819,
+      "from_paragraphs": [
+        {
+          "content_hash": "567ca90dc198b7a8",
+          "style": "NORMAL_TEXT",
+          "text": "（经亲自与学生本人确认，删除涉及学生隐私的不准确部分）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fb5e58ca82a85028",
+          "style": "NORMAL_TEXT",
+          "text": "我个人的实际体验并不是这样。导师对学生要求严格，这一点我承认；但“严格”和“辱骂威胁”不是一回事。导师说话不会超出professional的范围。科研训练本来就有压力，真正做出东西的人都知道，适当的紧迫感反而能避免无效内耗和 overthinking，也确实催生了很多不错的工作。"
+        },
+        {
+          "content_hash": "48117c99871d3c51",
+          "style": "NORMAL_TEXT",
+          "text": "（经亲自与学生本人确认，删除涉及学生隐私的不准确部分）(请不要编造谣言了)（纯造谣。这个师兄和实验室关系一直很好，现在常驻波士顿某 top lab 做 scientist。毕业以后实验室和导师组织的活动他也经常主动参加。真要关系差成你里写的那样，现实里根本不会是这种状态。你要不要我直接把人请来，让你当着当事人的面把这段再说一遍。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 953,
+      "at_to": 962,
+      "from_paragraphs": [
+        {
+          "content_hash": "e2134dfbf6e96b53",
+          "style": "NORMAL_TEXT",
+          "text": "按照白人的标准，ta"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "84a4ed7a810567f3",
+          "style": "NORMAL_TEXT",
+          "text": "按照白人的标准，大海写的信确实pian'cha"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1691,
+      "at_to": 1700,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "80dece1d9ce5fe20",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1861,
+      "paragraphs": [
+        {
+          "content_hash": "f2df9d7d6e26da5d",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake，"
+        }
+      ]
+    }
+  ]
+}

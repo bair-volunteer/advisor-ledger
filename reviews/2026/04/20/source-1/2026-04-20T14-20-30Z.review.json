@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-20-30Z.delta.json",
+  "delta_ts": "2026-04-20T14-20-30Z",
+  "reviewed_at_utc": "2026-04-20T14:21:34Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Lab-specific descriptors identifying a former student by current employer (top Boston lab), position (scientist), and post-graduation lab attendance behavior, sufficient to de-anonymize the individual",
+      "excerpt": "这个师兄和实验室关系一直很好，现在常驻波士顿某 top lab 做 scientist。毕业以后实验室和导师组织的活动他也经常主动参加"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment attacking a critic's mental state rather than addressing the substance of the criticism",
+      "excerpt": "只能说明说这话的人自己心态有问题"
+    }
+  ],
+  "prompt_sha256": "da8164e8366fac80cbac0371528a461fc03a464057b8b2103ca7aa96cad41547",
+  "finish_reason": "stop",
+  "completion_tokens": 7121
+}
