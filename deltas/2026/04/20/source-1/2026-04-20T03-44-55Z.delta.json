@@ -1,0 +1,312 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-42-53Z",
+    "revision_id": "AMHacu4PXOUiYYAijjJtc2Yc1zobhhMXPNQnGs0iVE-lRhGIfQZZLo6IfivByAMslGYqtWWHDcREINvnMJMj-P0GqQ",
+    "paragraph_count": 986
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-44-55Z",
+    "revision_id": "AMHacu4G8FHegsiYfNN4lI88uw1I_LHkixyeLJXFyZf96XwqVsimE1JTTJ-oRQF_PuJU8eDVcoZi_v-2UTUktQM_kw",
+    "paragraph_count": 995
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 13,
+    "operations": 15,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0132,
+    "insertion_ratio": 0.0221
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 5,
+      "paragraphs": [
+        {
+          "content_hash": "ceb0aa969084eb82",
+          "style": "NORMAL_TEXT",
+          "text": "Chaowei Xiao的Tab没了！！"
+        },
+        {
+          "content_hash": "073943bc2e8583ab",
+          "style": "NORMAL_TEXT",
+          "text": "哪个cs删了！！！！！"
+        },
+        {
+          "content_hash": "9acbc051281b44e7",
+          "style": "NORMAL_TEXT",
+          "text": "全网驰援！！！"
+        },
+        {
+          "content_hash": "5b6cc4daf02e1e86",
+          "style": "NORMAL_TEXT",
+          "text": "把截图放出来吧同学们！"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 25,
+      "paragraphs": [
+        {
+          "content_hash": "ceb0aa969084eb82",
+          "style": "NORMAL_TEXT",
+          "text": "Chaowei Xiao的Tab没了！！"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 24,
+      "paragraphs": [
+        {
+          "content_hash": "5bf321f429fbefcb",
+          "style": "NORMAL_TEXT",
+          "text": "发现好朋友前老板了，好朋友读书的那俩年严重抑郁症，每周看心理医生，每天被PUA、威胁"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 32,
+      "at_to": 28,
+      "from_paragraphs": [
+        {
+          "content_hash": "d972670a4efec41f",
+          "style": "NORMAL_TEXT",
+          "text": "之前舍友"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "942572d7091a23dc",
+          "style": "NORMAL_TEXT",
+          "text": "之前朋友是他的phd，确实很惨，听说夜里经常一点打电话，感觉整个人都状态不太好"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 45,
+      "at_to": 41,
+      "from_paragraphs": [
+        {
+          "content_hash": "c4daca5a43a5901b",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f7dfa853ac4c2302",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 60,
+      "at_to": 56,
+      "from_paragraphs": [
+        {
+          "content_hash": "b5ce816a13a28a18",
+          "style": "NORMAL_TEXT",
+          "text": "实际实力很一般，组内发paper多是因为Rice有个大佬帮带了她第一届学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54951933dda90d80",
+          "style": "NORMAL_TEXT",
+          "text": "实际实力很一般（这个确实du），组内发paper多是因为Rice有个大佬帮带了她第一届学生"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 59,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 93,
+      "at_to": 90,
+      "from_paragraphs": [
+        {
+          "content_hash": "63540eb155be9dca",
+          "style": "NORMAL_TEXT",
+          "text": "吹嘘毕业的学生找到ap，但实际上这些学生基本都跟他切割了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "776d5525e7ad8fed",
+          "style": "NORMAL_TEXT",
+          "text": "吹嘘毕业的学生找到ap，但实际上这些学生基本都跟他"
+        },
+        {
+          "content_hash": "30ec98c2e0ba6ff3",
+          "style": "NORMAL_TEXT",
+          "text": "切割了"
+        },
+        {
+          "content_hash": "b773ae37dfba0ce9",
+          "style": "NORMAL_TEXT",
+          "text": "海王，发了很多口头offer"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 273,
+      "paragraphs": [
+        {
+          "content_hash": "8963684409af4038",
+          "style": "NORMAL_TEXT",
+          "text": "听说这人不是瓜很多？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 314,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "6f1f2d7e558f7756",
+          "style": "NORMAL_TEXT",
+          "text": "Rutgers University, Yingying Chen"
+        },
+        {
+          "content_hash": "ea8a5a11316028ca",
+          "style": "NORMAL_TEXT",
+          "text": "在这学校上过学的学生都知道这人有多变态吧？"
+        },
+        {
+          "content_hash": "20ede18299e9f0a1",
+          "style": "NORMAL_TEXT",
+          "text": "号称有一年逼走 3 个PHD"
+        },
+        {
+          "content_hash": "308756d2d1653ee2",
+          "style": "NORMAL_TEXT",
+          "text": "控制欲极强"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 481,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 491,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "dc62afd3173e514e",
+          "style": "NORMAL_TEXT",
+          "text": "UT Austin, Qixing Huang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 607,
+      "at_to": 616,
+      "from_paragraphs": [
+        {
+          "content_hash": "385259321152a6ed",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4194596fbabbc926",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都很好，哪怕项目没做出来\u000b6. 欢迎补充"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 615,
+      "at_to": 624,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9474e5fabc688b06",
+          "style": "NORMAL_TEXT",
+          "text": "Han非常push，骂哭过学生，学生quit组的比例很高"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 940,
+      "at_to": 949,
+      "from_paragraphs": [
+        {
+          "content_hash": "b7e9eb695f283793",
+          "style": "NORMAL_TEXT",
+          "text": "我本科在李老师组里a"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "633f62624a855574",
+          "style": "NORMAL_TEXT",
+          "text": "我本科在李老师组里待过很长时间，后来出国了，个人感觉他人确实还不错，甚至手把手教函数加密，听有学长说还帮忙debug过code"
+        }
+      ]
+    }
+  ]
+}

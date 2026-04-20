@@ -1,0 +1,16 @@
+{
+  "source_id": "source-1",
+  "source_name": "primary-doc",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "captured_at_utc": "2026-04-20T03-44-55Z",
+  "drive_metadata": {
+    "id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+    "name": "Advisor Red Flags Notes",
+    "mimeType": "application/vnd.google-apps.document",
+    "version": "6473",
+    "modifiedTime": "2026-04-20T03:43:11.800Z"
+  },
+  "text_sha256": "a5c580068d6a5ae3d7e77529a41f0b2a14d2642793968bf93c4c17c779e2b077",
+  "text_byte_len": 119293,
+  "doc_json_sha256": "816a71eaa66c9680eab462ef94c3c77ff8fa41aacb27c8b5a7fea3032e15c6ec"
+}
