@@ -1,0 +1,90 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T11-53-50Z",
+  "reviewed_at_utc": "2026-04-20T11:55:10Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 13,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "d22a769ca6f575d9",
+      "insert_hash": "4b50f95d5d05cd31",
+      "note": "Added details on 20 recommendations",
+      "ghost_text": "本人是kaize组里的intern，和组里的phd也有很多交流，kaize对学生和intern非常好好吧，找实习或者写推荐信都会很积极的帮助，改论文啥的也都很仔细【可以说是我遇到的改论文最仔细的老师了，没有之一】。论文署名也很公正，都是按contribution来的。",
+      "insert_text": "本人之前是kaize组里的intern，和组里的phd也有很多交流，kaize对学生和intern非常好好吧，找实习或者写推荐信都会很积极的帮助【之前申请项目有些多，找kaize要了20个项目的推荐信，kaize也是帮忙很快填完了】，改论文啥的也都很仔细【可以说是我遇到的改论文最仔细的老师了，没有之一】。论文署名也很公正，都是按contribution来的，不存在phd抢intern的一作。"
+    },
+    {
+      "ghost_hash": "845e5ab029fbfe4d",
+      "insert_hash": "5fc5b5cc0f4802c1",
+      "note": "Added '常toxic'",
+      "ghost_text": "据说是毒王",
+      "insert_text": "据说是毒王常toxic"
+    },
+    {
+      "ghost_hash": "a82398b1b30a6f90",
+      "insert_hash": "509033f17830ef88",
+      "note": "Added Stanford PhD investigation context",
+      "ghost_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 真热闹",
+      "insert_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟...那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 真热闹"
+    },
+    {
+      "ghost_hash": "5751c6f96adece45",
+      "insert_hash": "b13ebb565c08d022",
+      "note": "Added Stanford investigation details",
+      "ghost_text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的",
+      "insert_text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假, 我  理解有参与了   他那个是灰色地带的一种说辞，比较难以界定，但是论文写的不清不楚，他怎么解释也可以 那他后面的论文还有和银河的版权纠纷呢 怎么没人提 不都被wanghe告了吗"
+    },
+    {
+      "ghost_hash": "b2264688f8c185b0",
+      "insert_hash": "3cc6c37970f128a8",
+      "note": "Added '（忠告！）'",
+      "ghost_text": "避雷所有和此人合作过且仍保持合作的人！",
+      "insert_text": "避雷所有和此人合作过且仍保持合作的人！（忠告！）"
+    },
+    {
+      "ghost_hash": "b36c1d4b8e99f654",
+      "insert_hash": "bd93891ea90fee4e",
+      "note": "Grammar fix: 在王老师->在和王老师",
+      "ghost_text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在王老师合作中蔡老师也给了相当多帮助，特别是论文写作）",
+      "insert_text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在和王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+    },
+    {
+      "ghost_hash": "65bdd369767e05ea",
+      "insert_hash": "7d3a40bbef658879",
+      "note": "Added denial on code open source",
+      "ghost_text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）",
+      "insert_text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）（不属实，王老师向来建议学生开源代码）"
+    },
+    {
+      "ghost_hash": "3f4fbe302a433a06",
+      "insert_hash": "cd266a54fb575ad3",
+      "note": "Removed '水平可见一斑'",
+      "ghost_text": "由于不懂具体方向瞎指挥,导致很多项目做到一半已是强弩之末,但是却非要雕花,导致执行者的学生都不好意说是自己做的,水平可见一斑",
+      "insert_text": "由于不懂具体方向瞎指挥,导致很多项目做到一半已是强弩之末,但是却非要雕花,导致执行者的学生都不好意说是自己做的"
+    },
+    {
+      "ghost_hash": "a060dd531fbbd253",
+      "insert_hash": "e207b638ee5bc90b",
+      "note": "Added '下水道想法' etc.",
+      "ghost_text": "和其他学校合作的项目由于东亚心理要表现要邀功导致简单的方案层层加码学生苦不堪言到头来精神美爹根本不领情",
+      "insert_text": "和其他学校合作的项目,由于要表现,要邀功导致简单的方案层层加码(加的都是一些下水道想法)学生苦不堪言, 到头来精神美爹根本不领情反而质问为什么要做这些无用功"
+    },
+    {
+      "ghost_hash": "22fcf405492d88e9",
+      "insert_hash": "552f7ba69c165ec4",
+      "note": "Simplified to '经典言论:'",
+      "ghost_text": "0 research guidance 100 东亚 pua toxic拉满, 经典言论包括不仅限于“i pay you a lot”",
+      "insert_text": "0 research guidance 100 东亚 pua toxic拉满, 经典言论: “i pay you a lot”"
+    },
+    {
+      "ghost_hash": "9b66bfcc3c66ca27",
+      "insert_hash": "b54e94c744c5c350",
+      "note": "Fixed typo: 漏->漏馅",
+      "ghost_text": "（xswl,prof自己下场假装第三方rebuttal？组里多少黑工看看主页的alumni就知道，资源是mbzuai funding+为了出活有什么说服力。 关于科研自己看看搁浅和中稿率就知道什么策略dddd。教授到底什么实力，科研指导多少，随便拿她的论文拷问细节就漏）",
+      "insert_text": "（xswl,prof自己下场假装第三方rebuttal？组里多少黑工看看主页的alumni就知道，资源是mbzuai funding+为了出活有什么说服力。 关于科研自己看看搁浅和中稿率就知道什么策略dddd。教授到底什么实力，科研指导多少，随便拿她的论文拷问细节就漏馅。）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4836,
+  "skipped_reason": null
+}

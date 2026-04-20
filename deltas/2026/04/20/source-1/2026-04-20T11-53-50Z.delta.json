@@ -1,0 +1,246 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T11-49-49Z",
+    "revision_id": "AMHacu6tsVUdYLLJodmd_ytcsQTNz5MtlerWBZt4P-voFNYaF3My2gw__TmL28QujHVfKHf5e4Ww7H2OsPw_5IFTNQ",
+    "paragraph_count": 1497
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T11-53-50Z",
+    "revision_id": "AMHacu6iq821JF_6IFYaa3lZrKa0WaT1fVbfxnMXRzeMGBp-Tus-G_foHFUH724TmY80xs9W5Pl6v04YyqECe3vOOg",
+    "paragraph_count": 1497
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 13,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0087,
+    "insertion_ratio": 0.0087
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 48,
+      "at_to": 48,
+      "from_paragraphs": [
+        {
+          "content_hash": "d22a769ca6f575d9",
+          "style": "NORMAL_TEXT",
+          "text": "本人是kaize组里的intern，和组里的phd也有很多交流，kaize对学生和intern非常好好吧，找实习或者写推荐信都会很积极的帮助，改论文啥的也都很仔细【可以说是我遇到的改论文最仔细的老师了，没有之一】。论文署名也很公正，都是按contribution来的。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4b50f95d5d05cd31",
+          "style": "NORMAL_TEXT",
+          "text": "本人之前是kaize组里的intern，和组里的phd也有很多交流，kaize对学生和intern非常好好吧，找实习或者写推荐信都会很积极的帮助【之前申请项目有些多，找kaize要了20个项目的推荐信，kaize也是帮忙很快填完了】，改论文啥的也都很仔细【可以说是我遇到的改论文最仔细的老师了，没有之一】。论文署名也很公正，都是按contribution来的，不存在phd抢intern的一作。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 66,
+      "at_to": 66,
+      "from_paragraphs": [
+        {
+          "content_hash": "845e5ab029fbfe4d",
+          "style": "NORMAL_TEXT",
+          "text": "据说是毒王"
+        },
+        {
+          "content_hash": "1464bbfd708edcc0",
+          "style": "NORMAL_TEXT",
+          "text": "Bo Li老公，之前在ETH就很有名，非常toxic"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5fc5b5cc0f4802c1",
+          "style": "NORMAL_TEXT",
+          "text": "据说是毒王常toxic"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 233,
+      "at_to": 232,
+      "from_paragraphs": [
+        {
+          "content_hash": "a82398b1b30a6f90",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 真热闹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "509033f17830ef88",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟...那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 真热闹"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 241,
+      "at_to": 240,
+      "from_paragraphs": [
+        {
+          "content_hash": "5751c6f96adece45",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b13ebb565c08d022",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假, 我  理解有参与了   他那个是灰色地带的一种说辞，比较难以界定，但是论文写的不清不楚，他怎么解释也可以 那他后面的论文还有和银河的版权纠纷呢 怎么没人提 不都被wanghe告了吗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 246,
+      "at_to": 245,
+      "from_paragraphs": [
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3cc6c37970f128a8",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！（忠告！）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 297,
+      "at_to": 296,
+      "from_paragraphs": [
+        {
+          "content_hash": "b36c1d4b8e99f654",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+        },
+        {
+          "content_hash": "65bdd369767e05ea",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bd93891ea90fee4e",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在和王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+        },
+        {
+          "content_hash": "7d3a40bbef658879",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）（不属实，王老师向来建议学生开源代码）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 314,
+      "at_to": 313,
+      "from_paragraphs": [
+        {
+          "content_hash": "b088b37d5d13c517",
+          "style": "NORMAL_TEXT",
+          "text": "学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱。（还要帮他砍树，修草坪，帮他老婆雪地救援，搬家具）（这不是国内教授的作风么）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a2940686c9139892",
+          "style": "NORMAL_TEXT",
+          "text": "学生要帮他砍树，修草坪，帮他老婆雪地救援，搬家具（这不是国内教授的作风么）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 359,
+      "at_to": 358,
+      "from_paragraphs": [
+        {
+          "content_hash": "3f4fbe302a433a06",
+          "style": "NORMAL_TEXT",
+          "text": "由于不懂具体方向瞎指挥,导致很多项目做到一半已是强弩之末,但是却非要雕花,导致执行者的学生都不好意说是自己做的,水平可见一斑"
+        },
+        {
+          "content_hash": "a060dd531fbbd253",
+          "style": "NORMAL_TEXT",
+          "text": "和其他学校合作的项目由于东亚心理要表现要邀功导致简单的方案层层加码学生苦不堪言到头来精神美爹根本不领情"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cd266a54fb575ad3",
+          "style": "NORMAL_TEXT",
+          "text": "由于不懂具体方向瞎指挥,导致很多项目做到一半已是强弩之末,但是却非要雕花,导致执行者的学生都不好意说是自己做的"
+        },
+        {
+          "content_hash": "e207b638ee5bc90b",
+          "style": "NORMAL_TEXT",
+          "text": "和其他学校合作的项目,由于要表现,要邀功导致简单的方案层层加码(加的都是一些下水道想法)学生苦不堪言, 到头来精神美爹根本不领情反而质问为什么要做这些无用功"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 362,
+      "at_to": 361,
+      "from_paragraphs": [
+        {
+          "content_hash": "22fcf405492d88e9",
+          "style": "NORMAL_TEXT",
+          "text": "0 research guidance 100 东亚 pua toxic拉满, 经典言论包括不仅限于“i pay you a lot”"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "552f7ba69c165ec4",
+          "style": "NORMAL_TEXT",
+          "text": "0 research guidance 100 东亚 pua toxic拉满, 经典言论: “i pay you a lot”"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1257,
+      "at_to": 1257,
+      "from_paragraphs": [
+        {
+          "content_hash": "9b66bfcc3c66ca27",
+          "style": "NORMAL_TEXT",
+          "text": "（xswl,prof自己下场假装第三方rebuttal？组里多少黑工看看主页的alumni就知道，资源是mbzuai funding+为了出活有什么说服力。 关于科研自己看看搁浅和中稿率就知道什么策略dddd。教授到底什么实力，科研指导多少，随便拿她的论文拷问细节就漏）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b54e94c744c5c350",
+          "style": "NORMAL_TEXT",
+          "text": "（xswl,prof自己下场假装第三方rebuttal？组里多少黑工看看主页的alumni就知道，资源是mbzuai funding+为了出活有什么说服力。 关于科研自己看看搁浅和中稿率就知道什么策略dddd。教授到底什么实力，科研指导多少，随便拿她的论文拷问细节就漏馅。）"
+        }
+      ]
+    }
+  ]
+}

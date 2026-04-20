@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-53-50Z.delta.json",
+  "delta_ts": "2026-04-20T11-53-50Z",
+  "reviewed_at_utc": "2026-04-20T11:54:33Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes specific substantive allegations about a professor requiring students to pick up children, take them to tutoring, and pay for meals, while retaining other allegations. This appears to suppress specific evidence of personal exploitation rather than performing cleanup.",
+      "excerpt": "学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱。"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes specific claim identifying the subject as 'Bo Li's husband' and alleging a documented history of toxicity at ETH, suppressing substantive background context about the advisor's previous behavior.",
+      "excerpt": "Bo Li老公，之前在ETH就很有名，非常toxic"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Addition contains unsupported insulting characterization of research contributions as 'sewer ideas' (下水道想法), which constitutes pure disparagement rather than concrete criticism of advising practices.",
+      "excerpt": "加的都是一些下水道想法"
+    }
+  ],
+  "prompt_sha256": "fe1372653145c651b04872b45efc7848926dafe9f03938661ad32f1ba73455e5",
+  "finish_reason": "stop",
+  "completion_tokens": 4355
+}
