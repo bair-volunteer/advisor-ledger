@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-18-30Z.delta.json",
+  "delta_ts": "2026-04-20T11-18-30Z",
+  "reviewed_at_utc": "2026-04-20T11:19:31Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of profanity (abbreviated 'tmyi't') constituting a personal attack",
+      "excerpt": "别tmyi't"
+    },
+    {
+      "type": "pii",
+      "detail": "Nickname '阿Ping' combined with specific tenure descriptor '专攻Huang学十年' may identify a private individual (student/postdoc)",
+      "excerpt": "阿Ping"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment alleging harmful behavior",
+      "excerpt": "不要再害人了"
+    }
+  ],
+  "prompt_sha256": "b00c33d7e75c933f3f0eaf47824e42217288945c8595c57253c7ac74cfa60d2c",
+  "finish_reason": "stop",
+  "completion_tokens": 5253
+}

@@ -1,0 +1,132 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T11-16-20Z",
+    "revision_id": "AMHacu5eN9kfH0strLdEAa9brMC5uWHkcHoNKX5zceItZeUPAlBg5xTcZOMZfUnTqM-5g5HBGcjh1QUgotfuvTlYlA",
+    "paragraph_count": 1504
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T11-18-30Z",
+    "revision_id": "AMHacu46431iZRF4dF2WgWxAT5IvZZseblEzcI1uDsStECnARE-bqwzfHhODshDylo_fT6mYK_y2gXojpB3NPTwVug",
+    "paragraph_count": 1505
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 5,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0033,
+    "insertion_ratio": 0.004
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 233,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "9dab6a1c3ffb286b",
+          "style": "NORMAL_TEXT",
+          "text": "真热闹  berkeley vision组一直风气堪忧 但是其他组管得还是严的 pieter sergey一直都是100%自己写信 想来自jitendra什么不明gmail的信 各大学校committee审过材料的大家dddd"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fa639924a60be17e",
+          "style": "NORMAL_TEXT",
+          "text": "真热闹  berkeley vision组一直风气堪忧 但是其他组管得还是严的 pieter sergey一直都是100%自己写信 想造假他们的信难得很 来自jitendra什么不明gmail的信 各大学校committee审过材料的大家dddd"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 237,
+      "at_to": 237,
+      "from_paragraphs": [
+        {
+          "content_hash": "5ee7656a7b581224",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d9b9c2049fa047eb",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很 别tmyi't"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 892,
+      "at_to": 892,
+      "from_paragraphs": [
+        {
+          "content_hash": "a9ec59223349d7fe",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）大兵团（吓哭了）（绷不住了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "da3554536b5b79f6",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（fake，十几个）(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）大兵团（吓哭了）（绷不住了）(参加项目的，哪怕项目没有结果，也都写了不错的letter)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1062,
+      "at_to": 1062,
+      "from_paragraphs": [
+        {
+          "content_hash": "7bd6b3312a9c79d3",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着，同时有时候也会有一些情绪上的波动， 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 他对学生也很support, 无论是学术界还是工业界, 教职很多都去top10了, 业界也基本都是去top大厂。然后和四大的connection非常紧密，每年都有本科生去四大，普林，UW之类的学校。任何一个组有好也有坏，关键在于你能不能适应和习惯，或者说如何自洽。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "741c8c01fa54ecac",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着，同时有时候也会有一些情绪上的波动， 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 他对学生也很support, 无论是学术界还是工业界, 教职很多都去top10了, 业界也基本都是去top大厂。然后和四大的connection非常紧密，每年都有本科生去四大，普林，UW之类的学校。任何一个组有好也有坏，关键在于你能不能适应和习惯，或者说如何自洽。t"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1254,
+      "at_to": 1254,
+      "from_paragraphs": [
+        {
+          "content_hash": "6d3f6e3b7a4d736b",
+          "style": "NORMAL_TEXT",
+          "text": "利益相关，大家自行判断。lijie的合作者之一。可以说lijie是我合作过这么多人里面对学生最nice的一个了。首先pua和push我相信随便问问组内的phd或者intern的学生都能够得到结论。AI本身就是一个要赶ddl的专业方向，但没赶上，改会议，lijie也从来不会说啥。如果定期追问进度就算是push的话，那没啥好说的，本身就不适合读phd。pua就更没有了，一作都是学生的，资源都是给够的，api、算力都充足。1. 入学半年直博生投稿量50+，真有心去翻翻arxiv和openreview就知道不存在这个人。2. 无数黑工？据我所知visiting都发钱吧？online的intern都有phd或者是合作者带吧？3. Nanobanana，没啥好说的，有没有用nanobanana看看论文一眼就看得出来。 4. 关于指导，lijie是给了不少idea给intern的学生的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "01624d88de83795d",
+          "style": "NORMAL_TEXT",
+          "text": "利益相关，大家自行判断。lijie的合作者之一。可以说lijie是我合作过这么多人里面对学生最nice的一个了。首先pua和push我相信随便问问组内的phd或者intern的学生都能够得到结论。AI本身就是一个要赶ddl的专业方向，但没赶上，改会议，lijie也从来不会说啥。如果定期确认进度就算是push的话，那没啥好说的，本身就不适合读phd。pua就更没有了，一作都是学生的，资源都是给够的，api、算力都充足，推荐信也都写。1. 入学半年直博生投稿量50+，真有心去翻翻arxiv和openreview就知道不存在这个人。2. 无数黑工？据我所知visiting都发钱吧？online的intern都有phd或者是合作者带吧？3. Nanobanana，没啥好说的，有没有用nanobanana看看论文一眼就看得出来。 4. 关于指导，lijie是给了不少idea给intern的学生的。如果说好导师是把饭喂学生嘴里，活都是自己干，学生拿一作，那这世界上估计没多少好导师了。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1487,
+      "paragraphs": [
+        {
+          "content_hash": "9bdec9ae2c3d2d07",
+          "style": "NORMAL_TEXT",
+          "text": "专攻Huang学十年,收手吧，阿Ping，不要再害人了"
+        }
+      ]
+    }
+  ]
+}

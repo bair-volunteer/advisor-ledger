@@ -1,0 +1,20 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T11-18-30Z",
+  "reviewed_at_utc": "2026-04-20T11:20:29Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 6,
+  "pairs": [
+    {
+      "ghost_hash": "7bd6b3312a9c79d3",
+      "insert_hash": "741c8c01fa54ecac",
+      "note": "Same text with added trailing typo",
+      "ghost_text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着，同时有时候也会有一些情绪上的波动， 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 他对学生也很support, 无论是学术界还是工业界, 教职很多都去top10了, 业界也基本都是去top大厂。然后和四大的connection非常紧密，每年都有本科生去四大，普林，UW之类的学校。任何一个组有好也有坏，关键在于你能不能适应和习惯，或者说如何自洽。",
+      "insert_text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着，同时有时候也会有一些情绪上的波动， 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 他对学生也很support, 无论是学术界还是工业界, 教职很多都去top10了, 业界也基本都是去top大厂。然后和四大的connection非常紧密，每年都有本科生去四大，普林，UW之类的学校。任何一个组有好也有坏，关键在于你能不能适应和习惯，或者说如何自洽。t"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4713,
+  "skipped_reason": null
+}
