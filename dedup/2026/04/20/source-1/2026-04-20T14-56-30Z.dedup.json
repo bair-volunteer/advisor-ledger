@@ -1,0 +1,76 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T14-56-30Z",
+  "reviewed_at_utc": "2026-04-20T14:58:02Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "66911d107e3db8a8",
+      "insert_hash": "438c86271413362f",
+      "note": "added comment about open source",
+      "ghost_text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了",
+      "insert_text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了 (这个就有点当别人是傻子了，这个项目人家完全开源，checkpoint也有，我跑过)"
+    },
+    {
+      "ghost_hash": "1a44f1d7467b4c73",
+      "insert_hash": "bc1e7792100f0b63",
+      "note": "reorganized structure, removed '以上'",
+      "ghost_text": "- 本人是Chuang老师的学生，基于以上和以下说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去，只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；2. 组里待过的本科生ms和各种intern有去CMU, MIT, Stanford, Princeton, UIUC, UCSD, UCLA的 3. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；4. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern；5.",
+      "insert_text": "- 本人是Chuang老师的学生，基于以下说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去 2. 组里待过的本科生ms和各种intern有去CMU, MIT, Stanford, Princeton, UIUC, UCSD, UCLA的"
+    },
+    {
+      "ghost_hash": "1a44f1d7467b4c73",
+      "insert_hash": "f2ae2c8a968d71c0",
+      "note": "moved and expanded rec letter point",
+      "ghost_text": "- 本人是Chuang老师的学生，基于以上和以下说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去，只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；2. 组里待过的本科生ms和各种intern有去CMU, MIT, Stanford, Princeton, UIUC, UCSD, UCLA的 3. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；4. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern；5.",
+      "insert_text": "3. 只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；推荐信肯定有强度之分，不可能所有人都是top1%吧，难道不是1%就算黑推吗？3. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；4. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern；5."
+    },
+    {
+      "ghost_hash": "773fa67e4c877721",
+      "insert_hash": "138121f934868983",
+      "note": "added google drive detail",
+      "ghost_text": "你错了, 我就是在耿哥公司这里intern, 别什么都扯到人家身上, 现在美西凌晨, 我给耿哥发消息他都没回",
+      "insert_text": "你错了, 我就是在耿哥公司这里intern, 别什么都扯到人家身上, 现在美西凌晨, 我给耿哥发消息他都没回, 这图是我google drive发的,"
+    },
+    {
+      "ghost_hash": "a50e2c273ab5cfec",
+      "insert_hash": "fd97e1f320f9013d",
+      "note": "completed sentence about lab stability",
+      "ghost_text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生（实话实说，现在很久没这种消息了，陈老师在大环境动荡情况下能保证组里所有博士资金充足我觉得是读博时一个很大的优点了，个人感觉哈，见过太多身边读博的朋友读着）",
+      "insert_text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生（实话实说，现在很久没这种消息了，陈老师在大环境动荡情况下能保证组里所有博士资金充足我觉得是读博时一个很大的优点了，个人感觉哈，见过太多身边其他组读博的朋友，读着读着人走了的情况，个人感觉读博时组里稳定，老师稳定是个很加分项）"
+    },
+    {
+      "ghost_hash": "f414ee4ecdbf2000",
+      "insert_hash": "a283a36d10999141",
+      "note": "typo fix: 做->呆",
+      "ghost_text": "至于他组里怎么样，参考2024年春“北京某科技公司暴力裁员”，新闻中的这个公司，苹芯科技，后来改名尼欧克斯了，就是Yiran的公司，HR 3个月随便开人，纯是跟老板本人学的（这个事据我所知好像和陈老师本人没啥关系，有点人在学校做，瓜从天上来，还掉到自己头上的感觉）",
+      "insert_text": "至于他组里怎么样，参考2024年春“北京某科技公司暴力裁员”，新闻中的这个公司，苹芯科技，后来改名尼欧克斯了，就是Yiran的公司，HR 3个月随便开人，纯是跟老板本人学的（这个事据我所知好像和陈老师本人没啥关系，有点人在学校呆，瓜从天上来，还掉到自己头上的感觉）"
+    },
+    {
+      "ghost_hash": "3d88badd8bfe47b1",
+      "insert_hash": "0543083ea2744405",
+      "note": "added defense of research freedom",
+      "ghost_text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）",
+      "insert_text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）（进组的时候，老师让我选择了自己的方向，不是说只能做某些方向，你在攻击现在学生做的方向吗？）（没有funding怎么能yang xue s"
+    },
+    {
+      "ghost_hash": "f67498f23e05f8ca",
+      "insert_hash": "5c99668d664f154d",
+      "note": "expanded rec letter policy details",
+      "ghost_text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）（但给intern写信还是）",
+      "insert_text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）（但会给intern写不错的推荐信，不会黑推，做了2个月没什么进展的intern也都给写了）"
+    },
+    {
+      "ghost_hash": "637ea8f07376de9b",
+      "insert_hash": "d5461dadafd9b057",
+      "note": "added graduated student example",
+      "ghost_text": "大组会公开骂学生，公开批斗，拍桌子，每周都骂",
+      "insert_text": "大组会公开骂学生，公开批斗，拍桌子，每周都骂 （认识一个在他手下毕业的学生两眼无神在上海ailab浑浑噩噩度日并且继续PUA实习生）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5258,
+  "skipped_reason": null
+}

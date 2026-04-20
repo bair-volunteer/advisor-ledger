@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-56-30Z.delta.json",
+  "delta_ts": "2026-04-20T14-56-30Z",
+  "reviewed_at_utc": "2026-04-20T14:57:22Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Describes a specific graduated student with identifying details including current employer (Shanghai AI Lab), physical appearance (lifeless eyes), and mental state (dazed), which could de-anonymize the individual.",
+      "excerpt": "认识一个在他手下毕业的学生两眼无神在上海ailab浑浑噩噩度日"
+    },
+    {
+      "type": "pii",
+      "detail": "References a specific student incident at CUHK CSE department with enough detail (graduation dispute widely known in department) to potentially identify the individual.",
+      "excerpt": "曾有个学生因为他卡毕业直接闹的全系人尽皆知（CUHKCSE）"
+    }
+  ],
+  "prompt_sha256": "52267ba6cf15e0f56e95e18f556d8ff40dae82b0a270df2e7ddf09485d35cddb",
+  "finish_reason": "stop",
+  "completion_tokens": 4674
+}
