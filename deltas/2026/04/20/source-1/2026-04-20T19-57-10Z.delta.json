@@ -1,0 +1,399 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-48-30Z",
+    "revision_id": "AMHacu7GOI7XY1k0-swXJQSLfsZlloCsBfq0B9syEqFnx3I5Kq3XinEMDtYjdg5Xl6QLZN7_OSUqIgjQtr4d2ksqpg",
+    "paragraph_count": 1997
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-57-10Z",
+    "revision_id": "AMHacu55_yE_Or09Rz7mqkGAjBstsJCvdBLmuC2z1zHfLLNRHNf3yNt61Qydy66Zy5p-Pz_CGxq-t7GbA_Ud_wMFwA",
+    "paragraph_count": 1995
+  },
+  "summary": {
+    "inserted_paragraphs": 24,
+    "deleted_paragraphs": 26,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.013,
+    "insertion_ratio": 0.012
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 0,
+      "paragraphs": [
+        {
+          "content_hash": "68a768c11b26f81b",
+          "style": "NORMAL_TEXT",
+          "text": "“我翻开 doc 一查，这 doc 没有年代，歪歪斜斜的每页上都写着‘仁义道德’几个字。我横竖睡不着，仔细看了半夜，才从字缝里看出字来，满本都写着两个字是‘吃人’！”"
+        },
+        {
+          "content_hash": "fe372a8917f161a3",
+          "style": "NORMAL_TEXT",
+          "text": " — 改自鲁迅《狂人日记》"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 76,
+      "at_to": 79,
+      "from_paragraphs": [
+        {
+          "content_hash": "579160b9db2d9f8a",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生的瓜是真的 为什么没人说？？？ 和学生交往违反职业道德吧 title9 放在我们学校完全tenure不了 不能因为人好 就忽略私人生活吧"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cb78327037d155b1",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生的瓜是真的 为什么没人说？？？ 和学生交往违反职业道德吧 title9 放在我们学校完全tenure不了 可能只是对男生好"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 120,
+      "at_to": 123,
+      "from_paragraphs": [
+        {
+          "content_hash": "3ea1ab391a42f522",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？水平很差能去xai？？？能不左右脑互搏不。他博导也是佬 他本人完全rising star拿过那么多奖不知道差在何处。完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。（我再也不玩抽象了 因为会被当真sb）（<-这算rebuttal成功了吗 能进红榜没？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b6aa1d2592249d16",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？水平很差能去xai？？？能不左右脑互搏不。他博导也是佬 他本人完全rising star拿过那么多奖不知道差在何处。完全好老师来的给所有intern写强推 说他push说他组压力大我都可 以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。（我再也不玩抽象了 因为会被当真sb）（<-这算rebuttal成功了吗 能进红榜没？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 320,
+      "at_to": 323,
+      "from_paragraphs": [
+        {
+          "content_hash": "876e3e97c9bcd764",
+          "style": "NORMAL_TEXT",
+          "text": "在MPI博后的时候就拿合同威胁甚至fire学生（听说被fire后面也是北美ap）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0b40d6d71e931215",
+          "style": "NORMAL_TEXT",
+          "text": "在MPI博后的时候就拿合同威胁甚至fire学生（听说被fire后面也是北美ap）（恐怖恐怖恐怖恐怖）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 559,
+      "at_to": 562,
+      "from_paragraphs": [
+        {
+          "content_hash": "4d3fe32260665a5b",
+          "style": "NORMAL_TEXT",
+          "text": "Booth的老师们都ego比较大"
+        },
+        {
+          "content_hash": "714dcf7006c041e2",
+          "style": "NORMAL_TEXT",
+          "text": "有个女老师靠和白男博后老板na"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e2f4d26ff0e0f77a",
+          "style": "NORMAL_TEXT",
+          "text": "Booth的老师们都ego比较大 做得很理论 做实验的别去"
+        },
+        {
+          "content_hash": "fbb7ba77c18040e1",
+          "style": "NORMAL_TEXT",
+          "text": "有个女老师靠和白男博后老板拿脚职"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 609,
+      "at_to": 612,
+      "from_paragraphs": [
+        {
+          "content_hash": "907958084d49d73f",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱无敌了，压抑哥每次造谣经典节目，不得不品（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ba426e34e45a1281",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱无敌了，压抑哥每次造谣经典节目，不得不品（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）（libo 和"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 698,
+      "at_to": 701,
+      "from_paragraphs": [
+        {
+          "content_hash": "a0e56232eab0976c",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃药了 哪来这么多大孝子 都是耿浩然自己装的吧 今年申请的intern没一个说他好话的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9edf077a15cf7e74",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃药了 哪来这么多大孝子 今年申请的intern没一个说他好话的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 824,
+      "paragraphs": [
+        {
+          "content_hash": "7b7f5621e55f644d",
+          "style": "NORMAL_TEXT",
+          "text": "确实回国了，但是“对学生差”是彻头彻尾无稽之谈"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 828,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 837,
+      "paragraphs": [
+        {
+          "content_hash": "298c1e835363a286",
+          "style": "NORMAL_TEXT",
+          "text": "要推荐的人很多，都是客观推荐信，去 Stanford / Berkeley / UW / GeTech / USC 等PhD program的学生都有，学生个人能力是主要原因，信没问题"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 839,
+      "paragraphs": [
+        {
+          "content_hash": "f11e48931322acdf",
+          "style": "NORMAL_TEXT",
+          "text": "更加无稽之谈，苏老师脾气出了名的好，从来不会对任何人刻薄。说他忙也就算了，怎么可能会骂人"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 839,
+      "at_to": 844,
+      "from_paragraphs": [
+        {
+          "content_hash": "ba37284d0f8508cb",
+          "style": "NORMAL_TEXT",
+          "text": "本校找导师，或者重新申请"
+        },
+        {
+          "content_hash": "cec03e381ce72213",
+          "style": "NORMAL_TEXT",
+          "text": "转学也是支持的，有的人转学到了Stanford, UW (Dieter Fox)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8ebcd81dc251a1d4",
+          "style": "NORMAL_TEXT",
+          "text": "本校找导师，有去 Henrik / Zhuowen / Ravi 等组的，或者重新申请"
+        },
+        {
+          "content_hash": "b175163987164e65",
+          "style": "NORMAL_TEXT",
+          "text": "转学也是支持的，有的人转学到了Stanford, UW (Dieter Fox), Penn"
+        },
+        {
+          "content_hash": "cd2059ae42dc6889",
+          "style": "NORMAL_TEXT",
+          "text": "在本校的同学也有funding，不需要做TA，很多都在外面实习，很自由"
+        },
+        {
+          "content_hash": "2172d001ef31f60a",
+          "style": "NORMAL_TEXT",
+          "text": "强烈建议这一条黑榜应该删除，请把苏老师移到红榜"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1254,
+      "paragraphs": [
+        {
+          "content_hash": "0d64d90109807094",
+          "style": "NORMAL_TEXT",
+          "text": "UT Austin, Yuke Zhu"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1563,
+      "paragraphs": [
+        {
+          "content_hash": "c8ede421ca1224b4",
+          "style": "NORMAL_TEXT",
+          "text": "Columbia University - Sharon Di"
+        },
+        {
+          "content_hash": "b0c68deeaa336e93",
+          "style": "NORMAL_TEXT",
+          "text": "全校范围招几十个MS进组科研养蛊 最后蛊王可以留phd"
+        },
+        {
+          "content_hash": "d362386a7b30295e",
+          "style": "NORMAL_TEXT",
+          "text": "非常push，组里都是牛马，周末和晚上开会是常态，假期也开会"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f2d60a6b8e12693a",
+          "style": "NORMAL_TEXT",
+          "text": "Columbia Xiaodong Wang"
+        },
+        {
+          "content_hash": "b7b72130f82dc5d5",
+          "style": "NORMAL_TEXT",
+          "text": "懂得都懂"
+        },
+        {
+          "content_hash": "9d9c0be14b72b142",
+          "style": "NORMAL_TEXT",
+          "text": "学生被搞抑郁了"
+        },
+        {
+          "content_hash": "9fb6a975cf6bc8a1",
+          "style": "NORMAL_TEXT",
+          "text": "外面接项目搞钱"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1771,
+      "at_to": 1768,
+      "from_paragraphs": [
+        {
+          "content_hash": "0196634fa521533f",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d507772e1e20d293",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 背后欺负以为不会发声的人，一开始都不敢相信"
+        },
+        {
+          "content_hash": "9b98286f609747f2",
+          "style": "NORMAL_TEXT",
+          "text": "好个p，给学生黑推。平时完全看不出来，表面笑嘻嘻背后捅刀子。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1836,
+      "at_to": 1835,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9fc4508238942e7c",
+          "style": "HEADING_1",
+          "text": "CN"
+        }
+      ]
+    }
+  ]
+}

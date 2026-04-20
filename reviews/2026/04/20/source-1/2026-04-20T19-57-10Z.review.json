@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-57-10Z.delta.json",
+  "delta_ts": "2026-04-20T19-57-10Z",
+  "reviewed_at_utc": "2026-04-20T19:57:50Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive entries about Columbia professors Sharon Di and Xiaodong Wang, including specific allegations about advising practices (overworking students, depression, funding models) that appear to be legitimate observations rather than cleanup.",
+      "excerpt": "Columbia University - Sharon Di\n全校范围招几十个MS进组科研养蛊 最后蛊王可以留phd\n非常push，组里都是牛马，周末和晚上开会是常态，假期也开会\n\nColumbia Xiaodong Wang\n懂得都懂\n学生被搞抑郁了\n外面接项目搞钱"
+    }
+  ],
+  "prompt_sha256": "8dcd5dd9775c19b2b7dcffebd0db4dc31a94f90905e1722cc9c2a71c643d01e1",
+  "finish_reason": "stop",
+  "completion_tokens": 3780
+}
