@@ -1,0 +1,175 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-42-19Z",
+    "revision_id": "AMHacu4pjTIJBjw6E0y1Yv1VQ-6snt0gBHFqt1hPozGKrAQEVAx7cot2SQ9OIv00QKF7lctZaXVZ5-7TzMuXYJ1T7A",
+    "paragraph_count": 1102
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-44-22Z",
+    "revision_id": "AMHacu5Awv0SCcsJa25J9jGe8yg_xcelvuVM8kuk-TdQst2d2SJXJ5-84UjDP0vKY5R4NmFS9lU4-iLolpjsZ4jPwQ",
+    "paragraph_count": 1083
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 22,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.02,
+    "insertion_ratio": 0.0028
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 21,
+      "at_to": 21,
+      "from_paragraphs": [
+        {
+          "content_hash": "c00168c15680c45b",
+          "style": "NORMAL_TEXT",
+          "text": "说实话，很多"
+        },
+        {
+          "content_hash": "ceb1a2c3fd9429cd",
+          "style": "NORMAL_TEXT",
+          "text": "学生和phd老板本来就是奴隶和奴隶主的关系，老板可以随意开除学生，随意压榨学生，学生就是抱怨一下有什么问题？？？抱怨的意思是可以捕风捉影+人身攻击，恶意揣测？但凡有证据我觉得也是合情合理，很多时候关系本来就是不对等的，并不是开脱，只是你"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fe5a1e287578a434",
+          "style": "NORMAL_TEXT",
+          "text": "说实话，很多学生和phd老板本来就是奴隶和奴隶主的关系，老板可以随意开除学生，随意压榨学生，学生就是抱怨一下（or 描述自身经历；人不能把自己没亲身经历过就认为是假的吧）有什么问题？？？抱怨的意思是可以捕风捉影+人身攻击，恶意揣测？但凡有证据我觉得也是合情合理，很多时候关系本来就是不对等的，并不是开脱，只是你随便造谣，你在暗处，别人在明处，你觉得这些恶意中伤，就是很高尚的行为了？讲道理，棕色这个人觉得，恶能随意"
+        },
+        {
+          "content_hash": "44b0c5047b05703d",
+          "style": "NORMAL_TEXT",
+          "text": "至少比这些恶心的行为要高尚"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 73,
+      "at_to": 73,
+      "from_paragraphs": [
+        {
+          "content_hash": "e2dc7f1fe9eff75e",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，没人觉得孙哥有问题。以下代表我们五个一致的意见："
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0b2ca670e52f800b",
+          "style": "NORMAL_TEXT",
+          "text": "一、孙哥做人做事上绝对是超一流的，要想黑这方面先过我们这一关"
+        },
+        {
+          "content_hash": "a32b4e1b062f1248",
+          "style": "NORMAL_TEXT",
+          "text": "二、孙哥在社交媒体上为什么火，是因为他喜欢帮助人，看到任何信息都要分享，遇到陌生学生有问题都愿意帮忙。就他帮人都甚至不是出于善心，纯有瘾。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c4adf0f0765d2e6c",
+          "style": "NORMAL_TEXT",
+          "text": "三、实验室氛围。孙哥的实验室氛围非常好。"
+        },
+        {
+          "content_hash": "6e705af6f2494921",
+          "style": "NORMAL_TEXT",
+          "text": "三甲、我们组的合作氛围特别好。这一点的前提是credit assignment。孙老师对此非常认真，生怕有人吃亏弄出矛盾。他曾为了作者排序，叫我们视频看他摇骰子摇了一个小时，以确保truly random。同时，论文排序只看脏活累活（coding/实验/打标），而不看idea什么的，因此你能看到很多本科生拿一作。因为idea不算credit，大家反而无所顾忌的讨论。"
+        },
+        {
+          "content_hash": "1260c2fe5ed88c3f",
+          "style": "NORMAL_TEXT",
+          "text": "三乙、孙哥做什么工作非常自由。想做什么都行，比如我做架构的东西他其实一直不看好，但他也给我找卡找资源等等，从来没干涉过我。工作时长也非常自由，我感觉我们五人每周工作20-50小时都有，也不打卡也没有任何逼事，偷偷出去玩他也不管。自由也包括合作，比如我本人在组期间就跟其他老师学习，他非常支持还帮忙敲定了很多事项，那个老师也很满意一直跟我们组有合作。"
+        },
+        {
+          "content_hash": "f2d0f8e18f8c14ea",
+          "style": "NORMAL_TEXT",
+          "text": "三丙、孙哥给学生找资源非常努力。比如我还没进组就给我安排了实习，其他几人也是给安排各种资源实习合作卡。如上文所说，孙哥帮人纯有瘾，反倒让他认识很多人很多资源，他就可以对接很多资源。"
+        },
+        {
+          "content_hash": "901533d12ff76191",
+          "style": "NORMAL_TEXT",
+          "text": "三丁、孙哥也是美本出来的，对各种职场规矩很注意的，该避嫌的避嫌，该分开的分开。从没听说过这方面有问题。"
+        },
+        {
+          "content_hash": "dd2d83889c2ec848",
+          "style": "NORMAL_TEXT",
+          "text": "以上代表了如果你来读phd你会获得的一切待遇，既然我们五个对他没意见，你们就不用替我们操心了。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "427bda682b25e137",
+          "style": "NORMAL_TEXT",
+          "text": "四、对实习生。倘若你做过孙哥的实习生，那倒欢迎对这一点发言评价一下。不过我讲一些我观察到的情况："
+        },
+        {
+          "content_hash": "bbb9d981dd259835",
+          "style": "NORMAL_TEXT",
+          "text": "四甲、孙哥对于实习生的标准也很简单。做出多大成果，就推多少资源。你们可以看看单论推到比lehigh 好的phd，孙哥推了多少个。这些他肯定都想留在自己组里，但如前文所言他帮人有瘾，所以都是当时自己能推到多高推多高。卡、实习、推荐，一切同一标准。"
+        },
+        {
+          "content_hash": "5c14aec0c163b1fb",
+          "style": "NORMAL_TEXT",
+          "text": "四乙、实习生credit都归自己。你们自己数一作多少本科生就知道。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7980b33404d3d19e",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，没人觉得孙哥有问题。ben"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 701,
+      "paragraphs": [
+        {
+          "content_hash": "94661902032081ae",
+          "style": "NORMAL_TEXT",
+          "text": "MSU Yu Kong"
+        },
+        {
+          "content_hash": "9c1e4c004abbe13f",
+          "style": "NORMAL_TEXT",
+          "text": "https://www.1point3acres.com/bbs/thread-951143-1-1.html"
+        },
+        {
+          "content_hash": "435b8f0764a84320",
+          "style": "NORMAL_TEXT",
+          "text": "这位是经典了 跳槽去msu没处理好之前发offer的学生"
+        },
+        {
+          "content_hash": "4c229dc195f3bc2c",
+          "style": "NORMAL_TEXT",
+          "text": "现身说法了，给了RA不帮忙办手续，邮件回了答应了冷处理我呵呵"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
