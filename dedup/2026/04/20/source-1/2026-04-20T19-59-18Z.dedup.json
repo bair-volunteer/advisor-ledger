@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T19-59-18Z",
+  "reviewed_at_utc": "2026-04-20T20:00:29Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 25,
+  "pairs": [
+    {
+      "ghost_hash": "a990172c316a4e45",
+      "insert_hash": "0c35e874869346f3",
+      "note": "Added author note in parentheses",
+      "ghost_text": "P.S. 能不能去一下重，有很多大段被重复了一遍",
+      "insert_text": "P.S. 能不能去一下重，有很多大段被重复了一遍（大家看到了直接删掉就行了--作者留）"
+    },
+    {
+      "ghost_hash": "110264820fb68e8d",
+      "insert_hash": "09dccb118ca3f5a6",
+      "note": "Inserted skeptical comment about papers",
+      "ghost_text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】",
+      "insert_text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[？？？好文章？？]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+    },
+    {
+      "ghost_hash": "77967247186ef79c",
+      "insert_hash": "02224617478e082a",
+      "note": "Added rumor about zero Chinese admits",
+      "ghost_text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，为啥删我，大家不都知道么）",
+      "insert_text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，为啥删我，大家不都知道么）（据说今年一个中国学生都没招到）"
+    },
+    {
+      "ghost_hash": "ed0b82b70fa34050",
+      "insert_hash": "1ae6f21b5292ef1f",
+      "note": "Added empty parentheses after text",
+      "ghost_text": "比较toxic，挺多学生转组跑路，有人评价说和PhD开组会就像训狗。",
+      "insert_text": "比较toxic，挺多学生转组跑路（），有人评价说和PhD开组会就像训狗。"
+    },
+    {
+      "ghost_hash": "d507772e1e20d293",
+      "insert_hash": "568d0fe69fe2a248",
+      "note": "Rewrote final clause of comment",
+      "ghost_text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 背后欺负以为不会发声的人，一开始都不敢相信",
+      "insert_text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 背后欺负以为不会发声的人，说不出这人一句好话"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3316,
+  "skipped_reason": null
+}

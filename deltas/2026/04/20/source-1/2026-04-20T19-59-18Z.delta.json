@@ -1,0 +1,262 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-57-10Z",
+    "revision_id": "AMHacu55_yE_Or09Rz7mqkGAjBstsJCvdBLmuC2z1zHfLLNRHNf3yNt61Qydy66Zy5p-Pz_CGxq-t7GbA_Ud_wMFwA",
+    "paragraph_count": 1995
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-59-18Z",
+    "revision_id": "AMHacu4oZGOudbl5FR_AbpHP_i-I7HWXM1wK0niO8pRrCxJOvCxxba_LN5et0zsvjPCtSGN9Dz9zWkjy2BXJM0DYsg",
+    "paragraph_count": 2022
+  },
+  "summary": {
+    "inserted_paragraphs": 32,
+    "deleted_paragraphs": 5,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0025,
+    "insertion_ratio": 0.0158
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 8,
+      "at_to": 8,
+      "from_paragraphs": [
+        {
+          "content_hash": "a990172c316a4e45",
+          "style": "NORMAL_TEXT",
+          "text": "P.S. 能不能去一下重，有很多大段被重复了一遍"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0c35e874869346f3",
+          "style": "NORMAL_TEXT",
+          "text": "P.S. 能不能去一下重，有很多大段被重复了一遍（大家看到了直接删掉就行了--作者留）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 45,
+      "at_to": 45,
+      "from_paragraphs": [
+        {
+          "content_hash": "110264820fb68e8d",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "09dccb118ca3f5a6",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[？？？好文章？？]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 318,
+      "at_to": 318,
+      "from_paragraphs": [
+        {
+          "content_hash": "77967247186ef79c",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，为啥删我，大家不都知道么）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "02224617478e082a",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，为啥删我，大家不都知道么）（据说今年一个中国学生都没招到）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 623,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0649d8a2bf332220",
+          "style": "NORMAL_TEXT",
+          "text": "来自某个Intern的Rebuttal："
+        },
+        {
+          "content_hash": "5271ccac34123725",
+          "style": "NORMAL_TEXT",
+          "text": "今天才看到这个文档，作为一个了解一部分内幕的人，而且也是肖老师以前的intern，也大概知道整个流程是怎么回事，感觉还是帮老师rebuttal一下。我先来讲一下来龙去脉吧，首先发这些不实信息的同学应该是来源于同一个人，而且经历25Fall申请季的肖老师这边的intern应该都知道这个人，但是就不爆名字了。大概就是肖老师以前有一个intern，一直想让肖老师招他作PhD，但是wisc这边是强committee，老师无法给他100%保证录到wisc，而且肖老师给其他intern也都是这么说的，最后没录到，这人感觉就开始魔怔了，疯狂缠着肖老师让老师录他，开始疯狂攻击肖老师和组里的同学（已经有好多个组里同学被他攻击了），去年申请季也发生过类似的事情，当时也有个红黑榜，也是这哥们魔怔疯狂攻击。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bc78976038232d7d",
+          "style": "NORMAL_TEXT",
+          "text": "然后我来逐条指出这哥们造谣的这些点的离谱之处，各种逻辑矛盾，大家也信的吗："
+        },
+        {
+          "content_hash": "9ef1192f5cf68be7",
+          "style": "NORMAL_TEXT",
+          "text": "全世界的举报：来点证据，哪些举报信息，这么多举报总能找出至少一个吧，来点实锤。"
+        },
+        {
+          "content_hash": "b6330046bb4822e4",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源：说真的肖老师的能力和资源我个人感觉算是很好了吧。能力的话我个人感觉肖老师的research taste很强，组里也有很多有impact的工作，我合作下来感觉肖老师人真的很好。资源这方面我个人感觉优势就更大了，肖老师是比较active的性格，属于是拉资源很吃香的性格了，跟工业界合作也很多，至少我在组里的时候卡和各种API都很充足，说没资源感觉真的有点搞了。"
+        },
+        {
+          "content_hash": "9c09a38387dfae36",
+          "style": "NORMAL_TEXT",
+          "text": "被wisc开除跑到jhu：还是那句话，来点证据ok？开除这事wisc知道不。本身是正常跳槽，到你这就是开除出去了，真的6。"
+        },
+        {
+          "content_hash": "8f47febf77c0304a",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机：还是那句话，来点证据，咱们造谣还能再离谱点吗，这帖子最大的问题就是造谣无成本，甚至不需要提供任何证据。一个黑子就能无责写十几条假消息。"
+        },
+        {
+          "content_hash": "d8f4ced87a0c8fc7",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架：你是系主任还是小蜜，还是肖老师告诉你的 人家是神啊我看，就不能身兼数职吗"
+        },
+        {
+          "content_hash": "4bdc26e2f69f34dc",
+          "style": "NORMAL_TEXT",
+          "text": "和博后老板bo li谈恋爱：肖老师没做过博后，更别扯谈恋爱，真的造这种谣有点低级了"
+        },
+        {
+          "content_hash": "26d0e68a9a3bf774",
+          "style": "NORMAL_TEXT",
+          "text": "\t(无恶意，为什么在bo li的alumni里有chaowei ?)（这应该是他们早期有很多合作，但是本身没有在同一个单位呆过）"
+        },
+        {
+          "content_hash": "b25027c611c2d32c",
+          "style": "NORMAL_TEXT",
+          "text": "挂名外国导师甩锅学生：肖老师对学生真的很respect了，po一些跟肖老师的私下聊天，我觉得大家是能看出来肖老师性格是什么样的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3c7ff57774e12fcf",
+          "style": "NORMAL_TEXT",
+          "text": "问gpt自己的孩子应该取什么名字才能以后至少是个phd：不了解，没跟肖老师共享过账号，但还是希望你拿出证据"
+        },
+        {
+          "content_hash": "4bc7cab1e33d2a68",
+          "style": "NORMAL_TEXT",
+          "text": "不许学生假期正常休假，半夜3-4点直接打电话：没有过，只经历过rebuttal到半夜三点，肖老师让我早点休息，你有过的话应该也能po出来记录吧"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9ab885f0238d418c",
+          "style": "NORMAL_TEXT",
+          "text": "半小时不回复就破口大骂：我也经常很久不回老师消息，不过好像没被骂过。来点肖老师破口大骂的记录，我还挺好奇肖老师那性格破口大骂的样子hhh"
+        },
+        {
+          "content_hash": "0dc70081787644f9",
+          "style": "NORMAL_TEXT",
+          "text": "让学生替他抗房租：肖老师确实有时候不在wisc，当时有个同学刚来wisc，肖老师想着要是他愿意的话可以直接住他那，这样也方便他relocate，本身是好意的，而且这名同学跟肖老师关系也很好，到你这就成了被迫抗房租了"
+        },
+        {
+          "content_hash": "a7a6f7f06c4ed10d",
+          "style": "NORMAL_TEXT",
+          "text": "答应一位学生说自己去jhu了，等过两年再把他带过去：肖老师就那么几个学生，现在还在madison的你直接报名字得了，而且这名同学没去jhu也是因为自身原因觉得jhu对他来说并不比madison好，所以没过去，要不你解释解释有两名同学从wisc transfer过去了？"
+        },
+        {
+          "content_hash": "54ee830481f70dd6",
+          "style": "NORMAL_TEXT",
+          "text": "能力差搬着桌子非要去CS building：还是说来点证据哥们，造谣差不多得了。肖老师还不至于这么不体面。"
+        },
+        {
+          "content_hash": "34d43e7634fc0c9e",
+          "style": "NORMAL_TEXT",
+          "text": "发消息不回：这个还是有点道理，肖老师有时候确实不回消息，我刚开始也觉得很奇怪，后来发现他单纯事情和消息一大堆，有时候看到消息后面就忘了回了，日常会在两天后收到他的回复。而且他这个情况是跟谁都这样，包括各种faculty，比如我老板也经常找不到他。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7257a4d93222aea2",
+          "style": "NORMAL_TEXT",
+          "text": "说真的这哥们你追着肖老师穷追猛打两年你不累吗，我觉得肖老师算是对学生很respect的老师了，之前做intern时期经常性的几周忙别的事没有进展，肖老师也会觉得让我先去忙自己的事就好。而且也很关心学生，这里再po一些之前跟肖老师的一些聊天记录吧。我相信看到的人大概能了解到肖老师是个什么样的人，而且上面这一堆喷的点但凡有一个带证据呢？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1222,
+      "at_to": 1249,
+      "from_paragraphs": [
+        {
+          "content_hash": "ed0b82b70fa34050",
+          "style": "NORMAL_TEXT",
+          "text": "比较toxic，挺多学生转组跑路，有人评价说和PhD开组会就像训狗。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1ae6f21b5292ef1f",
+          "style": "NORMAL_TEXT",
+          "text": "比较toxic，挺多学生转组跑路（），有人评价说和PhD开组会就像训狗。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1768,
+      "at_to": 1795,
+      "from_paragraphs": [
+        {
+          "content_hash": "d507772e1e20d293",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 背后欺负以为不会发声的人，一开始都不敢相信"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "568d0fe69fe2a248",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 背后欺负以为不会发声的人，说不出这人一句好话"
+        }
+      ]
+    }
+  ]
+}
