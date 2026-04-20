@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-00-50Z.delta.json",
+  "delta_ts": "2026-04-20T10-00-50Z",
+  "reviewed_at_utc": "2026-04-20T10:01:17Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Personal insult/attack on another commenter ('silly child', 'don't dream') rather than criticism of concrete advising practices",
+      "excerpt": "还知情人，你别做梦了，清醒点傻孩子"
+    }
+  ],
+  "prompt_sha256": "67c3da43b8b741c6a31ee977bb401213f7ab912ba043bd2503c3363762f738ef",
+  "finish_reason": "stop",
+  "completion_tokens": 2397
+}
