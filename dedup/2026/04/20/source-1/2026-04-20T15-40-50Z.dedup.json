@@ -1,0 +1,76 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T15-40-50Z",
+  "reviewed_at_utc": "2026-04-20T15:42:22Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 7,
+  "n_inserts": 12,
+  "pairs": [
+    {
+      "ghost_hash": "329d7e127334b486",
+      "insert_hash": "13ded3e367e9ee97",
+      "note": "split: graduation requirements",
+      "ghost_text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）",
+      "insert_text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）"
+    },
+    {
+      "ghost_hash": "329d7e127334b486",
+      "insert_hash": "0326b8a301abc076",
+      "note": "split: response to critic",
+      "ghost_text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）",
+      "insert_text": "（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）"
+    },
+    {
+      "ghost_hash": "b46801d3f7383a67",
+      "insert_hash": "9575249dc9c9b51c",
+      "note": "split: CCF comment",
+      "ghost_text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？） （不属实，王老师认可COLM等会议）",
+      "insert_text": "在美国看CCF的神人"
+    },
+    {
+      "ghost_hash": "b46801d3f7383a67",
+      "insert_hash": "3a6e166e7908d301",
+      "note": "split: CCF justification",
+      "ghost_text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？） （不属实，王老师认可COLM等会议）",
+      "insert_text": "（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？）"
+    },
+    {
+      "ghost_hash": "b46801d3f7383a67",
+      "insert_hash": "e7bb275f5a14ccc6",
+      "note": "split: COLM clarification",
+      "ghost_text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？） （不属实，王老师认可COLM等会议）",
+      "insert_text": " （不属实，王老师认可COLM等会议）"
+    },
+    {
+      "ghost_hash": "6c45c305e6c4a1fa",
+      "insert_hash": "270d2d3c01284bf3",
+      "note": "added relationship detail",
+      "ghost_text": "Yufei Ding  今年stanford的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把haoran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已",
+      "insert_text": "Yufei Ding  今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+    },
+    {
+      "ghost_hash": "8934aac73160ab0d",
+      "insert_hash": "0679cbc82a4d5298",
+      "note": "YY to Yang Yuan",
+      "ghost_text": "Tsinghua, YY",
+      "insert_text": "Tsinghua, Yang Yuan"
+    },
+    {
+      "ghost_hash": "2093abc6c683c5df",
+      "insert_hash": "d92dc712eba7614a",
+      "note": "combined with paper title",
+      "ghost_text": "代表作",
+      "insert_text": "代表作On the power of foundation models, 用AI审一下一眼就发现所有theorem都是错的，逆变斜变符号写反了"
+    },
+    {
+      "ghost_hash": "0d5696793e1fca4a",
+      "insert_hash": "d92dc712eba7614a",
+      "note": "theorem error comment",
+      "ghost_text": " 用AI审一下一眼就发现所有theorem都是错的，逆变斜变符号写反了",
+      "insert_text": "代表作On the power of foundation models, 用AI审一下一眼就发现所有theorem都是错的，逆变斜变符号写反了"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5298,
+  "skipped_reason": null
+}

@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-40-50Z.delta.json",
+  "delta_ts": "2026-04-20T15-40-50Z",
+  "reviewed_at_utc": "2026-04-20T15:41:42Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Edit adds full name of student (Hao Ran Geng) and identifies romantic relationship to another student, disclosing personally identifying information about a private individual",
+      "excerpt": "hao ran geng 的女朋友"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses gendered insult '学术妲己' (academic Daji, implying use of sexual appeal for academic gain) as unsupported character judgment",
+      "excerpt": "纯学术妲 己"
+    }
+  ],
+  "prompt_sha256": "b48fc73d777ecaa5642ce16a6b7d8a1c800d6a956ad16c98bf2a1f1cc584464b",
+  "finish_reason": "stop",
+  "completion_tokens": 5398
+}

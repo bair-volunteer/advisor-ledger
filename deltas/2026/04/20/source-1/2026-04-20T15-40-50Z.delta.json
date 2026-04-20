@@ -1,0 +1,166 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-36-21Z",
+    "revision_id": "AMHacu6m19dzhihgcnIyIsq72uOMFD3jQ2b8hVBe2uwj3qgrWqAVeVUguDHmMBwiqqfsJQPLfATqxaP6NKnN2DsZYw",
+    "paragraph_count": 2069
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-40-50Z",
+    "revision_id": "AMHacu79bIxTgL_d5y6W0TPwSoTupBhmZ9jK4MWjtgcPPwfBlEAmyyCoHzFmkZWjIY29wqLyrvhe_qVCgb3D3zyg5Q",
+    "paragraph_count": 2074
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 7,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0034,
+    "insertion_ratio": 0.0058
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 90,
+      "at_to": 90,
+      "from_paragraphs": [
+        {
+          "content_hash": "b42fc3a4b8a43081",
+          "style": "NORMAL_TEXT",
+          "text": "（说实话你能给"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0262b5e674a1ee49",
+          "style": "NORMAL_TEXT",
+          "text": "（你能给Yiwei放上黑榜，what can I say？祝你找一个比Yiwei还好的导师？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 97,
+      "at_to": 97,
+      "from_paragraphs": [
+        {
+          "content_hash": "329d7e127334b486",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）"
+        },
+        {
+          "content_hash": "b46801d3f7383a67",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？） （不属实，王老师认可COLM等会议）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "345fb694ec91cb0b",
+          "style": "NORMAL_TEXT",
+          "text": "（给不出指导，组里一年这么多篇论文你帮他发的？有没有可能是你自身的问题呢？）"
+        },
+        {
+          "content_hash": "13ded3e367e9ee97",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）"
+        },
+        {
+          "content_hash": "0326b8a301abc076",
+          "style": "NORMAL_TEXT",
+          "text": "（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）"
+        },
+        {
+          "content_hash": "1369b568b7c61835",
+          "style": "NORMAL_TEXT",
+          "text": "（So what？简单明了告诉你毕业标准你还不满意上了？你phd不自己一作吗？导师不应该是通讯吗？）"
+        },
+        {
+          "content_hash": "9575249dc9c9b51c",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人"
+        },
+        {
+          "content_hash": "3a6e166e7908d301",
+          "style": "NORMAL_TEXT",
+          "text": "（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？）"
+        },
+        {
+          "content_hash": "e7bb275f5a14ccc6",
+          "style": "NORMAL_TEXT",
+          "text": " （不属实，王老师认可COLM等会议）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 642,
+      "at_to": 647,
+      "from_paragraphs": [
+        {
+          "content_hash": "6c45c305e6c4a1fa",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stanford的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把haoran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "270d2d3c01284bf3",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1876,
+      "at_to": 1881,
+      "from_paragraphs": [
+        {
+          "content_hash": "8934aac73160ab0d",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua, YY"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0679cbc82a4d5298",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua, Yang Yuan"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1878,
+      "at_to": 1883,
+      "from_paragraphs": [
+        {
+          "content_hash": "2093abc6c683c5df",
+          "style": "NORMAL_TEXT",
+          "text": "代表作"
+        },
+        {
+          "content_hash": "0d5696793e1fca4a",
+          "style": "NORMAL_TEXT",
+          "text": " 用AI审一下一眼就发现所有theorem都是错的，逆变斜变符号写反了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d92dc712eba7614a",
+          "style": "NORMAL_TEXT",
+          "text": "代表作On the power of foundation models, 用AI审一下一眼就发现所有theorem都是错的，逆变斜变符号写反了"
+        },
+        {
+          "content_hash": "e5c0b74058e3cb28",
+          "style": "NORMAL_TEXT",
+          "text": "主要精力花在开公司上头，创业项目vest周期5年锁定期，融资没成功g团队基本都跑光了，融资"
+        }
+      ]
+    }
+  ]
+}
