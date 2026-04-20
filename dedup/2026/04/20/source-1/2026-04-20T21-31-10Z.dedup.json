@@ -1,0 +1,62 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T21-31-10Z",
+  "reviewed_at_utc": "2026-04-20T21:32:04Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 8,
+  "pairs": [
+    {
+      "ghost_hash": "da65704d609e0306",
+      "insert_hash": "f8d9c3bc5a02c024",
+      "note": "added clause about performance",
+      "ghost_text": "招大几十个intern放养",
+      "insert_text": "招大几十个intern放养 做的不好随时出局"
+    },
+    {
+      "ghost_hash": "c7a2e5b8047b8d5b",
+      "insert_hash": "294036af3eb952b1",
+      "note": "added limitation note at end",
+      "ghost_text": "(感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着以及有时候情绪不是十分稳定, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，她对学生也很support，学生去向也很好，无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的。)",
+      "insert_text": "(感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着以及有时候情绪不是十分稳定, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，她对学生也很support，学生去向也很好，无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的，样本数量十分有限。)"
+    },
+    {
+      "ghost_hash": "98226a7a5dbeb830",
+      "insert_hash": "80e7950d3ed33157",
+      "note": "added student requirement detail",
+      "ghost_text": "A老师push是真的 但资源多也是真的",
+      "insert_text": "A老师push是真的 需要心脏比较大的学生  但资源多也是真的"
+    },
+    {
+      "ghost_hash": "43a273a81b2888e4",
+      "insert_hash": "71efc625fbf6e251",
+      "note": "minor wording adjustments",
+      "ghost_text": "他自己还在念phd的时候，出去开neurips，他要求全组其他出来开会的phd晚上都得在酒店改paper，他要改写作，不能自由行动（猴年马月的事情了，现在当了PI都是自己在酒店干活 学生自由活动）",
+      "insert_text": "他自己还在念phd的时候，出去开neurips，他要求全组其他出来开会的phd晚上都得在酒店改paper，他要改写作，不能自由行动（猴年马月的事情了，现在当了PI出去开会都是自己在酒店工作 学生纯自由活动）"
+    },
+    {
+      "ghost_hash": "0fae038fa8d1f34f",
+      "insert_hash": "9b87e0eacb2d655f",
+      "note": "added parenthetical question",
+      "ghost_text": "在这个组当phd太爽了，都说老师人好不push，第一年还有这么多paper awards，一定是我们phd都非常非常的厉害，四大水平的都来投奔李老师了才能有这么多贡献吧！(何意味)",
+      "insert_text": "在这个组当phd太爽了，都说老师人好不push，第一年还有这么多paper awards，一定是我们phd都非常非常的厉害，四大水平的都来投奔李老师了才能有这么多贡献吧！(何意味) （这是想说paper awards是因为intern带来的？）"
+    },
+    {
+      "ghost_hash": "9379c083291149f6",
+      "insert_hash": "d77f1acd1def4cc9",
+      "note": "added parenthetical clarification",
+      "ghost_text": "知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀 (哪篇intern参与的工作是\"打白工”, 请举出具体例子??)",
+      "insert_text": "知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀 (哪篇intern参与的工作是\"打白工”, 请举出具体例子??) (intern要paper给paper，要letter给letter)"
+    },
+    {
+      "ghost_hash": "7082daeab71577ca",
+      "insert_hash": "856fb1a0b32a6920",
+      "note": "added background on collaborators",
+      "ghost_text": "早年顶会文章靠的是她在ucla三人组的合作结果 她负责writing/research opinions 一个人负责跑实验 一个人负责coding 所以她完全没有教导学生的能力",
+      "insert_text": "早年顶会文章靠的是她在ucla三人组的合作结果 她负责writing/research opinions 一个人负责跑实验 一个人负责coding 所以她完全没有教导学生的能力（另外两位现在都有教职 且进入ucla之前就都完成了research training 能力超强）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2040,
+  "skipped_reason": null
+}

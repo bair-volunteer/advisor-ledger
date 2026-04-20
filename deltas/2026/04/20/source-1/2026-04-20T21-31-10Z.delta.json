@@ -1,0 +1,169 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T21-26-59Z",
+    "revision_id": "AMHacu4MZ13v1PpVQzoUM2tUrnlu2mmgl6kD9E5fiZMh6q9eIxOkU-tsD8pMlO_BLTMf176bsQo-RcdD6BjoT5rO9A",
+    "paragraph_count": 2154
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T21-31-10Z",
+    "revision_id": "AMHacu4_BzTqzI8MVq7ox_FaJECn3CZ_GxbpZgySWtajkkzhwEhAZBs0sHzGuwXL6dT6zr-jMdxrVar5Axa8RcnlKw",
+    "paragraph_count": 2154
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 8,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0037,
+    "insertion_ratio": 0.0037
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 311,
+      "at_to": 311,
+      "from_paragraphs": [
+        {
+          "content_hash": "da65704d609e0306",
+          "style": "NORMAL_TEXT",
+          "text": "招大几十个intern放养"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f8d9c3bc5a02c024",
+          "style": "NORMAL_TEXT",
+          "text": "招大几十个intern放养 做的不好随时出局"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 314,
+      "at_to": 314,
+      "from_paragraphs": [
+        {
+          "content_hash": "c7a2e5b8047b8d5b",
+          "style": "NORMAL_TEXT",
+          "text": "(感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着以及有时候情绪不是十分稳定, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，她对学生也很support，学生去向也很好，无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的。)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "294036af3eb952b1",
+          "style": "NORMAL_TEXT",
+          "text": "(感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着以及有时候情绪不是十分稳定, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，她对学生也很support，学生去向也很好，无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的，样本数量十分有限。)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 316,
+      "at_to": 316,
+      "from_paragraphs": [
+        {
+          "content_hash": "98226a7a5dbeb830",
+          "style": "NORMAL_TEXT",
+          "text": "A老师push是真的 但资源多也是真的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "80e7950d3ed33157",
+          "style": "NORMAL_TEXT",
+          "text": "A老师push是真的 需要心脏比较大的学生  但资源多也是真的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 369,
+      "at_to": 369,
+      "from_paragraphs": [
+        {
+          "content_hash": "22a74189fce9f6a2",
+          "style": "NORMAL_TEXT",
+          "text": "普林cszui chou"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "952ecb8ab79d7499",
+          "style": "NORMAL_TEXT",
+          "text": "普林cs最toxic的老师没有之一"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1326,
+      "at_to": 1326,
+      "from_paragraphs": [
+        {
+          "content_hash": "43a273a81b2888e4",
+          "style": "NORMAL_TEXT",
+          "text": "他自己还在念phd的时候，出去开neurips，他要求全组其他出来开会的phd晚上都得在酒店改paper，他要改写作，不能自由行动（猴年马月的事情了，现在当了PI都是自己在酒店干活 学生自由活动）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "71efc625fbf6e251",
+          "style": "NORMAL_TEXT",
+          "text": "他自己还在念phd的时候，出去开neurips，他要求全组其他出来开会的phd晚上都得在酒店改paper，他要改写作，不能自由行动（猴年马月的事情了，现在当了PI出去开会都是自己在酒店工作 学生纯自由活动）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1486,
+      "at_to": 1486,
+      "from_paragraphs": [
+        {
+          "content_hash": "0fae038fa8d1f34f",
+          "style": "NORMAL_TEXT",
+          "text": "在这个组当phd太爽了，都说老师人好不push，第一年还有这么多paper awards，一定是我们phd都非常非常的厉害，四大水平的都来投奔李老师了才能有这么多贡献吧！(何意味)"
+        },
+        {
+          "content_hash": "9379c083291149f6",
+          "style": "NORMAL_TEXT",
+          "text": "知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀 (哪篇intern参与的工作是\"打白工”, 请举出具体例子??)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9b87e0eacb2d655f",
+          "style": "NORMAL_TEXT",
+          "text": "在这个组当phd太爽了，都说老师人好不push，第一年还有这么多paper awards，一定是我们phd都非常非常的厉害，四大水平的都来投奔李老师了才能有这么多贡献吧！(何意味) （这是想说paper awards是因为intern带来的？）"
+        },
+        {
+          "content_hash": "d77f1acd1def4cc9",
+          "style": "NORMAL_TEXT",
+          "text": "知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀 (哪篇intern参与的工作是\"打白工”, 请举出具体例子??) (intern要paper给paper，要letter给letter)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1574,
+      "at_to": 1574,
+      "from_paragraphs": [
+        {
+          "content_hash": "7082daeab71577ca",
+          "style": "NORMAL_TEXT",
+          "text": "早年顶会文章靠的是她在ucla三人组的合作结果 她负责writing/research opinions 一个人负责跑实验 一个人负责coding 所以她完全没有教导学生的能力"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "856fb1a0b32a6920",
+          "style": "NORMAL_TEXT",
+          "text": "早年顶会文章靠的是她在ucla三人组的合作结果 她负责writing/research opinions 一个人负责跑实验 一个人负责coding 所以她完全没有教导学生的能力（另外两位现在都有教职 且进入ucla之前就都完成了research training 能力超强）"
+        }
+      ]
+    }
+  ]
+}
