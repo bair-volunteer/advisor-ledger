@@ -1,0 +1,198 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-05-50Z",
+    "revision_id": "AMHacu7ZGJXe3CWgPmo8K9aX-l5N5-UwIaghTNh2G24htfb9fKn-6wdJUxgXO2juBzbepeUi-nswtzBJLYo8w8PG2A",
+    "paragraph_count": 1903
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-10-00Z",
+    "revision_id": "AMHacu47PYTGQUk0M39PQxTFlcrKi8qzkK8vznfrZUD4WjmiUwORvHR_23hFnCxcM5d1jP7nqUCVcm_-BStRgGyiqQ",
+    "paragraph_count": 1901
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 11,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0058,
+    "insertion_ratio": 0.0047
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 473,
+      "at_to": 473,
+      "from_paragraphs": [
+        {
+          "content_hash": "7f7d24d92c0d1064",
+          "style": "NORMAL_TEXT",
+          "text": "SCUT Shuangping HUANG"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a61f9027b7b5e324",
+          "style": "NORMAL_TEXT",
+          "text": "Chicago Booth"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 475,
+      "paragraphs": [
+        {
+          "content_hash": "340b0ac4cf90c6f0",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥或者难题丢给学生后出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）"
+        },
+        {
+          "content_hash": "0060dcb07df01924",
+          "style": "NORMAL_TEXT",
+          "text": "PUA+画饼之神，信口开河，张口就来，常常给别人许诺基本上没有兑现过（就算有代价大到要脱三层皮）"
+        },
+        {
+          "content_hash": "7c899af23515bc37",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，但是喜欢有参与感，不然怎么抢功劳(要么瞎JB微操，要么绣花，这里加个感叹号那里加个句号)，大龄在职博士毕业，喜欢抢一作(最近一次是2024年，芳龄52的时候)，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+        },
+        {
+          "content_hash": "9bdc8cdd5e6bd7ff",
+          "style": "NORMAL_TEXT",
+          "text": "欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（有一句话怎么说来着，领导教你做人，老师教你做事），不要计较，学会感恩🙏"
+        },
+        {
+          "content_hash": "fc5f923e1e3ab7a7",
+          "style": "NORMAL_TEXT",
+          "text": "专攻Huang学十年,收手吧，阿Ping，不要再害人了，郭嘉要抓半裸官了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 571,
+      "at_to": 566,
+      "from_paragraphs": [
+        {
+          "content_hash": "9f17563f669da054",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，shu那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2aa4a02a966cf024",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，甩锅侠。那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 577,
+      "at_to": 572,
+      "from_paragraphs": [
+        {
+          "content_hash": "48406ac6b89522d6",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "21d782fb9fbd743f",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern的学生写了最强推，其他intern全黑推yue是脑残吗? 怎么可能"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 594,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "cd88e6936e25ce18",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你公司api@somastacks.com这个邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1674,
+      "at_to": 1671,
+      "from_paragraphs": [
+        {
+          "content_hash": "5730f7b1ad819c3c",
+          "style": "NORMAL_TEXT",
+          "text": "实习生要自费科研，没有指导（ust甚至港校普遍这样，但貌似也有intern有产出？可能yin'ren）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a5019c0e01d558a6",
+          "style": "NORMAL_TEXT",
+          "text": "实习生要自费科研，没有指导（ust甚至港校普遍这样，但貌似也有intern有产出？可能因人而异吧。）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1677,
+      "paragraphs": [
+        {
+          "content_hash": "c853d854a4c480c9",
+          "style": "NORMAL_TEXT",
+          "text": "老师即使不懂的地方也能摇人来帮忙，总之人脉还是广的，但其中有多少能用的关系还是要自己辨别一下了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1720,
+      "at_to": 1718,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "949b1b42e95fa2dd",
+          "style": "NORMAL_TEXT",
+          "text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1879,
+      "at_to": 1877,
+      "from_paragraphs": [
+        {
+          "content_hash": "340b0ac4cf90c6f0",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥或者难题丢给学生后出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7442429dd14a9ca9",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥或者难题丢给学生后出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里隐私，推荐chu级以上干部子弟进组，不然容易受欺负）"
+        }
+      ]
+    }
+  ]
+}

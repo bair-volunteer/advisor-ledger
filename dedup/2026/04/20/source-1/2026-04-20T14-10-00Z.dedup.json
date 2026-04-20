@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T14-10-00Z",
+  "reviewed_at_utc": "2026-04-20T14:11:32Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 10,
+  "n_inserts": 9,
+  "pairs": [
+    {
+      "ghost_hash": "340b0ac4cf90c6f0",
+      "insert_hash": "7442429dd14a9ca9",
+      "note": "家里情况改为家里隐私",
+      "ghost_text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥或者难题丢给学生后出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）",
+      "insert_text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥或者难题丢给学生后出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里隐私，推荐chu级以上干部子弟进组，不然容易受欺负）"
+    },
+    {
+      "ghost_hash": "9f17563f669da054",
+      "insert_hash": "2aa4a02a966cf024",
+      "note": "shu改为甩锅侠",
+      "ghost_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，shu那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹",
+      "insert_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，甩锅侠。那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹"
+    },
+    {
+      "ghost_hash": "48406ac6b89522d6",
+      "insert_hash": "21d782fb9fbd743f",
+      "note": "删除讨论细节，精简表述",
+      "ghost_text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了",
+      "insert_text": "让USC Yue Wang给某没在Yue组里当过intern的学生写了最强推，其他intern全黑推yue是脑残吗? 怎么可能"
+    },
+    {
+      "ghost_hash": "5730f7b1ad819c3c",
+      "insert_hash": "a5019c0e01d558a6",
+      "note": "yin'ren改为因人而异",
+      "ghost_text": "实习生要自费科研，没有指导（ust甚至港校普遍这样，但貌似也有intern有产出？可能yin'ren）",
+      "insert_text": "实习生要自费科研，没有指导（ust甚至港校普遍这样，但貌似也有intern有产出？可能因人而异吧。）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4068,
+  "skipped_reason": null
+}
