@@ -1,0 +1,292 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-24-50Z",
+    "revision_id": "AMHacu4_VyWEvatHp2w0PbQmIHA8ejnsQFyxI0NJN2wl1v5xSjPUtbpok4bMfk1MB-7OakfCMWRac4xGd6cyqjA4cA",
+    "paragraph_count": 568
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-29-00Z",
+    "revision_id": "AMHacu67MY2ViiQmkEaeE5MOSfrcqTyS9zeiBdfSMbqjJ9uZxT2W6UNsbDepJh-GmZNN2R9j9HUgCW6XONCGELH2gw",
+    "paragraph_count": 579
+  },
+  "summary": {
+    "inserted_paragraphs": 21,
+    "deleted_paragraphs": 10,
+    "operations": 14,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0176,
+    "insertion_ratio": 0.0363
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 57,
+      "at_to": 57,
+      "from_paragraphs": [
+        {
+          "content_hash": "3eaace4311e9c732",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhD后面主要是posdoc+senior phd在指导（有好有坏）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b4023eecab8de206",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhD后面主要是posdoc+senior phd在指导（有好有坏）（这算黑吗）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 59,
+      "paragraphs": [
+        {
+          "content_hash": "851f24a2ee68c554",
+          "style": "NORMAL_TEXT",
+          "text": "压力接offer，还把其他candidate的个人主页邮件全部发过来"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 141,
+      "at_to": 142,
+      "from_paragraphs": [
+        {
+          "content_hash": "b022c32f61b48ae4",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b2b96277faed5e4d",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）（Biwei也有人喷？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 155,
+      "at_to": 156,
+      "from_paragraphs": [
+        {
+          "content_hash": "7535b048bc83ee42",
+          "style": "NORMAL_TEXT",
+          "text": "对学生使用歧视性语言（苏北人）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ba1643074e1cf5d8",
+          "style": "NORMAL_TEXT",
+          "text": "对学生使用歧视性语言（苏北人"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 179,
+      "at_to": 180,
+      "from_paragraphs": [
+        {
+          "content_hash": "fafe8cc9116decf8",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学校，给他们洗脑umass是top20的强校。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a1f9861d1878e870",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学o校，给他们洗脑umass是top20的强校。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 205,
+      "at_to": 206,
+      "from_paragraphs": [
+        {
+          "content_hash": "696cc9fe7bf2bef8",
+          "style": "NORMAL_TEXT",
+          "text": "What is mid training"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "037e842bab5fb2c4",
+          "style": "NORMAL_TEXT",
+          "text": "What is mid training (啥是mid training?)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 262,
+      "paragraphs": [
+        {
+          "content_hash": "337968b9cbdd5e95",
+          "style": "NORMAL_TEXT",
+          "text": "刘老师还能上榜？不理解。每次meeting尽心尽力，给idea最多的就是刘老师，感恩"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 264,
+      "paragraphs": [
+        {
+          "content_hash": "6ddd577f2d473640",
+          "style": "NORMAL_TEXT",
+          "text": "MSU Jiliang Tang"
+        },
+        {
+          "content_hash": "ca0b7740cba7bbaf",
+          "style": "NORMAL_TEXT",
+          "text": "学术嘉靖，喜欢玩帝王心术制衡学生"
+        },
+        {
+          "content_hash": "a06c7e996d40066f",
+          "style": "NORMAL_TEXT",
+          "text": "学生玉玉了在出租屋还被找上门push"
+        },
+        {
+          "content_hash": "368314e958f26a3e",
+          "style": "NORMAL_TEXT",
+          "text": "我来问道无余说，云在青天水在瓶"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 304,
+      "paragraphs": [
+        {
+          "content_hash": "c38805bd5b6aa52b",
+          "style": "NORMAL_TEXT",
+          "text": "学历歧视，diss非清北本科的学生"
+        },
+        {
+          "content_hash": "63540eb155be9dca",
+          "style": "NORMAL_TEXT",
+          "text": "吹嘘毕业的学生找到ap，但实际上这些学生基本都跟他切割了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 324,
+      "at_to": 332,
+      "from_paragraphs": [
+        {
+          "content_hash": "654559d59725046a",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品 (哪个phd带过课？）（找自己学生来给个guest lecture而已，这不是常规操作？）"
+        },
+        {
+          "content_hash": "e45e146892432239",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e84b7e91113e5e15",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品 (哪个phd带过课？）（找自己学生来给个guest lecture而已，这不是常规操作？）（自己跑出去玩是什么鬼）"
+        },
+        {
+          "content_hash": "c96bb1f6b5948081",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）（这个点我作为当事人（喂猫的）直接回应一下，我当时跟eric住的比较近，而且我自己也养着猫，所以拜托我有空上门看一下。这事我本身都不觉得有啥哈）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 327,
+      "at_to": 335,
+      "from_paragraphs": [
+        {
+          "content_hash": "386f06048ff5580e",
+          "style": "NORMAL_TEXT",
+          "text": "大年三十让学生通宵赶论文，学生啃三明治，发朋友圈说自己想妈了。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fcf96a39cf46c5f4",
+          "style": "NORMAL_TEXT",
+          "text": "大年三十让学生通宵赶论文，学生啃三明治，发朋友圈说自己想妈了。（论文ddl是国内新年，而且大家都一起在赶，他也是基本都在）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 342,
+      "at_to": 350,
+      "from_paragraphs": [
+        {
+          "content_hash": "a66f00bea236a222",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "609d71eb5839cd38",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在几次想跳槽都失败），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 552,
+      "at_to": 560,
+      "from_paragraphs": [
+        {
+          "content_hash": "2e25887f4d1bbe00",
+          "style": "NORMAL_TEXT",
+          "text": "这人到底ZJU吗? 之前也是听说口碑烂完了。蹲一下"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f3754e7132f9c4ba",
+          "style": "NORMAL_TEXT",
+          "text": "这人到底在ZJU吗? 之前也是听说口碑烂完了。蹲一下"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 576,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2bf2bef573455dad",
+          "style": "NORMAL_TEXT",
+          "text": "Xidian U, Huaxi Gu"
+        },
+        {
+          "content_hash": "b8d36b45e593bdd5",
+          "style": "NORMAL_TEXT",
+          "text": "老婆怀孕期间出轨，性骚扰女学生，谋生策略就是带着全组天天跪舔领域里大佬"
+        }
+      ]
+    }
+  ]
+}
