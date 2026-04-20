@@ -1,0 +1,202 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-04-00Z",
+    "revision_id": "AMHacu76DNck-vy6ZtBb-n_5FStx7QZuyFl2s1-EgjiM41QrLqXc4OwM819htipZoLbCnkuxAtdNREoKnbN3Qimi4w",
+    "paragraph_count": 1054
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-08-02Z",
+    "revision_id": "AMHacu5KTQZnyfqt2SYBtS1qloRgxPy9LiWLIShKStyZzH7ut7VHMqrDZgOVJRc9CrOkMwoiATgFnA5wG-UIU7ADsg",
+    "paragraph_count": 1059
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 7,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0066,
+    "insertion_ratio": 0.0113
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 22,
+      "paragraphs": [
+        {
+          "content_hash": "d320d7c44a938649",
+          "style": "NORMAL_TEXT",
+          "text": "Chaowei xiao怎么又没了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 52,
+      "at_to": 54,
+      "from_paragraphs": [
+        {
+          "content_hash": "c3b8cc95c52a5e5e",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cda163faaac07599",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 81,
+      "at_to": 83,
+      "from_paragraphs": [
+        {
+          "content_hash": "48fe0e2933d518c7",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧】（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "af063380f5aec3be",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 146,
+      "at_to": 148,
+      "from_paragraphs": [
+        {
+          "content_hash": "cf604224f4267268",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6159ebbcc0917901",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 489,
+      "at_to": 491,
+      "from_paragraphs": [
+        {
+          "content_hash": "271c6d5ce17be72a",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bc62122d88dcb746",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了(+1)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 583,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 605,
+      "at_to": 608,
+      "from_paragraphs": [
+        {
+          "content_hash": "604371f74a9896bd",
+          "style": "NORMAL_TEXT",
+          "text": "[Please go to a separate page: “Chaowei Xiao” to edit, delete this page here]我建议保留Chaowei Xiao在这里以防cs删tab但只保留事实陈述部分"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "973380797e4220eb",
+          "style": "NORMAL_TEXT",
+          "text": "[Please go to a separate page: “Chaowei Xiao” to edit, delete this page here] 我建议保留Chaowei Xiao在这里以防cs删tab但只保留事实陈述部分：事实陈述部分：【Chaowei Xiao和他的好学生Wang Yu都是CS】"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 636,
+      "at_to": 639,
+      "from_paragraphs": [
+        {
+          "content_hash": "4db41a6c0b19c1a6",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "db8d6e0127587af0",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 651,
+      "at_to": 654,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f997e278d6e5d72",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来\u000b6. 欢迎补充"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e73e2cc2756f2458",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来\u000b6. PhD都做得挺开心的\u000b欢迎补充"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 881,
+      "paragraphs": [
+        {
+          "content_hash": "6b50c19dda422106",
+          "style": "NORMAL_TEXT",
+          "text": "招进来几个学生跑几个学生"
+        },
+        {
+          "content_hash": "d4289bbce4807db8",
+          "style": "NORMAL_TEXT",
+          "text": "扬言要打学生"
+        }
+      ]
+    }
+  ]
+}
