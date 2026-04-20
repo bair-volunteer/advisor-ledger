@@ -1,0 +1,218 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-07-00Z",
+    "revision_id": "AMHacu45_GWld7RZz3slMa6P28bqRJVoGJAq0TsOmcvsMOKo9nQHjqoJIZ17hpxzFMt3u5jPi2XYQoSr0PfHFfg8ZQ",
+    "paragraph_count": 919
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-09-10Z",
+    "revision_id": "AMHacu7fBIH00FKXe6XZuMH29R2F0p27l1Fs_2Zs169TksP-SqvXrgVSToRL72B68sQYhFCI3y1YTKpk_z7MJO9L-w",
+    "paragraph_count": 914
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 13,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0141,
+    "insertion_ratio": 0.0088
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 5,
+      "paragraphs": [
+        {
+          "content_hash": "c635c9b55491ce60",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜群众请问各位这些中登老登是不是都是照骗，真人是不是很丑很油腻，能不能整个颜值排行"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 19,
+      "at_to": 18,
+      "from_paragraphs": [
+        {
+          "content_hash": "90480ee2ac27e61f",
+          "style": "NORMAL_TEXT",
+          "text": "(看了一些PI底下感觉有phd在互骂，可以不可以控制一下不要这样，到底是恩怨局还是真的客观事实这样很容易分不清)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9aea9cb45a0f3c50",
+          "style": "NORMAL_TEXT",
+          "text": "(看了一些PI底下感觉有phd在互骂，可以不可以控制一下不要这样，到底是恩怨局还是真的客观事实这样很容易分不清) 支持引入LLM当裁判"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 22,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c936d78c5e126adb",
+          "style": "NORMAL_TEXT",
+          "text": "NW Xinyu Xing"
+        },
+        {
+          "content_hash": "01a79cde09d48613",
+          "style": "NORMAL_TEXT",
+          "text": "这个老师有没有瓜，当时申请的时候被朋友劝退了"
+        },
+        {
+          "content_hash": "dd59d993dc00b223",
+          "style": "NORMAL_TEXT",
+          "text": "小红书上有他的评价"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 67,
+      "at_to": 62,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "072b6e8d31f1126c",
+          "style": "NORMAL_TEXT",
+          "text": "受回国影响最大的利益相关来现身说法 没啥吐槽的 可以放在红榜 平时相处很好 组里氛围很好 （上面的瓜有什么说法吗，好像跟老师本人没关系，但是是同学校老师？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 70,
+      "at_to": 65,
+      "from_paragraphs": [
+        {
+          "content_hash": "c6cb26162cf66988",
+          "style": "NORMAL_TEXT",
+          "text": "平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容 (comment: 这邮件留档不炸了吗)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7817bc82c81c73dc",
+          "style": "NORMAL_TEXT",
+          "text": "平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容 (comment: 这邮件留档不炸了吗) （部分邮件截图如下）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 304,
+      "paragraphs": [
+        {
+          "content_hash": "552561c62fff07ff",
+          "style": "NORMAL_TEXT",
+          "text": "纯傻逼，逼得学生要自杀，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 354,
+      "at_to": 350,
+      "from_paragraphs": [
+        {
+          "content_hash": "b77dd91636657b02",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "678b94b243ffd903",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，能搞来算力和 funding。很注重课题组的 culture，还会主动向学生提供情绪价值 ，并且组里学生关系都不错。但 PhD,MS, Intern (senior & grad) 都会觉得不错。上黑榜纯冤枉。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 356,
+      "paragraphs": [
+        {
+          "content_hash": "5ebd99812d5efd18",
+          "style": "NORMAL_TEXT",
+          "text": "能搞来算力和 funding。很注重课题组的 culture ，并且组里学生关系都不错。但 PhD,MS, Intern (senior & grad) 都会觉得不错。上黑榜纯冤枉。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 549,
+      "at_to": 544,
+      "from_paragraphs": [
+        {
+          "content_hash": "d3630989eacef17a",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "40101e0ea28541bf",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做了且做：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 639,
+      "at_to": 634,
+      "from_paragraphs": [
+        {
+          "content_hash": "8b309829e17c8025",
+          "style": "NORMAL_TEXT",
+          "text": "baix"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5d6fafc49f53e08f",
+          "style": "NORMAL_TEXT",
+          "text": "bai姓postdoc避雷，喜欢各种connect人当intern，去尝试她的project的不同方向，然后发paper带名字只带最后work的那个"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 715,
+      "at_to": 710,
+      "from_paragraphs": [
+        {
+          "content_hash": "395c2a437585a62f",
+          "style": "NORMAL_TEXT",
+          "text": "— 读phd期间是fisher yu的女朋友，和自己的导师jianxiong xiao干坏事被男朋友抓了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d64ca3affd3167cc",
+          "style": "NORMAL_TEXT",
+          "text": "— 读phd期间是fisher yu的女朋友，和自己的导师jianxiong xiao保持不正当被男朋友抓了"
+        }
+      ]
+    }
+  ]
+}
