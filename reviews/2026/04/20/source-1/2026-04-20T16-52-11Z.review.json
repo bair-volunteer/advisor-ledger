@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-52-11Z.delta.json",
+  "delta_ts": "2026-04-20T16-52-11Z",
+  "reviewed_at_utc": "2026-04-20T16:53:04Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Reveals full names of students (Hao Ran Geng, Yufei Ding) and their private romantic relationship status",
+      "excerpt": "hao ran geng + yufei ding"
+    },
+    {
+      "type": "pii",
+      "detail": "Reveals student name (Geng Haoran) and associated company email address that could identify the individual",
+      "excerpt": "z耿浩然，这两个图片的所有人都来自你公司api@somastacks.com这个邮箱"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Inserts sarcastic mockery about death wishes against family members and uses insulting cultural references (大郎该吃了)",
+      "excerpt": "造谣的死全家【⬅️喜欢这么发誓原条主出来死一个全家看看】"
+    }
+  ],
+  "prompt_sha256": "320a6a4d972419a50bc0dbb7a1011a6b1ff73609a90f1b9ee7846638338020e9",
+  "finish_reason": "stop",
+  "completion_tokens": 5331
+}
