@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-39-50Z.delta.json",
+  "delta_ts": "2026-04-20T21-39-50Z",
+  "reviewed_at_utc": "2026-04-20T21:40:25Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "error",
+  "concerns": [
+    {
+      "type": "review_error",
+      "detail": "API transport error: <HTTPError 502: 'Bad Gateway'>",
+      "excerpt": ""
+    }
+  ],
+  "prompt_sha256": "7ef9b2c8ec1e76d1df2ec7dece2005a68fe0fe5b020e621459ba089bed5c998b",
+  "finish_reason": null,
+  "completion_tokens": null
+}
