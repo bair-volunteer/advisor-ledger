@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-02-22Z.delta.json",
+  "delta_ts": "2026-04-20T12-02-22Z",
+  "reviewed_at_utc": "2026-04-20T12:03:12Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Contains specific username/identifier 'nsnmn' that could de-anonymize a student providing testimony about Professor Xiang-Yang Li",
+      "excerpt": "（nsnmn，我们这一届lxy的学生，所有的签字全部拖到最后一刻"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported psychological diagnosis/character judgment '经典npd' (classic narcissistic personality disorder) regarding Professor Xu Su",
+      "excerpt": "经典npd，不顺他的意或者做的不好就会一直否定你"
+    }
+  ],
+  "prompt_sha256": "f6dc61be038ea9e10b3cb5b831db1ee772f15d7f904d718f26367246e5b56dce",
+  "finish_reason": "stop",
+  "completion_tokens": 5329
+}
