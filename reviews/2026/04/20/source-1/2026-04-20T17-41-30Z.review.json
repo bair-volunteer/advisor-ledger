@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-41-30Z.delta.json",
+  "delta_ts": "2026-04-20T17-41-30Z",
+  "reviewed_at_utc": "2026-04-20T17:42:11Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Offering to share private contact information (WeChat ID) of a PhD student",
+      "excerpt": "我有他phd的vx，你要吗"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal attack using derogatory term '走狗' (running dog/lackey) to describe an individual associated with the professor",
+      "excerpt": "xcw的走狗"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of phrase challenging the validity of complaints as 'rumors' (拿着一堆谣言在这里), suppressing substantive counter-observation about the dispute",
+      "excerpt": "拿着一堆谣言在这里"
+    }
+  ],
+  "prompt_sha256": "04f0356870e0065decdbbe6d9fa18d40b6a805f63cdeba1c95c6202d6320b796",
+  "finish_reason": "stop",
+  "completion_tokens": 3937
+}

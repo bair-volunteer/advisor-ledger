@@ -1,0 +1,293 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T17-35-10Z",
+    "revision_id": "AMHacu4yDGHq8SuCt9XEcKxRdJnPdydKtKZUoX4m99i-G1TIxAQo594WIA-nRpyAd1m5TiEWpvYNSOwrWutz1i88aQ",
+    "paragraph_count": 2015
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T17-41-30Z",
+    "revision_id": "AMHacu7JPA7RRLgn43QvwAx_RRml_qanx3ZhwMTZYo9jRbs8bXTLHe7GJ_oSBtriKHXpPZtlqXyzEdH4f1Qmv79tuw",
+    "paragraph_count": 2026
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 11,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0055,
+    "insertion_ratio": 0.0109
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 155,
+      "at_to": 155,
+      "from_paragraphs": [
+        {
+          "content_hash": "bf24fd1212e47904",
+          "style": "NORMAL_TEXT",
+          "text": "你会不会英语？这里alumni指的是yiwei合作过的学生，不是他自己的学生，请跟我读（PhD at CAS，not PhD at UCM），alumini源自拉丁语alumnere，指养育/培养"
+        },
+        {
+          "content_hash": "75d499336fa8fac2",
+          "style": "NORMAL_TEXT",
+          "text": "我有他phd的vx，你要吗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ef61b6ec7e9f0540",
+          "style": "NORMAL_TEXT",
+          "text": "你会不会英语？这里alumni指的是yiwei合作过的学生，不是他自己的学生，请跟我读（PhD at CAS，not PhD at UCM），alumini源自拉丁语alumnere，指养育/培养 (你急什么？ 你还是没有回答完整这个问题，为什么主页只放之前的学生，不放现在在读的？老师自己20号还更新了页面？）"
+        },
+        {
+          "content_hash": "2c8fc68cf64cb782",
+          "style": "NORMAL_TEXT",
+          "text": "我有他phd的vx，你要吗 （）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 202,
+      "at_to": 202,
+      "from_paragraphs": [
+        {
+          "content_hash": "b711def079840433",
+          "style": "NORMAL_TEXT",
+          "text": "给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（至少学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信（仔细看看顾老师主页的学生出路好不好，都是非常实在地在托举每一个学生。）(没错，确实是“实实在在”的托举每个学生，前提这是自己的学生）（不一定，我拿他的推荐信去了四大）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ac95c2599054dc73",
+          "style": "NORMAL_TEXT",
+          "text": "给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（至少学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信（仔细看看顾老师主页的学生出路好不好，都是非常实在地在托举每一个学生。）确实是托举了给顾捧臭脚的抽象学生哈(没错，确实是“实实在在”的托举每个学生，前提这是自己的学生）（不一定，我拿他的推荐信去了四大）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 434,
+      "at_to": 434,
+      "from_paragraphs": [
+        {
+          "content_hash": "ade5a4a72960fbb1",
+          "style": "NORMAL_TEXT",
+          "text": "和celine一样hhh\u000b在yang老师组里做过intern，yang对学生还是很关心的，没有感觉到像奴隶一样被压榨。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "411701c38840c6bf",
+          "style": "NORMAL_TEXT",
+          "text": "和celine一样hhh\u000b在yang老师组里做过intern，yang对学生还是很关心的，没有感觉到像奴隶一样被压榨。而且会亲手帮学生改论文画图到凌晨。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 616,
+      "at_to": 616,
+      "from_paragraphs": [
+        {
+          "content_hash": "6a7b389ce13f2373",
+          "style": "NORMAL_TEXT",
+          "text": "拿着一堆谣言在这里闹麻了🤣一个人编那么多条很累吧"
+        },
+        {
+          "content_hash": "7b465296ed47c9ef",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们的目的永远是让这个人永远招不到学生！！！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a642a0da926ae2d3",
+          "style": "NORMAL_TEXT",
+          "text": "闹麻了🤣一个人编那么多条很累吧 🤡"
+        },
+        {
+          "content_hash": "857090980701cd06",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们们在哪儿呢 的目的永远是让这个人永远招不到学生！！！"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 649,
+      "paragraphs": [
+        {
+          "content_hash": "a8f51507531ee920",
+          "style": "NORMAL_TEXT",
+          "text": "===============给yufei姐姐单独腾地方 ==============="
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 655,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a8f51507531ee920",
+          "style": "NORMAL_TEXT",
+          "text": "===============给yufei姐姐单独腾地方 ==============="
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 663,
+      "at_to": 667,
+      "from_paragraphs": [
+        {
+          "content_hash": "96c10379e6fb7e50",
+          "style": "NORMAL_TEXT",
+          "text": "那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 一手遮天的haoran啊, 真的是走到哪都是顶流... 真热闹   事实证明, 真的不能带intern, 太危险了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "02a084405017ad02",
+          "style": "NORMAL_TEXT",
+          "text": "那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 （给我看呆了 这是唯一一个被喷的比AP还多的phd 哥们儿真太有实力了）一手遮天的haoran啊, 真的是走到哪都是顶流... 真热闹   事实证明, 真的不能带intern, 太危险了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1364,
+      "at_to": 1368,
+      "from_paragraphs": [
+        {
+          "content_hash": "a4678bac979bfbcc",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过一段时间的老师也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f8e799a6a90be6cf",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过一段时间, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1514,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2dfaefaadd143059",
+          "style": "NORMAL_TEXT",
+          "text": "Emory Liang Zhao"
+        },
+        {
+          "content_hash": "a84a0f4c6936b83c",
+          "style": "NORMAL_TEXT",
+          "text": "听说有瓜 打个窝"
+        },
+        {
+          "content_hash": "ff64525c2012292f",
+          "style": "NORMAL_TEXT",
+          "text": "和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引，一个学生一年能刷100篇。然后iclr开盒发现自己用ai写10、20条weakness，oa拉最低conf拉满。学术毒瘤"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1662,
+      "paragraphs": [
+        {
+          "content_hash": "5b4c978a039afa48",
+          "style": "NORMAL_TEXT",
+          "text": "有没有UGA的瓜呀"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1653,
+      "at_to": 1664,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bee8650edb746de5",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）（PhD的周末是组会开完之后的两天）(你们周末不要开会的吗😭）（明天和老师1v1 meeting结果看瓜看的啥都没做感觉完蛋）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aa04cf7cd4b9b185",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）（PhD的周末是组会开完之后的两天）(你们周末不要开会的吗😭）（明天和老师1v1 meeting结果看瓜看的啥都没做感觉完蛋）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1856,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1968,
+      "at_to": 1979,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7a5d46af46ce969c",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake Guojun Qi"
+        }
+      ]
+    }
+  ]
+}
