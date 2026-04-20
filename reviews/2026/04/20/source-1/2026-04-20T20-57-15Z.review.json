@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-57-15Z.delta.json",
+  "delta_ts": "2026-04-20T20-57-15Z",
+  "reviewed_at_utc": "2026-04-20T20:58:04Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes specific observation about an advisor's controlling behavior (monitoring new students during campus visits), which is substantive legitimate criticism rather than cleanup or off-topic content.",
+      "excerpt": "看得出来自己很心虚，新招的学生去campus visit，去跟其他老师见面的环节她得盯着，生怕打听到什么事情"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes clarifying context about the nature of a misconduct report and the reasons for three students transferring groups, suppressing substantive case details.",
+      "excerpt": "举报内容并非不当关系，与三人转组原因"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion uses ableist slur '糖' (derived from 唐氏综合征/Down syndrome) as a personal attack against the referred professors.",
+      "excerpt": "lt 和 sp 这俩真糖完了"
+    }
+  ],
+  "prompt_sha256": "9c642fed60c9358d9f70bda3c5a99daf1ebdff4287ef9de8045af5a6044e273d",
+  "finish_reason": "stop",
+  "completion_tokens": 4660
+}
