@@ -1,0 +1,199 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T17-54-50Z",
+    "revision_id": "AMHacu7JdlxGPpYB-ocYP0e_3JWWRSB7V5JurAKpxvBzc-ELfMrjmfHETQgysXt6QYdiTQtuxLpc0CFC4lI6-JcuZQ",
+    "paragraph_count": 2032
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T17-59-00Z",
+    "revision_id": "AMHacu7e-t5s7ETitMT_870A_Fg21anYEg1WZeXSoSupqWnrzqwyN3_dzg1qpaTlmaGun5KSfsdvxuJA6K_pU2vA5w",
+    "paragraph_count": 2035
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 8,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0039,
+    "insertion_ratio": 0.0054
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 2,
+      "at_to": 2,
+      "from_paragraphs": [
+        {
+          "content_hash": "6f85004c82f1ae35",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来（可以思考一下为什么）。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的所有误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bc1ba87f357683a4",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了x，说明你做的某些事情已经在学生圈子中流传开来（可以思考一下为什么）。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的所有误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 104,
+      "at_to": 104,
+      "from_paragraphs": [
+        {
+          "content_hash": "8eea554736811c95",
+          "style": "NORMAL_TEXT",
+          "text": "张老师人很好的，我读硕士的时候在他组里做过一年多research，学到了不少东西，申phd的时候老师应该也给了强推，所以shen'qing'ji'ji。他工作狂是真的，但如果能跟着张老师认真做的话会很有福的。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fcd96df2362898b2",
+          "style": "NORMAL_TEXT",
+          "text": "张老师人很好的，我读硕士的时候在他组里做过一年多research，学到了不少东西，申phd的时候老师应该也给了强推，所以申请季走的很顺利。他工作狂是真的，但如果能跟着张老师认真做的话会很有福的。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 144,
+      "at_to": 144,
+      "from_paragraphs": [
+        {
+          "content_hash": "0a627788b241df5f",
+          "style": "NORMAL_TEXT",
+          "text": "你希望要中稿多少屁"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e7b860fc08aedd7f",
+          "style": "NORMAL_TEXT",
+          "text": "你希望要中稿多少篇？你咋不看别的会呢哈哈"
+        },
+        {
+          "content_hash": "52ed77f65e3c4134",
+          "style": "NORMAL_TEXT",
+          "text": "原来这个都能成为黑点吗？哈哈哈哈哈"
+        },
+        {
+          "content_hash": "2df329b71047cb56",
+          "style": "NORMAL_TEXT",
+          "text": "btw，并没有投稿44篇哦，iclr统计网站你没看过吗？最多的一个人也就投稿了32篇，谢谢"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 159,
+      "at_to": 161,
+      "from_paragraphs": [
+        {
+          "content_hash": "1c42a34a33471577",
+          "style": "NORMAL_TEXT",
+          "text": "老师懒得更新行不行？我名字就不在上面呢哈哈"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eb4a590fda3ce00e",
+          "style": "NORMAL_TEXT",
+          "text": "老师懒得更新行不行？我名字就不在上面呢哈哈？你要不自己发邮件问问他呢？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 529,
+      "at_to": 531,
+      "from_paragraphs": [
+        {
+          "content_hash": "b2a9eae2a33d3717",
+          "style": "NORMAL_TEXT",
+          "text": "-之前有幸在创总实习过，我觉得创的评价比较两面，学术水平"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "de6ea451df4ec187",
+          "style": "NORMAL_TEXT",
+          "text": "-之前有幸在创总实习过，我觉得是一个比较神奇的存在，他确实培养出了很多华人圈内很有影响力的学者，而且你会发现一个很神奇的点，就是他的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 904,
+      "at_to": 906,
+      "from_paragraphs": [
+        {
+          "content_hash": "f354f69ad0ca89c8",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？（+1 何意味，没证据某种意义上就是歧视啊））(老师人挺亲切的，口语确实不好，貌似他组里只有中国学生。）(何意为啊，Zhun人很好也很有意思，张口就来猥琐）(比较喜欢笑吧，虽然，也不至于猥琐吧)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d707018b4178250f",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？（+1 何意味，没证据某种意义上就是歧视啊））(老师人挺亲切的，口语确实不好，貌似他组里只有中国学生。）(何意为啊，Zhun人很好也很有意思，张口就来猥琐）(比较喜欢笑吧，眯眯眼，也不至于猥琐吧)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1311,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1806,
+      "at_to": 1809,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f0642040dde7f5d",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为指导的，另外还有一些是从别的老师那跑到May这的）（那个中东的Mphi刚来就被她踢走了，她跟另一个Mphil闹的也很僵）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "47360a6eabeea486",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为指导的，另外还有一些是从别的老师那跑到May这的）（那个中东的Mphi刚来就被她踢走了，她跟另一个Mphil闹的也很僵）(中东的Mphi申请材料作假不escalate上去就很体面人了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1881,
+      "at_to": 1884,
+      "from_paragraphs": [
+        {
+          "content_hash": "509aae0e0c97e934",
+          "style": "NORMAL_TEXT",
+          "text": "SMU Pan Zhou"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "15284f00689e5ee5",
+          "style": "NORMAL_TEXT",
+          "text": "SMU Pan Zhou////////////////////////////////////////////////////////////////////////////////////////////////////"
+        }
+      ]
+    }
+  ]
+}

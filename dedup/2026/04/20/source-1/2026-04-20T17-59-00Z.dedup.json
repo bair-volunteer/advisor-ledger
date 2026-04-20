@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T17-59-00Z",
+  "reviewed_at_utc": "2026-04-20T18:00:09Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 11,
+  "pairs": [
+    {
+      "ghost_hash": "6f85004c82f1ae35",
+      "insert_hash": "bc1ba87f357683a4",
+      "note": "added typo mark x",
+      "ghost_text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来（可以思考一下为什么）。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的所有误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。",
+      "insert_text": "对导师：如果你被吐槽了x，说明你做的某些事情已经在学生圈子中流传开来（可以思考一下为什么）。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的所有误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。"
+    },
+    {
+      "ghost_hash": "8eea554736811c95",
+      "insert_hash": "fcd96df2362898b2",
+      "note": "pinyin to Chinese translation",
+      "ghost_text": "张老师人很好的，我读硕士的时候在他组里做过一年多research，学到了不少东西，申phd的时候老师应该也给了强推，所以shen'qing'ji'ji。他工作狂是真的，但如果能跟着张老师认真做的话会很有福的。",
+      "insert_text": "张老师人很好的，我读硕士的时候在他组里做过一年多research，学到了不少东西，申phd的时候老师应该也给了强推，所以申请季走的很顺利。他工作狂是真的，但如果能跟着张老师认真做的话会很有福的。"
+    },
+    {
+      "ghost_hash": "1c42a34a33471577",
+      "insert_hash": "eb4a590fda3ce00e",
+      "note": "added clarifying question",
+      "ghost_text": "老师懒得更新行不行？我名字就不在上面呢哈哈",
+      "insert_text": "老师懒得更新行不行？我名字就不在上面呢哈哈？你要不自己发邮件问问他呢？"
+    },
+    {
+      "ghost_hash": "f354f69ad0ca89c8",
+      "insert_hash": "d707018b4178250f",
+      "note": "wording: 虽然->眯眯眼",
+      "ghost_text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？（+1 何意味，没证据某种意义上就是歧视啊））(老师人挺亲切的，口语确实不好，貌似他组里只有中国学生。）(何意为啊，Zhun人很好也很有意思，张口就来猥琐）(比较喜欢笑吧，虽然，也不至于猥琐吧)",
+      "insert_text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？（+1 何意味，没证据某种意义上就是歧视啊））(老师人挺亲切的，口语确实不好，貌似他组里只有中国学生。）(何意为啊，Zhun人很好也很有意思，张口就来猥琐）(比较喜欢笑吧，眯眯眼，也不至于猥琐吧)"
+    },
+    {
+      "ghost_hash": "1f0642040dde7f5d",
+      "insert_hash": "47360a6eabeea486",
+      "note": "added parenthetical comment",
+      "ghost_text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为指导的，另外还有一些是从别的老师那跑到May这的）（那个中东的Mphi刚来就被她踢走了，她跟另一个Mphil闹的也很僵）",
+      "insert_text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为指导的，另外还有一些是从别的老师那跑到May这的）（那个中东的Mphi刚来就被她踢走了，她跟另一个Mphil闹的也很僵）(中东的Mphi申请材料作假不escalate上去就很体面人了)"
+    },
+    {
+      "ghost_hash": "509aae0e0c97e934",
+      "insert_hash": "15284f00689e5ee5",
+      "note": "added slashes/formatting",
+      "ghost_text": "SMU Pan Zhou",
+      "insert_text": "SMU Pan Zhou////////////////////////////////////////////////////////////////////////////////////////////////////"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3972,
+  "skipped_reason": null
+}

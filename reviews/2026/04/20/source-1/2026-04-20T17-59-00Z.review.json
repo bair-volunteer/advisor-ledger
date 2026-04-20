@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-59-00Z.delta.json",
+  "delta_ts": "2026-04-20T17-59-00Z",
+  "reviewed_at_utc": "2026-04-20T17:59:39Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies a specific student by ethnicity and degree program (Middle Eastern MPhil) and accuses them of application fraud, which constitutes sensitive personal information about a private individual.",
+      "excerpt": "中东的Mphi申请材料作假不escalate上去就很体面人了"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removes mention of 'mixed evaluation' (评价比较两面) regarding academic level, replacing it with purely positive praise about cultivating influential scholars, potentially suppressing substantive legitimate criticism of the advisor.",
+      "excerpt": "我觉得创的评价比较两面，学术水平"
+    }
+  ],
+  "prompt_sha256": "2e9cdef9d1d3dcf65aa1f55d699c302ce3f42fdf1977a7cef6abdbed127ee615",
+  "finish_reason": "stop",
+  "completion_tokens": 3716
+}
