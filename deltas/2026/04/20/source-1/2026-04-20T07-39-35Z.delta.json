@@ -1,0 +1,176 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-35-20Z",
+    "revision_id": "AMHacu6Yd30W1IZQjedXQ2nHj_th2edBdgfU7DqzRRXjJZObHWEz9uncIs5v5s12yi8jg5u4sv16eOu3laLt3Kic5Q",
+    "paragraph_count": 1300
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-39-35Z",
+    "revision_id": "AMHacu4GzDPScrvJaD-TmHNZU3YutFhMd53wz952zTEzUgXdlgIgLCAqHEZHR4b_3v2Z9B4NTS1v_TXXU9txXCuDOw",
+    "paragraph_count": 1304
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 7,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0054,
+    "insertion_ratio": 0.0084
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 53,
+      "at_to": 53,
+      "from_paragraphs": [
+        {
+          "content_hash": "80044002e3718928",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给一个人写了最强推，你不要告诉别人”"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 342,
+      "at_to": 342,
+      "from_paragraphs": [
+        {
+          "content_hash": "4dc3d0192915f01a",
+          "style": "NORMAL_TEXT",
+          "text": "上面很多负面评价有混淆视听嫌疑，摆出似是而非的表面事实却恶意捏造篡改背后原因，动机让人猜疑，更像是针对性打击报复而非客观陈述。下面简单列举看到的部分事实。"
+        },
+        {
+          "content_hash": "d222562f2339b1f2",
+          "style": "NORMAL_TEXT",
+          "text": "1.业界合作广泛。从pa p"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3bd3473dd9bdbfb1",
+          "style": "NORMAL_TEXT",
+          "text": "上面很多负面评价有混淆视听嫌疑，摆出似是而非的表面事实却恶意捏造篡改背后原因，动机让人猜疑，更像是针对性打击报复而非客观陈述。下面简单列举看到的部分事实推测。"
+        },
+        {
+          "content_hash": "7dc8e76ce1807221",
+          "style": "NORMAL_TEXT",
+          "text": "1.业界合作广泛。从paper的单位和topic来看，和很多企业有很多合作。作为MLSys这种偏工程的学科，这d"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 746,
+      "at_to": 746,
+      "from_paragraphs": [
+        {
+          "content_hash": "f507a52f89e92cf4",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）(是谁写的重要吗?我就是组里phd, RAGEN MindCube T*有没有拿award自己能不能上网查？)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T*你就只拿RAGEN开刀, 你是RAGEN coauthor? 难道真的是白眼狼?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d426283694bf9b27",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）(是谁写的重要吗?我就是组里phd, RAGEN MindCube T*有没有拿award上网查查便知)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T*你就只拿RAGEN开刀, 你是RAGEN coauthor? 难道真的是白眼狼?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 844,
+      "at_to": 844,
+      "from_paragraphs": [
+        {
+          "content_hash": "57ab2877ba6bf847",
+          "style": "NORMAL_TEXT",
+          "text": "顾全全你自己想清楚，可以冷处理的事情是不是非要把说过的话发的满天飞。有这个时间好好回去查查到底是谁喜欢传你那些破事 （很支持，转组的事情都已经结束了，顾老师和转组的学生双方都不想提，这完全是吃瓜群众看热闹不嫌事大。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7f51feda4ae5a5d1",
+          "style": "NORMAL_TEXT",
+          "text": "顾全全你自己想清楚，可以冷处理的事情是不是非要把说过的话发的满天飞。（很支持，转组的事情都已经结束了，顾老师和转组的学生双方都不想提，这完全是吃瓜群众看热闹不嫌事大。）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 951,
+      "paragraphs": [
+        {
+          "content_hash": "c9c92ae46324dd8a",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Minjia zhang"
+        },
+        {
+          "content_hash": "e2483bb376d2c4d9",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼"
+        },
+        {
+          "content_hash": "5c50dfc19ec6afff",
+          "style": "NORMAL_TEXT",
+          "text": "有intern给他干了很久，写推荐信的时候直接说什么也没干不给你写"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 954,
+      "at_to": 958,
+      "from_paragraphs": [
+        {
+          "content_hash": "3cb707bfc8d22e9a",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0aecb1445716b596",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（是的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1044,
+      "at_to": 1048,
+      "from_paragraphs": [
+        {
+          "content_hash": "e2fc2dfdd3170f6b",
+          "style": "NORMAL_TEXT",
+          "text": "以前从GSU过来的，组内曾经有多名学生退学，非常擅长PUA，直接对学生shuo"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "230bd9d82e05c9f6",
+          "style": "NORMAL_TEXT",
+          "text": "以前从GSU过来的，组内曾经有多名学生退学，非常PUSH，非常擅长PUA，直接对第一学期来的学生说我觉得你没有进度这样子没法五年按时毕业。2025年NeurIPS投稿完后给学生放一周假，我同学因为太累了在家休息了5天，最后去纽约玩了两天，后续回来开会时，他说那你前面为什么bu'a'l"
+        }
+      ]
+    }
+  ]
+}
