@@ -1,0 +1,271 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-02-44Z",
+    "revision_id": "AMHacu7JRj3UtJYy_h4ruB15DWknfQAIKeT8KVQO_Z7RrXrl4wNW-4uDDVVbaVF7_9DTAjPzWq-JoMEoaD-YtKzodw",
+    "paragraph_count": 1113
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-04-50Z",
+    "revision_id": "AMHacu55SkIDNLF2fl6sHEAvWZf-5Mg0IxJdYEiQZTN6gf0r6x3Q-WIc7_IphmrwYzvSjojlzyPseHoTLnxxu8mapA",
+    "paragraph_count": 1117
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 12,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0108,
+    "insertion_ratio": 0.0143
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 11,
+      "at_to": 11,
+      "from_paragraphs": [
+        {
+          "content_hash": "c757c4ddecc77220",
+          "style": "NORMAL_TEXT",
+          "text": "当前Tab为黑榜，红榜请去另一个Tab："
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "225816fb023adc24",
+          "style": "NORMAL_TEXT",
+          "text": "当前Tab为黑榜，红榜请去另一个Tab：学术界红榜"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 25,
+      "at_to": 25,
+      "from_paragraphs": [
+        {
+          "content_hash": "2d662521df651654",
+          "style": "NORMAL_TEXT",
+          "text": "咱们看看哪几个ucsd的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "96b52b9bc0147098",
+          "style": "NORMAL_TEXT",
+          "text": "咱们看看哪几个ucsd的（好像只有一个没有人维护，而且正好说他爱告人hhhhh；难绷，精准制导）（红字标注）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 27,
+      "at_to": 27,
+      "from_paragraphs": [
+        {
+          "content_hash": "baeb4d30d95d5884",
+          "style": "NORMAL_TEXT",
+          "text": "Figure 1. Dog Panic Jump Wall"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "673531bfcf2d5159",
+          "style": "NORMAL_TEXT",
+          "text": "Figure 1. Dog Panic Jump Wall （直译：狗急跳墙）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 66,
+      "at_to": 66,
+      "from_paragraphs": [
+        {
+          "content_hash": "6be850bd3d289cb7",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhDs不止一个quit了 (最近2年有5+phd quit/转组)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3a9fed1d8f658b52",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhDs不止一个quit了 (最近2年有5+phd quit/转组）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 72,
+      "at_to": 72,
+      "from_paragraphs": [
+        {
+          "content_hash": "45bb78491a50bf03",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0149a483dce69c6e",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech Yalong Yang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 356,
+      "at_to": 357,
+      "from_paragraphs": [
+        {
+          "content_hash": "f534d719d29498f6",
+          "style": "NORMAL_TEXT",
+          "text": "歧视性少数群体）不一定是歧视，huaxiu的性格确实是招大家讨厌"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "33a4722bd69498fd",
+          "style": "NORMAL_TEXT",
+          "text": "歧视性少数群体 (不一定是歧视，huaxiu的性格确实是招大家讨厌"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 414,
+      "at_to": 415,
+      "from_paragraphs": [
+        {
+          "content_hash": "97a87627cab33e32",
+          "style": "NORMAL_TEXT",
+          "text": "He is a typical NPD, while showing"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 536,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 557,
+      "at_to": 559,
+      "from_paragraphs": [
+        {
+          "content_hash": "121f8004212122d6",
+          "style": "NORMAL_TEXT",
+          "text": "像是本人或者利益共同体的人在洗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7d367ffd07f2cf73",
+          "style": "NORMAL_TEXT",
+          "text": "像是本人或者利益共同体的人在洗（是不是发现风向和自己想的不一样，所以ji le"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 660,
+      "at_to": 662,
+      "from_paragraphs": [
+        {
+          "content_hash": "d029671aa96b379e",
+          "style": "NORMAL_TEXT",
+          "text": "\t黑榜zhi xie"
+        },
+        {
+          "content_hash": "6c2c29f9b41a3889",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的老师竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜对应的描述再看下面的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a491cff6ea85a2ce",
+          "style": "NORMAL_TEXT",
+          "text": "\t纯路人，黑榜只写黑的，怎么有人在下面疯狂洗，想写好的去红榜，怎么下面这负责洗的人还开始搞人身攻击了？"
+        },
+        {
+          "content_hash": "1bb657fb6ef26036",
+          "style": "NORMAL_TEXT",
+          "text": "Ma"
+        },
+        {
+          "content_hash": "5c31213c1c6d1031",
+          "style": "NORMAL_TEXT",
+          "text": "nling这么nice的老师竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜对应的描述再看下面的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 674,
+      "at_to": 677,
+      "from_paragraphs": [
+        {
+          "content_hash": "ba3f1da37aa7049d",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？你洗飞飞的稿子？）（我看有的不是直接arxiv吗）（纯路人，这么多人的组会只有那几篇吗？）（慢挂，缓挂，有选择地挂，有节奏地挂 (这是个人才！)）（666还有申论考生）（挂arxiv也要讲究基本法）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2d4f5cac51ae4baa",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？）（我看有的不是直接arxiv吗）（纯路人，这么多人的组会只有那几篇吗？）（慢挂，缓挂，有选择地挂，有节奏地挂 (这是个人才！)）（666还有申论考生）（挂arxiv也要讲究基本法）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 901,
+      "at_to": 904,
+      "from_paragraphs": [
+        {
+          "content_hash": "59854abf83c93334",
+          "style": "NORMAL_TEXT",
+          "text": "清"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "83cd6468e29feb4f",
+          "style": "NORMAL_TEXT",
+          "text": "请学生吃饭，让学生付钱"
+        },
+        {
+          "content_hash": "10f7ba12e9a4c75d",
+          "style": "NORMAL_TEXT",
+          "text": "（听毕业的师兄说）他"
+        }
+      ]
+    }
+  ]
+}
