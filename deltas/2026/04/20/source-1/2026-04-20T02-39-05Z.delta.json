@@ -1,0 +1,142 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-36-52Z",
+    "revision_id": "AMHacu6WVOwl8yZGQQWqIr05l7zdeL69vsleKtNT9YOW2FW9IgXBP3bL-dx46tahsuyfGJ-7JE3HpMADQ7xVGB-mQA",
+    "paragraph_count": 854
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-39-05Z",
+    "revision_id": "AMHacu48Jpq6qoa9LcyX6E8XUAR0hAligBZ_FiB5avPdHBsodDPgZiyHXO77zfle26jyahygcVRxOM4FTkl0IAXZ_w",
+    "paragraph_count": 855
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 6,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.007,
+    "insertion_ratio": 0.0082
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 51,
+      "at_to": 51,
+      "from_paragraphs": [
+        {
+          "content_hash": "2b25d2c294cabeb3",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "21fcb8b08d172f60",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 163,
+      "at_to": 163,
+      "from_paragraphs": [
+        {
+          "content_hash": "7c2807a2a62027d0",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5fdc15439de8faf3",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师怎么说，有人了解吗 （合作过 人非常好）（收到hah）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 323,
+      "at_to": 322,
+      "from_paragraphs": [
+        {
+          "content_hash": "5640ae80327f49ab",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。(只要能变成正常合作者(i.e. 能独立干点活不用手把手教)的Intern会发offer，Huan和组里所有的PhD MS Intern关系都不错) Huan 对 intern 是培养态度，会教grad如何带undergrad，到intern手上的活基本就比课程作业难一点而已。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7456c20459ba25dc",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会发offer的，只要能变成正常合作者(i.e. 能独立干点活不用手把手教)的Intern会发offer。 Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只用执行就行。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 400,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 518,
+      "paragraphs": [
+        {
+          "content_hash": "5313bee77bb2b798",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人（她一作和尾作还是挺多的吧，高引的都是自己的论文）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 677,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 821,
+      "paragraphs": [
+        {
+          "content_hash": "25314df606f12a24",
+          "style": "NORMAL_TEXT",
+          "text": "USTC, Xiang-Yang Li"
+        },
+        {
+          "content_hash": "8e3870757ee62b70",
+          "style": "NORMAL_TEXT",
+          "text": "实验室强制打卡，组会骂人"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
