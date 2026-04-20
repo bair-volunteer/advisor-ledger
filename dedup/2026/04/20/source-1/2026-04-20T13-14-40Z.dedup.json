@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T13-14-40Z",
+  "reviewed_at_utc": "2026-04-20T13:16:14Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "d77cfd76315240a7",
+      "insert_hash": "0b0ada0819358995",
+      "note": "Added clarification note at end",
+      "ghost_text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（）",
+      "insert_text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+    },
+    {
+      "ghost_hash": "f91cb46ed5fa78f4",
+      "insert_hash": "ae4946df662e3286",
+      "note": "Added rhetorical question",
+      "ghost_text": "CUHK, Douqi",
+      "insert_text": "CUHK, Douqi（怎么能没有ta）"
+    },
+    {
+      "ghost_hash": "8308aebaaf8c581f",
+      "insert_hash": "9a4ea0f3ebee38e1",
+      "note": "Added details about behavior",
+      "ghost_text": " 曾经的知乎“红人”，高强度自搜，举报所有帖子。知乎评“cuhk几大恶人之首”。",
+      "insert_text": " 曾经的知乎“红人”，高强度自搜，举报所有帖子。知乎评“cuhk几大恶人之首”。在外面立nice人设（ta原话），把自己学生当狗。引用全靠挂名。"
+    },
+    {
+      "ghost_hash": "f3823e5c545b8acf",
+      "insert_hash": "d1f1cd88e9ba88e0",
+      "note": "Added master's transfer option",
+      "ghost_text": "手下Phd走了一堆。。。（quit&转组）",
+      "insert_text": "手下Phd走了一堆。。。（quit&转组&转硕）"
+    },
+    {
+      "ghost_hash": "b7aad43a0314b6da",
+      "insert_hash": "0060dcb07df01924",
+      "note": "Removed husband PUA detail",
+      "ghost_text": "PUA+画饼之神（喜欢和她老公商讨怎么PUA），信口开河，张口就来，常常给别人许诺基本上没有兑现过（就算有代价大到要脱三层皮）",
+      "insert_text": "PUA+画饼之神，信口开河，张口就来，常常给别人许诺基本上没有兑现过（就算有代价大到要脱三层皮）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 6203,
+  "skipped_reason": null
+}

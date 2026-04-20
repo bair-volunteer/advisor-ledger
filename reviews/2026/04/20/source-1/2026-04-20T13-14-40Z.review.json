@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-14-40Z.delta.json",
+  "delta_ts": "2026-04-20T13-14-40Z",
+  "reviewed_at_utc": "2026-04-20T13:15:28Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes the specific allegation that the professor discusses PUA tactics with her husband. This appears to be a substantive observation about the advisor's conduct rather than a typo, blank, or clearly off-topic line, raising suspicion of suppressing legitimate content.",
+      "excerpt": "（喜欢和她老公商讨怎么PUA）"
+    }
+  ],
+  "prompt_sha256": "6cd52c5e64ebddb3d8acf4c6826e8d64e78b33fb987e975de4faa792d2552e04",
+  "finish_reason": "stop",
+  "completion_tokens": 5002
+}

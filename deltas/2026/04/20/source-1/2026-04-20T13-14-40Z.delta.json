@@ -1,0 +1,154 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-10-30Z",
+    "revision_id": "AMHacu7Pr--qOlNhK0SH2SN6X1ouu9aB4qvvl3W2SB0NEMK8dQbbKgOSWZpKzRzN6jzSD9uMVAyWnQntN_d9H9AEiA",
+    "paragraph_count": 1872
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-14-40Z",
+    "revision_id": "AMHacu5oaLUdXvGJcIcDoTnUm1Sa9YWldm-0vaM2MyFBgYkTImmxhwyEl4Ky7AIk8x1lIbE2fTbxdjHql9h_WXKOtQ",
+    "paragraph_count": 1870
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 9,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0048,
+    "insertion_ratio": 0.0037
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 564,
+      "at_to": 564,
+      "from_paragraphs": [
+        {
+          "content_hash": "92a9cad844edbf8b",
+          "style": "NORMAL_TEXT",
+          "text": "（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的)真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的 呵呵一口一个耿哥的叫 被耿哥卖了还在数钱 说他骚操作等着找死  你还别说，我看他真是在等着找死 +1"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0dc430c7567f7739",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的)jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据: 黑子们点进来看, 这是jitendra本人给我发的email, ccl"
+        },
+        {
+          "content_hash": "3dfa8ede30d121d9",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的 呵呵一口一个耿哥的叫 被耿哥卖了还在数钱 说他骚操作等着找死  你还别说，我看他真是在等着找死 +1"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 619,
+      "at_to": 620,
+      "from_paragraphs": [
+        {
+          "content_hash": "d77cfd76315240a7",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0b0ada0819358995",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1632,
+      "at_to": 1633,
+      "from_paragraphs": [
+        {
+          "content_hash": "f91cb46ed5fa78f4",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK, Douqi"
+        },
+        {
+          "content_hash": "8308aebaaf8c581f",
+          "style": "NORMAL_TEXT",
+          "text": " 曾经的知乎“红人”，高强度自搜，举报所有帖子。知乎评“cuhk几大恶人之首”。"
+        },
+        {
+          "content_hash": "f3823e5c545b8acf",
+          "style": "NORMAL_TEXT",
+          "text": "手下Phd走了一堆。。。（quit&转组）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ae4946df662e3286",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK, Douqi（怎么能没有ta）"
+        },
+        {
+          "content_hash": "9a4ea0f3ebee38e1",
+          "style": "NORMAL_TEXT",
+          "text": " 曾经的知乎“红人”，高强度自搜，举报所有帖子。知乎评“cuhk几大恶人之首”。在外面立nice人设（ta原话），把自己学生当狗。引用全靠挂名。"
+        },
+        {
+          "content_hash": "d1f1cd88e9ba88e0",
+          "style": "NORMAL_TEXT",
+          "text": "手下Phd走了一堆。。。（quit&转组&转硕）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1747,
+      "paragraphs": [
+        {
+          "content_hash": "3f64f3c6c54ab23f",
+          "style": "NORMAL_TEXT",
+          "text": "没人知道他是个 gay 么"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1762,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1849,
+      "at_to": 1847,
+      "from_paragraphs": [
+        {
+          "content_hash": "b7aad43a0314b6da",
+          "style": "NORMAL_TEXT",
+          "text": "PUA+画饼之神（喜欢和她老公商讨怎么PUA），信口开河，张口就来，常常给别人许诺基本上没有兑现过（就算有代价大到要脱三层皮）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0060dcb07df01924",
+          "style": "NORMAL_TEXT",
+          "text": "PUA+画饼之神，信口开河，张口就来，常常给别人许诺基本上没有兑现过（就算有代价大到要脱三层皮）"
+        }
+      ]
+    }
+  ]
+}
