@@ -1,0 +1,213 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-55-30Z",
+    "revision_id": "AMHacu7vpBrg25W5pgmKYezhegUo6ntar1KmajRRNquxZZVZMpxTHGN8VCrdAQXNuEikk5ghrbeIHkHgTL_ip4QAEw",
+    "paragraph_count": 1867
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-57-40Z",
+    "revision_id": "AMHacu4l9P3pVJKL4qkxoxp-eZl8ofGGDBl1-ucpPguXs93qbIY9r9SMStLq4wCScJMnn5aIbNPE7e6pnMpnyDYQcQ",
+    "paragraph_count": 1874
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 8,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0043,
+    "insertion_ratio": 0.008
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 549,
+      "at_to": 549,
+      "from_paragraphs": [
+        {
+          "content_hash": "a796910991dc578b",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Jiageng mao没水平，希望yue别支持这种事情）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "79da0e5762555370",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jiagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Jiageng mao没水平，希望yue别支持这种事情）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 558,
+      "at_to": 558,
+      "from_paragraphs": [
+        {
+          "content_hash": "509033f17830ef88",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟...那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 真热闹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ac05c44578351549",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟...那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 619,
+      "at_to": 619,
+      "from_paragraphs": [
+        {
+          "content_hash": "e046c26bce3d328e",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8ea3e89677a470ab",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1606,
+      "at_to": 1606,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b24d79c1d8347ae9",
+          "style": "NORMAL_TEXT",
+          "text": "lijie的visiting之一，lijie的人品不用说但凡是合作过的都知道（很nice），要资源给资源，要关系可以帮你找，也是力所能及尽力帮你（你还想怎么样）都到phd了还要老师一把屎一把尿来喂你吗（不会吧不会吧）。回答：1.都什么年代了投稿量大也成了上黑榜的理由了（闻所未闻）2.黑工不黑工的也不是靠你一张嘴说了就是黑工的，其他phd、master、visiting、intern怎么不出来说呢 你跟我们有过交流吗（另外lijie也会给idea，包括intern，对于刚入门科研的应该知道这能省多少时间） 3.paper不讲好故事怎么发呢 这也能喷，另外现在AI会能不能中跟赛博算命有什么区别 你能包中？（既然你你这么牛怎么还来lijie这边呢 不是很懂了）。最后我想说你怎么选择是你的事 没必要帮了你回来又踩一脚做人是不是有点问题呢？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1669,
+      "at_to": 1669,
+      "from_paragraphs": [
+        {
+          "content_hash": "e7792b2af7dc89cb",
+          "style": "NORMAL_TEXT",
+          "text": "NUS Shou Zheng Mike (听说有？ 蹲一手）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dc6df00c1a74d7e3",
+          "style": "NORMAL_TEXT",
+          "text": "You老师对自己组里面的学生还是很好的，总是有些不了解任何的小黑子任性抹黑，建议具体可以找组里的任何一位学生了解情况。（先不说12都是多少年的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "dd6a5a9bfabb7315",
+          "style": "NORMAL_TEXT",
+          "text": "NUS Shou Zheng Mike"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1675,
+      "at_to": 1677,
+      "from_paragraphs": [
+        {
+          "content_hash": "2be5c3f813552714",
+          "style": "NORMAL_TEXT",
+          "text": "无学术能力。不懂LLM也不懂老本行手术"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "829e3fbbd2e05a93",
+          "style": "NORMAL_TEXT",
+          "text": "无学术能力。不懂LLM甚至不懂老本行、可能只知道特定数据集处理了。"
+        },
+        {
+          "content_hash": "98d0da34bf4df5d4",
+          "style": "NORMAL_TEXT",
+          "text": "常年失踪。要求你秒回但zha"
+        },
+        {
+          "content_hash": "c12ff917083aa8ac",
+          "style": "NORMAL_TEXT",
+          "text": "情商为负数 不让正常请假。不给写推荐信、不给内推、养鱼。"
+        },
+        {
+          "content_hash": "13543316b2ebcf0f",
+          "style": "NORMAL_TEXT",
+          "text": "手下有学生学术不端 组内区别对待 资源浪费倾斜。"
+        },
+        {
+          "content_hash": "5a2e8dc824495acc",
+          "style": "NORMAL_TEXT",
+          "text": "和某牛津博士PY交易 牺牲学生利益换取通讯。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1677,
+      "at_to": 1683,
+      "from_paragraphs": [
+        {
+          "content_hash": "91d48901fea7f87c",
+          "style": "NORMAL_TEXT",
+          "text": "NUS Michael Xie (啥瓜？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "444452fb6dd656ca",
+          "style": "NORMAL_TEXT",
+          "text": "NUS Michael Xie"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1742,
+      "at_to": 1748,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3f64f3c6c54ab23f",
+          "style": "NORMAL_TEXT",
+          "text": "没人知道他是个 gay 么"
+        },
+        {
+          "content_hash": "3dba88ea29a4b2e4",
+          "style": "NORMAL_TEXT",
+          "text": "在悉尼UTS打过组里男生屁股"
+        }
+      ]
+    }
+  ]
+}

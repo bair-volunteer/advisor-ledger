@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-57-40Z",
+  "reviewed_at_utc": "2026-04-20T12:59:28Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 7,
+  "n_inserts": 15,
+  "pairs": [
+    {
+      "ghost_hash": "a796910991dc578b",
+      "insert_hash": "79da0e5762555370",
+      "note": "typo fix: jagengmao->jiagengmao",
+      "ghost_text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Jiageng mao没水平，希望yue别支持这种事情）",
+      "insert_text": "组里逆天phd jiagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Jiageng mao没水平，希望yue别支持这种事情）"
+    },
+    {
+      "ghost_hash": "509033f17830ef88",
+      "insert_hash": "ac05c44578351549",
+      "note": "added detail about impact scope",
+      "ghost_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟...那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 真热闹",
+      "insert_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟...那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty 不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹"
+    },
+    {
+      "ghost_hash": "e046c26bce3d328e",
+      "insert_hash": "8ea3e89677a470ab",
+      "note": "added positive personal experience",
+      "ghost_text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（",
+      "insert_text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）"
+    },
+    {
+      "ghost_hash": "e7792b2af7dc89cb",
+      "insert_hash": "dd6a5a9bfabb7315",
+      "note": "removed parenthetical question",
+      "ghost_text": "NUS Shou Zheng Mike (听说有？ 蹲一手）",
+      "insert_text": "NUS Shou Zheng Mike"
+    },
+    {
+      "ghost_hash": "2be5c3f813552714",
+      "insert_hash": "829e3fbbd2e05a93",
+      "note": "rephrased criticism of expertise",
+      "ghost_text": "无学术能力。不懂LLM也不懂老本行手术",
+      "insert_text": "无学术能力。不懂LLM甚至不懂老本行、可能只知道特定数据集处理了。"
+    },
+    {
+      "ghost_hash": "91d48901fea7f87c",
+      "insert_hash": "444452fb6dd656ca",
+      "note": "removed parenthetical question",
+      "ghost_text": "NUS Michael Xie (啥瓜？)",
+      "insert_text": "NUS Michael Xie"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2669,
+  "skipped_reason": null
+}

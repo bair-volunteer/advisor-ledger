@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-57-40Z.delta.json",
+  "delta_ts": "2026-04-20T12-57-40Z",
+  "reviewed_at_utc": "2026-04-20T12:59:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Real full name of PhD student 'jiagengmao' exposed in critical comment",
+      "excerpt": "组里逆天phd jiagengmao没水平"
+    },
+    {
+      "type": "pii",
+      "detail": "Lab-specific incident description (location UTS Sydney and specific physical act) risks de-anonymizing the student victim",
+      "excerpt": "在悉尼UTS打过组里男生屁股"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Outing sexual orientation as unsupported character attack/gossip",
+      "excerpt": "没人知道他是个 gay 么"
+    }
+  ],
+  "prompt_sha256": "990d1ec62dd4ce2ec952d0a3f1184cd3cc2d2b332774337e90fa812a8314fa91",
+  "finish_reason": "stop",
+  "completion_tokens": 5189
+}
