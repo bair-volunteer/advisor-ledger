@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-10-10Z.delta.json",
+  "delta_ts": "2026-04-20T21-10-10Z",
+  "reviewed_at_utc": "2026-04-20T21:10:53Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of specific substantive allegation regarding Meta internship authorship dispute and lawsuit, replaced with vague personal insult",
+      "excerpt": "学生去meta暑假实习完回学校，把实习成果投了CVPR，但是felix把自己弄成末作，并且在authorship里面不带任何一个meta的人。完了paper中了CVPR之后被meta起诉了，后来不知道咋样。"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Profane personal attack comparing professor to animal",
+      "excerpt": "狗改不了吃屎啊😆"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Sarcastic unsupported character judgment",
+      "excerpt": "带你家去了？ 被开送去其他老板那入坑的不提？"
+    }
+  ],
+  "prompt_sha256": "92a05b7628971bf9dd3e7debb2a8af7e88154d730b0d13278844a3e71f93b8b7",
+  "finish_reason": "stop",
+  "completion_tokens": 3701
+}
