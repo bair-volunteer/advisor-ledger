@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T23-14-00Z.delta.json",
+  "delta_ts": "2026-04-20T23-14-00Z",
+  "reviewed_at_utc": "2026-04-20T23:14:36Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of a substantive defense of advisor 'zhiyang' that cited specific high-quality papers (SIGGRAPH 2023 best paper, etc.) to counter criticism about research quality. This deletion suppresses legitimate counter-observations about the advisor's advising/research practices rather than cleaning up typos or off-topic content.",
+      "excerpt": "认识的人来说句公道话，别光盯着篇数据集 paper 喷，zhiyang idea 数量和质量都很强的。比如这篇 SIGGRAPH 2023 best paper: https://arxiv.org/pdf/2304.11605 是他的 idea，还有这个：https://arxiv.org/pdf/2110.00965"
+    }
+  ],
+  "prompt_sha256": "04b0a279ce3b44079d5fc54191ff011ee9708a35b0ab2e4830e69b1f3a7a7098",
+  "finish_reason": "stop",
+  "completion_tokens": 3006
+}

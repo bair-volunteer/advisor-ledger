@@ -1,0 +1,201 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T23-07-40Z",
+    "revision_id": "AMHacu49vAXehZIe_DtRyNcWl3q0OIFD8rAc6FGi8tTmkGujtzYmYk_jn_26rpbLVurYQP0r7xuM38hDt_iawmbvXg",
+    "paragraph_count": 2177
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T23-14-00Z",
+    "revision_id": "AMHacu4CPpDK23_JVCxuSEKngUVz_QZbCOSljBt3wl1Thk-ysJznJPJlP-cVBz0R_HeDyAoVKajG2h-0UnwLNSPqcA",
+    "paragraph_count": 2181
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 8,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0037,
+    "insertion_ratio": 0.0055
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "3b7a1c1ce44eac93",
+          "style": "HEADING_1",
+          "text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本jia tao 画"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1b9dcfcd268b3dba",
+          "style": "HEADING_1",
+          "text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 77,
+      "paragraphs": [
+        {
+          "content_hash": "7de967cb3c2da397",
+          "style": "NORMAL_TEXT",
+          "text": "（）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 132,
+      "at_to": 133,
+      "from_paragraphs": [
+        {
+          "content_hash": "7acc9c53fc3a8519",
+          "style": "NORMAL_TEXT",
+          "text": "认识的人来说句公道话，别光盯着篇数据集 paper 喷，zhiyang idea 数量和质量都很强的。比如这篇 SIGGRAPH 2023 best paper: https://arxiv.org/pdf/2304.11605 是他的 idea，还有这个：https://arxiv.org/pdf/2110.00965"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 487,
+      "paragraphs": [
+        {
+          "content_hash": "037dbfdf037eae81",
+          "style": "NORMAL_TEXT",
+          "text": "组里的PhD来说句公道话，林老师读博给funding支持，帮忙改论文，教学生怎么讲presentation，还帮忙找实习和工作。"
+        },
+        {
+          "content_hash": "1740db312cf2edac",
+          "style": "NORMAL_TEXT",
+          "text": "大家擦亮眼睛，辨别抹黑者的。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 488,
+      "at_to": 491,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8a8de823d5ed3e12",
+          "style": "NORMAL_TEXT",
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 494,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1028,
+      "paragraphs": [
+        {
+          "content_hash": "d5cb346b3370f2b4",
+          "style": "NORMAL_TEXT",
+          "text": " 没人补充么？这么多黑料。。。大家冲啊！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1309,
+      "at_to": 1310,
+      "from_paragraphs": [
+        {
+          "content_hash": "5ead546edf26fc90",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了做不出有用的research (什么有用的research)，各种事情一个不落(非常supportive，组里所有PhD从一年级暑假开始就全部都有业界intern，平时parttime也比比皆是)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9c2e1351f408a6a1",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了做不出有用的research (什么s 有用的research)，各种事情一个不落 (非常supportive，组里所有PhD从一年级暑假开始就全部都有业界intern，平时parttime也比比皆是)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1764,
+      "at_to": 1765,
+      "from_paragraphs": [
+        {
+          "content_hash": "f69dd2b442190e19",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（他学生在ua当faculty出轨本科生， rate my professor上有）（组内早年一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "75be327143e3afcc",
+          "style": "NORMAL_TEXT",
+          "text": "Inwafocom就是他那个圈子的人（wireless）搞臭的（他学生在ua当faculty出轨本科生， rate my professor上有）（组内早年一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2100,
+      "paragraphs": [
+        {
+          "content_hash": "cc73614733ba03d2",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake Huan Wang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

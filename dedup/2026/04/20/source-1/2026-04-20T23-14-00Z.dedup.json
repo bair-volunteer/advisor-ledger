@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T23-14-00Z",
+  "reviewed_at_utc": "2026-04-20T23:14:55Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 10,
+  "pairs": [
+    {
+      "ghost_hash": "3b7a1c1ce44eac93",
+      "insert_hash": "1b9dcfcd268b3dba",
+      "note": "remove signature jia tao 画",
+      "ghost_text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本jia tao 画",
+      "insert_text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本"
+    },
+    {
+      "ghost_hash": "5ead546edf26fc90",
+      "insert_hash": "9c2e1351f408a6a1",
+      "note": "minor formatting and typo fix",
+      "ghost_text": "写本子，做横向，除了做不出有用的research (什么有用的research)，各种事情一个不落(非常supportive，组里所有PhD从一年级暑假开始就全部都有业界intern，平时parttime也比比皆是)",
+      "insert_text": "写本子，做横向，除了做不出有用的research (什么s 有用的research)，各种事情一个不落 (非常supportive，组里所有PhD从一年级暑假开始就全部都有业界intern，平时parttime也比比皆是)"
+    },
+    {
+      "ghost_hash": "f69dd2b442190e19",
+      "insert_hash": "75be327143e3afcc",
+      "note": "typo: Infocom to Inwafocom",
+      "ghost_text": "Infocom就是他那个圈子的人（wireless）搞臭的（他学生在ua当faculty出轨本科生， rate my professor上有）（组内早年一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）",
+      "insert_text": "Inwafocom就是他那个圈子的人（wireless）搞臭的（他学生在ua当faculty出轨本科生， rate my professor上有）（组内早年一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2477,
+  "skipped_reason": null
+}
