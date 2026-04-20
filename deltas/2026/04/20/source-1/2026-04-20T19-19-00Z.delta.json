@@ -1,0 +1,83 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-14-40Z",
+    "revision_id": "AMHacu7ZiFY3MFD89Yx1RTXUMbCcE8mxPu8Y_etfUnHC3QG0p-1Zjg-w3oVpfWdDTuzT8zGj-3GoG0iD2Gnnzfvqbg",
+    "paragraph_count": 2001
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-19-00Z",
+    "revision_id": "AMHacu4dAPDK0nX3cWKU9WuFQ_nUiF-ULKH6hQTj9saywTzhKdQ3gw8k0QPwxSey9a4rZs12DGDA3eXzRg51RiiW3Q",
+    "paragraph_count": 2001
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 3,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0015,
+    "insertion_ratio": 0.0015
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 587,
+      "at_to": 587,
+      "from_paragraphs": [
+        {
+          "content_hash": "57e77dc970d61137",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！在线等！急急急！！怎么还没有实名啊！！知道都是编的心虚了？警告你！被这个b人坑害的学生没没没，不如被你造谣的学生多 至少有上百人！太牛了，问问这上百人知不知道 你要是再jb删我们直接实名了！(先生大义！还在这RP装圣人呢 ）我们群众的力量众在哪儿呢足够把你跟你的走狗一波带走。太对了，反驳你的都是走狗，众人皆浊我独清！ 别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e3ff650483c10583",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！在线等！急急急！！怎么还没有实名啊！！知道都是编的心虚了？警告你！被这个b人坑害的学生没没没，不如被你造谣的学生多 至少有上百人！太牛了，问问这上百人知不知道 你要是再jb删我们直接实名了！快快快！等着呢！(先生大义！还在这RP装圣人呢 ）我们群众的力量众在哪儿呢足够把你跟你的走狗一波带走。太对了，反驳你的都是走狗，众人皆浊我独清！ 别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 883,
+      "at_to": 883,
+      "from_paragraphs": [
+        {
+          "content_hash": "48117c99871d3c51",
+          "style": "NORMAL_TEXT",
+          "text": "（经亲自与学生本人确认，删除涉及学生隐私的不准确部分）(请不要编造谣言了)（纯造谣。这个师兄和实验室关系一直很好，现在常驻波士顿某 top lab 做 scientist。毕业以后实验室和导师组织的活动他也经常主动参加。真要关系差成你里写的那样，现实里根本不会是这种状态。你要不要我直接把人请来，让你当着当事人的面把这段再说一遍。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c4df6a221e082cb4",
+          "style": "NORMAL_TEXT",
+          "text": "（经亲自与学生本人确认，删除涉及学生隐私的不准确部分）(请不要编造谣言了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1770,
+      "at_to": 1770,
+      "from_paragraphs": [
+        {
+          "content_hash": "1099da8808c8b5d3",
+          "style": "NORMAL_TEXT",
+          "text": "她从heng ji组毕业的时候，heng发了有庆祝照片的推、也更新了网站news说may要加入hkust。之后xhs有人转载了heng的推，不久之后xhs帖子、heng的推、网站更新都删了。虽然感觉这个没用的观察毫无意义但还是interesting hhh"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8841477dafbd40a9",
+          "style": "NORMAL_TEXT",
+          "text": "她从heng ji组毕业的时候，heng发了有庆祝照片的推、也更新了网站news说may要加入hkust。之后xhs有人转载了heng的推，不久之后xhs帖子、heng的推、网站更新都删了。虽然感觉这个没用的观察毫无意义但还是interesting hhh （这个应该是涉及到签正式offer前的一些保密规定了，小问题，很常见）"
+        }
+      ]
+    }
+  ]
+}

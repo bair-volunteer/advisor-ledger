@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-19-00Z.delta.json",
+  "delta_ts": "2026-04-20T19-19-00Z",
+  "reviewed_at_utc": "2026-04-20T19:20:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive defense of an advisor's relationship with a specific student, including detailed rebuttal of negative claims and an offer to bring the student for direct confrontation. This appears to suppress legitimate counter-evidence about advising practices rather than performing simple cleanup (e.g., typos or dedup). While the deleted text contains descriptors of the student's current position, the removal of the entire argumentative passage—not just the identifying details—suggests content suppression.",
+      "excerpt": "（纯造谣。这个师兄和实验室关系一直很好，现在常驻波士顿某 top lab 做 scientist。毕业以后实验室和导师组织的活动他也经常主动参加。真要关系差成你里写的那样，现实里根本不会是这种状态。你要不要我直接把人请来，让你当着当事人的面把这段再说一遍。）"
+    }
+  ],
+  "prompt_sha256": "d8caf932f2454ffb6cacaba459a8c8e8cd04b1e8d699466707f446bec2214d43",
+  "finish_reason": "stop",
+  "completion_tokens": 5776
+}

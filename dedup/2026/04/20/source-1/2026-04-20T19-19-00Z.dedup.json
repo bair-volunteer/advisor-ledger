@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T19-19-00Z",
+  "reviewed_at_utc": "2026-04-20T19:20:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 3,
+  "n_inserts": 3,
+  "pairs": [
+    {
+      "ghost_hash": "57e77dc970d61137",
+      "insert_hash": "e3ff650483c10583",
+      "note": "Added urgency phrase '快快快！等着呢！'",
+      "ghost_text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！在线等！急急急！！怎么还没有实名啊！！知道都是编的心虚了？警告你！被这个b人坑害的学生没没没，不如被你造谣的学生多 至少有上百人！太牛了，问问这上百人知不知道 你要是再jb删我们直接实名了！(先生大义！还在这RP装圣人呢 ）我们群众的力量众在哪儿呢足够把你跟你的走狗一波带走。太对了，反驳你的都是走狗，众人皆浊我独清！ 别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）",
+      "insert_text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！在线等！急急急！！怎么还没有实名啊！！知道都是编的心虚了？警告你！被这个b人坑害的学生没没没，不如被你造谣的学生多 至少有上百人！太牛了，问问这上百人知不知道 你要是再jb删我们直接实名了！快快快！等着呢！(先生大义！还在这RP装圣人呢 ）我们群众的力量众在哪儿呢足够把你跟你的走狗一波带走。太对了，反驳你的都是走狗，众人皆浊我独清！ 别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+    },
+    {
+      "ghost_hash": "1099da8808c8b5d3",
+      "insert_hash": "8841477dafbd40a9",
+      "note": "Added confidentiality explanation at end",
+      "ghost_text": "她从heng ji组毕业的时候，heng发了有庆祝照片的推、也更新了网站news说may要加入hkust。之后xhs有人转载了heng的推，不久之后xhs帖子、heng的推、网站更新都删了。虽然感觉这个没用的观察毫无意义但还是interesting hhh",
+      "insert_text": "她从heng ji组毕业的时候，heng发了有庆祝照片的推、也更新了网站news说may要加入hkust。之后xhs有人转载了heng的推，不久之后xhs帖子、heng的推、网站更新都删了。虽然感觉这个没用的观察毫无意义但还是interesting hhh （这个应该是涉及到签正式offer前的一些保密规定了，小问题，很常见）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2018,
+  "skipped_reason": null
+}
