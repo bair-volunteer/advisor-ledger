@@ -1,0 +1,258 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-54-50Z",
+    "revision_id": "AMHacu5WfxdGSPnK132de7n7eTjrgEqN47oHQMuwvZNQTPyhZuQDTlKJtIZwWNhjSeRsJiSmolEFMZxSnJNwtJhsEQ",
+    "paragraph_count": 2185
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-56-52Z",
+    "revision_id": "AMHacu4KA7TyhXBGaLFcqJJ4BiUIHTFce6uADjk84eiFWAJ0SomuZ_Szws7oECSs_XIpi7YkkuMvEiy0zEWaWJtRmA",
+    "paragraph_count": 2187
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 15,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0069,
+    "insertion_ratio": 0.0078
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "d6cf8ac2a1ed9fa3",
+          "style": "HEADING_1",
+          "text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b39a230df8acdb76",
+          "style": "HEADING_1",
+          "text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本。o"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 78,
+      "at_to": 78,
+      "from_paragraphs": [
+        {
+          "content_hash": "7334b1673524d953",
+          "style": "HEADING_2",
+          "text": "  Chinese Academy of Sciences"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ca8c4f80bfdd25cd",
+          "style": "HEADING_2",
+          "text": " Chinese Academy of Sciences"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 120,
+      "at_to": 120,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c58f00e871cb5a4f",
+          "style": "HEADING_3",
+          "text": "Hua Li"
+        },
+        {
+          "content_hash": "64a8373d2b7d7432",
+          "style": "NORMAL_TEXT",
+          "text": "极其toxic, 组里很多学生待了一年被劝退 要么就转租"
+        },
+        {
+          "content_hash": "62b70471aa63fcd8",
+          "style": "NORMAL_TEXT",
+          "text": "组会经常PUA学生，说学生各种不认真 不努力，她自己怎么认真 努力"
+        },
+        {
+          "content_hash": "2eacde4ebfd6d27e",
+          "style": "NORMAL_TEXT",
+          "text": "不允许学生出去实习，一整年都需要在lab工作，出去实习之后 不给发TA"
+        },
+        {
+          "content_hash": "aefad2eccec8ff07",
+          "style": "NORMAL_TEXT",
+          "text": "每天都必须去lab工作"
+        },
+        {
+          "content_hash": "66109a90d050e60d",
+          "style": "NORMAL_TEXT",
+          "text": "自己很多都不会，只知道用一些三四年前的知识水paper"
+        },
+        {
+          "content_hash": "af96b28f584c9d5d",
+          "style": "NORMAL_TEXT",
+          "text": "组里去向绝大部分都不好，几乎毕业只能SDE MLE这种工"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 252,
+      "at_to": 258,
+      "from_paragraphs": [
+        {
+          "content_hash": "9c70ee3cd1ee0003",
+          "style": "HEADING_2",
+          "text": "UIUC"
+        },
+        {
+          "content_hash": "04a205617e958a41",
+          "style": "HEADING_3",
+          "text": " Hua Li"
+        },
+        {
+          "content_hash": "64a8373d2b7d7432",
+          "style": "NORMAL_TEXT",
+          "text": "极其toxic, 组里很多学生待了一年被劝退 要么就转租"
+        },
+        {
+          "content_hash": "62b70471aa63fcd8",
+          "style": "NORMAL_TEXT",
+          "text": "组会经常PUA学生，说学生各种不认真 不努力，她自己怎么认真 努力"
+        },
+        {
+          "content_hash": "2eacde4ebfd6d27e",
+          "style": "NORMAL_TEXT",
+          "text": "不允许学生出去实习，一整年都需要在lab工作，出去实习之后 不给发TA"
+        },
+        {
+          "content_hash": "aefad2eccec8ff07",
+          "style": "NORMAL_TEXT",
+          "text": "每天都必须去lab工作"
+        },
+        {
+          "content_hash": "66109a90d050e60d",
+          "style": "NORMAL_TEXT",
+          "text": "自己很多都不会，只知道用一些三四年前的知识水paper"
+        },
+        {
+          "content_hash": "af96b28f584c9d5d",
+          "style": "NORMAL_TEXT",
+          "text": "组里去向绝大部分都不好，几乎毕业只能SDE MLE这种工"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "HEADING_2",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "HEADING_3",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 268,
+      "at_to": 268,
+      "from_paragraphs": [
+        {
+          "content_hash": "9fbc535bdd32f9e6",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Jiaqi Ma"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ea0ccc25daeacc90",
+          "style": "HEADING_2",
+          "text": "UCLA"
+        },
+        {
+          "content_hash": "f92ac4eba5c5fe2b",
+          "style": "HEADING_3",
+          "text": " Jiaqi Ma"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 295,
+      "at_to": 296,
+      "from_paragraphs": [
+        {
+          "content_hash": "76c42f2f76e74b8e",
+          "style": "NORMAL_TEXT",
+          "text": "UCSC Chenguang Wang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54e656736cded8a5",
+          "style": "NORMAL_TEXT",
+          "text": "UCSC"
+        },
+        {
+          "content_hash": "3cff7b46749e1b56",
+          "style": "NORMAL_TEXT",
+          "text": "Chenguang Wang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2092,
+      "at_to": 2094,
+      "from_paragraphs": [
+        {
+          "content_hash": "357a4e429fb89c24",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水，什么方向都做，全是水方向。根本不管事，然后什么指导也给不出，不给onsite实习生发实习补贴。不知道怎么去西湖的。手底下phd一个比一个toxic，把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了). 曾经被一个手底下phd带过一学期，他妈的sp你真是纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等. (这phd学生是真逆天...略有耳闻)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f161494c71e293c",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水，什么方向都做，全是水方向。根本不管事，然后什么指导也给不出，fei不给onsite实习生发实习补贴。不知道怎么去西湖的。手底下phd一个比一个toxic，把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了). 曾经被一个手底下phd带过一学期，他妈的sp你真是纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等. (这phd学生是真逆天...略有耳闻)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2096,
+      "at_to": 2098,
+      "from_paragraphs": [
+        {
+          "content_hash": "89ab3dec075c0057",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话没那么直接，大概意思是这样, 极度的push。（何止是push……）组里氛围也是非常好，学生私下抱怨老师，之间呢又有意淫。还有各种地域歧视+反向学历歧视(好像是因为二位的本科不太好呢所以嫉妒了吧?)。我只在很久之前跟他们共事过一段时间，至今想起来仍然觉得刻骨铭心的难受，说实话，这个组的师徒我恨你们一辈子....恨之入骨,说是耽误了很多科研学生的一辈子也不为过。我对他们就是无穷无尽的恨意.希望各位继续更多补充."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e7c617f8a53e49ec",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话没那么直接，大概意思是这样, 极度的push。（何止是push……）组里氛围也是非常好，学生私下抱怨老师，之间呢又有意淫。还有各种地域歧视+反向学历歧视(好像是因为二位的本科不太好呢所以嫉妒了吧?)。我只在很久之前跟他们共事过一段时间，至今想起来仍然觉得刻骨铭心的难受和心理阴影，说实话，这个组的师徒我恨你们一辈子....恨之入骨,说是耽误了很多科研学生的一辈子也不为过。我对他们就是无穷无尽的恨意.希望各位继续更多补充."
+        }
+      ]
+    }
+  ]
+}
