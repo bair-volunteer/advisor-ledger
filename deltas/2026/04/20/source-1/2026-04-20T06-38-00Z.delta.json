@@ -1,0 +1,122 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-33-40Z",
+    "revision_id": null,
+    "paragraph_count": 1167
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-38-00Z",
+    "revision_id": null,
+    "paragraph_count": 1165
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 7,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.006,
+    "insertion_ratio": 0.0043
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "b88e9b54e2daf041",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way."
+        },
+        {
+          "content_hash": "332439e9f64cb618",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的误解。你可以选择删除对你不利的信息，但是如果黑料是真实存在的，其将永远流传在学生群体中。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "05f8b07ec34fbe8b",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        },
+        {
+          "content_hash": "d90a85c9c1a54170",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 4,
+      "at_to": 4,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c045ca7f3a32e58",
+          "style": "NORMAL_TEXT",
+          "text": "任何对PhD学生本人的评论都需要被删除，本文档只针对PI，请大家帮忙维护一些学生隐私。"
+        },
+        {
+          "content_hash": "851c88d4deed87f0",
+          "style": "NORMAL_TEXT",
+          "text": "不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息"
+        },
+        {
+          "content_hash": "afb499808066104b",
+          "style": "NORMAL_TEXT",
+          "text": "请大家保护学生信息，包含隐私信息的评论都需要被删除"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f2d9df5cfb0f6cc8",
+          "style": "NORMAL_TEXT",
+          "text": "不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息，本文档只针对PI，请大家帮忙维护一些学生隐私。请大家保护学生信息，包含隐私信息的评论都需要被删除。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 9,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "c52402490589e638",
+          "style": "NORMAL_TEXT",
+          "text": "补充了“（存在争议，请谨慎辨别）”的tag，没有tag就是暂时没有组内成员过来Rebuttal"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "da1c952262e16313",
+          "style": "NORMAL_TEXT",
+          "text": "补充了“（存在争议，请谨慎辨别）”的tag，没有tag就是暂时没有组内成员过来Rebuttal；就目前大部分的信息而言，原始版本的“黑料”和组内成员的“Rebuttal”"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 11,
+      "at_to": 9,
+      "from_paragraphs": [
+        {
+          "content_hash": "225816fb023adc24",
+          "style": "NORMAL_TEXT",
+          "text": "当前Tab为黑榜，红榜请去另一个Tab：学术界红榜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9dbf7a2fcf12de68",
+          "style": "NORMAL_TEXT",
+          "text": "当前Tab为黑榜，红榜请去另一个Tab：学术界红榜。相同导师可以同时在黑榜和红榜中，请大家辩证看待。"
+        }
+      ]
+    }
+  ]
+}
