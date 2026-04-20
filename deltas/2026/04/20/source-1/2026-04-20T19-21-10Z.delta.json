@@ -1,0 +1,105 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-19-00Z",
+    "revision_id": "AMHacu4dAPDK0nX3cWKU9WuFQ_nUiF-ULKH6hQTj9saywTzhKdQ3gw8k0QPwxSey9a4rZs12DGDA3eXzRg51RiiW3Q",
+    "paragraph_count": 2001
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-21-10Z",
+    "revision_id": "AMHacu7kXwpTOlASwxaA5gnWyOpGxqF-Q_PAXLx94cf8XoQjztsSqICqaWZoI6TIxEUJIi3r_ufCUX4hsxGYfy8FnQ",
+    "paragraph_count": 2003
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 3,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0015,
+    "insertion_ratio": 0.0025
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 40,
+      "at_to": 40,
+      "from_paragraphs": [
+        {
+          "content_hash": "e9b5f9f0337de19d",
+          "style": "NORMAL_TEXT",
+          "text": "Rice University / pre University of Rochester Tong (Tony) Geng"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4cb4caae87ede211",
+          "style": "NORMAL_TEXT",
+          "text": "Rice University / pre University of Tong (Tony) Geng"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1102,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1217,
+      "at_to": 1218,
+      "from_paragraphs": [
+        {
+          "content_hash": "54ab263a0904e930",
+          "style": "NORMAL_TEXT",
+          "text": "组内政治斗争严重(有组内人印证一下吗?)(也感兴趣，组里学生能提供些信息吗？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4e3e37d1116bcd7c",
+          "style": "NORMAL_TEXT",
+          "text": "组内政治斗争严重(有组内人印证一下吗?)(也感兴趣，组里学生能提供些信息吗？)(在读学生表示不太理解为啥会有这个说法)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1490,
+      "paragraphs": [
+        {
+          "content_hash": "6161c71f59b0fa1a",
+          "style": "NORMAL_TEXT",
+          "text": "爱写survey？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1787,
+      "at_to": 1789,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9f0841e2e60ebfcc",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红bang"
+        }
+      ]
+    }
+  ]
+}
