@@ -1,0 +1,293 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-53-00Z",
+    "revision_id": "AMHacu6azAWLtzqYs-LXNm28iaAk_csRiLIyT1EySngj7PsuyarXOmhHW5VZC9x615sk99bHqa3Ilyfm9BISksuWGg",
+    "paragraph_count": 1201
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-57-20Z",
+    "revision_id": "AMHacu50TIdS6e0eYkAfmEtGmCrUYBaQVZ-m6983IiLKpGsIK--JDwUkw952qVXdUamIDJAJPjNuPp6cYRu3R_0-2A",
+    "paragraph_count": 1209
+  },
+  "summary": {
+    "inserted_paragraphs": 19,
+    "deleted_paragraphs": 11,
+    "operations": 14,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0092,
+    "insertion_ratio": 0.0157
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 0,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 33,
+      "at_to": 34,
+      "from_paragraphs": [
+        {
+          "content_hash": "c2db177c8982c73f",
+          "style": "NORMAL_TEXT",
+          "text": "不是说最后举报他的学生被劝退了吗，谁还敢说？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a293079a9b8acfea",
+          "style": "NORMAL_TEXT",
+          "text": "不是说最后举报他的学生被劝退了吗，谁还敢说？()"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 47,
+      "at_to": 48,
+      "from_paragraphs": [
+        {
+          "content_hash": "3bfedc5c2bc34c5e",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd关系亲密，让人怀疑是否有利益交换。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4337d5fc43b31528",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友，让人怀疑是否有利益交换。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 55,
+      "at_to": 56,
+      "from_paragraphs": [
+        {
+          "content_hash": "9c42bbae774a3cf9",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（我会在红榜描述一下），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到 四大毒王四大毒王四大毒王 多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态c)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4d00f632aa092249",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（我会在红榜描述一下），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到 四大毒王四大毒王四大毒王 多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 64,
+      "at_to": 65,
+      "from_paragraphs": [
+        {
+          "content_hash": "7be8e0a1723a9694",
+          "style": "NORMAL_TEXT",
+          "text": "让组里学生互相投票决定开除"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f905a75073b4629",
+          "style": "NORMAL_TEXT",
+          "text": "让组里学生互相投票决定开除 (66666开眼界了。。。)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 530,
+      "at_to": 531,
+      "from_paragraphs": [
+        {
+          "content_hash": "d40376e7c609cbd4",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC，Jiaxuan You（存在争议，请谨慎辨别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a683fd7190d03876",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC，Jiaxuan You（存在争议，请谨慎辨别）（血书把尤老师从黑榜除了，真不至于）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 649,
+      "at_to": 650,
+      "from_paragraphs": [
+        {
+          "content_hash": "17f638c5d38dfff6",
+          "style": "NORMAL_TEXT",
+          "text": "对白人意见很大，私下里经常喷同方向的各种好论文 （逆天，就一个白人学生 第一年要做密码学, yu全力支持给他拉合作者，第二个项目做ai4sci 2年没出结果最后拿best student paper，给足了时间和耐心，现在毕业找工作还帮人各处frontier labs问。啥叫意见很大？到底啥叫意见很大？）（我也想要被yu意见很大lol）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "045d482bae107e06",
+          "style": "NORMAL_TEXT",
+          "text": "对白人意见很大，私下里经常喷同方向的各种好论文 （逆天，就一个白人学生 第一年要做密码学, yu全力支持给他拉合作者，第二个项目做ai4sci 2年没出结果最后拿best student paper，给足了时间和耐心，现在毕业找工作还帮人各处frontier labs问。啥叫意见很大？）（我也想要被yu意见很大lol）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 696,
+      "at_to": 697,
+      "from_paragraphs": [
+        {
+          "content_hash": "558dfb7e7f3590bc",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，包括下面吵的mindcube的intern(不要包括我，谢谢哈--BQ Yin)，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？()"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c9fe028e6bef449",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，包括下面吵的mindcube的intern(不要包括我，谢谢哈--BQ Yin)，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？(intern/phd)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 720,
+      "at_to": 721,
+      "from_paragraphs": [
+        {
+          "content_hash": "69c849c06b5c58be",
+          "style": "NORMAL_TEXT",
+          "text": "关于 MindCube 这篇工作的 authorship，我想澄清一些事实。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "71dbc1ff63e00389",
+          "style": "NORMAL_TEXT",
+          "text": "我是MindCube的另一位共同一作的PhD学生，关于 MindCube 这篇工作的 authorship，我想澄清一些事实。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 724,
+      "at_to": 725,
+      "from_paragraphs": [
+        {
+          "content_hash": "2c1c24b750e210a9",
+          "style": "NORMAL_TEXT",
+          "text": "正文的大部分写作+storyline 和 framing 的多轮迭代（与其他 collaborators 共同推进）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f414a8665e71cbe3",
+          "style": "NORMAL_TEXT",
+          "text": "data collection的收集方式设计（label taxonomy，如何利用camera trajectories以及其他的自动化生成的实验想法）正文的大部分写作+storyline 和 framing 的多轮迭代（与其他 collaborators 共同推进）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 980,
+      "at_to": 982,
+      "from_paragraphs": [
+        {
+          "content_hash": "7fb560078dcad6bf",
+          "style": "NORMAL_TEXT",
+          "text": "不会带学生，mei"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c8250bcc9027132f",
+          "style": "NORMAL_TEXT",
+          "text": "不会带学生，没idea，只会压力学生。"
+        },
+        {
+          "content_hash": "bf3a2f35a5260578",
+          "style": "NORMAL_TEXT",
+          "text": "半年3个学生离组"
+        },
+        {
+          "content_hash": "312e625947a5596e",
+          "style": "NORMAL_TEXT",
+          "text": "发pip信，dai"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1033,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bbc32cb3db8f739f",
+          "style": "NORMAL_TEXT",
+          "text": "HKU Luo Ping"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1114,
+      "at_to": 1120,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0d39999e452c3ab7",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU SAI第一批老师没几个正常人"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1134,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "52d5e72d08fd23a7",
+          "style": "NORMAL_TEXT",
+          "text": "HIT"
+        }
+      ]
+    }
+  ]
+}
