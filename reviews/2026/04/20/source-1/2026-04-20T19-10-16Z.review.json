@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-10-16Z.delta.json",
+  "delta_ts": "2026-04-20T19-10-16Z",
+  "reviewed_at_utc": "2026-04-20T19:11:13Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Text contains profanity ('jb', 'b人') and unsupported personal insults including '走狗' (lackeys), '装圣人' (pretending to be a saint), and '别给脸不要脸' (shameless), constituting pure personal attacks rather than criticism of concrete advising practices.",
+      "excerpt": "被这个b人坑害的学生...把你跟你的走狗一波带走...还在这RP装圣人呢...别给脸不要脸"
+    }
+  ],
+  "prompt_sha256": "8a048cc1e201c093d4f2c03ed672f58dbf93190820ba6a7e18647be8a18ec778",
+  "finish_reason": "stop",
+  "completion_tokens": 2718
+}

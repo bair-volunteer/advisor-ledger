@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T19-10-16Z",
+  "reviewed_at_utc": "2026-04-20T19:11:35Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 5,
+  "pairs": [
+    {
+      "ghost_hash": "f67412088bb70610",
+      "insert_hash": "d934cc3605dd0c0e",
+      "note": "removed '有争议，'",
+      "ghost_text": "Upitt Junyu Liu （在红榜上看到，有争议，女生可能需要小心）",
+      "insert_text": "Upitt Junyu Liu （在红榜上看到，女生可能需要小心）"
+    },
+    {
+      "ghost_hash": "aa7efc71ffd1d3e3",
+      "insert_hash": "6d69ebb48daca741",
+      "note": "added '完全没有问题' clarification",
+      "ghost_text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了 (这个就有点当别人是傻子了，这个项目人家完全开源，checkpoint也有，我跑过，没啥问题) （就硬黑，项目700+星，引用600+，全开源）",
+      "insert_text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了 (这个就有点当别人是傻子了，这个项目人家完全开源，checkpoint也有，我跑过，没啥问题) （就硬黑，项目700+星，引用600+，全开源，完全没有问题）"
+    },
+    {
+      "ghost_hash": "57caf25d50f1c4c2",
+      "insert_hash": "578c2dbab16ec233",
+      "note": "rephrased intern experience statement",
+      "ghost_text": "老师也是人，能量有限。对于我来说我觉得Huan做到他能做的了，我觉得intern的经历也很开心",
+      "insert_text": "老师也是人，能量有限。对于我来说我觉得Huan做到他能做的了，我个人的intern经历是很开心的反正。"
+    },
+    {
+      "ghost_hash": "8b64a7a927ccc606",
+      "insert_hash": "bc69ce77ea525d60",
+      "note": "punctuation fix to question format",
+      "ghost_text": "又有洗地的控评了；一直删评论恶心不恶心",
+      "insert_text": "又有洗地的控评了，一直删评论恶心不恶心？"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2878,
+  "skipped_reason": null
+}

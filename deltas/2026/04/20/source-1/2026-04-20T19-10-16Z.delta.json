@@ -1,0 +1,121 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-07-50Z",
+    "revision_id": "AMHacu6lE1kw3vgWylxVG4y2FXKNasnEnPItGHNoeAvJEDyt8Lh8LcfUe-F7ea3Qws4IKZquegnmJtWaQwp9H43gmg",
+    "paragraph_count": 1997
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-10-16Z",
+    "revision_id": "AMHacu7n5QHucb8yaInLwj6p8f-EK_JSiZjM-6HHkZg7Zt9ZnChKXMULy3KAnvM0SVyw2i4bqlS6camZflM1Niju-A",
+    "paragraph_count": 1997
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 5,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0025,
+    "insertion_ratio": 0.0025
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 264,
+      "at_to": 264,
+      "from_paragraphs": [
+        {
+          "content_hash": "f67412088bb70610",
+          "style": "NORMAL_TEXT",
+          "text": "Upitt Junyu Liu （在红榜上看到，有争议，女生可能需要小心）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d934cc3605dd0c0e",
+          "style": "NORMAL_TEXT",
+          "text": "Upitt Junyu Liu （在红榜上看到，女生可能需要小心）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 486,
+      "at_to": 486,
+      "from_paragraphs": [
+        {
+          "content_hash": "aa7efc71ffd1d3e3",
+          "style": "NORMAL_TEXT",
+          "text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了 (这个就有点当别人是傻子了，这个项目人家完全开源，checkpoint也有，我跑过，没啥问题) （就硬黑，项目700+星，引用600+，全开源）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6d69ebb48daca741",
+          "style": "NORMAL_TEXT",
+          "text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了 (这个就有点当别人是傻子了，这个项目人家完全开源，checkpoint也有，我跑过，没啥问题) （就硬黑，项目700+星，引用600+，全开源，完全没有问题）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 587,
+      "at_to": 587,
+      "from_paragraphs": [
+        {
+          "content_hash": "5aaa6cbbf6b83a16",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！警告你！被这个b人坑害的学生没没没，不如被你造谣的学生多 至少有上百人！太牛了，问问这上百人知不知道 你要是再jb删我们直接实名了！(先生大义！还在这RP装圣人呢 ）我们群众的力量众在哪儿呢足够把你跟你的走狗一波带走。太对了，反驳你的都是走狗，众人皆浊我独清！ 别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "57e77dc970d61137",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！在线等！急急急！！怎么还没有实名啊！！知道都是编的心虚了？警告你！被这个b人坑害的学生没没没，不如被你造谣的学生多 至少有上百人！太牛了，问问这上百人知不知道 你要是再jb删我们直接实名了！(先生大义！还在这RP装圣人呢 ）我们群众的力量众在哪儿呢足够把你跟你的走狗一波带走。太对了，反驳你的都是走狗，众人皆浊我独清！ 别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1070,
+      "at_to": 1070,
+      "from_paragraphs": [
+        {
+          "content_hash": "57caf25d50f1c4c2",
+          "style": "NORMAL_TEXT",
+          "text": "老师也是人，能量有限。对于我来说我觉得Huan做到他能做的了，我觉得intern的经历也很开心"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "578c2dbab16ec233",
+          "style": "NORMAL_TEXT",
+          "text": "老师也是人，能量有限。对于我来说我觉得Huan做到他能做的了，我个人的intern经历是很开心的反正。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1450,
+      "at_to": 1450,
+      "from_paragraphs": [
+        {
+          "content_hash": "8b64a7a927ccc606",
+          "style": "NORMAL_TEXT",
+          "text": "又有洗地的控评了；一直删评论恶心不恶心"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bc69ce77ea525d60",
+          "style": "NORMAL_TEXT",
+          "text": "又有洗地的控评了，一直删评论恶心不恶心？"
+        }
+      ]
+    }
+  ]
+}
