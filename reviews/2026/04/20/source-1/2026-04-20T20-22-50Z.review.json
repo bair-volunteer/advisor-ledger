@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-22-50Z.delta.json",
+  "delta_ts": "2026-04-20T20-22-50Z",
+  "reviewed_at_utc": "2026-04-20T20:23:51Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student (LuChen) disclosed in context of PhD student status, potentially identifying the individual",
+      "excerpt": "LuChen今天仍然站在这里"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgments attacking other editors using internet slang ('破防' implying emotional fragility/triggered state, '打拳' implying militant gender activism)",
+      "excerpt": "bro被说破防了...怎么又开始打拳了"
+    }
+  ],
+  "prompt_sha256": "73cf1266cc8896272bfc03a0b472b6a3e75b0319819f1a03c130cddf2548719e",
+  "finish_reason": "stop",
+  "completion_tokens": 5778
+}

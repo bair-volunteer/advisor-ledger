@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T20-22-50Z",
+  "reviewed_at_utc": "2026-04-20T20:24:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 9,
+  "pairs": [
+    {
+      "ghost_hash": "c93ccf92847f739e",
+      "insert_hash": "70276b5834dd780c",
+      "note": "expanded with arxiv link and details",
+      "ghost_text": "是的，他组里的 Zhiyang Duo 非常能灌，到处合作，臭名昭著，听说夸张的一篇paper挂11个单位他尾作",
+      "insert_text": "是的，他组里的 Zhiyang Duo 非常能灌，到处合作，10多个intern帮他干一篇paper，听说夸张的一篇paper挂11个单位他尾作（说的是这篇paper吧 https://arxiv.org/pdf/2512.22808 类似的他paper还有好多）"
+    },
+    {
+      "ghost_hash": "961b6c1d944e9b52",
+      "insert_hash": "71ad2c3401777dbb",
+      "note": "typo fix: Song to Sing",
+      "ghost_text": "Stanford Shuran Song",
+      "insert_text": "Stanford Shuran Sing"
+    },
+    {
+      "ghost_hash": "fb16e6167a7eca3d",
+      "insert_hash": "744c4262e0a07bf2",
+      "note": "added phd certification tag",
+      "ghost_text": "组内的建议：太Push，不能忍受的别来，deadline前压力大",
+      "insert_text": "组内的建议：太Push，不能忍受的别来，deadline前压力大 （phd认证）"
+    },
+    {
+      "ghost_hash": "6c09136cfd1c56c0",
+      "insert_hash": "fe1db3cc3bf9040b",
+      "note": "extended with additional discussion",
+      "ghost_text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）",
+      "insert_text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）（你倒也不必这么说，May也曾经说过女性在申请时会比男性占优势）（这人没在说may xs）（男的优势多了去了，让女的占点吧谢谢）（怎么又开始打拳了。。。）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1989,
+  "skipped_reason": null
+}

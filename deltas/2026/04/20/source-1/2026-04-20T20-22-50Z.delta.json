@@ -1,0 +1,155 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T20-16-30Z",
+    "revision_id": "AMHacu6MoQCFP9qiSmrB6eyJmNY3wsyrZ8uxXAHK7_DDWvwPvJ4SeZFRaJICHF45TY20mn3BuAjCE-bTBNuHpDI73Q",
+    "paragraph_count": 2046
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-22-50Z",
+    "revision_id": "AMHacu5nTdiODTsjhmNcL1p--d8RyINkxjCqeji0SFbTaO3EUGRykbXYywQMISjEX3ZeTkwGgu0Uk-YlBUFwm4OzcQ",
+    "paragraph_count": 2049
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 6,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0029,
+    "insertion_ratio": 0.0044
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 113,
+      "at_to": 113,
+      "from_paragraphs": [
+        {
+          "content_hash": "c93ccf92847f739e",
+          "style": "NORMAL_TEXT",
+          "text": "是的，他组里的 Zhiyang Duo 非常能灌，到处合作，臭名昭著，听说夸张的一篇paper挂11个单位他尾作"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "70276b5834dd780c",
+          "style": "NORMAL_TEXT",
+          "text": "是的，他组里的 Zhiyang Duo 非常能灌，到处合作，10多个intern帮他干一篇paper，听说夸张的一篇paper挂11个单位他尾作（说的是这篇paper吧 https://arxiv.org/pdf/2512.22808 类似的他paper还有好多）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 372,
+      "paragraphs": [
+        {
+          "content_hash": "f92fdbc5ec2b24ff",
+          "style": "NORMAL_TEXT",
+          "text": "- 人咋样需要核对？感谢"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 374,
+      "at_to": 374,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "961b6c1d944e9b52",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford Shuran Song"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "71ad2c3401777dbb",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford Shuran Sing"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 792,
+      "at_to": 791,
+      "from_paragraphs": [
+        {
+          "content_hash": "fb16e6167a7eca3d",
+          "style": "NORMAL_TEXT",
+          "text": "组内的建议：太Push，不能忍受的别来，deadline前压力大"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "744c4262e0a07bf2",
+          "style": "NORMAL_TEXT",
+          "text": "组内的建议：太Push，不能忍受的别来，deadline前压力大 （phd认证）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1734,
+      "paragraphs": [
+        {
+          "content_hash": "38a23d563062d8bc",
+          "style": "NORMAL_TEXT",
+          "text": " 创业中,什么方向都搞，捞学生搞项目的 funding的 phd"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1805,
+      "at_to": 1806,
+      "from_paragraphs": [
+        {
+          "content_hash": "6c09136cfd1c56c0",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fe1db3cc3bf9040b",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）（你倒也不必这么说，May也曾经说过女性在申请时会比男性占优势）（这人没在说may xs）（男的优势多了去了，让女的占点吧谢谢）（怎么又开始打拳了。。。）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1840,
+      "paragraphs": [
+        {
+          "content_hash": "af7df5ea479a2318",
+          "style": "NORMAL_TEXT",
+          "text": "来自YOU老师另一位博士生："
+        },
+        {
+          "content_hash": "cb0bcd55f1e194e9",
+          "style": "NORMAL_TEXT",
+          "text": "不管你对You在工业界的成就持怎样主观的观点，客观来看，LuChen今天仍然站在这里。"
+        }
+      ]
+    }
+  ]
+}
