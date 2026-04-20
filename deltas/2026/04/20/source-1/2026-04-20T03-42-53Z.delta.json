@@ -1,0 +1,197 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-40-51Z",
+    "revision_id": "AMHacu5ErIHskUqUxS7JFhhccaYXffPsa4CY0Pc_yk3yybhVIZZ4JVQ5Cm-IhiThNflOVasaySrGIhVlmgFjzQOufQ",
+    "paragraph_count": 977
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-42-53Z",
+    "revision_id": "AMHacu4PXOUiYYAijjJtc2Yc1zobhhMXPNQnGs0iVE-lRhGIfQZZLo6IfivByAMslGYqtWWHDcREINvnMJMj-P0GqQ",
+    "paragraph_count": 986
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 6,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0061,
+    "insertion_ratio": 0.0152
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 7,
+      "paragraphs": [
+        {
+          "content_hash": "9acbc051281b44e7",
+          "style": "NORMAL_TEXT",
+          "text": "全网驰援！！！"
+        },
+        {
+          "content_hash": "5b6cc4daf02e1e86",
+          "style": "NORMAL_TEXT",
+          "text": "把截图放出来吧同学们！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 29,
+      "at_to": 31,
+      "from_paragraphs": [
+        {
+          "content_hash": "033efb330992ef2c",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地好像被爆过，不知道为啥帖子被删了，但还是能看出端倪"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d1244e0229cbb1a7",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地好像被爆过，不知道为啥帖子被删了，但还是能看出端倪 （可能被举报 删了吧）"
+        },
+        {
+          "content_hash": "d972670a4efec41f",
+          "style": "NORMAL_TEXT",
+          "text": "之前舍友"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 317,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 371,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "33c2ed3ff64d86f3",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Howie Choset"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 458,
+      "at_to": 463,
+      "from_paragraphs": [
+        {
+          "content_hash": "66ad4571e1e24baa",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了)（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "abfbff9d72f07078",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了)（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 600,
+      "at_to": 605,
+      "from_paragraphs": [
+        {
+          "content_hash": "167056e5c6dd8444",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也都不错\u000b3. 组里资源, 一篇paper居然至少budget 2k-20k usd, 学生去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        },
+        {
+          "content_hash": "6b0c356cb3d7d68b",
+          "style": "NORMAL_TEXT",
+          "text": "4. 不懂得让学生干活, 每周lab meeting居然还亲自讲research skill"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "386062cd6fd34730",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也都不错\u000b3. 组里资源, 一篇paper居然至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        },
+        {
+          "content_hash": "f2548f6fb438e776",
+          "style": "NORMAL_TEXT",
+          "text": "4. summer每周lab meeting讲research skill"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 612,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "39de8de4bd80fcfc",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Han Liu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 731,
+      "at_to": 739,
+      "from_paragraphs": [
+        {
+          "content_hash": "0819a1fa1cec1ab6",
+          "style": "NORMAL_TEXT",
+          "text": "Heng真的nice"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bfcd23fab3459064",
+          "style": "NORMAL_TEXT",
+          "text": "Heng真的nice(+1)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 940,
+      "paragraphs": [
+        {
+          "content_hash": "b7e9eb695f283793",
+          "style": "NORMAL_TEXT",
+          "text": "我本科在李老师组里a"
+        }
+      ]
+    }
+  ]
+}
