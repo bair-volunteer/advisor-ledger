@@ -1,0 +1,131 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-02-00Z",
+    "revision_id": "AMHacu51vYp3cQ28a7JYLyXOQPTmC9Vc8CPyWdNo4_KQoFSh_VbJ1EdZlDOwDDVs4zwWDW7wp2LThON7PXyRJ1R5-w",
+    "paragraph_count": 1054
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-04-00Z",
+    "revision_id": "AMHacu76DNck-vy6ZtBb-n_5FStx7QZuyFl2s1-EgjiM41QrLqXc4OwM819htipZoLbCnkuxAtdNREoKnbN3Qimi4w",
+    "paragraph_count": 1054
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 6,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0057,
+    "insertion_ratio": 0.0057
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 52,
+      "at_to": 52,
+      "from_paragraphs": [
+        {
+          "content_hash": "1bbb34c2e2f9f12e",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉t）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c3b8cc95c52a5e5e",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 214,
+      "at_to": 214,
+      "from_paragraphs": [
+        {
+          "content_hash": "04daa0b70ced43d4",
+          "style": "NORMAL_TEXT",
+          "text": "听说家暴老婆..."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a9095415d69152a2",
+          "style": "NORMAL_TEXT",
+          "text": "听说家暴老婆...（好可怜的老婆）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 337,
+      "at_to": 337,
+      "from_paragraphs": [
+        {
+          "content_hash": "ecc7f95304f268b2",
+          "style": "NORMAL_TEXT",
+          "text": "所有热点都做，然后无数个paper的 仓库代码和paper 描述不一致（圈内都知道）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b6d7229657d4a55",
+          "style": "NORMAL_TEXT",
+          "text": "所有热点都做，然后无数个paper的 仓库代码和paper 描述不一致（圈内都知道）（很会包装，数据有造假）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 636,
+      "at_to": 636,
+      "from_paragraphs": [
+        {
+          "content_hash": "2dd9c1031000e640",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4db41a6c0b19c1a6",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 648,
+      "at_to": 648,
+      "from_paragraphs": [
+        {
+          "content_hash": "53978c82c8179ee3",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)，每篇论文都会改图、来回讨论storyline"
+        },
+        {
+          "content_hash": "386062cd6fd34730",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也都不错\u000b3. 组里资源, 一篇paper居然至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4e338ba03b0c5fe9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        },
+        {
+          "content_hash": "90faec53da282b91",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    }
+  ]
+}
