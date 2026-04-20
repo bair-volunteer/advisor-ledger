@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-13-25Z.delta.json",
+  "delta_ts": "2026-04-20T15-13-25Z",
+  "reviewed_at_utc": "2026-04-20T15:14:23Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Added full name of a PhD student (yufei ding) identifying them as the romantic partner of another student in a sensitive context involving potential favoritism allegations",
+      "excerpt": "（即下方yufei ding)"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deleted substantive defense of advisor regarding normal communication and student outcomes, potentially suppressing legitimate positive observations",
+      "excerpt": "（他的学生）现在他对学生还不错，平时交流内容也都挺正常的生活和科研，没见到上面说，一起合作过的intern也有好几个去四大的"
+    }
+  ],
+  "prompt_sha256": "db8399c9c6f00448e32813a52f78665a0dcb1e5a5d605c10d1dfa2f66d49a7fe",
+  "finish_reason": "stop",
+  "completion_tokens": 4563
+}
