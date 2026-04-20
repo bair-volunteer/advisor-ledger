@@ -1,0 +1,516 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-48-58Z",
+    "revision_id": "AMHacu4k4UtbTXgRL215CuJaw34peehKdR_BU1aNq8ig3OW9WV0QKgI9AbbX1rRGb0cjy5pkhMhf7FOCfu7gyNPCKA",
+    "paragraph_count": 1002
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-53-00Z",
+    "revision_id": "AMHacu7-QAQXd9b8ozfMPnYLVAxMo6gAQcnV3LjsPwOYk9kJPXAlXD2op1FDQ8A1MqiWUBfx6bFvF4pziRmvjWsqgg",
+    "paragraph_count": 1043
+  },
+  "summary": {
+    "inserted_paragraphs": 53,
+    "deleted_paragraphs": 12,
+    "operations": 22,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.012,
+    "insertion_ratio": 0.0508
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 31,
+      "at_to": 31,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c74ed4369428ae8",
+          "style": "NORMAL_TEXT",
+          "text": "zhe ren"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b7a0f4b6ec8de4f8",
+          "style": "NORMAL_TEXT",
+          "text": "这人做的dynamic system相关的工作重复半天就那几个公式，被喷爆了还在水，论文真不是编的吗？（为什么每一篇不管啥领域的论文都带了一个叫ang li的人，PNNL的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 52,
+      "at_to": 52,
+      "from_paragraphs": [
+        {
+          "content_hash": "6120ce1585b620dc",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b0b1802a4d09a4ad",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把 toxic 当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用 f words 问候学生，交代任务定成当天的 ddl，手下的 phd student quit 的也是空穴来风？劝楼上不要g"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 59,
+      "at_to": 59,
+      "from_paragraphs": [
+        {
+          "content_hash": "54951933dda90d80",
+          "style": "NORMAL_TEXT",
+          "text": "实际实力很一般（这个确实du），组内发paper多是因为Rice有个大佬帮带了她第一届学生"
+        },
+        {
+          "content_hash": "262d2690348661fa",
+          "style": "NORMAL_TEXT",
+          "text": "npd型人格，组内不止一个去心理治疗的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "239e837b83197386",
+          "style": "NORMAL_TEXT",
+          "text": "实际实力很一般（这个确实很多人都说），组内发paper多是因为Rice有个大佬帮带了她第一届学生"
+        },
+        {
+          "content_hash": "d61206d4d3225818",
+          "style": "NORMAL_TEXT",
+          "text": "npd型人格，组内有人去心理治疗的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 63,
+      "paragraphs": [
+        {
+          "content_hash": "1de9dda145aa6e46",
+          "style": "NORMAL_TEXT",
+          "text": "我真服了，这是学生评价老师的榜。一群连跟孙哥都没合作过的人就别tm评论了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 65,
+      "paragraphs": [
+        {
+          "content_hash": "e2dc7f1fe9eff75e",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，没人觉得孙哥有问题。以下代表我们五个一致的意见："
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0b2ca670e52f800b",
+          "style": "NORMAL_TEXT",
+          "text": "一、孙哥做人做事上绝对是超一流的，要想黑这方面先过我们这一关"
+        },
+        {
+          "content_hash": "a32b4e1b062f1248",
+          "style": "NORMAL_TEXT",
+          "text": "二、孙哥在社交媒体上为什么火，是因为他喜欢帮助人，看到任何信息都要分享，遇到陌生学生有问题都愿意帮忙。就他帮人都甚至不是出于善心，纯有瘾。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c4adf0f0765d2e6c",
+          "style": "NORMAL_TEXT",
+          "text": "三、实验室氛围。孙哥的实验室氛围非常好。"
+        },
+        {
+          "content_hash": "6e705af6f2494921",
+          "style": "NORMAL_TEXT",
+          "text": "三甲、我们组的合作氛围特别好。这一点的前提是credit assignment。孙老师对此非常认真，生怕有人吃亏弄出矛盾。他曾为了作者排序，叫我们视频看他摇骰子摇了一个小时，以确保truly random。同时，论文排序只看脏活累活（coding/实验/打标），而不看idea什么的，因此你能看到很多本科生拿一作。因为idea不算credit，大家反而无所顾忌的讨论。"
+        },
+        {
+          "content_hash": "1260c2fe5ed88c3f",
+          "style": "NORMAL_TEXT",
+          "text": "三乙、孙哥做什么工作非常自由。想做什么都行，比如我做架构的东西他其实一直不看好，但他也给我找卡找资源等等，从来没干涉过我。工作时长也非常自由，我感觉我们五人每周工作20-50小时都有，也不打卡也没有任何逼事，偷偷出去玩他也不管。自由也包括合作，比如我本人在组期间就跟其他老师学习，他非常支持还帮忙敲定了很多事项，那个老师也很满意一直跟我们组有合作。"
+        },
+        {
+          "content_hash": "f2d0f8e18f8c14ea",
+          "style": "NORMAL_TEXT",
+          "text": "三丙、孙哥给学生找资源非常努力。比如我还没进组就给我安排了实习，其他几人也是给安排各种资源实习合作卡。如上文所说，孙哥帮人纯有瘾，反倒让他认识很多人很多资源，他就可以对接很多资源。"
+        },
+        {
+          "content_hash": "901533d12ff76191",
+          "style": "NORMAL_TEXT",
+          "text": "三丁、孙哥也是美本出来的，对各种职场规矩很注意的，该避嫌的避嫌，该分开的分开。从没听说过这方面有问题。"
+        },
+        {
+          "content_hash": "b819a2afcbdd444b",
+          "style": "NORMAL_TEXT",
+          "text": "以上代表了如果你来读phd你会获得的一切待遇，既然我们五个对他没意见，你们一群外人就别tm瞎逼逼了。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "427bda682b25e137",
+          "style": "NORMAL_TEXT",
+          "text": "四、对实习生。倘若你做过孙哥的实习生，那倒欢迎对这一点发言评价一下。不过我讲一些我观察到的情况："
+        },
+        {
+          "content_hash": "bbb9d981dd259835",
+          "style": "NORMAL_TEXT",
+          "text": "四甲、孙哥对于实习生的标准也很简单。做出多大成果，就推多少资源。你们可以看看单论推到比lehigh 好的phd，孙哥推了多少个。这些他肯定都想留在自己组里，但如前文所言他帮人有瘾，所以都是当时自己能推到多高推多高。卡、实习、推荐，一切同一标准。"
+        },
+        {
+          "content_hash": "5c14aec0c163b1fb",
+          "style": "NORMAL_TEXT",
+          "text": "四乙、实习生credit都归自己。你们自己数一作多少本科生就知道。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5d86033453dbe923",
+          "style": "NORMAL_TEXT",
+          "text": "总之，忍你们这群黑子好几年了，今天不吐不快。你们若聊学术品位之类，个人见仁见智。但你要说人品，对学生的态度，孙哥没得说。下面你们评论我一条没删。盈盈狂吠之徒，人生还长，科研道路也很长，咱们走着瞧"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 73,
+      "at_to": 91,
+      "from_paragraphs": [
+        {
+          "content_hash": "988724dba24eec4a",
+          "style": "NORMAL_TEXT",
+          "text": "在xhs上炒作过头，今天还是为什么现在不需要phd了，过几天就再发一个为什么现在phd这么重要"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1d88540c442dfdcf",
+          "style": "NORMAL_TEXT",
+          "text": "在xhs上炒作过头，今天还是为什么现在不需要phd了，过几天就再发一个为什么现在phd这么重要 （）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 97,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 281,
+      "paragraphs": [
+        {
+          "content_hash": "71f48457de37a5de",
+          "style": "NORMAL_TEXT",
+          "text": "羡慕几十篇"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 300,
+      "at_to": 320,
+      "from_paragraphs": [
+        {
+          "content_hash": "485cb6e9c6127b3d",
+          "style": "NORMAL_TEXT",
+          "text": "是不是和Wei Hua （ASU那个）？他俩phd一个组的但是仿佛双方互相不认识一样  （歧视性少数群体）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7d3a27799d1033da",
+          "style": "NORMAL_TEXT",
+          "text": "是不是和Wei Hua （ASU那个）？他俩phd一个组的但是仿佛双方互相不认识一样  （歧视性少数群体）不一定是歧视，huaxiu的性格确实是招大家讨厌"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 335,
+      "at_to": 355,
+      "from_paragraphs": [
+        {
+          "content_hash": "618797cbee1f153c",
+          "style": "NORMAL_TEXT",
+          "text": "欢迎补充"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c1673c830ffbdd8b",
+          "style": "NORMAL_TEXT",
+          "text": "作为一个在ECE 呆了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 467,
+      "paragraphs": [
+        {
+          "content_hash": "271c6d5ce17be72a",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 561,
+      "at_to": 582,
+      "from_paragraphs": [
+        {
+          "content_hash": "415a81f0478812a8",
+          "style": "NORMAL_TEXT",
+          "text": "[Please go to a separate page: “Chaowei Xiao” to edit, delete this page here]我建议保留Chaowei Xiao在这里以防cs删tab"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "604371f74a9896bd",
+          "style": "NORMAL_TEXT",
+          "text": "[Please go to a separate page: “Chaowei Xiao” to edit, delete this page here]我建议保留Chaowei Xiao在这里以防cs删tab但只保留事实陈述部分"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 604,
+      "at_to": 625,
+      "from_paragraphs": [
+        {
+          "content_hash": "fdcb1f28d8988f84",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的人竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜对应的描述再看下面的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6c2c29f9b41a3889",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的老师竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜对应的描述再看下面的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 623,
+      "at_to": 644,
+      "from_paragraphs": [
+        {
+          "content_hash": "af2b4fe545bbb158",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？(哪里来的40个intern？？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack，只是比较inclusive)（哪里有这么多intern，就是10多个）（难道不是学生自己强吗？大家又不是白纸进来的）（她的intern还是挺多都没有什么发论文经验的，她们组比较inclusive）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。再者这个去向被列举出来，当事人知道吗，当事人可能表示ta能去这个地方，和组毫无关系，强行绑定来着。老师是个好老师，别营销过度了）Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e11097601456dbfc",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？(哪里来的40个intern？？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack，只是比较inclusive)（哪里有这么多intern，就是10多个）（难道不是学生自己强吗？大家又不是白纸进来的）（她的intern还是挺多都没有什么发论文经验的，她们组比较inclusive）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子）（按推荐信收学生就说是关系户？），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。再者这个去向被列举出来，当事人知道吗，当事人可能表示ta能去这个地方，和组毫无关系，强行绑定来着。老师是个好老师，别营销过度了）Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 695,
+      "paragraphs": [
+        {
+          "content_hash": "1698c25c4821c434",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Hua Li"
+        },
+        {
+          "content_hash": "64a8373d2b7d7432",
+          "style": "NORMAL_TEXT",
+          "text": "极其toxic, 组里很多学生待了一年被劝退 要么就转租"
+        },
+        {
+          "content_hash": "62b70471aa63fcd8",
+          "style": "NORMAL_TEXT",
+          "text": "组会经常PUA学生，说学生各种不认真 不努力，她自己怎么认真 努力"
+        },
+        {
+          "content_hash": "2eacde4ebfd6d27e",
+          "style": "NORMAL_TEXT",
+          "text": "不允许学生出去实习，一整年都需要在lab工作，出去实习之后 不给发TA"
+        },
+        {
+          "content_hash": "aefad2eccec8ff07",
+          "style": "NORMAL_TEXT",
+          "text": "每天都必须去lab工作"
+        },
+        {
+          "content_hash": "66109a90d050e60d",
+          "style": "NORMAL_TEXT",
+          "text": "自己很多都不会，只知道用一些三四年前的知识水paper"
+        },
+        {
+          "content_hash": "af96b28f584c9d5d",
+          "style": "NORMAL_TEXT",
+          "text": "组里去向绝大部分都不好，几乎毕业只能SDE MLE这种工"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 681,
+      "at_to": 710,
+      "from_paragraphs": [
+        {
+          "content_hash": "04a785a6df64aab8",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生发工资or发半薪因为学生“不听话”"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e7011952c147934b",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生发工资or发半薪因为学生“不听话” （学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 764,
+      "paragraphs": [
+        {
+          "content_hash": "a53c2e25596d8bca",
+          "style": "NORMAL_TEXT",
+          "text": "傻b一个，给offer的都不敢去"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 792,
+      "paragraphs": [
+        {
+          "content_hash": "4c9c4d0f38eb8916",
+          "style": "NORMAL_TEXT",
+          "text": "对学术比较push，不放学生毕业"
+        },
+        {
+          "content_hash": "8cbc874360bec513",
+          "style": "NORMAL_TEXT",
+          "text": "听说有intern闹掰了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 811,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 822,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "fb45b8ae78e49257",
+          "style": "NORMAL_TEXT",
+          "text": "MIT, Pulkit Agrawal"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 848,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ff6de80e68959099",
+          "style": "NORMAL_TEXT",
+          "text": "NYU Sherry Yang"
+        },
+        {
+          "content_hash": "7a98995ba7c3ed7d",
+          "style": "NORMAL_TEXT",
+          "text": "面试巨海 老师态度极其傲慢"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "e2d5b6d23f84097d",
+          "style": "NORMAL_TEXT",
+          "text": "Brown Peipei Zhou"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 865,
+      "at_to": 906,
+      "from_paragraphs": [
+        {
+          "content_hash": "00e96a21fd2661e1",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f7ad2aba7eed8e8e",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）"
+        }
+      ]
+    }
+  ]
+}
