@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-28-20Z.delta.json",
+  "delta_ts": "2026-04-20T01-28-20Z",
+  "reviewed_at_utc": "2026-04-20T01:28:59Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive entry about advisor Yiran Chen at Duke University questioning competence and potential issues, which appears to suppress legitimate observation rather than cleanup typos or off-topic content",
+      "excerpt": "Duke Yiran Chen\n据说有瓜，还是只是水平不行？"
+    },
+    {
+      "type": "pii",
+      "detail": "Detailed personal information about students' private relationships including marriage, divorce, and infidelity that could de-anonymize private individuals",
+      "excerpt": "那个女的和另外一个学生还结过婚离过婚啥de"
+    }
+  ],
+  "prompt_sha256": "255175429351b1fccd216cc7c2c28cddbbc0138388008c3145cbf3dc5b98abcd",
+  "finish_reason": "stop",
+  "completion_tokens": 3231
+}

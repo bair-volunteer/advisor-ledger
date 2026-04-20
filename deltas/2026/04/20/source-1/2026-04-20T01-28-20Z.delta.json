@@ -1,0 +1,258 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-26-10Z",
+    "revision_id": "AMHacu7NXGTViuuNGod4ZgYrz9G2JJ-AszvsRxS4AjbW00tlKXvoSvR4PkXwMv_THfq_Pv39hadSy8xs9zDvjGs4mg",
+    "paragraph_count": 678
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-28-20Z",
+    "revision_id": "AMHacu5u1f6tn8RBzv7isYFbCYWrfy0kew5YQ8beG5b7Jw6W5JoCQMIQvTI8mu-FPA32zWSPTfo5c2tAkvG5RPqEKA",
+    "paragraph_count": 680
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 12,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0177,
+    "insertion_ratio": 0.0206
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 0,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "HEADING_1",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 115,
+      "at_to": 116,
+      "from_paragraphs": [
+        {
+          "content_hash": "14510de5eb537f4f",
+          "style": "NORMAL_TEXT",
+          "text": "是不是和Wei Hua （ASU那个）？他俩phd一个组的但是仿佛双方互相不认识一样"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1b8c8edde9c73280",
+          "style": "NORMAL_TEXT",
+          "text": "是不是和Wei Hua （ASU那个）？他俩phd一个组的但是仿佛双方互相不认识一样 （歧视性少数群体）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 155,
+      "at_to": 156,
+      "from_paragraphs": [
+        {
+          "content_hash": "dc8e02d96f023f37",
+          "style": "NORMAL_TEXT",
+          "text": "感觉对非intern特别好 会给很多有用的建议和"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e4191b5cc1af475e",
+          "style": "NORMAL_TEXT",
+          "text": "感觉对非intern特别好 会给很多有价值的建议和信息"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 174,
+      "at_to": 175,
+      "from_paragraphs": [
+        {
+          "content_hash": "b2b96277faed5e4d",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）（Biwei也有人喷？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "77c6b099b01797a9",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）（Biwei也有人喷？）bi"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 199,
+      "at_to": 200,
+      "from_paragraphs": [
+        {
+          "content_hash": "984f15ab3cabdc31",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fcfa93a002f0d618",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 308,
+      "paragraphs": [
+        {
+          "content_hash": "0261cc682676229f",
+          "style": "NORMAL_TEXT",
+          "text": "刘老师不应该去红榜吗"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 411,
+      "paragraphs": [
+        {
+          "content_hash": "fcee9e4d82490f4d",
+          "style": "NORMAL_TEXT",
+          "text": "Duke Yiran Chen"
+        },
+        {
+          "content_hash": "0ced2ca41d0ee886",
+          "style": "NORMAL_TEXT",
+          "text": "据说有瓜，还是只是水平不行？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 435,
+      "at_to": 433,
+      "from_paragraphs": [
+        {
+          "content_hash": "681151b016084f91",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是zui h"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c5a900df3021fda1",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是最合适的组织方式了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 437,
+      "at_to": 435,
+      "from_paragraphs": [
+        {
+          "content_hash": "905cbec1a1f96378",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？完全好老师来的给所有intern写强推 说他push我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "860b0443353c951f",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 522,
+      "at_to": 520,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "68f45e45772c2f7b",
+          "style": "NORMAL_TEXT",
+          "text": "（他人咋样呀，有个课想选他/(ㄒoㄒ)/~~)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 565,
+      "at_to": 563,
+      "from_paragraphs": [
+        {
+          "content_hash": "40ee3adcc5a9d639",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（学生在ua出轨本科生， rate my professor上有）（组内那一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）（哦哦跑路d"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "992d5467e23a1a54",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（学生在ua出轨本科生， rate my professor上有）（组内那一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）（你说的我听过一点，但是太就远了最早期的，那个女的和另外一个学生还结过婚离过婚啥de）"
+        },
+        {
+          "content_hash": "45739aaad949e7f7",
+          "style": "NORMAL_TEXT",
+          "text": "我在shuhao liu，hao wang还在n"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 664,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 672,
+      "paragraphs": [
+        {
+          "content_hash": "3eb0e5f91abd96e0",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake, Chi Zhang"
+        },
+        {
+          "content_hash": "4b0b602b2b692741",
+          "style": "NORMAL_TEXT",
+          "text": "https://zhuanlan.zhihu.com/p/2022716371742597204"
+        }
+      ]
+    }
+  ]
+}
