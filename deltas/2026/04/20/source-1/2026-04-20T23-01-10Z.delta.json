@@ -1,0 +1,716 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-56-52Z",
+    "revision_id": "AMHacu4KA7TyhXBGaLFcqJJ4BiUIHTFce6uADjk84eiFWAJ0SomuZ_Szws7oECSs_XIpi7YkkuMvEiy0zEWaWJtRmA",
+    "paragraph_count": 2187
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T23-01-10Z",
+    "revision_id": "AMHacu5dF4jrTRRzczz-xSO2oqsKOHtC4HTrU2tmJDzRDggDmREcLhOg14ZcnZhIuxQ1wEWtvrMGYX8jJOO8-xVoLw",
+    "paragraph_count": 2180
+  },
+  "summary": {
+    "inserted_paragraphs": 46,
+    "deleted_paragraphs": 53,
+    "operations": 24,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0242,
+    "insertion_ratio": 0.0211
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 5,
+      "at_to": 5,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8b093732071af2e6",
+          "style": "NORMAL_TEXT",
+          "text": "（为啥把狂人日记删了，留着不是挺好的。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 17,
+      "at_to": 17,
+      "from_paragraphs": [
+        {
+          "content_hash": "515147d64067e750",
+          "style": "NORMAL_TEXT",
+          "text": "当前Tab为黑榜，红榜请去另一个Tab：学术界t红榜。相同导师可以同时在黑榜和红榜中，请大家辩证看待。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9fd0175aa3ed04ab",
+          "style": "NORMAL_TEXT",
+          "text": "当前Tab为黑榜，红榜请去另一个Tab：学术界t红榜。相同导师可以同时在黑榜和红榜中，请大家辩证看待。kong"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 35,
+      "at_to": 35,
+      "from_paragraphs": [
+        {
+          "content_hash": "5adafb128c315540",
+          "style": "NORMAL_TEXT",
+          "text": "实验室内多名phd studen和postdoctor都受到严重PUA而不同程度的抑郁，把学生当耗材，做不出结果就一直脸黑、不让毕业，淫威之下学生噤若寒蝉"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1e92197e9c5f8d4c",
+          "style": "NORMAL_TEXT",
+          "text": "实验室内多名phd studen和postdoctor都受到严重PUA而不同程度的抑郁，把学生当耗材，做不出结果就一直脸黑、不让毕业，淫威之a下学生噤若寒蝉"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 113,
+      "paragraphs": [
+        {
+          "content_hash": "9c70ee3cd1ee0003",
+          "style": "HEADING_2",
+          "text": "UIUC"
+        },
+        {
+          "content_hash": "0efa6451bdc72af3",
+          "style": "HEADING_3",
+          "text": "Bo Li"
+        },
+        {
+          "content_hash": "09a64f1aa2c2f81c",
+          "style": "NORMAL_TEXT",
+          "text": "很push，已经quit了很多人，有已经quit的学生得抑郁症的"
+        },
+        {
+          "content_hash": "548d6e851e49b889",
+          "style": "NORMAL_TEXT",
+          "text": "没有什么数学能力，纯靠学生自己能力"
+        },
+        {
+          "content_hash": "9e239078a2bf2656",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前去uchicago被uchicago的本科生投诉，然后只能回uiuc去了（但从uiuc去uchicago不是因为在uiuc被举报了么）（听说的版本是，她和她老公一起去的uchicago，她老公也是eth很有名非常toxic的，然后去了uchicago后她被投诉，求验证）"
+        },
+        {
+          "content_hash": "d008987fd8fca33b",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)(她google scholar上还有写她导师，如果真闹翻了就不会写了？)（借楼问问有没有Vandy的故事）(纯路人，搜了一下貌似是Bennett Landman组里Master out了，12到13年，只能说Landman没啥黑的)"
+        },
+        {
+          "content_hash": "6fd772907f496625",
+          "style": "NORMAL_TEXT",
+          "text": "和她组里的学生认识(几个高年级phd)，感觉都很健康且前途光明啊？(what doesnt kill you make you stronger???) (光明确实光明，并不健康)"
+        },
+        {
+          "content_hash": "c58f00e871cb5a4f",
+          "style": "HEADING_3",
+          "text": "Hua Li"
+        },
+        {
+          "content_hash": "64a8373d2b7d7432",
+          "style": "NORMAL_TEXT",
+          "text": "极其toxic, 组里很多学生待了一年被劝退 要么就转租"
+        },
+        {
+          "content_hash": "62b70471aa63fcd8",
+          "style": "NORMAL_TEXT",
+          "text": "组会经常PUA学生，说学生各种不认真 不努力，她自己怎么认真 努力"
+        },
+        {
+          "content_hash": "2eacde4ebfd6d27e",
+          "style": "NORMAL_TEXT",
+          "text": "不允许学生出去实习，一整年都需要在lab工作，出去实习之后 不给发TA"
+        },
+        {
+          "content_hash": "aefad2eccec8ff07",
+          "style": "NORMAL_TEXT",
+          "text": "每天都必须去lab工作"
+        },
+        {
+          "content_hash": "66109a90d050e60d",
+          "style": "NORMAL_TEXT",
+          "text": "自己很多都不会，只知道用一些三四年前的知识水paper"
+        },
+        {
+          "content_hash": "af96b28f584c9d5d",
+          "style": "NORMAL_TEXT",
+          "text": "组里去向绝大部分都不好，几乎毕业只能SDE MLE这种工"
+        },
+        {
+          "content_hash": "f1f67b5f11dcfd6a",
+          "style": "HEADING_3",
+          "text": " Haohan Wang"
+        },
+        {
+          "content_hash": "5dbdf1f9abd9b09e",
+          "style": "NORMAL_TEXT",
+          "text": "听说intern特别多"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 176,
+      "at_to": 159,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5d12e48a8dba69ef",
+          "style": "HEADING_3",
+          "text": "Nuno Vasconcelos"
+        },
+        {
+          "content_hash": "312545f6d854465c",
+          "style": "NORMAL_TEXT",
+          "text": "致敬传奇人均七年毕业的延毕王"
+        },
+        {
+          "content_hash": "6da26eecaac8f311",
+          "style": "NORMAL_TEXT",
+          "text": "没有7篇顶会一作就别想答辩了"
+        },
+        {
+          "content_hash": "0b43df08929049c6",
+          "style": "NORMAL_TEXT",
+          "text": "不懂最近的学术，用八卡做预训练"
+        },
+        {
+          "content_hash": "36d6f392f61ac067",
+          "style": "NORMAL_TEXT",
+          "text": "跟工业界的合作者闹得很僵，导致学生只能自己找实习，还被一些组列入黑名单"
+        },
+        {
+          "content_hash": "1dfcdeab855ee745",
+          "style": "NORMAL_TEXT",
+          "text": "招两个first year phd进来养蛊，谁做出来了就给谁funding，没做出来就转组/quit (也不算刻意养蛊吧，他是确实最近没funding了。ucsd ece fellowship只能支持1年）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 266,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ea0ccc25daeacc90",
+          "style": "HEADING_2",
+          "text": "UCLA"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 325,
+      "at_to": 310,
+      "from_paragraphs": [
+        {
+          "content_hash": "95a168c1a92e27a1",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Nuno Vasconcelos"
+        },
+        {
+          "content_hash": "312545f6d854465c",
+          "style": "NORMAL_TEXT",
+          "text": "致敬传奇人均七年毕业的延毕王"
+        },
+        {
+          "content_hash": "6da26eecaac8f311",
+          "style": "NORMAL_TEXT",
+          "text": "没有7篇顶会一作就别想答辩了"
+        },
+        {
+          "content_hash": "0b43df08929049c6",
+          "style": "NORMAL_TEXT",
+          "text": "不懂最近的学术，用八卡做预训练"
+        },
+        {
+          "content_hash": "36d6f392f61ac067",
+          "style": "NORMAL_TEXT",
+          "text": "跟工业界的合作者闹得很僵，导致学生只能自己找实习，还被一些组列入黑名单"
+        },
+        {
+          "content_hash": "1dfcdeab855ee745",
+          "style": "NORMAL_TEXT",
+          "text": "招两个first year phd进来养蛊，谁做出来了就给谁funding，没做出来就转组/quit (也不算刻意养蛊吧，他是确实最近没funding了。ucsd ece fellowship只能支持1年）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 484,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "8097b232350f3868",
+          "style": "NORMAL_TEXT",
+          "text": "Wisconsin - Madison分界线"
+        },
+        {
+          "content_hash": "42e1e403dffbb55e",
+          "style": "NORMAL_TEXT",
+          "text": "—-------------------------------------------------------------"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 762,
+      "paragraphs": [
+        {
+          "content_hash": "ea9cbc0f3c3538fe",
+          "style": "NORMAL_TEXT",
+          "text": "=============== 给yufei姐姐单独腾地方 ==============="
+        },
+        {
+          "content_hash": "fce4fe54aed7eb0c",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众怒了属于是，可以移步下面的haoran geng看看，这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/ jeanette也是神人，怎么看上这姐们的 热知识，妲 己不会亲自承认是学术妲 己，至于科研和推荐信，不是有耿哥和炮灰们顶着吗"
+        },
+        {
+          "content_hash": "9224075240e76b47",
+          "style": "NORMAL_TEXT",
+          "text": "今年stanford的phd，haoran geng 的女朋友，纯学术妲 己,考试还作弊(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了hao ran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，¥学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "8c39fd1b9fd97ce7",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有没有可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        },
+        {
+          "content_hash": "2b8b0315a4a601cf",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持  支持 只能说她高中就能看出来.."
+        },
+        {
+          "content_hash": "9a90e1c003bef298",
+          "style": "NORMAL_TEXT",
+          "text": "经典学术妲己桥段吧     （完全是在吸认真做科研的人的血）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 769,
+      "paragraphs": [
+        {
+          "content_hash": "a8f51507531ee920",
+          "style": "NORMAL_TEXT",
+          "text": "===============给yufei姐姐单独腾地方 ==============="
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 779,
+      "at_to": 755,
+      "from_paragraphs": [
+        {
+          "content_hash": "402a9303814d44e9",
+          "style": "NORMAL_TEXT",
+          "text": " 让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了辟谣：给了几个强推，而且之前提到的 不是最强推。被删掉的不要再反复粘了。谁让你删了？有种就rebuttal"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1fa9f1a7fd736638",
+          "style": "NORMAL_TEXT",
+          "text": " 让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 802,
+      "at_to": 778,
+      "from_paragraphs": [
+        {
+          "content_hash": "a88962210553ce0d",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你公司api@somastacks.com这个邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b4806817ed394157",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你这个邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 806,
+      "at_to": 782,
+      "from_paragraphs": [
+        {
+          "content_hash": "ac0059df7a50ae3e",
+          "style": "NORMAL_TEXT",
+          "text": "有种叫你耿哥自己来rebuttal啊？自己躲着派intern洗，怕什么呢，耿浩然？？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ce47eb73544e6bf4",
+          "style": "NORMAL_TEXT",
+          "text": "有种叫你耿哥自己来rebuttal啊？自己躲着intern洗，怕什么呢，耿浩然？？"
+        },
+        {
+          "content_hash": "898f90965ac1828e",
+          "style": "NORMAL_TEXT",
+          "text": "知情人真诚说一句,"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1187,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "HEADING_2",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1189,
+      "paragraphs": [
+        {
+          "content_hash": "0efa6451bdc72af3",
+          "style": "HEADING_3",
+          "text": "Bo Li"
+        },
+        {
+          "content_hash": "09a64f1aa2c2f81c",
+          "style": "NORMAL_TEXT",
+          "text": "很push，已经quit了很多人，有已经quit的学生得抑郁症的"
+        },
+        {
+          "content_hash": "548d6e851e49b889",
+          "style": "NORMAL_TEXT",
+          "text": "没有什么数学能力，纯靠学生自己能力"
+        },
+        {
+          "content_hash": "9e239078a2bf2656",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前去uchicago被uchicago的本科生投诉，然后只能回uiuc去了（但从uiuc去uchicago不是因为在uiuc被举报了么）（听说的版本是，她和她老公一起去的uchicago，她老公也是eth很有名非常toxic的，然后去了uchicago后她被投诉，求验证）"
+        },
+        {
+          "content_hash": "d008987fd8fca33b",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)(她google scholar上还有写她导师，如果真闹翻了就不会写了？)（借楼问问有没有Vandy的故事）(纯路人，搜了一下貌似是Bennett Landman组里Master out了，12到13年，只能说Landman没啥黑的)"
+        },
+        {
+          "content_hash": "6fd772907f496625",
+          "style": "NORMAL_TEXT",
+          "text": "和她组里的学生认识(几个高年级phd)，感觉都很健康且前途光明啊？(what doesnt kill you make you stronger???) (光明确实光明，并不健康)"
+        },
+        {
+          "content_hash": "c58f00e871cb5a4f",
+          "style": "HEADING_3",
+          "text": "Hua Li"
+        },
+        {
+          "content_hash": "64a8373d2b7d7432",
+          "style": "NORMAL_TEXT",
+          "text": "极其toxic, 组里很多学生待了一年被劝退 要么就转租"
+        },
+        {
+          "content_hash": "62b70471aa63fcd8",
+          "style": "NORMAL_TEXT",
+          "text": "组会经常PUA学生，说学生各种不认真 不努力，她自己怎么认真 努力"
+        },
+        {
+          "content_hash": "2eacde4ebfd6d27e",
+          "style": "NORMAL_TEXT",
+          "text": "不允许学生出去实习，一整年都需要在lab工作，出去实习之后 不给发TA"
+        },
+        {
+          "content_hash": "aefad2eccec8ff07",
+          "style": "NORMAL_TEXT",
+          "text": "每天都必须去lab工作"
+        },
+        {
+          "content_hash": "66109a90d050e60d",
+          "style": "NORMAL_TEXT",
+          "text": "自己很多都不会，只知道用一些三四年前的知识水paper"
+        },
+        {
+          "content_hash": "af96b28f584c9d5d",
+          "style": "NORMAL_TEXT",
+          "text": "组里去向绝大部分都不好，几乎毕业只能SDE MLE这种工"
+        },
+        {
+          "content_hash": "f1f67b5f11dcfd6a",
+          "style": "HEADING_3",
+          "text": " Haohan Wang"
+        },
+        {
+          "content_hash": "5dbdf1f9abd9b09e",
+          "style": "NORMAL_TEXT",
+          "text": "听说intern特别多"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1248,
+      "at_to": 1242,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7d4aaa4a12081b1c",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Heng Ji （？ji老师人很好啊）（存在争议，请谨慎辨别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b7250c9411f8f347",
+          "style": "HEADING_3",
+          "text": " Heng Ji"
+        },
+        {
+          "content_hash": "68e36e019f9845c5",
+          "style": "NORMAL_TEXT",
+          "text": "（？ji老师人很好啊）"
+        },
+        {
+          "content_hash": "ea94e51b48f2ca2f",
+          "style": "NORMAL_TEXT",
+          "text": "（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1260,
+      "at_to": 1253,
+      "from_paragraphs": [
+        {
+          "content_hash": "cc042550d57c523b",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yu-Xiong Wang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ddcc96a6bed3ca51",
+          "style": "HEADING_3",
+          "text": "  Yu-Xiong Wang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1269,
+      "at_to": 1262,
+      "from_paragraphs": [
+        {
+          "content_hash": "c9c92ae46324dd8a",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Minjia zhang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f45f469beb9e57e1",
+          "style": "HEADING_3",
+          "text": " Minjia zhang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1279,
+      "at_to": 1272,
+      "from_paragraphs": [
+        {
+          "content_hash": "d29ef273fac53534",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Kevin Chang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0938a1ce4c7e3f04",
+          "style": "HEADING_3",
+          "text": " Kevin Chang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1287,
+      "at_to": 1280,
+      "from_paragraphs": [
+        {
+          "content_hash": "fb599bc4af6919f9",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Daniel Kang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "78047e3ee80bc51b",
+          "style": "HEADING_3",
+          "text": " Daniel Kang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1292,
+      "at_to": 1285,
+      "from_paragraphs": [
+        {
+          "content_hash": "f8ef51f76883c8fd",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Fan Lai"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "52fce25a964c31f2",
+          "style": "HEADING_3",
+          "text": " Fan Lai"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1294,
+      "at_to": 1287,
+      "from_paragraphs": [
+        {
+          "content_hash": "5beb174ae792110c",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Gagandeep Singh"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "647164b17f9124b2",
+          "style": "HEADING_3",
+          "text": " Gagandeep Singh"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2094,
+      "at_to": 2087,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f161494c71e293c",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水，什么方向都做，全是水方向。根本不管事，然后什么指导也给不出，fei不给onsite实习生发实习补贴。不知道怎么去西湖的。手底下phd一个比一个toxic，把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了). 曾经被一个手底下phd带过一学期，他妈的sp你真是纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等. (这phd学生是真逆天...略有耳闻)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c6c5c6cac46e6bd",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水，什么方向都做，全是水方向。根本不管事，然后什么指导也给不出，不给onsite实习生发实习补贴。不知道怎么去西湖的,感觉根本没有科研水平。手底下phd一个比一个toxic，把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了). 曾经被一个手底下phd带过一学期，他妈的sp你真是纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等. (这phd学生是真逆天...略有耳闻)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2098,
+      "at_to": 2091,
+      "from_paragraphs": [
+        {
+          "content_hash": "e7c617f8a53e49ec",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话没那么直接，大概意思是这样, 极度的push。（何止是push……）组里氛围也是非常好，学生私下抱怨老师，之间呢又有意淫。还有各种地域歧视+反向学历歧视(好像是因为二位的本科不太好呢所以嫉妒了吧?)。我只在很久之前跟他们共事过一段时间，至今想起来仍然觉得刻骨铭心的难受和心理阴影，说实话，这个组的师徒我恨你们一辈子....恨之入骨,说是耽误了很多科研学生的一辈子也不为过。我对他们就是无穷无尽的恨意.希望各位继续更多补充."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d868d0631a29bc28",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话没那么直接，大概意思是这样, 极度的push。（何止是push……）组里氛围也是非常好，学生私下抱怨老师，之间呢又有意淫。还有各种地域歧视+反向学历歧视(好像是因为二位的本科不太好呢所以嫉妒了吧?)。我只在很久之前跟他们共事过一段时间，至今想起来仍然觉得刻骨铭心的难受和心理阴影，说实话，这个组的师徒我恨你们一辈子....恨之入骨,说是耽误了很多学生的一辈子也不为过。我对他们是无穷无尽的恨意.希望各位继续更多补充."
+        }
+      ]
+    }
+  ]
+}

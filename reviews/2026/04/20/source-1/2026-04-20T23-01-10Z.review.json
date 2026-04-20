@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T23-01-10Z.delta.json",
+  "delta_ts": "2026-04-20T23-01-10Z",
+  "reviewed_at_utc": "2026-04-20T23:02:11Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full names of students (Yufei Ding, Haoran Geng) appear in the edit, including in discussions of personal relationships and allegations. While professors are the subject of the document, student names constitute PII.",
+      "excerpt": "ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Use of vulgar insults and personal attacks including '脑残' (idiot/brain-damaged) and '纯出生' (bastard) directed at individuals rather than focusing on concrete advising practices.",
+      "excerpt": "yue是脑残吗"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantial content about specific advisors (Bo Li, Hua Li, Haohan Wang) including detailed claims about advising style, student depression, and graduation outcomes, which appears to suppress legitimate observations rather than cleanup.",
+      "excerpt": "UIUC Bo Li 很push，已经quit了很多人"
+    }
+  ],
+  "prompt_sha256": "be37fb80b58a3f19d70377e66e88f6ba0d5daaeb327397038f1b4b42f8931543",
+  "finish_reason": "stop",
+  "completion_tokens": 6773
+}
