@@ -1,0 +1,240 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-43-50Z",
+    "revision_id": "AMHacu5kWjL0Spxu46Co88DWgnRBRzvR19ynnqxjjoWzMI4BTsLDuQokegJX6Y57tcZk1b9fKyiK-3ojI-5BkQdhgw",
+    "paragraph_count": 1317
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-46-00Z",
+    "revision_id": "AMHacu6A_n_MMZewNn735JqsW0bzOYWX3gucPOtlqDgvQKBvD0WeG1Sbvev5Tr2oCFXbt3ejGQWU1PxedcnQ9LyeyA",
+    "paragraph_count": 1323
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 10,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0076,
+    "insertion_ratio": 0.0121
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 149,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 152,
+      "at_to": 153,
+      "from_paragraphs": [
+        {
+          "content_hash": "3228cb071acc06cd",
+          "style": "NORMAL_TEXT",
+          "text": "赶走了国男postdoc 对方J签证"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b17f376dbd59fac8",
+          "style": "NORMAL_TEXT",
+          "text": "赶走了国男postdoc 对方J签证非常难留在美丽国 挂在她男朋友手下"
+        },
+        {
+          "content_hash": "684779a5b8c40932",
+          "style": "NORMAL_TEXT",
+          "text": "经费严重不足。现在靠副业初创维持体面 忽悠学生去初创糊墙"
+        },
+        {
+          "content_hash": "b37f94569e504cf3",
+          "style": "NORMAL_TEXT",
+          "text": "有双胞胎姐妹Kimia在JHU做AP 两个人都很菜 顺便避雷"
+        },
+        {
+          "content_hash": "b52309abee68c41e",
+          "style": "NORMAL_TEXT",
+          "text": "岁数很大了 但是一直没有结婚 没有孩子 这个其实是很大的雷 女人na"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 202,
+      "at_to": 206,
+      "from_paragraphs": [
+        {
+          "content_hash": "d4d619c1455eab7a",
+          "style": "NORMAL_TEXT",
+          "text": "当年JHU的职位单纯就是diversity hiring, 她当时没有竞争对手, Ian白胡子老爷爷的关门弟"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e50a93fe85bc183a",
+          "style": "NORMAL_TEXT",
+          "text": "当年JHU的职位单纯就是diversity hiring, 她当时没有竞争对手, Ian白胡子老爷爷的关门弟子；"
+        },
+        {
+          "content_hash": "caf5af9fb8bb3c07",
+          "style": "NORMAL_TEXT",
+          "text": "FB大佬，喜欢和"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 647,
+      "at_to": 652,
+      "from_paragraphs": [
+        {
+          "content_hash": "9bcfe8a608073f2e",
+          "style": "NORMAL_TEXT",
+          "text": "26 Fall 他的incoming PhD去年暑假在xhs发招生贴，友情提示他们组intern多这么早就转正谨慎考虑，疑似被他的学生怒怼最后被删评。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9f6234baa36db4fb",
+          "style": "NORMAL_TEXT",
+          "text": "26 Fall 他的incoming PhD去年暑假在xhs发招生贴，友情提示他们组intern多这么早就转正谨慎考虑，疑似被他的学生怒怼最后被删评。（没看出来这和老师本人有什么关系）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 654,
+      "at_to": 659,
+      "from_paragraphs": [
+        {
+          "content_hash": "6c442983475eef1a",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了做不出有用的research(什么有用的research)，各种事情一个不落(非常supportive，组里所有PhD从一年级暑假开始就全部都有业界intern)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "147e30df2f89ae67",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了做不出有用的research(什么有用的research)，各种事情一个不落(非常supportive，组里所有PhD从一年级暑假开始就全部都有业界intern，平时parttime也比比皆是)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 756,
+      "at_to": 761,
+      "from_paragraphs": [
+        {
+          "content_hash": "543a97f52f227611",
+          "style": "NORMAL_TEXT",
+          "text": "转组的同学跟下面的事件是否有关？如果曾经在组内过，如果因为发生下面的事情转了组，也不能讲“不在组内”或者就跟没有发生过，这个老师做过的事情就跟没做过一样。如果这样这个榜上所有的老师都可以把相关学生开掉然后说“也不在组内” 😂"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3a3b7c11859bd84b",
+          "style": "NORMAL_TEXT",
+          "text": "转组的同学跟下面的事件是否有关？如果曾经在组内过，如果因为发生下面的事情转了组，也不能讲“不在组内”或者就跟没有发生过，这个老师做过的事情就跟没做过一样。如果这样，这个榜上所有的老师都可以把相关学生开掉然后说“也不在组内” 😂"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 898,
+      "paragraphs": [
+        {
+          "content_hash": "0eb915a68329f211",
+          "style": "NORMAL_TEXT",
+          "text": "那这和学生转组或者婚外情有什么关系？难不成学生为了zhe g"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1062,
+      "at_to": 1068,
+      "from_paragraphs": [
+        {
+          "content_hash": "3f3c13045c01b4d3",
+          "style": "NORMAL_TEXT",
+          "text": "进组前进组后完全两幅面孔，进组前会说经费充足，画大饼。进来后告诉你那是他以前在GSU拿的带不过来，给学生fb"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f5ed5369fbe72c00",
+          "style": "NORMAL_TEXT",
+          "text": "进组前进组后完全两幅面孔，进组前会说经费充足，画大饼。进来后告诉你那是他以前在GSU拿的带不过来，给学生发半薪还pua说现在经费不好拿，你们要学会感恩。"
+        },
+        {
+          "content_hash": "e67057dcd628116b",
+          "style": "NORMAL_TEXT",
+          "text": "非ddl的晚上11-12点也可能突然给你发消息说要看结果，idea非常想一出是一出，有的甚至有点搞笑。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1066,
+      "at_to": 1073,
+      "from_paragraphs": [
+        {
+          "content_hash": "f8aece864f0eda43",
+          "style": "NORMAL_TEXT",
+          "text": "自己和自己的神人学生往linu把linux kernel的开发者搞火从而ban掉umn域名下的所有提交"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2b6001354c5b672a",
+          "style": "NORMAL_TEXT",
+          "text": "自己和自己的神人学生故意往linux kernel里扔有毒的东西，把linux kernel的开发者搞火从而ban掉umn域名下的所有提交"
+        },
+        {
+          "content_hash": "3281390ec22f0e4b",
+          "style": "NORMAL_TEXT",
+          "text": "曾经强迫学生在covid positive的时候逼迫学生继续工作，半夜3点截overleaf发微信，并且伴随了一个“？”"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1157,
+      "at_to": 1164,
+      "from_paragraphs": [
+        {
+          "content_hash": "5304ce74806c5a3c",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST Lei Chen"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6c3b420be248ee57",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST Lei Che"
+        }
+      ]
+    }
+  ]
+}
