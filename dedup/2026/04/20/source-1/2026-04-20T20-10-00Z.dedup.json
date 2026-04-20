@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T20-10-00Z",
+  "reviewed_at_utc": "2026-04-20T20:10:33Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 2,
+  "n_inserts": 5,
+  "pairs": [
+    {
+      "ghost_hash": "43906bf387fff18c",
+      "insert_hash": "729faed028789f52",
+      "note": "added parenthetical remark",
+      "ghost_text": "贡献一个，可以放工业界，去了XTX，贼起劲叫投简历，需要PhD去实习，投了结果三天就拒。",
+      "insert_text": "贡献一个，可以放工业界，去了XTX，贼起劲叫投简历，需要PhD去实习，投了结果三天就拒。（这和Atlas又有啥关系）"
+    },
+    {
+      "ghost_hash": "30f820879588a1c9",
+      "insert_hash": "ac892770a55f5472",
+      "note": "added idea origin clarification",
+      "ghost_text": "文章末尾Contribution列得很明确，从idea到执行一目了然，该contribution内容在当时已通过所有作者包括顾在内同意。",
+      "insert_text": "文章末尾Contribution列得很明确，从idea（由学生本人提出）到执行一目了然，该contribution内容在当时已通过所有作者包括顾在内同意。"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1217,
+  "skipped_reason": null
+}

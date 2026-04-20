@@ -1,0 +1,108 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T20-03-40Z",
+    "revision_id": "AMHacu6PrlzjAMIiJjCxHDHqcqaPEvp5AJvGiVmgsF9gMU5nG_Nb19deDnpgYHx85bslda_SqBvT9VMK7HM0KXLucg",
+    "paragraph_count": 2027
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-10-00Z",
+    "revision_id": "AMHacu6NLDw-3mNr176tbDnCNvE191N4Pn9eWAYIm-PlRnRge7miMTn0bGnwMFqw_zZBESYszQRpQQ-rjqyrEQ1UxA",
+    "paragraph_count": 2031
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 2,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.001,
+    "insertion_ratio": 0.003
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 341,
+      "paragraphs": [
+        {
+          "content_hash": "bf0ca4cfe5c463fa",
+          "style": "NORMAL_TEXT",
+          "text": "人招多了不fund了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 943,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1032,
+      "paragraphs": [
+        {
+          "content_hash": "95da9d77c9cc651c",
+          "style": "NORMAL_TEXT",
+          "text": "红榜Link:"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1278,
+      "at_to": 1281,
+      "from_paragraphs": [
+        {
+          "content_hash": "43906bf387fff18c",
+          "style": "NORMAL_TEXT",
+          "text": "贡献一个，可以放工业界，去了XTX，贼起劲叫投简历，需要PhD去实习，投了结果三天就拒。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "729faed028789f52",
+          "style": "NORMAL_TEXT",
+          "text": "贡献一个，可以放工业界，去了XTX，贼起劲叫投简历，需要PhD去实习，投了结果三天就拒。（这和Atlas又有啥关系）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1538,
+      "at_to": 1541,
+      "from_paragraphs": [
+        {
+          "content_hash": "30f820879588a1c9",
+          "style": "NORMAL_TEXT",
+          "text": "文章末尾Contribution列得很明确，从idea到执行一目了然，该contribution内容在当时已通过所有作者包括顾在内同意。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ac892770a55f5472",
+          "style": "NORMAL_TEXT",
+          "text": "文章末尾Contribution列得很明确，从idea（由学生本人提出）到执行一目了然，该contribution内容在当时已通过所有作者包括顾在内同意。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1807,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
