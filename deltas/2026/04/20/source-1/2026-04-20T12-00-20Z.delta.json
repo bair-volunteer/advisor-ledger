@@ -1,0 +1,198 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T11-56-00Z",
+    "revision_id": "AMHacu4hYD_Rk36TNuHxVdbW8eofpQkxqrOygHRhjdqQTXvuxUm6dKAY9MN0LuDXPgsfDuhwTqrm2qqZCUKCPINxbQ",
+    "paragraph_count": 1499
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-00-20Z",
+    "revision_id": "AMHacu7_y7zrdBA8bDji1Qnq5Y82tqrTzyeuCA-uMuSWNsT-DPk4iEURC_x2jayvKlTAlnMPCgjvls6qeI6Qy8nwZQ",
+    "paragraph_count": 1501
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 9,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.006,
+    "insertion_ratio": 0.0073
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 86,
+      "at_to": 86,
+      "from_paragraphs": [
+        {
+          "content_hash": "5772ee448798998a",
+          "style": "NORMAL_TEXT",
+          "text": "之前算是lichao的intern，他对自己的学生很好好吧，人品非常好"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b6243c7f1d973cbd",
+          "style": "NORMAL_TEXT",
+          "text": "之前算是lichao的intern，他对自己的学生很好好吧，人品非常好，对自己的学生，phd也很好，你觉得他做的不solid，你做的项目发出来大家评鉴一下？虽然后面因为个人原因没有和lichao接着合作了，但是lichao专门微信语音打电话和我聊，聊了快2小时，就真的可以感觉到他对学生非常用心也非常好，学到了非常多，方向为人处世各种各样的东西"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 241,
+      "at_to": 241,
+      "from_paragraphs": [
+        {
+          "content_hash": "e31fe9ae7851768c",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假   bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以 那他后面的论文还有和银河的知识产权纠纷呢 怎么没人提 不都被wanghe告了吗"
+        },
+        {
+          "content_hash": "32772c7d1c31825f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "363368bcb99837d6",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 再往后还有d"
+        },
+        {
+          "content_hash": "c999d0e38b35858c",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)666"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 246,
+      "at_to": 246,
+      "from_paragraphs": [
+        {
+          "content_hash": "3cc6c37970f128a8",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！（忠告！）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a435367493bf08f9",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！+1 必须避雷"
+        },
+        {
+          "content_hash": "3bb9b913390749cd",
+          "style": "NORMAL_TEXT",
+          "text": "（忠告！）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 256,
+      "at_to": 257,
+      "from_paragraphs": [
+        {
+          "content_hash": "d57596298710a597",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我BAIR phd，我不知道haoran到底有多少intern，但他的intern去年暑假至少有10个人占了BAIR其他phd的工位（同，证实这一点）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "739241808dce96c9",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "92845f147603d45d",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 363,
+      "at_to": 362,
+      "from_paragraphs": [
+        {
+          "content_hash": "7e70dde5c4505a5e",
+          "style": "NORMAL_TEXT",
+          "text": "组li"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cced3f77b4221336",
+          "style": "NORMAL_TEXT",
+          "text": "组里原来一个身患重疾的phd由于得不到很好的指导和一直push,导致最后公开发信怒斥该ap,然后被强行不给毕业除名后不久已去世,之前嘴里常说的就是“ i wish i can do more” 😭"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1259,
+      "paragraphs": [
+        {
+          "content_hash": "7f69d8ada430938a",
+          "style": "NORMAL_TEXT",
+          "text": "（如果你是合作者，那么很庆幸你是合作者而不是黑工，黑工到底得到了多少指导以及什么样的指导hei）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1322,
+      "paragraphs": [
+        {
+          "content_hash": "b72e3c0c3f4e985f",
+          "style": "NORMAL_TEXT",
+          "text": "代码不开源"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1434,
+      "paragraphs": [
+        {
+          "content_hash": "6b164335accde115",
+          "style": "NORMAL_TEXT",
+          "text": "30号左右人的大组，一个博后都没有，没有小老板，导师不懂前沿，博士都想着压榨硕士发文章。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1477,
+      "at_to": 1479,
+      "from_paragraphs": [
+        {
+          "content_hash": "c9fb7d9fea9af5d3",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，但是喜欢有参与感，不然怎么抢功劳(要么瞎JB微操，要么绣花，这里加个感叹号那里加个句号)，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7c899af23515bc37",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，但是喜欢有参与感，不然怎么抢功劳(要么瞎JB微操，要么绣花，这里加个感叹号那里加个句号)，大龄在职博士毕业，喜欢抢一作(最近一次是2024年，芳龄52的时候)，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+        }
+      ]
+    }
+  ]
+}

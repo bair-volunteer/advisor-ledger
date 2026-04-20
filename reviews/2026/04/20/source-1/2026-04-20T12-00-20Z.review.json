@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-00-20Z.delta.json",
+  "delta_ts": "2026-04-20T12-00-20Z",
+  "reviewed_at_utc": "2026-04-20T12:01:16Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Detailed description of a deceased PhD student including specific health condition, expulsion circumstances, death, and unique personal quote that could de-anonymize the individual",
+      "excerpt": "组里原来一个身患重疾的phd由于得不到很好的指导和一直push,导致最后公开发信怒斥该ap,然后被强行不给毕业除名后不久已去世,之前嘴里常说的就是“ i wish i can do more”"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of specific testimony about advisor's intern practices (10 interns occupying BAIR workstations) while retaining defensive content, suggesting suppression of substantive legitimate observation",
+      "excerpt": "我BAIR phd，我不知道haoran到底有多少intern，但他的intern去年暑假至少有10个人占了BAIR其他phd的工位（同，证实这一点）"
+    }
+  ],
+  "prompt_sha256": "2ed064428d4b56464312df91bded253fbbe637df03078ea2a4a3531f5b268ce1",
+  "finish_reason": "stop",
+  "completion_tokens": 4652
+}
