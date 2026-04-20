@@ -17,6 +17,19 @@
  .p.ghost.mass-deletion{background:#ffe5e5;border-left-color:#a00;box-shadow:inset 4px 0 0 #a00, 0 0 0 1px #a00;}
  .p.ghost.mass-deletion .text{color:#800;font-weight:500;}
  .p.ghost.mass-deletion.suspicious{background:#ffd9d9;}
+ .p.live.revised{background:#f5f1ff;border-left-color:#7a5af5;}
+ .badge.revised{background:#7a5af5;}
+ .rev-detail{margin-top:.3em;font-size:.8em;color:#555;}
+ .rev-detail summary{cursor:pointer;color:#5a3ad5;}
+ .rev-detail ul{list-style:none;margin:.3em 0;padding:0;border-left:2px solid #cbbcf5;padding-left:.7em;}
+ .rev-detail li{margin:.35em 0;}
+ .rev-detail .ts{font-family:ui-monospace,monospace;font-size:.85em;color:#888;}
+ .rev-detail .via{color:#aaa;font-size:.8em;}
+ .rev-detail .prev{color:#a33;text-decoration:line-through;}
+ .view-nav{font-size:.85em;margin:.5em 0;}
+ .view-nav a{color:#555;text-decoration:none;padding:.2em .6em;border-radius:3px;background:#eee;margin-right:.3em;}
+ .view-nav a.current{background:#333;color:#fff;}
+ .view-nav .exp{color:#7a5af5;font-weight:600;font-size:.9em;}
  .badge.mass{background:#a00;}
  .attack-banner{background:#a00;color:#fff;padding:.7em 1em;border-radius:4px;margin:1em 0 1.5em;font-size:.95em;}
  .attack-banner strong{font-weight:600;}
@@ -33,6 +46,10 @@
  h2.section{margin-top:3em;font-size:1.1em;color:#666;border-top:1px dashed #ccc;padding-top:1em;}
 </style></head><body>
 <h1>Advisor Red Flags Notes</h1>
+<div class="view-nav">
+ <a href="index.html" class="current">原始视图</a>
+ <a href="deduped.html">去重视图 <span class="exp">实验性</span></a>
+</div>
 <div class="meta">
  source: <code>source-1</code> · snapshots: 124 · range: 2026-04-19T21-32-57Z → 2026-04-20T03-48-58Z<br>
  live paragraphs: 1002 · deleted (preserved): 1116 · added since start: 601 · 可疑删除: 58 · 批量删除: 0<br>
