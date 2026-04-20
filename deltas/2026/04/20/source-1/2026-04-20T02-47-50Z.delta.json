@@ -1,0 +1,133 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-45-40Z",
+    "revision_id": "AMHacu5SZsC8-npT8tEip0k_klYPHCACrqFNW2mY6T4daS33giTe_kfTPMgzTzx-3cNawjx37mEFnlL9EUZBrxDJMA",
+    "paragraph_count": 873
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-47-50Z",
+    "revision_id": "AMHacu4xnP2_Qh_B7AIaYFkwR2_Xq1-7O1kE18UDlLYnHQgIgahDh40REsFyGU0RqnxQ4vZsyuPboZE-HgoHkEBtYA",
+    "paragraph_count": 876
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 5,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0057,
+    "insertion_ratio": 0.0091
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 63,
+      "at_to": 63,
+      "from_paragraphs": [
+        {
+          "content_hash": "21fcb8b08d172f60",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bcab8171a8c1174e",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下但funding好像个学校另外一个女ap）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 338,
+      "at_to": 338,
+      "from_paragraphs": [
+        {
+          "content_hash": "18cb05f02db63dca",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，Huan给组里MS写推荐信的时候会明确承诺强推。huan 很注重课题组的 culture ，并且组里学生关系都不错)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "407591cee708d15a",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，很push自己但不会直接push学生，有时候。很注重课题组的 culture ，并且组里学生关系都不错)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 567,
+      "at_to": 567,
+      "from_paragraphs": [
+        {
+          "content_hash": "a6d6db83d4ace48f",
+          "style": "NORMAL_TEXT",
+          "text": "此人当年很出名啊，奋斗批，工作狂，不管家庭老婆小孩，自己身体都不在乎那种，wireless难发的年代随便发，有什么黑料吗，能想到的就push"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "15cbcaeda9159b8a",
+          "style": "NORMAL_TEXT",
+          "text": "此人当年很出名啊，奋斗批，工作狂，不管家庭老婆小孩，自己身体都不在乎那种，wireless/mobicom/mobisys难发的年代随便发，有什么黑料吗，能想到的就push"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 637,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ea1500616112678d",
+          "style": "NORMAL_TEXT",
+          "text": "NJIT Hao Wang"
+        },
+        {
+          "content_hash": "93044172fd7c0dba",
+          "style": "NORMAL_TEXT",
+          "text": "老婆是他在uoft ta时候认识的本科生，读书时候想和组里女生发展关系，不成或者分手以后就背后暗戳戳搞别人，不止一次了，详见下面uoft baochun li，上梁不正下梁歪"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 777,
+      "at_to": 781,
+      "from_paragraphs": [
+        {
+          "content_hash": "f1673a780ef1a31c",
+          "style": "NORMAL_TEXT",
+          "text": "知乎天天自拍和大佬的合照，微商风格 （笑死我了）"
+        },
+        {
+          "content_hash": "55f9cf816f23e6d0",
+          "style": "NORMAL_TEXT",
+          "text": "之前招了一个神秘博后，招人开始完全企业八股文风格"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "46412f20fe6fd4cb",
+          "style": "NORMAL_TEXT",
+          "text": "知乎天天自拍和大佬的合照，微商风格 （笑死我了）之前招了一个神秘博后，招人开始完全企业八股文风格"
+        }
+      ]
+    }
+  ]
+}
