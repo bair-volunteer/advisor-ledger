@@ -1,0 +1,185 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-50-20Z",
+    "revision_id": "AMHacu5Bls_Kr3p05YjHHDR2j3sSfsED99DJV3aKnutPUUWvCtGzERhLqtqs-388zd-7pBmpiM5EX6PoWqSjnSfSIw",
+    "paragraph_count": 589
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-52-23Z",
+    "revision_id": "AMHacu59F1jrYydkbReXDjTRhsKdj0XQnoPlegfMtHMHEtK7V3dUbyyF3781Ogbxvi2hdVFi1yZ2GWXVYO3rGy9z3w",
+    "paragraph_count": 605
+  },
+  "summary": {
+    "inserted_paragraphs": 20,
+    "deleted_paragraphs": 4,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0068,
+    "insertion_ratio": 0.0331
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 9,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d45d7c7da8d209e9",
+          "style": "NORMAL_TEXT",
+          "text": "ASU Yanjie Fu"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3ad125da08cf368e",
+          "style": "NORMAL_TEXT",
+          "text": "1. 平时说话满嘴黄色废料，用嫖娼比喻学术，给学生的邮件也有黄色内容，gpt拒绝翻译的内容"
+        },
+        {
+          "content_hash": "fa55700965ab221d",
+          "style": "NORMAL_TEXT",
+          "text": "2. 学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱"
+        },
+        {
+          "content_hash": "9ce706ddbda574c5",
+          "style": "NORMAL_TEXT",
+          "text": "3. 电话催命，每天都有电话很多时候不止一个，早7到晚12，周一到周日，随时打过来，基本都40min往上，内容都是他的理想人生，电话响几声不接他就重新打过来破口大骂了"
+        },
+        {
+          "content_hash": "4d61b90b71c198db",
+          "style": "NORMAL_TEXT",
+          "text": "4. 学术水平低，但对教职病态执着，你要是说毕业不想找教职，他会把你当仇人，天天把faculty挂嘴上引以为豪，除了这个职业都是下三滥"
+        },
+        {
+          "content_hash": "c7c854615f8430fe",
+          "style": "NORMAL_TEXT",
+          "text": "5. 学生quit五六个了，听说人家quit了他还在骚扰人家以及人家以前的关系"
+        },
+        {
+          "content_hash": "dbb17d4be20bb8e8",
+          "style": "NORMAL_TEXT",
+          "text": "6. 情绪极不稳定，组会上摔电脑，砸钱包，指着他的phd爆粗口，中英文混合"
+        },
+        {
+          "content_hash": "d4f318aedf4ce83c",
+          "style": "NORMAL_TEXT",
+          "text": "7. 他深夜emo了会给学生打电话，先emo一会，最后又亢奋骂学术"
+        },
+        {
+          "content_hash": "c1e825a0b497993e",
+          "style": "NORMAL_TEXT",
+          "text": "8. 明确表示phd都是他养的，在外面要讲情商，对phd想怎么样就怎么样"
+        },
+        {
+          "content_hash": "4b36088c1de5af3f",
+          "style": "NORMAL_TEXT",
+          "text": "9. 入学前会好言好语骗人进来，毕业时间研究方向都是假的，进来之后慢慢暴露他的本性"
+        },
+        {
+          "content_hash": "5200acac26531c4d",
+          "style": "NORMAL_TEXT",
+          "text": "10. 以及不计其数的逆天言论和事迹"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 85,
+      "from_paragraphs": [
+        {
+          "content_hash": "d2811b49a33ddd0f",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（个人是组里phd，这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）这阿姨脾气应该说是更年期…（这个算是某种性别歧视？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "03f3e392c068b256",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（个人是组里phd，这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）这阿姨脾"
+        },
+        {
+          "content_hash": "31f9b1c8bec477e2",
+          "style": "NORMAL_TEXT",
+          "text": "气应该说是更年期…（这个算是某种性别歧视？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 74,
+      "at_to": 89,
+      "from_paragraphs": [
+        {
+          "content_hash": "8bb0f3b59410142b",
+          "style": "NORMAL_TEXT",
+          "text": "（组i）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "419848f194fe168c",
+          "style": "NORMAL_TEXT",
+          "text": "（组里面师哥师姐毕业去向都很好吧......）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 320,
+      "paragraphs": [
+        {
+          "content_hash": "3f1c50a7c78c5345",
+          "style": "NORMAL_TEXT",
+          "text": "传奇水paper王，认识拿他offer的说得发十多篇才放毕业。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 351,
+      "at_to": 367,
+      "from_paragraphs": [
+        {
+          "content_hash": "3cd852ce403ce7f3",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）（我在这个组做intern，没有这么多intern吧，一般只要感兴趣会拉入slack，可以参加group meeting，是要inclusive，但做项目没有多少人，项目没做出来的也给写信了，好处是给信）(那么多项目呢兄弟，很多都不是公开的)"
+        },
+        {
+          "content_hash": "84c490074163a431",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b8ab4c4659ab58f8",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        },
+        {
+          "content_hash": "f51f8477ebbbe917",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）（我在这个组做intern，没有这么多intern吧，是想inclusive，一般只要感兴趣会拉入slack，可以参加group meeting，但做项目没有多少人，项目没做出来的也给写信了，好处是给信）"
+        }
+      ]
+    }
+  ]
+}

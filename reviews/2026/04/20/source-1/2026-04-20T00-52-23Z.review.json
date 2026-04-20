@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T00-52-23Z.delta.json",
+  "delta_ts": "2026-04-20T00-52-23Z",
+  "reviewed_at_utc": "2026-04-20T00:53:20Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes a first-hand intern account defending the advisor from the immediate context of criticism about intern numbers and recommendation letters. This substantive counter-observation is moved to the end of the section, potentially suppressing legitimate dissenting evidence by separating it from the relevant critical claims.",
+      "excerpt": "（我在这个组做intern，没有这么多intern吧，一般只要感兴趣会拉入slack，可以参加group meeting，是要inclusive，但做项目没有多少人，项目没做出来的也给写信了，好处是给信）"
+    }
+  ],
+  "prompt_sha256": "333689c4fb190e857759933443504e2a5416d6a0ea7f5dc6b52d2f14e3aa245b",
+  "finish_reason": "stop",
+  "completion_tokens": 4904
+}
