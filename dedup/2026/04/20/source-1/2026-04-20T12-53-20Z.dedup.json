@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-53-20Z",
+  "reviewed_at_utc": "2026-04-20T12:55:02Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 15,
+  "pairs": [
+    {
+      "ghost_hash": "0000000000000000",
+      "insert_hash": "0000000000000000",
+      "note": "empty line",
+      "ghost_text": "",
+      "insert_text": ""
+    },
+    {
+      "ghost_hash": "b11f60c17eeefc4d",
+      "insert_hash": "ec2acb260650100a",
+      "note": "typo fix: jiageng/Siageng",
+      "ghost_text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说jiageng mao没水平，希望yue别支持这种事情）",
+      "insert_text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Siageng mao没水平，希望yue别支持这种事情）"
+    },
+    {
+      "ghost_hash": "ffd74f1fe06d2fab",
+      "insert_hash": "1e5e39520f4b9125",
+      "note": "typo: 合作/合子作",
+      "ghost_text": "（王老师对学生肯定是没得说的，相当关心学生就业，并且会给合作学生带小礼物）",
+      "insert_text": "（王老师对学生肯定是没得说的，相当关心学生就业，并且会给合子作学生带小礼物）"
+    },
+    {
+      "ghost_hash": "03c16ef9f4a19041",
+      "insert_hash": "5c5178a1a1463a7b",
+      "note": "added text at end",
+      "ghost_text": "黑推，pua，push，可能因为自己出身一般所以看重学生出身；",
+      "insert_text": "黑推，pua，push，可能因为自己出身一般所以看重学生出身；（n b"
+    },
+    {
+      "ghost_hash": "018b6e930898b0cb",
+      "insert_hash": "6af46d406a9bb5d2",
+      "note": "expanded defense statement",
+      "ghost_text": "本人：突闻自己上榜，真是我今年一共就写了这么些推荐信，学生",
+      "insert_text": "本人：突闻自己上榜，真是很惊讶，没有一句话是对的。看到上面的讨论，我就说一句。我今年一共就写了这么些推荐信，所有的推荐信全部都是强推，我留有所有的邮件。今年的学生去处：MBZUAI, KAUST, UMass Armherst, Rutgers, UW等等。只有一个学生后来又找我写推荐信，我也继续给了强推。本届学生，只有一个我不知道去处。如果谁说我黑推，我只想让他自己过来查，反省一下是不是自己的问题。"
+    },
+    {
+      "ghost_hash": "28d68eeb232f99b6",
+      "insert_hash": "b09c05f2a0d483c2",
+      "note": "completed sentence fragment",
+      "ghost_text": "做的没人关心的东西，学术taste极差，但喜欢宣称自己学术tas",
+      "insert_text": "做的没人关心的东西，学术taste极差，但喜欢宣称自己学术taste好"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5771,
+  "skipped_reason": null
+}
