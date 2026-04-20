@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-07-50Z.delta.json",
+  "delta_ts": "2026-04-20T11-07-50Z",
+  "reviewed_at_utc": "2026-04-20T11:08:50Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Accusatory attack identifying the editor as professor Chaowei Xiao and alleging ulterior motives/admission failure to discredit criticism.",
+      "excerpt": "再删你是Chaowei Xiao，有种来rebuttal!!! ... 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal insult using clown emoji to dismiss a critic's claim of post deletion.",
+      "excerpt": "小丑🤡一个"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Mocking personal financial losses in real estate speculation, unrelated to academic advising practices.",
+      "excerpt": "炒房大概率亏钱中😅"
+    }
+  ],
+  "prompt_sha256": "a6cbfa84caa2e4f659baf2d5c805d4b29becacceb73f180d6cfddcbfe69ad83b",
+  "finish_reason": "stop",
+  "completion_tokens": 6819
+}

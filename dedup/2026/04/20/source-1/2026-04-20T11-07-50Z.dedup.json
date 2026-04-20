@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T11-07-50Z",
+  "reviewed_at_utc": "2026-04-20T11:09:14Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 21,
+  "n_inserts": 9,
+  "pairs": [
+    {
+      "ghost_hash": "58f5b463a1650da8",
+      "insert_hash": "0f8481ab2a3c3e62",
+      "note": "extended with additional defense",
+      "ghost_text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人",
+      "insert_text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，er bu s"
+    },
+    {
+      "ghost_hash": "4252acea33059dc7",
+      "insert_hash": "1b0445dfb458edb2",
+      "note": "added praise at end",
+      "ghost_text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人）",
+      "insert_text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）"
+    },
+    {
+      "ghost_hash": "49f4c3e2118f9ec9",
+      "insert_hash": "86c6b100659f5628",
+      "note": "added rhetorical question",
+      "ghost_text": "Intern进组要先考一轮coding interview，micromanage",
+      "insert_text": "Intern进组要先考一轮coding interview，micromanage (这也算黑点？)"
+    },
+    {
+      "ghost_hash": "a48a9453012ea720",
+      "insert_hash": "30f38e382e7fa26f",
+      "note": "added parenthetical about losing money",
+      "ghost_text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家，OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家",
+      "insert_text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+    },
+    {
+      "ghost_hash": "ab045a36b04dcff7",
+      "insert_hash": "7f350410399c176d",
+      "note": "rephrased parenthetical remark",
+      "ghost_text": "欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（只教做人，不教科研），学会感恩🙏",
+      "insert_text": "欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（有一句话怎么说来着，领导教你做人，老师教你做事），学会感恩🙏"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3174,
+  "skipped_reason": null
+}

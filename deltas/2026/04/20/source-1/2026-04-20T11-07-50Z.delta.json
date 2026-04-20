@@ -1,0 +1,320 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T11-03-35Z",
+    "revision_id": "AMHacu6Ba1LiBfLTXStUV-LV5yE09pPRQCHCXYYzkRjJjJcQj4ssWN5Q1w9X8po4dAsLFJQVNLDE2A1mryCz6Zq4gw",
+    "paragraph_count": 1512
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T11-07-50Z",
+    "revision_id": "AMHacu7h5FVNHOlhh-Lz0yORHTTM-1VcGC0wIxIyd8c5oOnvE_WfrEOjDRLqVxb_BP5L-FQfgcZLe0O-Hwa1oNX-0Q",
+    "paragraph_count": 1498
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 25,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0165,
+    "insertion_ratio": 0.0073
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 231,
+      "at_to": 231,
+      "from_paragraphs": [
+        {
+          "content_hash": "809a1bfbdd994757",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "8739fa88e394a0e9",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 236,
+      "at_to": 237,
+      "from_paragraphs": [
+        {
+          "content_hash": "58f5b463a1650da8",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0f8481ab2a3c3e62",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，er bu s"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 290,
+      "at_to": 291,
+      "from_paragraphs": [
+        {
+          "content_hash": "4252acea33059dc7",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1b0445dfb458edb2",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1060,
+      "paragraphs": [
+        {
+          "content_hash": "1115bd8aba7ef55d",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 无论是学术界还是工业界。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1070,
+      "paragraphs": [
+        {
+          "content_hash": "7db365b27e9f8a63",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech Ye Zhao"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1132,
+      "at_to": 1133,
+      "from_paragraphs": [
+        {
+          "content_hash": "49f4c3e2118f9ec9",
+          "style": "NORMAL_TEXT",
+          "text": "Intern进组要先考一轮coding interview，micromanage"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "86c6b100659f5628",
+          "style": "NORMAL_TEXT",
+          "text": "Intern进组要先考一轮coding interview，micromanage (这也算黑点？)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1189,
+      "paragraphs": [
+        {
+          "content_hash": "e2d5b6d23f84097d",
+          "style": "NORMAL_TEXT",
+          "text": "Brown Peipei Zhou"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1213,
+      "paragraphs": [
+        {
+          "content_hash": "db42c14ef871eca1",
+          "style": "NORMAL_TEXT",
+          "text": "Mila/UdeM, Jian Tang （他咋了）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1261,
+      "paragraphs": [
+        {
+          "content_hash": "7a89fc6c1d0c3119",
+          "style": "NORMAL_TEXT",
+          "text": "HKU chen ran"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1291,
+      "paragraphs": [
+        {
+          "content_hash": "d4f8770bdd60d924",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK, Qi Dou"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1339,
+      "paragraphs": [
+        {
+          "content_hash": "684b7a1d5e187d70",
+          "style": "NORMAL_TEXT",
+          "text": "SIT Xin Lou"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1349,
+      "paragraphs": [
+        {
+          "content_hash": "c82ce6719bde4cf3",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua Chong’en Bai"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1359,
+      "paragraphs": [
+        {
+          "content_hash": "9c1adaed61fd0827",
+          "style": "NORMAL_TEXT",
+          "text": "Peking, 求问北大"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0a115d0d399f2418",
+          "style": "NORMAL_TEXT",
+          "text": "FDU"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4f1b24498c3231da",
+          "style": "NORMAL_TEXT",
+          "text": "NJU"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1490,
+      "at_to": 1479,
+      "from_paragraphs": [
+        {
+          "content_hash": "a48a9453012ea720",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家，OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+        },
+        {
+          "content_hash": "ab045a36b04dcff7",
+          "style": "NORMAL_TEXT",
+          "text": "欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（只教做人，不教科研），学会感恩🙏"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "376d1f75bd3c6773",
+          "style": "NORMAL_TEXT",
+          "text": "NKU Z"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "30f38e382e7fa26f",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家（炒房大概率亏钱中😅），OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+        },
+        {
+          "content_hash": "7f350410399c176d",
+          "style": "NORMAL_TEXT",
+          "text": "欢迎受虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理（有一句话怎么说来着，领导教你做人，老师教你做事），学会感恩🙏"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1498,
+      "paragraphs": [
+        {
+          "content_hash": "86936315fce40c12",
+          "style": "HEADING_1",
+          "text": "AU"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1500,
+      "at_to": 1485,
+      "from_paragraphs": [
+        {
+          "content_hash": "130fe0a1aa27a1c7",
+          "style": "NORMAL_TEXT",
+          "text": "UQ, Yujun Cai"
+        },
+        {
+          "content_hash": "09528a7e9c19e672",
+          "style": "NORMAL_TEXT",
+          "text": "Yiwei Wang 夫妻店（后面是不是有？而且澳大利亚的别写到美国这个）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
