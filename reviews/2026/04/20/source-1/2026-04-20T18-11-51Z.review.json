@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T18-11-51Z.delta.json",
+  "delta_ts": "2026-04-20T18-11-51Z",
+  "reviewed_at_utc": "2026-04-20T18:12:49Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Reference to specific institutional affiliation 'ucm' intended to de-anonymize a private individual by directing readers to search publication records",
+      "excerpt": "你一篇一篇论文去翻看看机构署名ucm的"
+    },
+    {
+      "type": "pii",
+      "detail": "Retention and presentation of sensitive personal medical and financial information about a student (family hospitalization, rent assistance) that could identify the individual",
+      "excerpt": "我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive debate about advisor's funding practices, internship arrangements, and specific references to individuals/entities, suppressing detailed legitimate observations about advising conduct",
+      "excerpt": "应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）"
+    }
+  ],
+  "prompt_sha256": "24a8047ac5c1eb52a15c42874fd3e5c29ca0b26d5e6e0d24e68872da04b79e99",
+  "finish_reason": "stop",
+  "completion_tokens": 6416
+}
