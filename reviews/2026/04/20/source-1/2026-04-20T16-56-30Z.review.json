@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-56-30Z.delta.json",
+  "delta_ts": "2026-04-20T16-56-30Z",
+  "reviewed_at_utc": "2026-04-20T16:57:16Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of derogatory insult '大郎该吃药了' (Wu Dalang should take his medicine), a personal attack comparing the target to a pathetic historical figure rather than criticizing concrete advising practices",
+      "excerpt": "大郎该吃药了"
+    },
+    {
+      "type": "pii",
+      "detail": "Disclosure of specific email address api@somastacks.com associated with the advisor's company/accounts, which is a direct contact identifier",
+      "excerpt": "api@somastacks.com"
+    },
+    {
+      "type": "pii",
+      "detail": "Detailed descriptors about a specific student's academic record and application outcomes (top4 school target, committee rejection) sufficient to de-anonymize the individual within the lab context",
+      "excerpt": "后来他很想去的top4学校私下问情况...后来该校还update说抱歉他record没过committee"
+    }
+  ],
+  "prompt_sha256": "b8099f397bc90cff0f8f30ad4a0bf4eccb2640bded58f4947d3815364b16721b",
+  "finish_reason": "stop",
+  "completion_tokens": 4617
+}
