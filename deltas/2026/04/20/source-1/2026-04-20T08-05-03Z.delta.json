@@ -1,0 +1,202 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-01-01Z",
+    "revision_id": "AMHacu4Bui5n06PL5kLQJE9ZzRJ7ThG2H-u3J8RooBkTHQeA859pPpogJr03sTNQWFQU1_k0i81Q7f8AU8iJGwkSAw",
+    "paragraph_count": 1356
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-05-03Z",
+    "revision_id": "AMHacu7JRfOjfzyKOZDh4zqQT7G0qjkq98v4XSJIeQbpRp7W2HCdLh0agNSDLCOX43-MsBDWAUA1_OVzGcxMPSg4fQ",
+    "paragraph_count": 1364
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 7,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0052,
+    "insertion_ratio": 0.011
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 18,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d027830b2f51ec0b",
+          "style": "NORMAL_TEXT",
+          "text": "MIT, Kaiming He （？？）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 52,
+      "at_to": 49,
+      "from_paragraphs": [
+        {
+          "content_hash": "124dc8414c797a52",
+          "style": "NORMAL_TEXT",
+          "text": "组里那个逆天phd jiageng"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c2ce6caf561cc2e0",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天 phd jiageng mao 没水平 一个人带十几个intern啥都做不出来 只想着水论文"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 129,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "90d91186ced73558",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Sergey Levine"
+        },
+        {
+          "content_hash": "7f33223400b82ec5",
+          "style": "NORMAL_TEXT",
+          "text": "BAIR abuse: https://www.reddit.com/r/berkeley/comments/1bkeq9t/abused_at_bair/?rdt=34250"
+        },
+        {
+          "content_hash": "fa83282cf33a7b7b",
+          "style": "NORMAL_TEXT",
+          "text": "强迫学生做自己不喜欢的研究方向"
+        },
+        {
+          "content_hash": "5ec816ee4e948429",
+          "style": "NORMAL_TEXT",
+          "text": "组里paper 超过 90% reproduce不出来"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 366,
+      "at_to": 368,
+      "from_paragraphs": [
+        {
+          "content_hash": "00546dfd2765a70f",
+          "style": "NORMAL_TEXT",
+          "text": "2.组里氛围很好。每个学生方向相关但又不完全相同，因此没有组内恶意竞争且合作频繁。课题组经常聚餐，也有各种活动，可以从lab的主页看到照片。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "602ff959f9574480",
+          "style": "NORMAL_TEXT",
+          "text": "2.组里氛围很好。每个学生方向相关但又不完全相同，因此没有组内恶意竞争且相互合作频繁。课题组经常聚餐，也有各种活动，可以从lab的主页看到照片。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 371,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 911,
+      "at_to": 914,
+      "from_paragraphs": [
+        {
+          "content_hash": "240573ff0c3b5b21",
+          "style": "NORMAL_TEXT",
+          "text": "跪舔其他人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "421bc12583c028b7",
+          "style": "NORMAL_TEXT",
+          "text": "跪舔别人"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1208,
+      "paragraphs": [
+        {
+          "content_hash": "f5e9f218bbbf8303",
+          "style": "NORMAL_TEXT",
+          "text": "(求原因，他不是据说挺好的吗）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1259,
+      "paragraphs": [
+        {
+          "content_hash": "9e380015ab5fadba",
+          "style": "NORMAL_TEXT",
+          "text": "XD不至于"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1293,
+      "at_to": 1299,
+      "from_paragraphs": [
+        {
+          "content_hash": "8c5b97c7cf0adb67",
+          "style": "NORMAL_TEXT",
+          "text": "intern本科生养鱼，maybe只care少院同学吧，完全不给指导啊，也没人带你hhh"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "986ffdd3c3049410",
+          "style": "NORMAL_TEXT",
+          "text": "Intern本科生养鱼，maybe只care少院同学吧，完全不给指导啊，也没人带你hhh"
+        },
+        {
+          "content_hash": "8b59bef57cc45395",
+          "style": "NORMAL_TEXT",
+          "text": "少院的也不在乎啊，奈何取之尽锱铢，用之如泥沙"
+        },
+        {
+          "content_hash": "77c14be707c9c69f",
+          "style": "NORMAL_TEXT",
+          "text": "苦一苦学生，骂名我来当"
+        }
+      ]
+    }
+  ]
+}
