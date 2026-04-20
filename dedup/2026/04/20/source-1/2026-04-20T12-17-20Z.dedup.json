@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-17-20Z",
+  "reviewed_at_utc": "2026-04-20T12:18:21Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 3,
+  "n_inserts": 10,
+  "pairs": [
+    {
+      "ghost_hash": "ea578654c97d9059",
+      "insert_hash": "8f91e17a7cdd15af",
+      "note": "Rephrasing with added details on Jiajun",
+      "ghost_text": "Jiajun水平自然很高， 主要问题在于intern又多又厉害，导致竞争过于激烈，很多申的结果就一般了。但是因为本身就强，一般是跟自己的期望相比，",
+      "insert_text": "Jiajun水平自然很高， 主要问题在于intern又多又强，导致竞争过于激烈，很多申请结果就一般了。一般指的是跟自己的期望相比，但是因为于intern本身就强，总体而言还是能去不错的学校。当然，不跟他做暑研可能也能申到同档次的学校（无奈笑）。"
+    },
+    {
+      "ghost_hash": "ec010b56a12a4314",
+      "insert_hash": "5769064a79adc753",
+      "note": "Same text with incomplete '(que' added",
+      "ghost_text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)",
+      "insert_text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(que"
+    },
+    {
+      "ghost_hash": "57b088cf740210c0",
+      "insert_hash": "eb22153dd29be69b",
+      "note": "Same with added parenthetical response",
+      "ghost_text": "Hu经典小号控评+找拖控评",
+      "insert_text": "Hu经典小号控评+找拖控评 (反驳你就是小号是吧，你哪位啊?)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2326,
+  "skipped_reason": null
+}

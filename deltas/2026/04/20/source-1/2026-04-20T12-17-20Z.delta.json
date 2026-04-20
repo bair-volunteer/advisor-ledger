@@ -1,0 +1,130 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-13-01Z",
+    "revision_id": "AMHacu78uOiLWKpzzIiJTA5BBBKf_RDHwFfj20ERDOKzE4zXjnc8F9bJwmOVFJx_06mFcHVBczdp9qZRuhDgvNaCSQ",
+    "paragraph_count": 1818
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-17-20Z",
+    "revision_id": "AMHacu6YLVlEfnt-wthRomro7DcHQXE07jHwtDTRmAwN3y6GpVez5oMSS91XaWDl6UmshMmlZ6kWxvM62ezElJOAQg",
+    "paragraph_count": 1825
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 3,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0017,
+    "insertion_ratio": 0.0055
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 227,
+      "at_to": 227,
+      "from_paragraphs": [
+        {
+          "content_hash": "ea578654c97d9059",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun水平自然很高， 主要问题在于intern又多又厉害，导致竞争过于激烈，很多申的结果就一般了。但是因为本身就强，一般是跟自己的期望相比，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f91e17a7cdd15af",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun水平自然很高， 主要问题在于intern又多又强，导致竞争过于激烈，很多申请结果就一般了。一般指的是跟自己的期望相比，但是因为于intern本身就强，总体而言还是能去不错的学校。当然，不跟他做暑研可能也能申到同档次的学校（无奈笑）。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 398,
+      "paragraphs": [
+        {
+          "content_hash": "4ed15365a2237952",
+          "style": "NORMAL_TEXT",
+          "text": "以下这些学校是加入美国了吗？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 538,
+      "at_to": 539,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec010b56a12a4314",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5769064a79adc753",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(que"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1575,
+      "at_to": 1576,
+      "from_paragraphs": [
+        {
+          "content_hash": "57b088cf740210c0",
+          "style": "NORMAL_TEXT",
+          "text": "Hu经典小号控评+找拖控评"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eb22153dd29be69b",
+          "style": "NORMAL_TEXT",
+          "text": "Hu经典小号控评+找拖控评 (反驳你就是小号是吧，你哪位啊?)"
+        },
+        {
+          "content_hash": "cb2f23c5529e2673",
+          "style": "NORMAL_TEXT",
+          "text": "我是lijie的intern之一，从24年到现在一直和lijie合作，lijie的人品我觉得绝对是最好的那一档，她真的愿意带0基础的学生做科研，而且也会愿意和你交流不管是学术上还是未来发展上的问题。她要是看出身会愿意带那么多0基础的学生发顶会？甚至会愿意抽时间帮你模拟面试，没有人有义务帮你，你自己没拿到offer跑回来怪lijie给黑推，有没有可能是你bg不太行？？"
+        },
+        {
+          "content_hash": "81383adaa1c5e34d",
+          "style": "NORMAL_TEXT",
+          "text": "没拿offer跟PUA什么关系？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1678,
+      "paragraphs": [
+        {
+          "content_hash": "53705925f31caf45",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU Yong-lu Li"
+        },
+        {
+          "content_hash": "e6e2286fb42a13a2",
+          "style": "NORMAL_TEXT",
+          "text": "手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工债只能说pua大师，面试的时候就看得出来"
+        },
+        {
+          "content_hash": "a89fd2a28161ece6",
+          "style": "NORMAL_TEXT",
+          "text": "AI改论文，盯着标点符号猛改，坚信AI是对的，改半天时态改不明白"
+        },
+        {
+          "content_hash": "5484ed66839f9614",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了(甚至xhs指名道姓内涵王兴兴，狂妄的没边了，发现留言人多就删帖)痴(人品有问题，内派阴阳同学院其他女教授，婊，贱譾是itch)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-17-20Z.delta.json",
+  "delta_ts": "2026-04-20T12-17-20Z",
+  "reviewed_at_utc": "2026-04-20T12:18:03Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student/private individual (王兴兴) mentioned in context of professor's social media dispute",
+      "excerpt": "甚至xhs指名道姓内涵王兴兴"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Severe personal insults using gendered profanity and slurs (婊, 贱, bitch)",
+      "excerpt": "婊，贱譾是itch"
+    }
+  ],
+  "prompt_sha256": "41bfdd61a999f1014c082a737c188dfcbb861eb9d7ee097378a93f16cdd600f9",
+  "finish_reason": "stop",
+  "completion_tokens": 4184
+}
