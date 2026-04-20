@@ -1,0 +1,98 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-14-00Z",
+    "revision_id": "AMHacu67ZxOc_iRekzrHkyrCZkYwuqoKIJtn4b6FqZYQ6OejrJcVEYc5Db1UMKT5tHRRMN96_gk1zEA0-euvo6_5EA",
+    "paragraph_count": 556
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-16-10Z",
+    "revision_id": "AMHacu7DQY_a8QKkG-nl83lwft9evC2LrMdxzKDDhndcefPhOe3mvSXFVe13tO629mA9YCdzzZ4IdWVALQTcooWBYg",
+    "paragraph_count": 563
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 1,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0018,
+    "insertion_ratio": 0.0142
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 9,
+      "paragraphs": [
+        {
+          "content_hash": "e6436b4fbc52c315",
+          "style": "NORMAL_TEXT",
+          "text": "为啥开了phd黑榜，这样不太好吧，等一下变成撕逼大战了。。。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 16,
+      "paragraphs": [
+        {
+          "content_hash": "7fb4b089a317cb30",
+          "style": "NORMAL_TEXT",
+          "text": "Sun老师除了 survey 水的多，其他没啥吧。"
+        },
+        {
+          "content_hash": "ec52b551db7027aa",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢蹭热点，sora出了马上搞一个sora的survey，后面蹭个mora，bora。"
+        },
+        {
+          "content_hash": "fc1a4a1b321453ae",
+          "style": "NORMAL_TEXT",
+          "text": "xue"
+        },
+        {
+          "content_hash": "14ca3cd2a766122e",
+          "style": "NORMAL_TEXT",
+          "text": "发生啥了，围观"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 77,
+      "at_to": 83,
+      "from_paragraphs": [
+        {
+          "content_hash": "071b2a1308c8f96e",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四https://www.bqgnovels.com/book/50921/24散各地 不知所踪…这通操作至今仍是UCSB一段\"佳话”"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3c0aafed25c67ca4",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四散各地 不知所踪…这通操作至今仍是UCSB一段\"佳话”"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 455,
+      "paragraphs": [
+        {
+          "content_hash": "2eab565214af0c7c",
+          "style": "NORMAL_TEXT",
+          "text": "听说对学生比较push"
+        }
+      ]
+    }
+  ]
+}
