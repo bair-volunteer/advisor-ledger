@@ -1,0 +1,285 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-50-30Z",
+    "revision_id": "AMHacu5jPf2Vw_NR9AaNYDGuuxLVcO0pVc6jNXpMMplQf7aBSyrCILhejeOzvYnIB7QNzP7UP9a6Wo8wIUbliRq_Bg",
+    "paragraph_count": 1095
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-54-33Z",
+    "revision_id": "AMHacu5UXN-EZSS-knqWGCxuFq7_5uYpByO6MKk-i_W4-04RMr7uTBOZ9ee9kWjhURvbTT5rJRf1V23bn3Xj48UehQ",
+    "paragraph_count": 1097
+  },
+  "summary": {
+    "inserted_paragraphs": 20,
+    "deleted_paragraphs": 18,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0164,
+    "insertion_ratio": 0.0182
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 17,
+      "at_to": 17,
+      "from_paragraphs": [
+        {
+          "content_hash": "2f5c056e92cfe6ce",
+          "style": "NORMAL_TEXT",
+          "text": "兄弟姐妹如果觉得别人说的有问题，可以不要随意开盒别人吗？如果我在这个帖子上把他们所有的PhD at 进来还有几个人的故事会在这里？ 对，不要放除了PI以外的任何学生信息！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9aea9cb45a0f3c50",
+          "style": "NORMAL_TEXT",
+          "text": "(看了一些PI底下感觉有phd在互骂，可以不可以控制一下不要这样，到底是恩怨局还是真的客观事实这样很容易分不清) 支持引入LLM当裁判"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "09c262cf647a00cf",
+          "style": "NORMAL_TEXT",
+          "text": "说实话，很多学生和phd老板本来就是奴隶和奴隶主的关系，老板可以随意开除学生，随意压榨学生，学生就是抱怨一下（or 描述自身经历；人不能把自己没亲身经历过就认为是假的吧） （+1）有什么问题？？？抱怨的意思是可以捕风捉影+人身攻击，恶意揣测？但凡有证据我觉得也是合情合理，很多时候关系本来就是不对等的（的确不对等，老师能开学生，学生能开老师吗[DOGE]），并不是开脱，只是你随便造谣，你在暗处，别人在明处（如果觉得这种地位不对等有问题，建议直接投诉RateMyProfessor，在我看来这无非就是等价的RateMyAdvisor，好的老师自有大儒为ta辩经（确实，就比如 sun lichao，有的人说不好，也有自己phd 亲自愿意站台，兼听则明这不更好？），看看红榜，或者黑榜转红榜），你觉得这些恶意中伤，就是很高尚的行为了？讲道理，棕色这个人觉得，恶能随意传播（这就怪了，学生能被恶伤害，不能去说自己经历的恶了？这不扣帽子吗）也无所谓是吧？高尚与否可以拿实际经历说话，但我看下面不少老师被人身攻击，都是捕风捉影，拿一些和自己经历无关紧要的事情出来说事儿，私生活混乱这些也就罢了，传了几百道人的和自己八杆子打不着的七大姑八大姨的事情也能据说，有点搞笑。"
+        },
+        {
+          "content_hash": "4241c077eb755a4f",
+          "style": "NORMAL_TEXT",
+          "text": "至少比这些恶心的行为要高尚。对付恶人就要用恶人的方法。有些好的老师比如yu/huan至少也有人来洗白。你有例子吗？我能告诉你的就是我看到的这个里面80%+的事情都是真的。不要低估faculty的恶。（+1）"
+        },
+        {
+          "content_hash": "ead7b185efdfaca3",
+          "style": "NORMAL_TEXT",
+          "text": "但是下面很多不是真的不好的老师也有很多人维护吧，大家可以有自己判断的能力了吧，都读phd了（+1）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c334ad73a915966b",
+          "style": "NORMAL_TEXT",
+          "text": "（那当然妥妥的恩怨局，一句据说开头打遍天下，红的黑的都可以说）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "744a8e5fb579fc01",
+          "style": "NORMAL_TEXT",
+          "text": "看完整篇文章真的感触太深了，为啥华人在外永远要欺压自己人呢？太悲哀了学术界。（那就去补充点工业界黑榜吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "95709dc7e0959db4",
+          "style": "NORMAL_TEXT",
+          "text": "作者有话说："
+        },
+        {
+          "content_hash": "a6dd220b4bddc27e",
+          "style": "NORMAL_TEXT",
+          "text": "请重新回顾上面的原始purpose！"
+        },
+        {
+          "content_hash": "ed80e779e17e1f07",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了，已经有UCSD邮箱给我发邮件威胁我了。大家jishi"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 75,
+      "at_to": 67,
+      "from_paragraphs": [
+        {
+          "content_hash": "8644354d4adf5ceb",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，没人觉得孙哥有问题，都觉得孙哥又给自由又推资源，人品做事什么都好。本来写了好长一堆，后来想了想，我似乎没必要向你们证明我老板人品有多好，我只需要证明底下黑他的都不是他的phd，pua学生之类的说法就不攻自破了。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，你们也不是真的关心我们。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "04b51b4addffc381",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，没人觉得孙哥有问题，都觉得孙哥又给自由又推资源，人品做事什么都好。本来写了好长一堆，后来想了想，我似乎没必要向你们证明我老板人品有多好，我只需要证明底下黑他的都不是他的phd，pua学生之类的说法就不攻自破了。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生好这点，对你们也不重要，你们也不是真的关心我们。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 318,
+      "paragraphs": [
+        {
+          "content_hash": "fbf772f3e165ccd6",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu (谁删谁傻逼)"
+        },
+        {
+          "content_hash": "57ab3f236c06d502",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）"
+        },
+        {
+          "content_hash": "bd7910665097290f",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作"
+        },
+        {
+          "content_hash": "6c9cfabbe69c4955",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉（真哭）"
+        },
+        {
+          "content_hash": "66aa6e07ba2d1289",
+          "style": "NORMAL_TEXT",
+          "text": "自己创业让学生全部过来当免费ic，出去实习要尾作而且还不能忘了组里的活，赚了钱自己买了大house"
+        },
+        {
+          "content_hash": "43da04c8ce3d1baf",
+          "style": "NORMAL_TEXT",
+          "text": "搞了一堆intern过来实习，实则养蛊，phd前几年的quit不少"
+        },
+        {
+          "content_hash": "8e009e789d12da8d",
+          "style": "NORMAL_TEXT",
+          "text": "出了名的喜欢骂人、威胁人（断funding警告，延毕警告），迟到也是家常便饭"
+        },
+        {
+          "content_hash": "e760923f2f9f001e",
+          "style": "NORMAL_TEXT",
+          "text": "此人极其自私。在学生（phd student兼公司员工）妻子预产期临近申请休假时，他以‘医学预产期不准、实际产期常会推后’为由拒绝批假。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 511,
+      "at_to": 513,
+      "from_paragraphs": [
+        {
+          "content_hash": "f10bed336e7542e3",
+          "style": "NORMAL_TEXT",
+          "text": "作为 rex 的学生想说一句：第一学年出产出的期待的确存在（个人觉得在情理之中），但组内氛围不是高压。没达到的同学也没什么事，黑榜这个描述和我的实际体验有较大 gap （在rex组做过intern的同意）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "73db560e42283139",
+          "style": "NORMAL_TEXT",
+          "text": "作为 rex 的学生想说一句：第一学年出产出的期待的确存在（个人觉得在情理之中），但组内氛围不是高压。没达到的同学也没什么事，而且导师会积极推荐industry实习，黑榜这个描述和我的实际体验有较大 gap （在rex组做过intern的同意）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 638,
+      "at_to": 640,
+      "from_paragraphs": [
+        {
+          "content_hash": "620f91f3b952fb6c",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）（放狠话还是真quit了？）（目前没人quit，1人转组。组里氛围还挺好的，大家私下都会一起聚聚玩一下。老师也有请客聚聚。实习和找工作也都有帮忙推荐一下）（有人转组哦）(什么情况组里的人都心知肚明，一人分饰多角来黑没必要吧)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2f6d52856cbbd4ce",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）（放狠话还是真quit了？）（目前没人quit，1人转组。组里氛围还挺好的，大家私下都会一起聚聚玩一下。老师也有请客聚聚。实习和找工作也都有帮忙推荐一下）（有人转组哦）(所以有人眼红了？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 658,
+      "at_to": 660,
+      "from_paragraphs": [
+        {
+          "content_hash": "3fbb601f4c6428e3",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bed5828e7e3dcddf",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（确实是inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 790,
+      "at_to": 792,
+      "from_paragraphs": [
+        {
+          "content_hash": "a53c2e25596d8bca",
+          "style": "NORMAL_TEXT",
+          "text": "傻b一个，给offer的都不敢去"
+        },
+        {
+          "content_hash": "a21df9ddb16cca16",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强🤣太幽默了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a7d9b0c8bc752f31",
+          "style": "NORMAL_TEXT",
+          "text": "傻b一个，给offer的都不敢去（这是没拿到offer恼羞成怒了？）"
+        },
+        {
+          "content_hash": "8f6300f39d310844",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 985,
+      "at_to": 987,
+      "from_paragraphs": [
+        {
+          "content_hash": "c3492484a0f10e2d",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习，lucheng打工为主"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a5155c8a6605645e",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习，luchen打工为主"
+        }
+      ]
+    }
+  ]
+}
