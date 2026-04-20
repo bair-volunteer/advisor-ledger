@@ -1,0 +1,76 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T10-50-30Z",
+  "reviewed_at_utc": "2026-04-20T10:52:43Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 9,
+  "n_inserts": 11,
+  "pairs": [
+    {
+      "ghost_hash": "41de352f86276bbe",
+      "insert_hash": "553768f68d36c23c",
+      "note": "extended with challenge to show evidence",
+      "ghost_text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件",
+      "insert_text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据:"
+    },
+    {
+      "ghost_hash": "1d5225009d3ab12d",
+      "insert_hash": "739241808dce96c9",
+      "note": "minor wording fix, removed 'Reborn'",
+      "ghost_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗? Reborn agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)",
+      "insert_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+    },
+    {
+      "ghost_hash": "da3ed437aebf537c",
+      "insert_hash": "4252acea33059dc7",
+      "note": "added response to deletion claim",
+      "ghost_text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）",
+      "insert_text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人）"
+    },
+    {
+      "ghost_hash": "63d128ecf09b8e36",
+      "insert_hash": "f1dc0aed810d629d",
+      "note": "added defense about mentor relationship",
+      "ghost_text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？)",
+      "insert_text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)"
+    },
+    {
+      "ghost_hash": "13ded3e367e9ee97",
+      "insert_hash": "329d7e127334b486",
+      "note": "added retort about application failure",
+      "ghost_text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）",
+      "insert_text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）"
+    },
+    {
+      "ghost_hash": "36f1d26efea2936b",
+      "insert_hash": "b9808dfae987acb7",
+      "note": "completed parenthetical remark",
+      "ghost_text": "在美国看CCF的神人（ccf只是一个参考标准，y）",
+      "insert_text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？）"
+    },
+    {
+      "ghost_hash": "a0e85231e634e573",
+      "insert_hash": "bb69191b183e6c8d",
+      "note": "removed specific name",
+      "ghost_text": "University of Virginia, Tianhao Wang",
+      "insert_text": "University of Virginia"
+    },
+    {
+      "ghost_hash": "1b9f1af2e605d922",
+      "insert_hash": "cd6dfab89326bae9",
+      "note": "added dismissal of rumor",
+      "ghost_text": "据说他本人在UVA也快待不下去了（什么原因？据说是开的人太多了，系里也受不了了，当然这个是听说的）",
+      "insert_text": "据说他本人在UVA也快待不下去了（什么原因？据说是开的人太多了，系里也受不了了，当然这个是听说的）（真就是造谣一张嘴）"
+    },
+    {
+      "ghost_hash": "77e79383e42a90e3",
+      "insert_hash": "084f0069ae7132c7",
+      "note": "completed cut-off sentence",
+      "ghost_text": "不给学生发工资or发半薪因为学生“不听话” （辟谣，学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）（纯路人，出于保护当事人目的建议删了这条，毕竟顾老师知道这是谁&&当事人还没毕业）(没什么好删的，既然有这个谣言我也可以在这里实名澄清，那个quarter",
+      "insert_text": "不给学生发工资or发半薪因为学生“不听话” （辟谣，学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）（纯路人，出于保护当事人目的建议删了这条，毕竟顾老师知道这是谁&&当事人还没毕业）(没什么好删的，既然有这个谣言我在这里实名澄清一下，那个quarter本来就是我们达成共识我要找段实习的，不知道怎么传成这样的）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3906,
+  "skipped_reason": null
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-50-30Z.delta.json",
+  "delta_ts": "2026-04-20T10-50-30Z",
+  "reviewed_at_utc": "2026-04-20T10:52:13Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added personal insults including '小丑🤡一个' (clown emoji), '乱咬人' (biting randomly), '破防了孩子' (triggered/broke defense, child), and condescending attacks like '你是来找爹妈还是来找导师的？'",
+      "excerpt": "小丑🤡一个，大家都不理你不代表你可以一直乱咬人"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted provocative reference '我的奋斗' (Mein Kampf/Hitler's book), constituting an unsupported character judgment/comparison",
+      "excerpt": "童年 · 在人间 · 我的奋斗"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deleted professor name 'Tianhao Wang' from section header, removing specific identification of the advisor being criticized while retaining the substantive criticism, potentially suppressing discoverability",
+      "excerpt": "University of Virginia, Tianhao Wang"
+    }
+  ],
+  "prompt_sha256": "b901d270d65763b402cb03576c6107effa79764a5b758f966fd244782b5111d2",
+  "finish_reason": "stop",
+  "completion_tokens": 7163
+}
