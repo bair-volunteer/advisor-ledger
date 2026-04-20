@@ -1,0 +1,101 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T23-22-40Z",
+    "revision_id": null,
+    "paragraph_count": 2191
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T23-26-52Z",
+    "revision_id": null,
+    "paragraph_count": 2196
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 2,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0009,
+    "insertion_ratio": 0.0032
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 41,
+      "at_to": 41,
+      "from_paragraphs": [
+        {
+          "content_hash": "7010f9cb8e7b2291",
+          "style": "HEADING_3",
+          "text": "Min Xuu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c57b08f95503cac",
+          "style": "HEADING_3",
+          "text": "Min Xu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 349,
+      "paragraphs": [
+        {
+          "content_hash": "df14f50147da94be",
+          "style": "NORMAL_TEXT",
+          "text": "Columbia Yunzhu Li 蹲"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1390,
+      "at_to": 1391,
+      "from_paragraphs": [
+        {
+          "content_hash": "ee4865c35f511380",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很大没耐心，情绪管理有问题。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6b0f6248ad1c4c08",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很大没耐心，情绪管理有问题。但是不会坑学生，需要忍受toxic的师生关系，出路和成果很好。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1996,
+      "paragraphs": [
+        {
+          "content_hash": "f2fbbb13e91f9394",
+          "style": "NORMAL_TEXT",
+          "text": "建议加入: THU Jinpeng Liu"
+        },
+        {
+          "content_hash": "ecd0947a8e5d7169",
+          "style": "NORMAL_TEXT",
+          "text": "在北美时性骚扰不少女生"
+        },
+        {
+          "content_hash": "7ed625137f2b484f",
+          "style": "NORMAL_TEXT",
+          "text": "开会时遇到女生，对女生长相评头论足。通过各种擦边方式和女生肢体接触，死缠烂打约nü。造谣一个没有从来接受自己追求的女生是自己的前女友。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

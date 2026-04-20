@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T23-26-52Z",
+  "reviewed_at_utc": "2026-04-20T23:27:28Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 2,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "7010f9cb8e7b2291",
+      "insert_hash": "4c57b08f95503cac",
+      "note": "Name typo correction",
+      "ghost_text": "Min Xuu",
+      "insert_text": "Min Xu"
+    },
+    {
+      "ghost_hash": "ee4865c35f511380",
+      "insert_hash": "6b0f6248ad1c4c08",
+      "note": "Same temper statement with added context",
+      "ghost_text": "脾气很大没耐心，情绪管理有问题。",
+      "insert_text": "脾气很大没耐心，情绪管理有问题。但是不会坑学生，需要忍受toxic的师生关系，出路和成果很好。"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 952,
+  "skipped_reason": null
+}
