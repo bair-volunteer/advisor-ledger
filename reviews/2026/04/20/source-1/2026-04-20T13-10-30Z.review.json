@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-10-30Z.delta.json",
+  "delta_ts": "2026-04-20T13-10-30Z",
+  "reviewed_at_utc": "2026-04-20T13:11:18Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Deleted text contains personally identifying information about a specific student (the intern) including first-person account details and private email communications ('jitendra 本人给我发的邮件', 'cc过我改名字')",
+      "excerpt": "intern本人来辟谣了...jitendra 本人给我发的邮件"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of the intern's first-hand defense testimony regarding recommendation letter practices, while retaining skeptical/critical responses, appears to suppress a substantive legitimate observation about the advisor",
+      "excerpt": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Text contains personal attack using clown emoji ('小丑🤡一个') to insult an individual rather than criticizing concrete advising practices",
+      "excerpt": "小丑🤡一个"
+    }
+  ],
+  "prompt_sha256": "eb0a09e3c58d03ab9dbe04b0cb5a47d92dd18a164baae806ff6dd068bc0f2cd9",
+  "finish_reason": "stop",
+  "completion_tokens": 5088
+}
