@@ -1,0 +1,398 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-58-34Z",
+    "revision_id": "AMHacu5qlh976qo4szm81WFsp4uij6Xs3FhaAH5TZkt2HDibtAwVz-yNRDwvGxXsam_Mgw2waFA_zwNBraFs_njGrQ",
+    "paragraph_count": 1100
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-02-44Z",
+    "revision_id": "AMHacu7JRj3UtJYy_h4ruB15DWknfQAIKeT8KVQO_Z7RrXrl4wNW-4uDDVVbaVF7_9DTAjPzWq-JoMEoaD-YtKzodw",
+    "paragraph_count": 1113
+  },
+  "summary": {
+    "inserted_paragraphs": 29,
+    "deleted_paragraphs": 16,
+    "operations": 19,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0145,
+    "insertion_ratio": 0.0261
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 18,
+      "at_to": 18,
+      "from_paragraphs": [
+        {
+          "content_hash": "a6dd220b4bddc27e",
+          "style": "NORMAL_TEXT",
+          "text": "请重新回顾上面的原始purpose！"
+        },
+        {
+          "content_hash": "fbf0d0bd4302dc4f",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了（不排除删除，已经有UCSD邮箱给我发邮件威胁我了。大家及时保存，还有Github的版本。（UCSD谁联系爆出来！）"
+        },
+        {
+          "content_hash": "bd10442be93d1e38",
+          "style": "NORMAL_TEXT",
+          "text": "我不怕威胁🤣"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "961fd7538395e78d",
+          "style": "NORMAL_TEXT",
+          "text": "请重新回顾上面的原始purpose！我后面会对存在争议的评论进行重新整合，方便理解；如果只是因为个人原因抱怨（无法真实反应整个组或者不可泛化），就偏离了最原始的purpose；"
+        },
+        {
+          "content_hash": "c7fbe1009d128444",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了（不排除删除以外的和谐操作），已经有UCSD邮箱给我发邮件威胁我了。大家及时保存，还有Github的版本。（UCSD谁联系爆出来！）"
+        },
+        {
+          "content_hash": "c7197a1391a7af8b",
+          "style": "NORMAL_TEXT",
+          "text": "我不怕威胁🤣 (作者挺住！）（支持作者，我们同在！）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 22,
+      "paragraphs": [
+        {
+          "content_hash": "3fd6efabd18dafec",
+          "style": "NORMAL_TEXT",
+          "text": "建议抄送jeff dean，还能找内部人员？他违规找内部人员定位你你直接起诉他就行了，他绝对侵犯隐私，名誉受损这种官司他在这里很难打，但定位你或者开盒你一打一个准哈。内部人员还能泄密？"
+        },
+        {
+          "content_hash": "28a819ba56d6bd08",
+          "style": "NORMAL_TEXT",
+          "text": "Cc pichai, demis hassabis"
+        },
+        {
+          "content_hash": "b2ca77a6e87c8569",
+          "style": "NORMAL_TEXT",
+          "text": "真tm狂啊，看来是被说中了，笑嘻了，急了眼了哈哈哈"
+        },
+        {
+          "content_hash": "2d662521df651654",
+          "style": "NORMAL_TEXT",
+          "text": "咱们看看哪几个ucsd的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 27,
+      "paragraphs": [
+        {
+          "content_hash": "baeb4d30d95d5884",
+          "style": "NORMAL_TEXT",
+          "text": "Figure 1. Dog Panic Jump Wall"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 65,
+      "at_to": 70,
+      "from_paragraphs": [
+        {
+          "content_hash": "d61206d4d3225818",
+          "style": "NORMAL_TEXT",
+          "text": "npd型人格，组内有人去心理治疗的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b595218a3bc64ff1",
+          "style": "NORMAL_TEXT",
+          "text": "Npd型人格，组内有人去心理治疗的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "45bb78491a50bf03",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 69,
+      "at_to": 76,
+      "from_paragraphs": [
+        {
+          "content_hash": "04b51b4addffc381",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，没人觉得孙哥有问题，都觉得孙哥又给自由又推资源，人品做事什么都好。本来写了好长一堆，后来想了想，我似乎没必要向你们证明我老板人品有多好，我只需要证明底下黑他的都不是他的phd，pua学生之类的说法就不攻自破了。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生好这点，对你们也不重要，你们也不是真的关心我们。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5137ce692398c535",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 281,
+      "at_to": 288,
+      "from_paragraphs": [
+        {
+          "content_hash": "3ab50d017213118b",
+          "style": "NORMAL_TEXT",
+          "text": "听说曾经把学生告上学术法庭，因为学生和中国机构合作发paper（小心他告你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3e9a924add00dfa1",
+          "style": "NORMAL_TEXT",
+          "text": "听说曾经把学生告上学术法庭，因为学生和中国机构合作发paper（小心他告你，来喽，给作者发邮件喽，“联系谷歌内部人员找到你的信息喽”）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 348,
+      "at_to": 355,
+      "from_paragraphs": [
+        {
+          "content_hash": "7d3a27799d1033da",
+          "style": "NORMAL_TEXT",
+          "text": "是不是和Wei Hua （ASU那个）？他俩phd一个组的但是仿佛双方互相不认识一样  （歧视性少数群体）不一定是歧视，huaxiu的性格确实是招大家讨厌"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "14510de5eb537f4f",
+          "style": "NORMAL_TEXT",
+          "text": "是不是和Wei Hua （ASU那个）？他俩phd一个组的但是仿佛双方互相不认识一样"
+        },
+        {
+          "content_hash": "f534d719d29498f6",
+          "style": "NORMAL_TEXT",
+          "text": "歧视性少数群体）不一定是歧视，huaxiu的性格确实是招大家讨厌"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 406,
+      "at_to": 414,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "97a87627cab33e32",
+          "style": "NORMAL_TEXT",
+          "text": "He is a typical NPD, while showing"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 542,
+      "at_to": 550,
+      "from_paragraphs": [
+        {
+          "content_hash": "abfbff9d72f07078",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了)（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b887253d4e7191bd",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 555,
+      "at_to": 563,
+      "from_paragraphs": [
+        {
+          "content_hash": "2195f5520ae6f7aa",
+          "style": "NORMAL_TEXT",
+          "text": "我不行了，他是在很多人面前都说了其他老师的坏话吗，我也听别人吐槽过"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ab7f004e0eded987",
+          "style": "NORMAL_TEXT",
+          "text": "我不行了，他是在很多人面前都说了其他老师的坏话吗，我也听别人吐槽过（还搁这听说呢，听谁说，人名来）（谁主张，谁举证）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 660,
+      "paragraphs": [
+        {
+          "content_hash": "d029671aa96b379e",
+          "style": "NORMAL_TEXT",
+          "text": "\t黑榜zhi xie"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 662,
+      "at_to": 671,
+      "from_paragraphs": [
+        {
+          "content_hash": "bf04e9e0bffe8fcf",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（确实是对intern的背景要求不高）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "83bc65fb69521e82",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 795,
+      "at_to": 804,
+      "from_paragraphs": [
+        {
+          "content_hash": "86fc7d9721504612",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） ()"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9c3d3a7072212e66",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，d"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 870,
+      "at_to": 879,
+      "from_paragraphs": [
+        {
+          "content_hash": "d9a13751ba267537",
+          "style": "NORMAL_TEXT",
+          "text": "非常push，组里都是牛马，周末和晚上开会是常态，平安夜也开会"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d362386a7b30295e",
+          "style": "NORMAL_TEXT",
+          "text": "非常push，组里都是牛马，周末和晚上开会是常态，假期也开会"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 883,
+      "paragraphs": [
+        {
+          "content_hash": "9d9c0be14b72b142",
+          "style": "NORMAL_TEXT",
+          "text": "学生被搞抑郁了"
+        },
+        {
+          "content_hash": "9fb6a975cf6bc8a1",
+          "style": "NORMAL_TEXT",
+          "text": "外面接项目搞钱"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 897,
+      "paragraphs": [
+        {
+          "content_hash": "c38c94194ed4b178",
+          "style": "NORMAL_TEXT",
+          "text": "逼迫学生凌晨送他去机场，去他家给他洗碗"
+        },
+        {
+          "content_hash": "48602403b97f05ae",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生买电脑，给他老婆买"
+        },
+        {
+          "content_hash": "1cfd004fcca0bb3f",
+          "style": "NORMAL_TEXT",
+          "text": "做博后的时候让学生给他付房租"
+        },
+        {
+          "content_hash": "ab40814700d6171d",
+          "style": "NORMAL_TEXT",
+          "text": "抢师弟一作，要求labmate和导师邮件必须cc他"
+        },
+        {
+          "content_hash": "59854abf83c93334",
+          "style": "NORMAL_TEXT",
+          "text": "清"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 994,
+      "paragraphs": [
+        {
+          "content_hash": "bfb39ecb98a8bd52",
+          "style": "NORMAL_TEXT",
+          "text": "最近搞新事业，拉到商汤ace robot去当牛马。特别是手下有个巨sb和push的leader，现组里需打卡上班"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1097,
+      "paragraphs": [
+        {
+          "content_hash": "b20ddb2dacf11a17",
+          "style": "NORMAL_TEXT",
+          "text": "USYD, Chang Xu"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1099,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
