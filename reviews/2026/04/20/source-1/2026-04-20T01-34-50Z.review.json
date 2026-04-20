@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-34-50Z.delta.json",
+  "delta_ts": "2026-04-20T01-34-50Z",
+  "reviewed_at_utc": "2026-04-20T01:35:57Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported psychological diagnosis/character attack",
+      "excerpt": "经典NPD"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Stereotype-based character judgment",
+      "excerpt": "Stereotype上大分"
+    }
+  ],
+  "prompt_sha256": "a881c739274d83471df6dfd0cb50c30537caf41ac3b91c35df71f73a38837f5e",
+  "finish_reason": "stop",
+  "completion_tokens": 5531
+}

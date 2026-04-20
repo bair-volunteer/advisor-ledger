@@ -1,0 +1,246 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-32-40Z",
+    "revision_id": "AMHacu43UVdpdUnr0QyS18ZzDfhmaUk_zGJyLTSoCRJltNJt3o8EpMAJ5iyvvWmcDreduae864ViDQHsQY3oeQ-Nzw",
+    "paragraph_count": 691
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-34-50Z",
+    "revision_id": "AMHacu5V3LltWMjsSZsBaBjGKZkhwee4XzKcawtFEh-Wh8m9qYIQi3UFzTH81g2rFXX6G3rkkIJRljLHnEHK7z_EeA",
+    "paragraph_count": 699
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 9,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.013,
+    "insertion_ratio": 0.0243
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 5,
+      "paragraphs": [
+        {
+          "content_hash": "ff3c1413eec35427",
+          "style": "NORMAL_TEXT",
+          "text": "任何对PhD学生本人的评论都需要被删除，本文档只针对PI"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 30,
+      "at_to": 31,
+      "from_paragraphs": [
+        {
+          "content_hash": "d79dcc44f746fb74",
+          "style": "NORMAL_TEXT",
+          "text": "UMass"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8377cf0db8809da4",
+          "style": "NORMAL_TEXT",
+          "text": "UMass Hong Yu"
+        },
+        {
+          "content_hash": "2ef5557a50d82b22",
+          "style": "NORMAL_TEXT",
+          "text": "啥也不懂瞎push"
+        },
+        {
+          "content_hash": "3fb6d1efb7a5f351",
+          "style": "NORMAL_TEXT",
+          "text": "pua学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 42,
+      "at_to": 45,
+      "from_paragraphs": [
+        {
+          "content_hash": "34f23944ff45a877",
+          "style": "NORMAL_TEXT",
+          "text": "GT校内的本科生（不止一个），甚至不是NLP方向的，都听说过Celine组的“大名” (这一点咋看着很不专业，Celine也不是做NLP的)（但是Celine给我发面试了，我是NLP的）(唉，网友啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9fd4433e3463a699",
+          "style": "NORMAL_TEXT",
+          "text": "GT校内做bio的（甚至不是同方向）本科生（不止一个）都听说过Celine组的“大名”"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 96,
+      "paragraphs": [
+        {
+          "content_hash": "0845dd64ea74f810",
+          "style": "NORMAL_TEXT",
+          "text": "早期在UCSB转ML过程中非常push，圣诞节daily meeting，消耗了好几个学生，最后投稿几十篇paper都没中几篇，后期又转会做ML for sys"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 321,
+      "at_to": 325,
+      "from_paragraphs": [
+        {
+          "content_hash": "7d9f03293fb7ebe1",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很大（？），非常push，项目一卡就辱骂学生，经常有phd被骂得半夜给同学打电话哭（从来都是对事不对人，yu的耐心比我合作过的大部分教授都好得多。我都准备把yu写红榜的在黑榜看到我真惊了）（骂哭这事我真没听说过）(只对特别重要的项目催的比较近，一般学生出于兴趣去做的他很chill，不会一卡就骂，除非一件事情1-2个月没进展他肯定会批评两句。我寻思1-2个月一点实验number都跑不出来，又是特别重要的项目，说两句咋了，又不对人？？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "825b000b74ae7cb4",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很大（？），非常push，项目一卡就辱骂学生，经常有phd被骂得半夜给同学打电话哭（从来都是对事不对人，yu的耐心比我合作过的大部分教授都好得多。我都准备把yu写红榜的在黑榜看到我真惊了）（骂哭这事我真没听说过）(只对特别重要的项目催的比较近，一般学生出于兴趣去做的他很chill，不会一卡就骂，除非一件事情1-2个月没进展他肯定会批评两句。我寻思1-2个月一点实验number都跑不出来，又是特别重要的项目，说两句咋了，又不对人）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 324,
+      "at_to": 328,
+      "from_paragraphs": [
+        {
+          "content_hash": "f58939c75ccf0e24",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）（我在读期间氛围很好啊？？）（yu su绝对不鼓励斗争，发生小摩擦他第一时间写组内的culture guidance让大家互相尊重）（就感觉有的评论纯属断章取义，经典网友）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "29dd6d4cab196de5",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)（woc这么toxic）(Yu Su 都上黑榜你们是人吗？phd之间发生冲突和yu有啥关系？）（我在读期间氛围很好啊）（yu su绝对不鼓励斗争，发生小摩擦他第一时间写组内的culture guidance让大家互相尊重）（就感觉有的评论纯属断章取义，经典网友）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 404,
+      "at_to": 408,
+      "from_paragraphs": [
+        {
+          "content_hash": "1da6327eab35a455",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "874634bf2c9b488d",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，有空发长篇大论小红书立人设，没时间回消息）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 438,
+      "at_to": 442,
+      "from_paragraphs": [
+        {
+          "content_hash": "ea605889b1f72712",
+          "style": "NORMAL_TEXT",
+          "text": "World model Phd 大兵团"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "99786d63d0027b28",
+          "style": "NORMAL_TEXT",
+          "text": "World model Phd 大兵团现在这种发展想做foundation model不大兵团怎么干得过我请问呢，而且组里一直有phd在做别的方向也不是只有wm在发paper吧。。。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 569,
+      "at_to": 573,
+      "from_paragraphs": [
+        {
+          "content_hash": "340c0328cb15cd03",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（学生在ua出轨本科生， rate my professor上有）（组内那一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）（哦哦可以的）"
+        },
+        {
+          "content_hash": "8aebc3d035b23cbf",
+          "style": "NORMAL_TEXT",
+          "text": "\t哦我说top 30 faculty offer"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0587ec622a75e504",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（学生在ua出轨本科生， rate my professor上有）（组内早年一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）"
+        },
+        {
+          "content_hash": "c899013eb668c673",
+          "style": "NORMAL_TEXT",
+          "text": "小红书有挂他的帖子，一开始热度很高，后年说是被人买咸鱼热度刷掉了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 656,
+      "at_to": 660,
+      "from_paragraphs": [
+        {
+          "content_hash": "bf74681ec893d919",
+          "style": "NORMAL_TEXT",
+          "text": "他举报的Xiaofeng wang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7bdf30b3eefaf991",
+          "style": "NORMAL_TEXT",
+          "text": "他举报的Xiaofeng wang (+1 还是自爆的)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 694,
+      "paragraphs": [
+        {
+          "content_hash": "37be3a909835da91",
+          "style": "NORMAL_TEXT",
+          "text": "Stereotype上大分"
+        },
+        {
+          "content_hash": "d7eb95368bd067d8",
+          "style": "NORMAL_TEXT",
+          "text": "经典NPD"
+        },
+        {
+          "content_hash": "048b3b181335eccc",
+          "style": "NORMAL_TEXT",
+          "text": "没funding但是敢招一堆人"
+        },
+        {
+          "content_hash": "e966b17e31d9ee43",
+          "style": "NORMAL_TEXT",
+          "text": "嘴上说让学生别着急，自己不push，其实push得很"
+        }
+      ]
+    }
+  ]
+}
