@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T14-33-00Z",
+  "reviewed_at_utc": "2026-04-20T14:34:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 3,
+  "n_inserts": 3,
+  "pairs": [
+    {
+      "ghost_hash": "ae7d7e23a5cf7c8a",
+      "insert_hash": "8ed7ee9dda98494e",
+      "note": "expanded list of examples",
+      "ghost_text": "对科研关心不足的同时，洞悉行政手段，想方设法恶心学生，例如：出尔反尔，切断",
+      "insert_text": "对科研关心不足的同时，洞悉行政手段，想方设法恶心学生，例如：出尔反尔，切断学生实习；故意卡学生的学分，阻止学生正常完成学分要求；对学校的奖学金设置手段，故意卡着不给"
+    },
+    {
+      "ghost_hash": "4bd7ef315c375fd9",
+      "insert_hash": "bd4cfee82f8024c7",
+      "note": "rewrote school clarification part",
+      "ghost_text": "Yufei Ding今年stf的phd，纯学术妲己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊 北大信科官方澄清shi",
+      "insert_text": "Yufei Ding今年stf的phd，纯学术妲己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为还是真没作弊呢？ 我是没kan"
+    },
+    {
+      "ghost_hash": "0461270f403d4f51",
+      "insert_hash": "2ec972129f4fa1b3",
+      "note": "truncated after first sentence",
+      "ghost_text": "不是哥们，没回消息可以装睡啊。我认识一个haoran的intern，他说耿有时候回消息就是bu hui",
+      "insert_text": "不是哥们，没回消息可以装睡啊"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2781,
+  "skipped_reason": null
+}

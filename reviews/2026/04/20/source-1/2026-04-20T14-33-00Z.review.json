@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-33-00Z.delta.json",
+  "delta_ts": "2026-04-20T14-33-00Z",
+  "reviewed_at_utc": "2026-04-20T14:33:46Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Retains gendered slur '学术妲己' (academic Daji) that attacks character via unsupported insinuation of using relationships for academic gain rather than criticizing concrete advising practices",
+      "excerpt": "纯学术妲己"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive first-hand observation about advisor '耿' failing to reply to messages, attributed to a specific witness, appearing to suppress legitimate criticism rather than cleanup",
+      "excerpt": "我认识一个haoran的intern，他说耿有时候回消息就是bu hui"
+    },
+    {
+      "type": "pii",
+      "detail": "Deleted text contains lab-specific descriptor 'haoran的intern' that identifies a student by their advisor and role, detailed enough to potentially de-anonymize the individual",
+      "excerpt": "haoran的intern"
+    }
+  ],
+  "prompt_sha256": "a9e41ef447bfd354c30b50cf1bf692c171c106364d8c34294b5d574ef28eb05f",
+  "finish_reason": "stop",
+  "completion_tokens": 4788
+}
