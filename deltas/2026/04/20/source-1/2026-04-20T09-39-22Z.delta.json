@@ -1,0 +1,324 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T09-35-10Z",
+    "revision_id": "AMHacu6BpzMZVaBt24uKbMBrEGeu4iyLSUxJrDNswR1V64Gu0v9tGTBD84HWhqdaZgf6nCtakoBI0q7kjBMdwLcHzA",
+    "paragraph_count": 1503
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T09-39-22Z",
+    "revision_id": "AMHacu5Ofe-in-s8f07pukEbEfCL_BXOvZwnZf0-3tifQkGTfW31FbSwjNkvCyBl_VxSPiNL-E42meIzUjjGnmXeFQ",
+    "paragraph_count": 1475
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 39,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0259,
+    "insertion_ratio": 0.0075
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 218,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 224,
+      "at_to": 225,
+      "from_paragraphs": [
+        {
+          "content_hash": "1cf1a36402af996b",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) Feishi Wang Charlie Cheng 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f8d8642d5683471c",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) Feishi Wang Charlie Cheng 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 312,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2069b7aa74232f1f",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "4337d5fc43b31528",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友，让人怀疑是否有利益交换。"
+        },
+        {
+          "content_hash": "8f7ea9c996926ab1",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c2ce6caf561cc2e0",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天 phd jiageng mao 没水平 一个人带十几个intern啥都做不出来 只想着水论文"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        },
+        {
+          "content_hash": "6ed2dfb0e1378de4",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+        },
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "bad2bf12a5800164",
+          "style": "NORMAL_TEXT",
+          "text": "满口谎言，没有一句实话"
+        },
+        {
+          "content_hash": "5870250e76df3843",
+          "style": "NORMAL_TEXT",
+          "text": "paper大部分是造假的"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bebc7f82ed3aee71",
+          "style": "NORMAL_TEXT",
+          "text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1e1af6706d3752b9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7e319a94cab682ad",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ee9648436b6405a3",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bf8c02ef890ff7a1",
+          "style": "NORMAL_TEXT",
+          "text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况..."
+        },
+        {
+          "content_hash": "8585d0ff1b1a4677",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此:"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 902,
+      "at_to": 873,
+      "from_paragraphs": [
+        {
+          "content_hash": "cfb2619d7ea98036",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Manling Li （存在争议，请谨慎辨别）许多内容已被控评"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "52c88aa380a0f1d1",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Manling Li （存在争议，请谨慎辨别）许多内容已被控评 (有什么不好的?)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 876,
+      "paragraphs": [
+        {
+          "content_hash": "0703a8f089fcd46e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）（吓哭了）（绷不住了）"
+        },
+        {
+          "content_hash": "6ec389d3cd7e8135",
+          "style": "NORMAL_TEXT",
+          "text": "大兵团"
+        },
+        {
+          "content_hash": "532662365ebbcdec",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 (怎么可能??组里最近2-4月发出来的paper难道没有preprint?)（这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？）（我看有的不是直接arxiv吗）"
+        },
+        {
+          "content_hash": "c173e6b524170ec3",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）"
+        },
+        {
+          "content_hash": "0af30bf5b980297b",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern之前没有任何pub的"
+        },
+        {
+          "content_hash": "0535217388d860f0",
+          "style": "NORMAL_TEXT",
+          "text": "会给写强推的老师"
+        },
+        {
+          "content_hash": "c0c617d5c726d777",
+          "style": "NORMAL_TEXT",
+          "text": "讲真，除了intern多一些你未必有return，manling本人人还可以吧，也接受你没有论文经验，对小白来说第一段科研做这个也不错了"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 911,
+      "paragraphs": [
+        {
+          "content_hash": "0703a8f089fcd46e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）（吓哭了）（绷不住了）"
+        },
+        {
+          "content_hash": "6ec389d3cd7e8135",
+          "style": "NORMAL_TEXT",
+          "text": "大兵团"
+        },
+        {
+          "content_hash": "532662365ebbcdec",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 (怎么可能??组里最近2-4月发出来的paper难道没有preprint?)（这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？）（我看有的不是直接arxiv吗）"
+        },
+        {
+          "content_hash": "c173e6b524170ec3",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）"
+        },
+        {
+          "content_hash": "3ce896695cae3abf",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern，tin是之前没有任何pub的"
+        },
+        {
+          "content_hash": "0535217388d860f0",
+          "style": "NORMAL_TEXT",
+          "text": "会给写强推的老师"
+        },
+        {
+          "content_hash": "c0c617d5c726d777",
+          "style": "NORMAL_TEXT",
+          "text": "讲真，除了intern多一些你未必有return，manling本人人还可以吧，也接受你没有论文经验，对小白来说第一段科研做这个也不错了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1345,
+      "paragraphs": [
+        {
+          "content_hash": "a89fd2a28161ece6",
+          "style": "NORMAL_TEXT",
+          "text": "AI改论文，盯着标点符号猛改，坚信AI是对的，改半天时态改不明白"
+        }
+      ]
+    }
+  ]
+}
