@@ -1,0 +1,812 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T16-33-10Z",
+    "revision_id": "AMHacu5yPfcbrmxT-WBwqO-F1lYS7IGv0sMjv-rSDnO53tQRCbxnyVMu3DVf4PuqoLxaZOF5VjQgXYt21EK3rRsHIw",
+    "paragraph_count": 2138
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T16-41-50Z",
+    "revision_id": "AMHacu6QyF3FvWUhJ8dv4TJ0-guZMsDw4MuxW8rCFy0UDPaNq1tZCHcfLEhCDsrRAsW2bb_ds2Xdo3u9PJKGNEjvlA",
+    "paragraph_count": 2068
+  },
+  "summary": {
+    "inserted_paragraphs": 31,
+    "deleted_paragraphs": 101,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0472,
+    "insertion_ratio": 0.015
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 37,
+      "paragraphs": [
+        {
+          "content_hash": "7fd57eb013537882",
+          "style": "NORMAL_TEXT",
+          "text": "Dingwen Tao IUB -> Chinese Academy of Sciences"
+        },
+        {
+          "content_hash": "de753ffcf42adb5d",
+          "style": "NORMAL_TEXT",
+          "text": "这位哥极其push，对学生极为残忍。不够卷的学生，一年不到就会被开。自己在美国6年跳了3次。最后跳回国了，跳回国之后也不会考虑自己学生的去向，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 263,
+      "at_to": 265,
+      "from_paragraphs": [
+        {
+          "content_hash": "4d87941d681ca4e8",
+          "style": "NORMAL_TEXT",
+          "text": "Pi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "99a22a1fda9a66c7",
+          "style": "NORMAL_TEXT",
+          "text": "Pitt Yufei Huang  ECE UPMC Cancer Center"
+        },
+        {
+          "content_hash": "bff6556fa32ce74f",
+          "style": "NORMAL_TEXT",
+          "text": "给组里的RA口头offer, 拿着饼吊着别人做了一年然后在ddl鸽offer"
+        },
+        {
+          "content_hash": "b614cd3da9d6f202",
+          "style": "NORMAL_TEXT",
+          "text": "1v1 meeting的时候羞辱学生 包括不限于说学生能力差，没有科研能力，以及著名的“你做的事情不是PhD- level的” 请问什么叫不是“PhD-level” 😂"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 347,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "223c2e95b7d0f590",
+          "style": "NORMAL_TEXT",
+          "text": "JHU Mathias Unberath"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5c5525357aafc2bc",
+          "style": "NORMAL_TEXT",
+          "text": "招很多intern，自己不带也不认识自己招的人（名字都认不出来）。给intern画大饼，先干横向任务，之后做出来一作的东西 一作要上供给小老板，二作上贡给低年级phd，三作给自己，还有无数空降作者。最后不愿意给推荐信，就算给也是黑推。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 437,
+      "at_to": 446,
+      "from_paragraphs": [
+        {
+          "content_hash": "211bcfdd86a27770",
+          "style": "NORMAL_TEXT",
+          "text": "☀️ 既然上榜了他的学生 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝 （别删了，再删你是Chaowei Xiao，有种来rebuttal!!!)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "66ccadc45a4413f9",
+          "style": "NORMAL_TEXT",
+          "text": "☀️ 既然上榜了他的合作学生 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝 （别删了，再删你是Chaowei Xiao，有种来rebuttal!!!)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 485,
+      "at_to": 494,
+      "from_paragraphs": [
+        {
+          "content_hash": "2e38e77b22c314a4",
+          "style": "NORMAL_TEXT",
+          "text": "()"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9ade16bc9d802772",
+          "style": "NORMAL_TEXT",
+          "text": "听说一堆intern养蛊？？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 496,
+      "at_to": 505,
+      "from_paragraphs": [
+        {
+          "content_hash": "cb669ed5fa70d6a4",
+          "style": "NORMAL_TEXT",
+          "text": "   *  ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过 感觉不好相处 而且是拉着几个毕业的学生一块group interview ()"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6af2840c833df50d",
+          "style": "NORMAL_TEXT",
+          "text": "   *  ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过 感觉不好相处 而且是拉着几个毕业的学生一块group interview (包的包的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 508,
+      "at_to": 517,
+      "from_paragraphs": [
+        {
+          "content_hash": "df04a41ae35da567",
+          "style": "NORMAL_TEXT",
+          "text": "(上面几条真不是一个人写的吗。。。)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "93c056eac99f0cbe",
+          "style": "NORMAL_TEXT",
+          "text": "(上面几条真不是一个人写的吗。。。)（你要是能找出一个他自己phd 说他不好? ）（我只是argue会有四个人同时用本人是开头吗。。。。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 513,
+      "at_to": 522,
+      "from_paragraphs": [
+        {
+          "content_hash": "f128bb6b26c15c15",
+          "style": "NORMAL_TEXT",
+          "text": "另外我是他某一个黑推谣言当事人的朋友，朋友说chuang“可能给了黑推”的理由是，他被某学校拒了以后，chuang给我朋友说“收到黑推了所以被拒”，然后朋友认为按规定chuang只能知道自己推荐信，所以黑推有概率是chuang自己写的。他申请学校这三封推荐信有黑推这件事没实锤，黑推来自chuang这件事也没实锤，到最后传出去就成他被chuang写了黑推了。（chuang 直接给写了黑推，他是傻子吗？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6f152bb7a547dae4",
+          "style": "NORMAL_TEXT",
+          "text": "另外我是他某一个黑推谣言当事人的朋友，朋友当初说chuang“可能给了黑推”的理由是，他被某学校拒了以后，chuang给我朋友说“收到黑推了所以被拒”，然后朋友认为按规定chuang只能知道自己推荐信，所以黑推有概率是chuang自己写的。实际：他申请学校这三封推荐信有黑推这件事没实锤，黑推来自chuang这件事更没实锤，到最后传出去就成他被chuang写了黑推了，信黑推谣言的自己想想可不可能吧。（chuang 直接告诉自己写了黑推，他是傻子吗？）（我意思就是不可能他自己写黑推还自己说，架不住有人会信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 533,
+      "at_to": 542,
+      "from_paragraphs": [
+        {
+          "content_hash": "b1e139d3a796646f",
+          "style": "NORMAL_TEXT",
+          "text": "(我有备份)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b6ac6581dac10021",
+          "style": "NORMAL_TEXT",
+          "text": "(我有备份)（有截图）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 565,
+      "paragraphs": [
+        {
+          "content_hash": "52359bdde6856fa5",
+          "style": "NORMAL_TEXT",
+          "text": "以下这些学校是加入美国了吗？放错位置了吧"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7133afb701175e24",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU, Jiwei Li"
+        },
+        {
+          "content_hash": "f3754e7132f9c4ba",
+          "style": "NORMAL_TEXT",
+          "text": "这人到底在ZJU吗? 之前也是听说口碑烂完了。蹲一下"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "30ac7301e54683b0",
+          "style": "NORMAL_TEXT",
+          "text": "USTC, Yan Song"
+        },
+        {
+          "content_hash": "c3dba9b9658c6475",
+          "style": "NORMAL_TEXT",
+          "text": "这人坑过多少学生就不用说了吧？从深圳一路坑过来。当年在深圳干的那些事情不知道还有多少人记得。(展开说说?)"
+        },
+        {
+          "content_hash": "c8b41226c59e68cb",
+          "style": "NORMAL_TEXT",
+          "text": "逆天，避雷避雷"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "43fcb961c4cbd40a",
+          "style": "NORMAL_TEXT",
+          "text": "USTC,"
+        },
+        {
+          "content_hash": "13dc8a0f70034b06",
+          "style": "NORMAL_TEXT",
+          "text": " Xiang-Yang Li"
+        },
+        {
+          "content_hash": "992e1f2e822019e9",
+          "style": "NORMAL_TEXT",
+          "text": "实验室强制打卡，组会骂人】"
+        },
+        {
+          "content_hash": "62b049c8c362be28",
+          "style": "NORMAL_TEXT",
+          "text": "我本科在李老师组里待过很长时间，后来出国了，个人感觉他人确实还挺好，甚至手把手教函数加密。听有学长说还帮忙debug过code~（nsnmn，我们这一届lxy的学生，所有的签字全部拖到最后一刻，并且经常以不做xx就不给签字来威胁）"
+        },
+        {
+          "content_hash": "8cf48a8296592210",
+          "style": "NORMAL_TEXT",
+          "text": "沽名钓誉之辈，去这个组只能说这辈子有了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "870966a1b1edf1b9",
+          "style": "NORMAL_TEXT",
+          "text": "USTC, Jie Wang"
+        },
+        {
+          "content_hash": "986ffdd3c3049410",
+          "style": "NORMAL_TEXT",
+          "text": "Intern本科生养鱼，maybe只care少院同学吧，完全不给指导啊，也没人带你hhh"
+        },
+        {
+          "content_hash": "8b59bef57cc45395",
+          "style": "NORMAL_TEXT",
+          "text": "少院的也不在乎啊，奈何取之尽锱铢，用之如泥沙"
+        },
+        {
+          "content_hash": "77c14be707c9c69f",
+          "style": "NORMAL_TEXT",
+          "text": "苦一苦学生，骂名我来当"
+        },
+        {
+          "content_hash": "fb3805400a34b5f0",
+          "style": "NORMAL_TEXT",
+          "text": "生命会找到自己的出路"
+        },
+        {
+          "content_hash": "4f5f182d3a605b9b",
+          "style": "NORMAL_TEXT",
+          "text": "无论你上辈子造了什么孽，来了这里哪怕一天，你都连本带利还清了"
+        },
+        {
+          "content_hash": "c5bd3985830177d4",
+          "style": "NORMAL_TEXT",
+          "text": "在这里毕业不只有欣喜还有解脱，当代塞拉斯"
+        },
+        {
+          "content_hash": "195b25a04d13eddf",
+          "style": "NORMAL_TEXT",
+          "text": "永别了牢笼"
+        },
+        {
+          "content_hash": "ed6cffa6d3f77c8e",
+          "style": "NORMAL_TEXT",
+          "text": "看《活着》像看爽文"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a798f0b17648a922",
+          "style": "NORMAL_TEXT",
+          "text": "妈妈 我将变成萤火虫"
+        },
+        {
+          "content_hash": "3315de5da5b22328",
+          "style": "NORMAL_TEXT",
+          "text": "童年 · 在人间 · 我的奋斗"
+        },
+        {
+          "content_hash": "e18426b41d2c6a6f",
+          "style": "NORMAL_TEXT",
+          "text": "实验室的存在证明了一件事，学生们从不低贱，没有导师指导没有科研资源，学生们一样可以创造出伟大的成就"
+        },
+        {
+          "content_hash": "e441f7f140179fea",
+          "style": "NORMAL_TEXT",
+          "text": "组里不让私下实习。本科硕士走组里的合作实习，工资要上交，连房补都没有。"
+        },
+        {
+          "content_hash": "fe803e551b9fc862",
+          "style": "NORMAL_TEXT",
+          "text": "30号左右人的大组，一个博后都没有，没有小老板，导师不懂前沿，博士都想着压榨硕士发文章。很难想象指导你的是刚入门的其他硕士或者博士，甚至是完全不懂的。然后硕士前几篇工作要把一作上供给“指导”的博士，而导师又要拿二作。"
+        },
+        {
+          "content_hash": "3ce6673f4bdddf6c",
+          "style": "NORMAL_TEXT",
+          "text": "组里没有组会，大部分一般学生几个月见不到一次导师。而论文是否能投稿，科研进展如何纯靠带的师兄给导师汇报，师兄很容易就能抢占学弟的科研成果，而这件事在组里是被导师默许的。"
+        },
+        {
+          "content_hash": "54bb9a3ae962dd59",
+          "style": "NORMAL_TEXT",
+          "text": "怎么说呢，你想要从老板科研能力去批判的前提是。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "08b056e43483ad6d",
+          "style": "NORMAL_TEXT",
+          "text": "USTC, Yu Zhang"
+        },
+        {
+          "content_hash": "aa1b9c97f412006d",
+          "style": "NORMAL_TEXT",
+          "text": "读博期间经常被骂，看到她就感觉心情很不好，组内全是垃圾横向，只想赚钱，对学生毫无指导，高年级博士无论文延毕成常态了。"
+        },
+        {
+          "content_hash": "f93b8e99556fae19",
+          "style": "NORMAL_TEXT",
+          "text": "我是张老师几年前毕业的学生，那个时候实验室人很少，就读体验还行。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a7bf41e1b5505f85",
+          "style": "NORMAL_TEXT",
+          "text": "CSU, Xu Su(是 xiu su吗...)"
+        },
+        {
+          "content_hash": "5d1d675eeb77af94",
+          "style": "NORMAL_TEXT",
+          "text": "经典npd，不顺他的意或者做的不好就会一直否定你。"
+        },
+        {
+          "content_hash": "ba6165f241b34f03",
+          "style": "NORMAL_TEXT",
+          "text": "让保研生暑假打了几个月工，说99%可以拿offer。结果被鸽"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ee77a4244176a76a",
+          "style": "NORMAL_TEXT",
+          "text": "CSU, 可视化夫妻店"
+        },
+        {
+          "content_hash": "b3974e63932343c1",
+          "style": "NORMAL_TEXT",
+          "text": "横向多到做不完"
+        },
+        {
+          "content_hash": "66bc86f8395fbc1e",
+          "style": "NORMAL_TEXT",
+          "text": "教授抢PhD一作，PhD抢本科生一作"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5a714fee82be3c48",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake, Ziqing Li（请称呼他为stan Li）"
+        },
+        {
+          "content_hash": "b6299e4957288754",
+          "style": "NORMAL_TEXT",
+          "text": "瓜田"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "e00b0fb00fc52e71",
+          "style": "NORMAL_TEXT",
+          "text": "\t自诩英伦数学家，"
+        },
+        {
+          "content_hash": "01692b5810bdcb17",
+          "style": "NORMAL_TEXT",
+          "text": "反向深耕 D M T。"
+        },
+        {
+          "content_hash": "c9497f5fd654d399",
+          "style": "NORMAL_TEXT",
+          "text": "族中近戚专权益，"
+        },
+        {
+          "content_hash": "2f73012793dd5c53",
+          "style": "NORMAL_TEXT",
+          "text": "门下诸生限寸权。"
+        },
+        {
+          "content_hash": "f6a7be1ac0d55642",
+          "style": "NORMAL_TEXT",
+          "text": "性自矜高偏避世，"
+        },
+        {
+          "content_hash": "12614a374a8608e5",
+          "style": "NORMAL_TEXT",
+          "text": "人情疏浅处事偏。"
+        },
+        {
+          "content_hash": "04ee83d0358e5859",
+          "style": "NORMAL_TEXT",
+          "text": "临危只会藏身退，"
+        },
+        {
+          "content_hash": "2b7e129a7f14d77b",
+          "style": "NORMAL_TEXT",
+          "text": "不问堂前乱局牵。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3eb0e5f91abd96e0",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake, Chi Zhang"
+        },
+        {
+          "content_hash": "4b0b602b2b692741",
+          "style": "NORMAL_TEXT",
+          "text": "https://zhuanlan.zhihu.com/p/2022716371742597204"
+        },
+        {
+          "content_hash": "f42ac03a70a2e0d7",
+          "style": "NORMAL_TEXT",
+          "text": "据说有瓜，yiwei wang 好友"
+        },
+        {
+          "content_hash": "e5f18fc419035ce9",
+          "style": "NORMAL_TEXT",
+          "text": "7 篇一作是本科生，这反映了该实验室怎样的培养模式？ - 知乎"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ea69f9f920d58f4b",
+          "style": "NORMAL_TEXT",
+          "text": "EITech(东方理工), (插眼), 既然都有 SUSTech, ShanghaiTech, Westlake U, 不能没有我 EIT."
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2bf2bef573455dad",
+          "style": "NORMAL_TEXT",
+          "text": "Xidian U, Huaxi Gu"
+        },
+        {
+          "content_hash": "b8d36b45e593bdd5",
+          "style": "NORMAL_TEXT",
+          "text": "老婆怀孕期间出轨，性骚扰女学生，谋生策略就是带着全组天天跪舔领域里大佬"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "581be70dbda35731",
+          "style": "NORMAL_TEXT",
+          "text": "ShanghaiTech(谁把上科大删掉了？哪位PI？出来走两步？)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5586874ef798a7bd",
+          "style": "NORMAL_TEXT",
+          "text": "UESTC Xun LUO"
+        },
+        {
+          "content_hash": "791b062dae5c54f8",
+          "style": "NORMAL_TEXT",
+          "text": "有妻之夫光明正大出轨大二女学生，家暴原生老婆，但是没有受到学校处分"
+        },
+        {
+          "content_hash": "f7c0a34ba08730d1",
+          "style": "NORMAL_TEXT",
+          "text": "跑路深圳，本来想跑同济的但是人家估计背调没过"
+        },
+        {
+          "content_hash": "acb50cbaae6cef8c",
+          "style": "NORMAL_TEXT",
+          "text": "出轨的女学生已经直博，并且光明正大和他一起开夫妻店，以后万一当上讲师甚至ap了也是雷中雷中雷的种子选手，为了上位不择手段了属于是"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 650,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9170a8b2fb3234ba",
+          "style": "HEADING_1",
+          "text": "EU"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "074ff4a47622282e",
+          "style": "NORMAL_TEXT",
+          "text": "LMU, Barbara Plank"
+        },
+        {
+          "content_hash": "949e7141599476b0",
+          "style": "NORMAL_TEXT",
+          "text": "         Michael Hedderich"
+        },
+        {
+          "content_hash": "7cc0d911ed860590",
+          "style": "NORMAL_TEXT",
+          "text": " 需要学会拍马屁才能在组里生存得很好"
+        },
+        {
+          "content_hash": "aac5bcd7cbb543a7",
+          "style": "NORMAL_TEXT",
+          "text": "      -     不给学生推荐信甚至给黑推"
+        },
+        {
+          "content_hash": "308934c7ce526235",
+          "style": "NORMAL_TEXT",
+          "text": "      -     指导学生经常ghost"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1301,
+      "paragraphs": [
+        {
+          "content_hash": "b96ac48b0fe0d6e6",
+          "style": "NORMAL_TEXT",
+          "text": "认识suyu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1419,
+      "at_to": 1338,
+      "from_paragraphs": [
+        {
+          "content_hash": "3a3b7c11859bd84b",
+          "style": "NORMAL_TEXT",
+          "text": "转组的同学跟下面的事件是否有关？如果曾经在组内过，如果因为发生下面的事情转了组，也不能讲“不在组内”或者就跟没有发生过，这个老师做过的事情就跟没做过一样。如果这样，这个榜上所有的老师都可以把相关学生开掉然后说“也不在组内” 😂"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aa11abdca5c04fd0",
+          "style": "NORMAL_TEXT",
+          "text": "转组的同学跟下面的事件是否有关？如果曾经在组内过，如果因为发生下面的事情转了组，也不能讲“不在组内”或者就跟没有发生过，这个老师做过的事情就跟没做过一样。如果这样，这个榜上所有的老师都可以把相关学生开掉然后说“也不在组内” 😂(听起来感觉历史上只有一人转组，感觉还好？也有出路）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1890,
+      "at_to": 1809,
+      "from_paragraphs": [
+        {
+          "content_hash": "9f1676385e29ac83",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang 买Github stars的事情能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统(LightRAG)使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，这样还被黑)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "579ce0863de032db",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统(LightRAG)使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...)  zul"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2063,
+      "at_to": 1982,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b164335accde115",
+          "style": "NORMAL_TEXT",
+          "text": "30号左右人的大组，一个博后都没有，没有小老板，导师不懂前沿，博士都想着压榨硕士发文章。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fe803e551b9fc862",
+          "style": "NORMAL_TEXT",
+          "text": "30号左右人的大组，一个博后都没有，没有小老板，导师不懂前沿，博士都想着压榨硕士发文章。很难想象指导你的是刚入门的其他硕士或者博士，甚至是完全不懂的。然后硕士前几篇工作要把一作上供给“指导”的博士，而导师又要拿二作。"
+        },
+        {
+          "content_hash": "3ce6673f4bdddf6c",
+          "style": "NORMAL_TEXT",
+          "text": "组里没有组会，大部分一般学生几个月见不到一次导师。而论文是否能投稿，科研进展如何纯靠带的师兄给导师汇报，师兄很容易就能抢占学弟的科研成果，而这件事在组里是被导师默许的。"
+        },
+        {
+          "content_hash": "54bb9a3ae962dd59",
+          "style": "NORMAL_TEXT",
+          "text": "怎么说呢，你想要从老板科研能力去批判的前提是。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2000,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "e00b0fb00fc52e71",
+          "style": "NORMAL_TEXT",
+          "text": "\t自诩英伦数学家，"
+        },
+        {
+          "content_hash": "01692b5810bdcb17",
+          "style": "NORMAL_TEXT",
+          "text": "反向深耕 D M T。"
+        },
+        {
+          "content_hash": "c9497f5fd654d399",
+          "style": "NORMAL_TEXT",
+          "text": "族中近戚专权益，"
+        },
+        {
+          "content_hash": "2f73012793dd5c53",
+          "style": "NORMAL_TEXT",
+          "text": "门下诸生限寸权。"
+        },
+        {
+          "content_hash": "f6a7be1ac0d55642",
+          "style": "NORMAL_TEXT",
+          "text": "性自矜高偏避世，"
+        },
+        {
+          "content_hash": "12614a374a8608e5",
+          "style": "NORMAL_TEXT",
+          "text": "人情疏浅处事偏。"
+        },
+        {
+          "content_hash": "04ee83d0358e5859",
+          "style": "NORMAL_TEXT",
+          "text": "临危只会藏身退，"
+        },
+        {
+          "content_hash": "2b7e129a7f14d77b",
+          "style": "NORMAL_TEXT",
+          "text": "不问堂前乱局牵。"
+        }
+      ]
+    }
+  ]
+}

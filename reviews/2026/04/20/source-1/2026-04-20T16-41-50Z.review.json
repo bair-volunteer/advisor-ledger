@@ -1,0 +1,38 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-41-50Z.delta.json",
+  "delta_ts": "2026-04-20T16-41-50Z",
+  "reviewed_at_utc": "2026-04-20T16:42:41Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student Dongping Chen retained in edit, identifying a private individual in relation to an advisor",
+      "excerpt": "他的合作学生 Dongping Chen"
+    },
+    {
+      "type": "pii",
+      "detail": "Insertion identifying private individual by name or handle 'suyu'",
+      "excerpt": "认识suyu"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Mass deletion removing substantive observations about multiple specific advisors (Jiwei Li, Yan Song, Jie Wang, Yu Zhang, et al.) rather than cleanup",
+      "excerpt": "ZJU, Jiwei Li... USTC, Yan Song... USTC, Jie Wang... Westlake, Ziqing Li... UESTC Xun LUO"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removing specific observations about advisors Barbara Plank and Michael Hedderich",
+      "excerpt": "LMU, Barbara Plank... Michael Hedderich... 不给学生推荐信甚至给黑推"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Poem consisting of unsupported personal character attacks (arrogant, socially inept, cowardly) rather than concrete advising practices",
+      "excerpt": "性自矜高偏避世，人情疏浅处事偏。临危只会藏身退，不问堂前乱局牵。"
+    }
+  ],
+  "prompt_sha256": "d01a46c88691093924d9004f980c6bb69ac7a3b1133b99682feb83cb957aabf5",
+  "finish_reason": "stop",
+  "completion_tokens": 5026
+}
