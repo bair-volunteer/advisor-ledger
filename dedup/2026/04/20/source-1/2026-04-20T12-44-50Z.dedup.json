@@ -1,0 +1,20 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-44-50Z",
+  "reviewed_at_utc": "2026-04-20T12:45:28Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 2,
+  "n_inserts": 2,
+  "pairs": [
+    {
+      "ghost_hash": "f0973b5fbfc3c8cf",
+      "insert_hash": "0000000000000000",
+      "note": "typo fix: pinyin zu'li to 阻力",
+      "ghost_text": "zu'li",
+      "insert_text": ""
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2328,
+  "skipped_reason": null
+}

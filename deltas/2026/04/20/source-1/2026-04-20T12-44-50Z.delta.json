@@ -1,0 +1,71 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-42-40Z",
+    "revision_id": "AMHacu4uvaILRIi_rz2QBj8rScmZGsRAL3tG7rohdR5clLnwJchveBEpXdv1juTSdkfOuDV4b7kwIfHmCtAvqDTtgA",
+    "paragraph_count": 1859
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-44-50Z",
+    "revision_id": "AMHacu4bwqBHzOEM2PSOvpl6gjNogxHaGRTxXuSibp9s05OkiKGJpPu67kwT4OeQKVIF5IgyojSx3xDRIUsQPvbexg",
+    "paragraph_count": 1861
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 2,
+    "operations": 2,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0011,
+    "insertion_ratio": 0.0021
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 438,
+      "at_to": 438,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b164335accde115",
+          "style": "NORMAL_TEXT",
+          "text": "30号左右人的大组，一个博后都没有，没有小老板，导师不懂前沿，博士都想着压榨硕士发文章。"
+        },
+        {
+          "content_hash": "f0973b5fbfc3c8cf",
+          "style": "NORMAL_TEXT",
+          "text": "zu'li"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fe803e551b9fc862",
+          "style": "NORMAL_TEXT",
+          "text": "30号左右人的大组，一个博后都没有，没有小老板，导师不懂前沿，博士都想着压榨硕士发文章。很难想象指导你的是刚入门的其他硕士或者博士，甚至是完全不懂的。然后硕士前几篇工作要把一作上供给“指导”的博士，而导师又要拿二作。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1536,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
