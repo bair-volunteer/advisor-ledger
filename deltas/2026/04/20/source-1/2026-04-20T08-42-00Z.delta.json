@@ -1,0 +1,335 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-40-00Z",
+    "revision_id": "AMHacu4e6JmVGfuCDi07oaESr-PcAcAA6Zht-BKNcvMOAwMQwHRnIdFamyP4onLaimEY32o9KYL4TIMcNo_ySfEajA",
+    "paragraph_count": 1402
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-42-00Z",
+    "revision_id": "AMHacu4CBNubicWeBW4HHGn9ZovdnZEgP-zQo99M_4x6VmYjey1384okO7AlgSmmejnjl2nAJALzIJLFz59sjyYq4g",
+    "paragraph_count": 1400
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 19,
+    "operations": 15,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0136,
+    "insertion_ratio": 0.0121
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 71,
+      "from_paragraphs": [
+        {
+          "content_hash": "5137ce692398c535",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "765ada71206f8200",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）"
+        },
+        {
+          "content_hash": "ffe9c072fe66f0ff",
+          "style": "NORMAL_TEXT",
+          "text": "+1 chao is great. It is great to work with him"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 98,
+      "at_to": 98,
+      "from_paragraphs": [
+        {
+          "content_hash": "5a072a7067a2b8f2",
+          "style": "NORMAL_TEXT",
+          "text": "sun老师是真的学术界垃圾桶了，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2878e65f2270ef85",
+          "style": "NORMAL_TEXT",
+          "text": "sun老师是真的学术界垃圾桶了，早就臭了，什么屎都往arxiv上丢"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 381,
+      "at_to": 381,
+      "from_paragraphs": [
+        {
+          "content_hash": "cab3e0d15c4addff",
+          "style": "NORMAL_TEXT",
+          "text": "我也是丁老师的学生，丁老师是我见过最insightful和supportive的老师。这个文档里很多人都只是在fa xie希望大家理性分别。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fe017e638e8e4560",
+          "style": "NORMAL_TEXT",
+          "text": "我也是丁老师的学生，丁老师是我见过最insightful和supportive的老师。没有人的advise style能让所有人都100%满意，希望这个文档里所有喷的人理性思考。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 615,
+      "paragraphs": [
+        {
+          "content_hash": "5ee49a459fb4f6b2",
+          "style": "NORMAL_TEXT",
+          "text": "You老师似乎在Meta了吧 (毕竟rhy和他都是一个组的 rhy的很多朋友都混水摸鱼进来了 一起闭着眼睛数钞票）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 832,
+      "at_to": 830,
+      "from_paragraphs": [
+        {
+          "content_hash": "28a86c6cfd1b16d9",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex master intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹（是的，manling是个好人，只是phd。。。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aa980d7102e38cad",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex master intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 834,
+      "at_to": 832,
+      "from_paragraphs": [
+        {
+          "content_hash": "733df9df1715d398",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint, 包括下面三条几乎全是来自同一个账号Anonymous Pumpkin, 应该是在组里work了但没有发出一作paper/没有到达自己心仪去向从而反目成仇的intern, 大家谨慎鉴别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2be4a8c8d71e3ba4",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有对intern的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 838,
+      "at_to": 836,
+      "from_paragraphs": [
+        {
+          "content_hash": "539a7d0e63143216",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )（这么多人怎么写推荐信）Intern 数量比我高三班级人数还多。（吓哭了）（绷不住了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c722bcef6c92ce4",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )（这么多人怎么写推荐信）（吓哭了）（绷不住了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 841,
+      "at_to": 839,
+      "from_paragraphs": [
+        {
+          "content_hash": "fd94fb582d5a434a",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）（另外，某个组里的学长学姐很难评，不只是个人意见，得到了他人的完全认可）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1bf192058fdee7b6",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）（另外，某个组里的学长学姐很难评，不只是个人意见，得到了他人的完全认可）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 851,
+      "paragraphs": [
+        {
+          "content_hash": "0cbebbe2df811872",
+          "style": "NORMAL_TEXT",
+          "text": "6. （李老师，大半夜的自己洗地不累吗？明天不用开会push我们了嘛）(我就是组里phd, 整个post下面全都是你在回复, 一会儿装自己是phd一会儿说自己是intern累不累? Anonymous Pumpkin?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1048,
+      "at_to": 1045,
+      "from_paragraphs": [
+        {
+          "content_hash": "c6bfe0db1891be38",
+          "style": "NORMAL_TEXT",
+          "text": "和肖健雄和fisheryu（于夫）三人行被举报到普林斯顿（自己做的事情自己反思而不是删除，删除没有用）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b8104f5d21642700",
+          "style": "NORMAL_TEXT",
+          "text": "往事已成过去，但Shuran确实是一位非常优秀的教授。Fisher Yu的学生与她的学生在幸福感上的差异，足以说明过去那场风波中究竟是谁出了问题。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1111,
+      "at_to": 1108,
+      "from_paragraphs": [
+        {
+          "content_hash": "a514d42e12307344",
+          "style": "NORMAL_TEXT",
+          "text": "坊间评价，不带学生，没idea，压力学生。"
+        },
+        {
+          "content_hash": "d7e84b5805c23c21",
+          "style": "NORMAL_TEXT",
+          "text": "科研热情不高。"
+        },
+        {
+          "content_hash": "482663e83e457d21",
+          "style": "NORMAL_TEXT",
+          "text": "平时对学生有意见不清晰说给学生听，突然发难。听说半年3个学生离组。或发pi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9f9f59b89aab736d",
+          "style": "NORMAL_TEXT",
+          "text": "不带学生，没idea，压力学生"
+        },
+        {
+          "content_hash": "ea95c33160eadc58",
+          "style": "NORMAL_TEXT",
+          "text": "Bad at communication with students."
+        },
+        {
+          "content_hash": "c188cddce3953ade",
+          "style": "NORMAL_TEXT",
+          "text": "Multiple students got pip-ed."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1241,
+      "at_to": 1238,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c94485e0c21ae6c",
+          "style": "NORMAL_TEXT",
+          "text": "v"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1303,
+      "at_to": 1300,
+      "from_paragraphs": [
+        {
+          "content_hash": "7bdf30b3eefaf991",
+          "style": "NORMAL_TEXT",
+          "text": "他举报的Xiaofeng wang (+1 还是自爆的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5316aafc77efdfb5",
+          "style": "NORMAL_TEXT",
+          "text": "他举报的Xiaofeng wang (+1 还是自爆的，还发了朋友圈庆祝)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1392,
+      "at_to": 1389,
+      "from_paragraphs": [
+        {
+          "content_hash": "657e5e3549df82f4",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看碟下菜（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "15e67c4ab45d1476",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1401,
+      "at_to": 1398,
+      "from_paragraphs": [
+        {
+          "content_hash": "86936315fce40c12",
+          "style": "HEADING_1",
+          "text": "AU"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9170a8b2fb3234ba",
+          "style": "HEADING_1",
+          "text": "EU"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

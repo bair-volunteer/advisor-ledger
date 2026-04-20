@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T08-42-00Z.delta.json",
+  "delta_ts": "2026-04-20T08-42-00Z",
+  "reviewed_at_utc": "2026-04-20T08:43:59Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added personal insult attacking readers' character and taste rather than discussing advising practices",
+      "excerpt": "但你们的taste是真差，能别再污染学术圈了吗"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Added vulgar profanity and insult comparing professor to trash",
+      "excerpt": "早就臭了，什么屎都往arxiv上丢"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deleted substantive accusation that Professor Li was astroturfing by pretending to be students/PhDs in the thread",
+      "excerpt": "李老师，大半夜的自己洗地不累吗...Anonymous Pumpkin?"
+    }
+  ],
+  "prompt_sha256": "56f577f0482d4d7e1894ac34a698b39cf0fa8a1be06c6821321e73d922d0957e",
+  "finish_reason": "stop",
+  "completion_tokens": 4069
+}
