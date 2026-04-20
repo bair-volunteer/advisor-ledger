@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T18-22-30Z.delta.json",
+  "delta_ts": "2026-04-20T18-22-30Z",
+  "reviewed_at_utc": "2026-04-20T18:23:17Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student (Haoran Geng, identified as Stanford PhD student) and identifying relationship information about his girlfriend, along with specific cheating allegations that could de-anonymize private individuals",
+      "excerpt": "今年stanford的phd，haoran geng 的女朋友，纯学术妲己,考试还作弊"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Gendered insult '学术妲己' (academic Daji/fox spirit) constituting an unsupported character judgment about a student's personal conduct and appearance, plus victim-blaming proverb '苍蝇不叮没缝的蛋'",
+      "excerpt": "纯学术妲己"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Large deletion of substantive content about advisor Gan Chuang including specific allegations of professional misconduct (writing bad recommendation letters, sexual harassment claims, academic dishonesty) and multiple student testimonials, appearing to suppress legitimate observations rather than cleanup",
+      "excerpt": "Umass，Gan Chuang...给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生"
+    }
+  ],
+  "prompt_sha256": "7bc760b627ce3ed5f213df94876453ebdb01aaf9cd122004e860e50d63036d65",
+  "finish_reason": "stop",
+  "completion_tokens": 4725
+}
