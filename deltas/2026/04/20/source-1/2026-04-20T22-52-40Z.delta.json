@@ -1,0 +1,102 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-50-30Z",
+    "revision_id": null,
+    "paragraph_count": 2181
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-52-40Z",
+    "revision_id": "AMHacu4EFDqAcyek245hBDYqyzGhn8rkw36Dq_geDzvqJVkht4JgIgiyxbF8IR2AHxomXHoDdTZvkY9h_OEA3uHlWw",
+    "paragraph_count": 2181
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 4,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0018,
+    "insertion_ratio": 0.0018
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d6cf8ac2a1ed9fa3",
+          "style": "HEADING_1",
+          "text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 15,
+      "at_to": 15,
+      "from_paragraphs": [
+        {
+          "content_hash": "911a508e1b2f7310",
+          "style": "NORMAL_TEXT",
+          "text": "暂时不要开团；我隐藏了部分信息，我们和导师其实可以和谐共处，我们作为学生可以避雷，导师可以改正（也许吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fdf9b18a255f457d",
+          "style": "NORMAL_TEXT",
+          "text": "暂时不要开团；我隐藏了部分信息，我们和导师其实可d以和谐共处，我们作为学生可以避雷，导师可以改正（也许吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 668,
+      "at_to": 668,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f15945dd353698a4",
+          "style": "NORMAL_TEXT",
+          "text": " WWW 2021 paper"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1625,
+      "at_to": 1625,
+      "from_paragraphs": [
+        {
+          "content_hash": "796c0c1f97509c55",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？(笑死我了)(不让笑？)）（有没有可能是吃瓜群众乱编的剧本？）(已于最后一条由双方否认，从未存在造谣转组)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1a5c9fe583f2959a",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？(笑死我了)(不让笑？)）（有没有可能是吃瓜群众乱编的剧本？）(已于最后一条由双方否认，从未存在造谣转组)同时双方证明这条是假的。"
+        }
+      ]
+    }
+  ]
+}
