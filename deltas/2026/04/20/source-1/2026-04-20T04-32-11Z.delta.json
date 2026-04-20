@@ -1,0 +1,241 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-30-11Z",
+    "revision_id": "AMHacu5EIj1-_sB-gHiDrtFS_JjCB-sec5VKgBv9u2dvMyGtzCIruA1BCZ0BBlI8MBkNX2XkYf0_a41Dil_IMbvlsQ",
+    "paragraph_count": 1106
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-32-11Z",
+    "revision_id": "AMHacu5cX-JB9t5lhR_ilgefiDF0YDOtjT1GUReJYoe4zlkWUlQmr9qHcgwnso_ZcKENo4vJ0kBojokoSH_SLEKesQ",
+    "paragraph_count": 1101
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 15,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0136,
+    "insertion_ratio": 0.0091
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 86,
+      "at_to": 86,
+      "from_paragraphs": [
+        {
+          "content_hash": "9d945c578554bc70",
+          "style": "NORMAL_TEXT",
+          "text": "+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于su r"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0bfaaeec51dea0a1",
+          "style": "NORMAL_TEXT",
+          "text": "+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于survey和benchmark其他project了解不多，但是本人参与的都是很solid的project，(sun'ge)并且对intern很nice，会帮忙找下家，然后有比较大的问题会直接私聊打电话。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 88,
+      "at_to": 88,
+      "from_paragraphs": [
+        {
+          "content_hash": "af063380f5aec3be",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "27f0a16e2aa20356",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧（ji人家survey 引用高了？😄）】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 172,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 199,
+      "at_to": 200,
+      "from_paragraphs": [
+        {
+          "content_hash": "0720977625253c0e",
+          "style": "NORMAL_TEXT",
+          "text": "组内项目两个月做不完说扔就扔，喜欢长时间深入探索的别来 → 这题我会，倒是不强制卡时间，经常一个项目干9个月的 但就是会一直被狠push 心理压力大 每到ddl就会被要求投出去 投不出去下个cycle就更压力 （他就是喜欢BB）（确实，语速快话唠但就纯BB）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5adcaa3cec0774f2",
+          "style": "NORMAL_TEXT",
+          "text": "组内项目两个月做不完说扔就扔，喜欢长时间深入探索的别来 → 这题我会，倒是不强制卡时间，经常一个项目干9个月的 但就是会一直被催 心理压力大 每到ddl就会被要求投出去 投不出去下个cycle就更压力 （他就是喜欢BB）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 412,
+      "paragraphs": [
+        {
+          "content_hash": "348bedac6873b64f",
+          "style": "NORMAL_TEXT",
+          "text": "UCSC, Yuanchao Xu"
+        },
+        {
+          "content_hash": "efd2ca5a473dd93c",
+          "style": "NORMAL_TEXT",
+          "text": "做sys的，这个老师特别push，对学生的发表节奏要求特别快，只有骗子才能跟上他的节奏（这位更是重量级，语言艺术能力list里面没人比得过"
+        },
+        {
+          "content_hash": "e4389defed27e7a8",
+          "style": "NORMAL_TEXT",
+          "text": "组里quit了不少人。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 651,
+      "at_to": 649,
+      "from_paragraphs": [
+        {
+          "content_hash": "d1407061ee7ec69a",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）（放狠话还是真quit了？）（目前没人quit，1人转组）（有人转组哦）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dbf00d9c30c34ad8",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）（放狠话还是真quit了？）（目前没人quit，1人转组。组里氛围还挺好的，大家私下都会一起聚聚玩一下。老师也有请客聚聚。实习和找工作也都有帮忙推荐一下）（有人转组哦）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 681,
+      "at_to": 679,
+      "from_paragraphs": [
+        {
+          "content_hash": "4e338ba03b0c5fe9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "645e2d09756b6832",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space) PhD都做得挺开心的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 684,
+      "at_to": 682,
+      "from_paragraphs": [
+        {
+          "content_hash": "e73e2cc2756f2458",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来\u000b6. PhD都做得挺开心的\u000b欢迎补充"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f997e278d6e5d72",
+          "style": "NORMAL_TEXT",
+          "text": "5. 给intern写letter都不错，哪怕项目没做出来\u000b6. 欢迎补充"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 809,
+      "at_to": 807,
+      "from_paragraphs": [
+        {
+          "content_hash": "e4433856be4ecdc5",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "de87b32b41924891",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 811,
+      "paragraphs": [
+        {
+          "content_hash": "052daf0ee2631f60",
+          "style": "NORMAL_TEXT",
+          "text": "据说当ap之前就瓜很多"
+        },
+        {
+          "content_hash": "ce51ad5d35303a0d",
+          "style": "NORMAL_TEXT",
+          "text": "（好奇什么瓜？）"
+        },
+        {
+          "content_hash": "7a19b7c63b694f96",
+          "style": "NORMAL_TEXT",
+          "text": "和自己phd老板调情呗"
+        },
+        {
+          "content_hash": "9eb3a6fa74478962",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU人尽皆知吧 (能讲讲吗)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 820,
+      "at_to": 814,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1416a5caedf114d",
+          "style": "NORMAL_TEXT",
+          "text": "jiatao很有insight人也很好，完全应该是红榜啊"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "574a3c4a9d5ce300",
+          "style": "NORMAL_TEXT",
+          "text": "Jiatao很有insight人也很好，完全应该是红榜啊"
+        },
+        {
+          "content_hash": "52386c54587c0448",
+          "style": "NORMAL_TEXT",
+          "text": "佳涛老师绝对应该上红榜啊！有很多idea，自己非常拼，但是不逼学生"
+        }
+      ]
+    }
+  ]
+}
