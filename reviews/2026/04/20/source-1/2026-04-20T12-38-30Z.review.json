@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-38-30Z.delta.json",
+  "delta_ts": "2026-04-20T12-38-30Z",
+  "reviewed_at_utc": "2026-04-20T12:39:55Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of profanity 'SB' (vulgar insult) attacking undergraduates as a group",
+      "excerpt": "SB本科生别来添乱了，这里谁在乎一个讲师上课怎么样？"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment alleging sexual repression/frustration regarding UIUC Gagandeep Singh",
+      "excerpt": "性压抑（具体就不说了，保护当事人）"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive criticism about a professor's competence and failed faculty job search, appearing to suppress legitimate observation rather than cleanup",
+      "excerpt": "水平很低，曾经想跳槽去更好的学校，面了一圈失败了。"
+    }
+  ],
+  "prompt_sha256": "4065d91ce58114a1a8c5839ab883c7effcbe396add673e2cdbd9ff83b5f0b0fd",
+  "finish_reason": "stop",
+  "completion_tokens": 4001
+}

@@ -1,0 +1,318 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-32-10Z",
+    "revision_id": "AMHacu7TbnhOO6pGMA0pWd6F8-QJLabzFeHFtWbqQyS36Uidj6fMFRlFsY76vByz-abrTMRqBGhrnll0kF1-3cV2Vg",
+    "paragraph_count": 1844
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-38-30Z",
+    "revision_id": "AMHacu5GbnkzA2LJ43N81GP33l5lhGnGQtGTGmuunw71xdZIeShBeLMBOFndZrZGwDVnIXPexU7EoZErv2TKt-u7Jw",
+    "paragraph_count": 1855
+  },
+  "summary": {
+    "inserted_paragraphs": 23,
+    "deleted_paragraphs": 12,
+    "operations": 15,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0065,
+    "insertion_ratio": 0.0124
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 162,
+      "at_to": 162,
+      "from_paragraphs": [
+        {
+          "content_hash": "0ffe4ca9372f198c",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，主要可能对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源ju"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c7a2e5b8047b8d5b",
+          "style": "NORMAL_TEXT",
+          "text": "(感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着以及有时候情绪不是十分稳定, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，她对学生也很support，学生去向也很好，无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的。)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 165,
+      "at_to": 168,
+      "from_paragraphs": [
+        {
+          "content_hash": "bea07a5a27467785",
+          "style": "NORMAL_TEXT",
+          "text": "\t没入职就招了学生放在学校，入职defer一年又一年，最后干脆不去了全职openai，学生只能在caltech这种CS科研荒漠找传统科学老师做AI4Science"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "85712125b86fc75c",
+          "style": "NORMAL_TEXT",
+          "text": "\t没入职就招了学生放在学校，入职defer一年又一年，最后干脆不去了全职openai，学生只能在caltech这种CS科研荒漠找传统科学老师做AI4Science （哈哈哈哈哈听说了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 224,
+      "paragraphs": [
+        {
+          "content_hash": "b4e39714ac5e5fe3",
+          "style": "NORMAL_TEXT",
+          "text": "（大家都是来看料儿的 失望 ）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 543,
+      "at_to": 547,
+      "from_paragraphs": [
+        {
+          "content_hash": "2069b7aa74232f1f",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b8fa89d085968281",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 549,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0a47755c84ed4612",
+          "style": "NORMAL_TEXT",
+          "text": "水平很低，曾经想跳槽去更好的学校，面了一圈失败了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 728,
+      "at_to": 730,
+      "from_paragraphs": [
+        {
+          "content_hash": "f649b33acf3d5a06",
+          "style": "NORMAL_TEXT",
+          "text": "平推确实有很多，人多也没办法"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "623b89034a8f5ebd",
+          "style": "NORMAL_TEXT",
+          "text": "平推确实有很多，人多也没办法，有的申的很好的还有其他推荐信加持"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 865,
+      "paragraphs": [
+        {
+          "content_hash": "5ca8a82bd10ddbc9",
+          "style": "NORMAL_TEXT",
+          "text": "SB本科生别来添乱了，这里谁在乎一个讲师上课怎么样？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 917,
+      "paragraphs": [
+        {
+          "content_hash": "d2c3da3a249d741f",
+          "style": "NORMAL_TEXT",
+          "text": "她这个创业公司真的很难绷，虽然她bu'dong"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1057,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5beb174ae792110c",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Gagandeep Singh"
+        },
+        {
+          "content_hash": "0209bc716c9ae5b9",
+          "style": "NORMAL_TEXT",
+          "text": "不允许（非常reluctant）合作（校内校外组）"
+        },
+        {
+          "content_hash": "be43edf92cb06225",
+          "style": "NORMAL_TEXT",
+          "text": "性压抑（具体就不说了，保护当事人）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1271,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1395,
+      "at_to": 1403,
+      "from_paragraphs": [
+        {
+          "content_hash": "85f097e7877ea856",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，ta对学生也很support，学生去向也很好，无论是工业界还是学术界，教职基本去到top10，工业界也基本是顶级大厂。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1aef5d220ade4408",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，她对学生也很support，学生去向也很好，无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1435,
+      "at_to": 1443,
+      "from_paragraphs": [
+        {
+          "content_hash": "224d21888b3e0403",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很差 几乎没有拿到offer的 没return任何人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f2b5d604930adaf",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很差 几乎没有拿到offer的 没return任何人 （没合作过，但是知道几个他的intern申请情况都不错？虽然没return是真的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1592,
+      "at_to": 1600,
+      "from_paragraphs": [
+        {
+          "content_hash": "eb939e349d82d336",
+          "style": "NORMAL_TEXT",
+          "text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，两边组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊，没人求你来找lijie合作吧) （ 感觉大家都掉马甲了）（别瞎定位，什么MSU，hu的臭名声远远beyond intern）(反正在我和我的圈子里面，从来没听说过谁说lijie不好的，帮忙找实习，给推荐信，给connection，还是那句话，没人求你来找lijie合作，我真的是第一次听说谁申请结果有问题，自己不行跑过来怪老师的。。。)  说了别瞎定位，太自以为是(急了是吧，反驳你就是自以为是是吧，你哪位啊) 不是，你为啥一直定位，而且定位不对。你的圈子不代表全面的圈子。(反正你高兴就好，没人对定位你感兴趣，我只是看不惯带了我科研的学姐在这里被莫名其妙的抹黑，你能说话别人也能说话)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aea3ba78ae6a95af",
+          "style": "NORMAL_TEXT",
+          "text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，两边组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊，没人求你来找lijie合作吧) （ 感觉大家都掉马甲了）（别瞎定位，什么MSU，hu的臭名声远远beyond intern）(反正在我和我的圈子里面，从来没听说过谁说lijie不好的，帮忙找实习，给推荐信，给connection，还是那句话，没人求你来找lijie合作，我真的是第一次听说谁申请结果有问题，自己不行跑过来怪老师的。。。)  说了别瞎定位，太自以为是(急了是吧，反驳你就是自以为是是吧，你哪位啊) 不是，你为啥一直定位，而且定位不对。你的圈子不代表全面的圈子。(反正你高兴就好，没人对定位你感兴趣，我只是看不惯带了我科研的学姐在这里被莫名其妙的抹黑，你能说话别人也能说话) 当然，都有发言权，但是别瞎定位，你也没定位对"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "018b6e930898b0cb",
+          "style": "NORMAL_TEXT",
+          "text": "本人：突闻自己上榜，真是我今年一共就写了这么些推荐信，学生"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1811,
+      "at_to": 1822,
+      "from_paragraphs": [
+        {
+          "content_hash": "65386b36a1bf7f01",
+          "style": "NORMAL_TEXT",
+          "text": "\u000bCUHK SZ  Jianhua Huang （好像有说法？之前在德州A&M的时候？插个眼）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6b9f3122c52c47ba",
+          "style": "NORMAL_TEXT",
+          "text": "\u000bCUHK SZ"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1825,
+      "at_to": 1836,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9b15e905602d3caf",
+          "style": "NORMAL_TEXT",
+          "text": "TJU"
+        }
+      ]
+    }
+  ]
+}

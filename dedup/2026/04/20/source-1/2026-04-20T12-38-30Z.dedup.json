@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-38-30Z",
+  "reviewed_at_utc": "2026-04-20T12:40:32Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 10,
+  "n_inserts": 17,
+  "pairs": [
+    {
+      "ghost_hash": "bea07a5a27467785",
+      "insert_hash": "85712125b86fc75c",
+      "note": "Added laughter comment at end",
+      "ghost_text": "\t没入职就招了学生放在学校，入职defer一年又一年，最后干脆不去了全职openai，学生只能在caltech这种CS科研荒漠找传统科学老师做AI4Science",
+      "insert_text": "\t没入职就招了学生放在学校，入职defer一年又一年，最后干脆不去了全职openai，学生只能在caltech这种CS科研荒漠找传统科学老师做AI4Science （哈哈哈哈哈听说了）"
+    },
+    {
+      "ghost_hash": "f649b33acf3d5a06",
+      "insert_hash": "623b89034a8f5ebd",
+      "note": "Added clause about other rec letters",
+      "ghost_text": "平推确实有很多，人多也没办法",
+      "insert_text": "平推确实有很多，人多也没办法，有的申的很好的还有其他推荐信加持"
+    },
+    {
+      "ghost_hash": "85f097e7877ea856",
+      "insert_hash": "1aef5d220ade4408",
+      "note": "Added connection details and minor edits",
+      "ghost_text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，ta对学生也很support，学生去向也很好，无论是工业界还是学术界，教职基本去到top10，工业界也基本是顶级大厂。",
+      "insert_text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的，她对学生也很support，学生去向也很好，无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的。"
+    },
+    {
+      "ghost_hash": "224d21888b3e0403",
+      "insert_hash": "8f2b5d604930adaf",
+      "note": "Added parenthetical doubt/clarification",
+      "ghost_text": "对intern很差 几乎没有拿到offer的 没return任何人",
+      "insert_text": "对intern很差 几乎没有拿到offer的 没return任何人 （没合作过，但是知道几个他的intern申请情况都不错？虽然没return是真的）"
+    },
+    {
+      "ghost_hash": "eb939e349d82d336",
+      "insert_hash": "aea3ba78ae6a95af",
+      "note": "Added final sentence on speaking rights",
+      "ghost_text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，两边组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊，没人求你来找lijie合作吧) （ 感觉大家都掉马甲了）（别瞎定位，什么MSU，hu的臭名声远远beyond intern）(反正在我和我的圈子里面，从来没听说过谁说lijie不好的，帮忙找实习，给推荐信，给connection，还是那句话，没人求你来找lijie合作，我真的是第一次听说谁申请结果有问题，自己不行跑过来怪老师的。。。)  说了别瞎定位，太自以为是(急了是吧，反驳你就是自以为是是吧，你哪位啊) 不是，你为啥一直定位，而且定位不对。你的圈子不代表全面的圈子。(反正你高兴就好，没人对定位你感兴趣，我只是看不惯带了我科研的学姐在这里被莫名其妙的抹黑，你能说话别人也能说话)",
+      "insert_text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，两边组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊，没人求你来找lijie合作吧) （ 感觉大家都掉马甲了）（别瞎定位，什么MSU，hu的臭名声远远beyond intern）(反正在我和我的圈子里面，从来没听说过谁说lijie不好的，帮忙找实习，给推荐信，给connection，还是那句话，没人求你来找lijie合作，我真的是第一次听说谁申请结果有问题，自己不行跑过来怪老师的。。。)  说了别瞎定位，太自以为是(急了是吧，反驳你就是自以为是是吧，你哪位啊) 不是，你为啥一直定位，而且定位不对。你的圈子不代表全面的圈子。(反正你高兴就好，没人对定位你感兴趣，我只是看不惯带了我科研的学姐在这里被莫名其妙的抹黑，你能说话别人也能说话) 当然，都有发言权，但是别瞎定位，你也没定位对"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4823,
+  "skipped_reason": null
+}
