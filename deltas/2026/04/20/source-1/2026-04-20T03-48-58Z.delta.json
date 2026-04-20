@@ -1,0 +1,198 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-46-56Z",
+    "revision_id": "AMHacu64WXRD5PXAEXwdsmd1pCImjhBt4OQsSZr9lYDigoJjmk_Iai9mM4tyi-fgkWsfW3qjcYStFnkIzg3Z4B2xzA",
+    "paragraph_count": 1000
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-48-58Z",
+    "revision_id": "AMHacu4k4UtbTXgRL215CuJaw34peehKdR_BU1aNq8ig3OW9WV0QKgI9AbbX1rRGb0cjy5pkhMhf7FOCfu7gyNPCKA",
+    "paragraph_count": 1002
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 9,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.009,
+    "insertion_ratio": 0.011
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 24,
+      "at_to": 24,
+      "from_paragraphs": [
+        {
+          "content_hash": "0bb4d8e3564b640d",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，她的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面zai）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fc5f81b5074bffe5",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，她的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 30,
+      "paragraphs": [
+        {
+          "content_hash": "fa0494a78772683f",
+          "style": "NORMAL_TEXT",
+          "text": "听老板说的这人之前喊老学生必须要送一片一作给每一个新学生，说是传统习惯，被举报给系主任了哈哈哈哈哈哈哈"
+        },
+        {
+          "content_hash": "4c74ed4369428ae8",
+          "style": "NORMAL_TEXT",
+          "text": "zhe ren"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 60,
+      "paragraphs": [
+        {
+          "content_hash": "262d2690348661fa",
+          "style": "NORMAL_TEXT",
+          "text": "npd型人格，组内不止一个去心理治疗的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 292,
+      "paragraphs": [
+        {
+          "content_hash": "af477d61f3dfab60",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师在黑榜不合适吧。。。人和research taste都没啥毛病啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 296,
+      "at_to": 300,
+      "from_paragraphs": [
+        {
+          "content_hash": "1b8c8edde9c73280",
+          "style": "NORMAL_TEXT",
+          "text": "是不是和Wei Hua （ASU那个）？他俩phd一个组的但是仿佛双方互相不认识一样 （歧视性少数群体）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "485cb6e9c6127b3d",
+          "style": "NORMAL_TEXT",
+          "text": "是不是和Wei Hua （ASU那个）？他俩phd一个组的但是仿佛双方互相不认识一样  （歧视性少数群体）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 453,
+      "paragraphs": [
+        {
+          "content_hash": "bb12a74c8f1b741c",
+          "style": "NORMAL_TEXT",
+          "text": "Yale，Arman Cohan"
+        },
+        {
+          "content_hash": "e4ff837d063095d3",
+          "style": "NORMAL_TEXT",
+          "text": "水平低，大水车"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 595,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 605,
+      "at_to": 604,
+      "from_paragraphs": [
+        {
+          "content_hash": "789eb0359d710f21",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的人竟然会被放到黑榜，丧心病狂！（可以先看一下红榜对应的描述再看下面的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fdcb1f28d8988f84",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的人竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜对应的描述再看下面的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 658,
+      "at_to": 657,
+      "from_paragraphs": [
+        {
+          "content_hash": "8f9da1652868146d",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD hao zhang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fffd2553e5206350",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Hao Zhang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 746,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "941926a080b387cb",
+          "style": "NORMAL_TEXT",
+          "text": "Princeton Mengdi Wang"
+        },
+        {
+          "content_hash": "7b077e9fe92b9f31",
+          "style": "NORMAL_TEXT",
+          "text": "招非常多intern，夫妻店"
+        }
+      ]
+    }
+  ]
+}
