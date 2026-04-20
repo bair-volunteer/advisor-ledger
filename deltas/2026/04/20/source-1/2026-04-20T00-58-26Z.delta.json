@@ -1,0 +1,128 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-56-24Z",
+    "revision_id": "AMHacu5fbZnw3uXY4d_YDeag_JcJlZCpAqCm5SBcoMrizzr45upILtMkp4_gYjE-a7w-ykLeDJXqvxAM-XDVAfyHWQ",
+    "paragraph_count": 605
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-58-26Z",
+    "revision_id": "AMHacu7fQWJd2i38oicrnJsweulLIxsNCI5iSmdWBRLhyTdni93LpPfN0cSVl69JHLiUKieKpccWnZqZzI26LvWUcw",
+    "paragraph_count": 609
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 4,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0066,
+    "insertion_ratio": 0.0131
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 241,
+      "paragraphs": [
+        {
+          "content_hash": "aa0e45c2e12c372e",
+          "style": "NORMAL_TEXT",
+          "text": "rex组里学生表示很多不符合事实，没听说过3个月搞论文，不至于上黑榜.."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 367,
+      "at_to": 368,
+      "from_paragraphs": [
+        {
+          "content_hash": "f51f8477ebbbe917",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）（我在这个组做intern，没有这么多intern吧，是想inclusive，一般只要感兴趣会拉入slack，可以参加group meeting，但做项目没有多少人，项目没做出来的也给写信了，好处是给信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d6082a5ed20c37a9",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）（我在这个组做过intern，没有这么多intern吧，是比较inclusive，一般只要感兴趣会拉入slack，可以参加group meeting，但做项目没有多少人，项目没做出来的也给写信了，好处是给信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 392,
+      "at_to": 393,
+      "from_paragraphs": [
+        {
+          "content_hash": "5e0367d6175ecede",
+          "style": "NORMAL_TEXT",
+          "text": "Zhuowen 人很好"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6637f09da53d6d79",
+          "style": "NORMAL_TEXT",
+          "text": "Zhuowen人很好，虽然研究方向没那么新但作为supervisor没得说"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 480,
+      "at_to": 481,
+      "from_paragraphs": [
+        {
+          "content_hash": "aa52737d8df1965b",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd，去年刚毕业，overall"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "042b74947e3d5d30",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd，去年刚毕业，overall Heng不算完美，但是也是在方方面面fully supportive。有时候比较严厉会批评（对事不对人），其他时候相处融洽，来世还当heng学生"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 597,
+      "at_to": 601,
+      "from_paragraphs": [
+        {
+          "content_hash": "2709726e851f3c1f",
+          "style": "NORMAL_TEXT",
+          "text": "瓜有点多"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b6299e4957288754",
+          "style": "NORMAL_TEXT",
+          "text": "瓜田"
+        }
+      ]
+    }
+  ]
+}
