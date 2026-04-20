@@ -1,0 +1,200 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-02-10Z",
+    "revision_id": "AMHacu53IMf8cBNdBxlXe1KxHWGWqiqTzvS3-xETaxxdm7J4ayefB8xYEWHDTi7AfVg9niOzLr1HTqEmq978OoQ-wA",
+    "paragraph_count": 1214
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-04-20Z",
+    "revision_id": "AMHacu60yeaDk4XD2OpTYthUzOqqEhjlOTjD05PEJ7xN_wWlaYvKEJdnKtRAcojUmG8VAf4874nRukdbIejNW3UMqg",
+    "paragraph_count": 1216
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 8,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0066,
+    "insertion_ratio": 0.0082
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 65,
+      "at_to": 65,
+      "from_paragraphs": [
+        {
+          "content_hash": "6c4f0ef2fda3dbbe",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁h"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c1dc90dc65f8a428",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？哥们你是什么心灵导师嘛？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 364,
+      "at_to": 364,
+      "from_paragraphs": [
+        {
+          "content_hash": "76dce18585bbb1fc",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作）（非要让别人把paper link贴出来？洗地时候注意别惹急了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ae5f26eeda8d0bb0",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作）（非要让别人把paper link贴出来？洗地时候注意别惹急了）（毕业三个？其中有个人天天找认识人骂fu yun啊，怎么不提）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 717,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 719,
+      "at_to": 720,
+      "from_paragraphs": [
+        {
+          "content_hash": "c0ab018ff78c49e4",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给xue s"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0d8db046dde5f818",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给学生，可以说比起以前更像是用爱发电。对于年轻老师而言，在繁忙的工作/项目压力下"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 731,
+      "at_to": 732,
+      "from_paragraphs": [
+        {
+          "content_hash": "20ef1e1004051599",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）(是谁写的重要吗?我就是组里phd, RAGEN MindCube T*有没有拿award自己能不能上网查？)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T*你就只拿RAGEN开刀, 你不会是RAGEN coauthor吧? 不会还是共一? 难道真的是白眼狼?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2c47a93b591a18d1",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）(是谁写的重要吗?我就是组里phd, RAGEN MindCube T*有没有拿award自己能不能上网查？)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T*你就只拿RAGEN开刀, 你不会是RAGEN coauthor吧? 难道真的是白眼狼?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 747,
+      "at_to": 748,
+      "from_paragraphs": [
+        {
+          "content_hash": "64c5eb3771269390",
+          "style": "NORMAL_TEXT",
+          "text": "正文中绝大部分 figures 的制作"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c25255f2c188081",
+          "style": "NORMAL_TEXT",
+          "text": "正文中全部的 figures 的制作"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 809,
+      "at_to": 810,
+      "from_paragraphs": [
+        {
+          "content_hash": "9cfc87dababa19f5",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8dbe2835c9f4def6",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 887,
+      "at_to": 888,
+      "from_paragraphs": [
+        {
+          "content_hash": "41af1018f598d45a",
+          "style": "NORMAL_TEXT",
+          "text": "Apple 那种环境出来的老师，能不好么？😂"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6f1af627bff6ddcd",
+          "style": "NORMAL_TEXT",
+          "text": "Apple 那种环境出来的老师，能不好么？😂(apple什么环境)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 900,
+      "paragraphs": [
+        {
+          "content_hash": "b34a833c8e76952b",
+          "style": "NORMAL_TEXT",
+          "text": "想问的人留下老师名字"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 996,
+      "at_to": 998,
+      "from_paragraphs": [
+        {
+          "content_hash": "caeeff423f46c10e",
+          "style": "NORMAL_TEXT",
+          "text": "超级海王，据说一个申请季能养几十条鱼, 在已经有很多鱼的情况下还发小红书发招生贴"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6bfe416d5bd28be0",
+          "style": "NORMAL_TEXT",
+          "text": "超级海王，据说一个申请季能养几十条鱼, 在已经有很多鱼的情况下还发招生贴"
+        }
+      ]
+    }
+  ]
+}
