@@ -1,0 +1,550 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-04-50Z",
+    "revision_id": "AMHacu55SkIDNLF2fl6sHEAvWZf-5Mg0IxJdYEiQZTN6gf0r6x3Q-WIc7_IphmrwYzvSjojlzyPseHoTLnxxu8mapA",
+    "paragraph_count": 1117
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-11-10Z",
+    "revision_id": "AMHacu7fVYTh7PwFg4I89OKFN1AXt8IX9bqQOANZsAa5NLsFCAsruyKQfcLPmXLiIIDib2TlEiWczWIyQqJyWzmBzA",
+    "paragraph_count": 1127
+  },
+  "summary": {
+    "inserted_paragraphs": 34,
+    "deleted_paragraphs": 24,
+    "operations": 29,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0215,
+    "insertion_ratio": 0.0302
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 19,
+      "at_to": 19,
+      "from_paragraphs": [
+        {
+          "content_hash": "c7fbe1009d128444",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了（不排除删除以外的和谐操作），已经有UCSD邮箱给我发邮件威胁我了。大家及时保存，还有Github的版本。（UCSD谁联系爆出来！）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a5884fd0653c8bce",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了（不排除删除以外的和谐操作），已经有UCSD邮箱给我发邮件威胁我了(Figure 1)。大家及时保存，还有Github的版本。（UCSD谁联系爆出来！）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 28,
+      "paragraphs": [
+        {
+          "content_hash": "bab13b4e00db431b",
+          "style": "NORMAL_TEXT",
+          "text": "666哥们的意思是内部人员能给你盒出匿名文档创建者，内部人员是"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 69,
+      "at_to": 70,
+      "from_paragraphs": [
+        {
+          "content_hash": "239e837b83197386",
+          "style": "NORMAL_TEXT",
+          "text": "实际实力很一般（这个确实很多人都说），组内发paper多是因为Rice有个大佬帮带了她第一届学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d9658e7189363115",
+          "style": "NORMAL_TEXT",
+          "text": "实际实力很一般（这个确实很多人都说），组内发paper多是因为Rice有个大佬帮带了她第一届学生（应该是tamu atlas wang）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 72,
+      "paragraphs": [
+        {
+          "content_hash": "7be8e0a1723a9694",
+          "style": "NORMAL_TEXT",
+          "text": "让组里学生互相投票决定开除"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 79,
+      "at_to": 81,
+      "from_paragraphs": [
+        {
+          "content_hash": "0730f5f8dddb6515",
+          "style": "NORMAL_TEXT",
+          "text": "+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于survey和benchmark其他project了解不多，但是本人参与的都是很solid的project，(孙哥有solid的project? Name one, please! （你有什么solid project，name， please？(我没说我有啊，但这边不是说孙老师有？想洗刷一下自己对他的误解，因为以前看了很多孙老师的感觉说实话 味如嚼蜡)（我比较了解孙哥，感觉sun老师就是比较会水，这算不上什么黑点吧。灌灌文章也有罪吗？）（碰瓷openai，title叫sora就有罪了）（好吧，了解了，谢谢解答，这样我对孙老师和他的组有个更清晰的picture了））)并且对intern很nice，会帮忙找下家，然后有比较大的问题会直接私聊打电话。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8b79f311d4cc1c84",
+          "style": "NORMAL_TEXT",
+          "text": "+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于survey和benchmark其他project了解不多，但是本人参与的都是很solid的project，(孙哥有solid的project? Name one, please! （你有什么solid project，name， please？(我没说我有啊，但这边不是说孙老师有？想洗刷一下自己对他的误解，因为以前看了很多孙老师的感觉说实话 味如嚼蜡)（我比较了解孙哥，感觉sun老师就是比较会水，这算不上什么黑点吧。灌灌文章也有罪吗？）（碰瓷openai，title叫sora就有罪了）（好吧，了解了，谢谢解答，这样我对孙老师和他的组有个更清晰的picture了））(所以你们聊了这么久硬是sun哥一个solid的工作都说不出来吗))并且对intern很nice，会帮忙找下家，然后有比较大的问题会直接私聊打电话。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 146,
+      "paragraphs": [
+        {
+          "content_hash": "a3919e48142ff41a",
+          "style": "NORMAL_TEXT",
+          "text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 171,
+      "paragraphs": [
+        {
+          "content_hash": "02e96de90ffbc848",
+          "style": "NORMAL_TEXT",
+          "text": "歧视女性"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 189,
+      "at_to": 193,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8569d08eef2050f0",
+          "style": "NORMAL_TEXT",
+          "text": "Johns Hopkins University - Sijia Geng"
+        },
+        {
+          "content_hash": "1fe0b666b3b0b5a3",
+          "style": "NORMAL_TEXT",
+          "text": "老板保送"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 286,
+      "at_to": 291,
+      "from_paragraphs": [
+        {
+          "content_hash": "ddfa8408f456c6ef",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD  Pengtao Xie"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "98dadd75f709405d",
+          "style": "NORMAL_TEXT",
+          "text": "   Pengtao Xie"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 322,
+      "at_to": 327,
+      "from_paragraphs": [
+        {
+          "content_hash": "ce410db38349ea79",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？（+1 何意味，没证据某种意义上就是歧视啊））(老师人挺亲切的，口语确实不好，貌似他组里只有中国学生。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "202bd42fd89defb0",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？（+1 何意味，没证据某种意义上就是歧视啊））(老师人挺亲切的，口语确实不好，貌似他组里只有中国学生。）(何意为啊，Zhun人很好也很有意思"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 415,
+      "at_to": 420,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "028fdd317bc03549",
+          "style": "NORMAL_TEXT",
+          "text": "He displays traits consistent with narcissistic tendencies, projecting strong confidence that seems to mask underlying insecurity about his actual abilities. In my view, he does not appear to have undergone rigorous research training; many of his ideas feel ungrounded, lacking a solid theoretical or empirical foundation—reminiscent of early-stage, exploratory thinking rather than mature scholarship. He also tends to exaggerate, and at times presents claims that are difficult to verify. Overall, this creates the impression that he is less focused on careful research and more on persuasive presentation."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 557,
+      "at_to": 562,
+      "from_paragraphs": [
+        {
+          "content_hash": "6eaeaf24703bd9c8",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，大部分都得往下找才行)（mit and harvard读了postdoc吧）"
+        },
+        {
+          "content_hash": "56aafd3fefe9b3eb",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（不要把两个人混为一谈，请给证据）（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（别相互攻击）"
+        },
+        {
+          "content_hash": "7d367ffd07f2cf73",
+          "style": "NORMAL_TEXT",
+          "text": "像是本人或者利益共同体的人在洗（是不是发现风向和自己想的不一样，所以ji le"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a0fb4798935d37b",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）（听说成瘾者，可忽略）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，大部分都得往下找才行)（mit and harvard读了postdoc吧）"
+        },
+        {
+          "content_hash": "e68ab08e30534ea2",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（不要把两个人混为一谈，后者的证据？）（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（别相互攻击）"
+        },
+        {
+          "content_hash": "40e2855c861e2dc6",
+          "style": "NORMAL_TEXT",
+          "text": "像是本人或者利益共同体的人在洗（是不是发现风向和自己想的不一样，所以急）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 563,
+      "at_to": 568,
+      "from_paragraphs": [
+        {
+          "content_hash": "2f83198754a53ab2",
+          "style": "NORMAL_TEXT",
+          "text": "说其他老师的坏话（学术不行, 工作垃圾之类的）(有人删除了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "83be170c154d73c5",
+          "style": "NORMAL_TEXT",
+          "text": "说其他老师的坏话（学术不行, 工作垃圾之类的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 572,
+      "at_to": 577,
+      "from_paragraphs": [
+        {
+          "content_hash": "31e07e53db9d86d8",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名，和楼上也算师徒荣辱与共了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "72726f28b6fbc0e2",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名，和楼上也算师徒荣辱与共了（一起吃屎）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 602,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 613,
+      "at_to": 619,
+      "from_paragraphs": [
+        {
+          "content_hash": "a06c7e996d40066f",
+          "style": "NORMAL_TEXT",
+          "text": "学生玉玉了在出租屋还被找上门push"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1c0bbc2d2ca604dd",
+          "style": "NORMAL_TEXT",
+          "text": "学生玉玉了在出租屋还被找上门push （上门查水表嘛？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 638,
+      "paragraphs": [
+        {
+          "content_hash": "18c85e132afdc2b8",
+          "style": "NORMAL_TEXT",
+          "text": "人品有问题，擅长打压pua学生。还喜欢搬弄是非，背后下黑手搞别人"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 662,
+      "at_to": 669,
+      "from_paragraphs": [
+        {
+          "content_hash": "a491cff6ea85a2ce",
+          "style": "NORMAL_TEXT",
+          "text": "\t纯路人，黑榜只写黑的，怎么有人在下面疯狂洗，想写好的去红榜，怎么下面这负责洗的人还开始搞人身攻击了？"
+        },
+        {
+          "content_hash": "1bb657fb6ef26036",
+          "style": "NORMAL_TEXT",
+          "text": "Ma"
+        },
+        {
+          "content_hash": "5c31213c1c6d1031",
+          "style": "NORMAL_TEXT",
+          "text": "nling这么nice的老师竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜对应的描述再看下面的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "17b9b2fcf5a2cee5",
+          "style": "NORMAL_TEXT",
+          "text": "\t纯路人，黑榜只写黑的，怎么有人在下面疯狂洗，想写好的去红榜，这负责洗的人还开始搞人身攻击了？(也是路人，主要是红榜没人看呀，都只看黑榜，)"
+        },
+        {
+          "content_hash": "6c2c29f9b41a3889",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的老师竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜对应的描述再看下面的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 674,
+      "at_to": 680,
+      "from_paragraphs": [
+        {
+          "content_hash": "83bc65fb69521e82",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "90bcea61048d5c2f",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作，而且后面换方向换得很成功吧）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 754,
+      "paragraphs": [
+        {
+          "content_hash": "b2a7bb399c989f84",
+          "style": "NORMAL_TEXT",
+          "text": "https://huaren.us/showtopic.html?topicid=3088729&fid=398"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 769,
+      "at_to": 776,
+      "from_paragraphs": [
+        {
+          "content_hash": "435cd42da0cd060f",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事）（同好奇，postdoc可以写吗)(听好多人说过了，有没有之情的，我听的版本是喜欢邀请刚来的男生去家里?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "adf9b4229506cb39",
+          "style": "NORMAL_TEXT",
+          "text": "再删你是Chaowei Xiao) (好奇bai姓postdoc故事）（同好奇，postdoc可以写吗)(听好多人说过了，有没有之情的，我听的版本是喜欢邀请刚来的男生去家里?) （当年知乎上宣传自己的文章是视觉生成的GPT时刻，有个MIT phd出来质疑她用了谷歌的显卡不credit，以及论文图片有问题，她联合Efros一起把这个男生举报了，举报理由之一是他质疑科研中的女性力量）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 805,
+      "at_to": 812,
+      "from_paragraphs": [
+        {
+          "content_hash": "4b8e26e9cd0358b1",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7dfaf80df0c49652",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击（什么时候人身攻击了，都是就事论事）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 884,
+      "paragraphs": [
+        {
+          "content_hash": "032ac99be8c69b9c",
+          "style": "NORMAL_TEXT",
+          "text": "有没有UT Austin的瓜，求求🥺"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 899,
+      "at_to": 907,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec2c925b8c7ea7e8",
+          "style": "NORMAL_TEXT",
+          "text": "让写proposal，把学生逼到肾出问题做手术，躺在床上还push学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ce82d40bef2f9762",
+          "style": "NORMAL_TEXT",
+          "text": "让学生从零开始写proposal，把学生逼到肾出问题做手术，躺在床上养病，还push该学生写稿子"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 901,
+      "at_to": 909,
+      "from_paragraphs": [
+        {
+          "content_hash": "48602403b97f05ae",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生买电脑，给他老婆买"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7be6f721b50a9d59",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生买电脑，给他老婆买，开会不给学生报销，但给他老婆吃饭报销"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 903,
+      "at_to": 911,
+      "from_paragraphs": [
+        {
+          "content_hash": "ab40814700d6171d",
+          "style": "NORMAL_TEXT",
+          "text": "抢师弟一作，要求labmate和导师邮件必须cc他"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5b66eada70e6b23a",
+          "style": "NORMAL_TEXT",
+          "text": "一开始看起来是个很友好的学长，但抢师弟一作，要求labmate和导师邮件必须cc他"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 905,
+      "at_to": 913,
+      "from_paragraphs": [
+        {
+          "content_hash": "10f7ba12e9a4c75d",
+          "style": "NORMAL_TEXT",
+          "text": "（听毕业的师兄说）他"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "17ea5cf435fe6f0e",
+          "style": "NORMAL_TEXT",
+          "text": "（听毕业的师兄说）他技术一窍不通。。。还喜欢微操"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 974,
+      "at_to": 982,
+      "from_paragraphs": [
+        {
+          "content_hash": "f7ad2aba7eed8e8e",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bb91a8b42ea605a2",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1102,
+      "paragraphs": [
+        {
+          "content_hash": "ea69f9f920d58f4b",
+          "style": "NORMAL_TEXT",
+          "text": "EITech(东方理工), (插眼), 既然都有 SUSTech, ShanghaiTech, Westlake U, 不能没有我 EIT."
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
