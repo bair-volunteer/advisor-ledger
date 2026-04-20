@@ -1,0 +1,123 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-39-05Z",
+    "revision_id": "AMHacu48Jpq6qoa9LcyX6E8XUAR0hAligBZ_FiB5avPdHBsodDPgZiyHXO77zfle26jyahygcVRxOM4FTkl0IAXZ_w",
+    "paragraph_count": 855
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-41-19Z",
+    "revision_id": "AMHacu4rjW_igCX1Bdg9zkO-u6HBYdhQ0LRs6O_YxsGs907gSjtba3JPQcSKWEXOygOofSHNoPbj9dxHhPC4oNhA6Q",
+    "paragraph_count": 856
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 5,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0058,
+    "insertion_ratio": 0.007
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 161,
+      "paragraphs": [
+        {
+          "content_hash": "a32ec2ec4524a464",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐..."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 322,
+      "at_to": 323,
+      "from_paragraphs": [
+        {
+          "content_hash": "7456c20459ba25dc",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会发offer的，只要能变成正常合作者(i.e. 能独立干点活不用手把手教)的Intern会发offer。 Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只用执行就行。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a2666dad13422b29",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。只要有潜力能变成正常合作者(i.e. 能独立干点活不用手把手教)的Intern会发offer。 Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只用执行就行。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 324,
+      "at_to": 325,
+      "from_paragraphs": [
+        {
+          "content_hash": "9045ffb68caa1d0c",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 ()"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8fb35b57968a2c6c",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，Huan给组里MS写推荐信的时候会明确承诺强推)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 562,
+      "at_to": 562,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c583df7740964c6c",
+          "style": "NORMAL_TEXT",
+          "text": "此人当年很出名啊，奋斗批，工作狂，不管家庭老婆小孩，自己身体都不在乎那种，wireless难发的年代随便发"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 676,
+      "at_to": 676,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "115185f0a9421148",
+          "style": "NORMAL_TEXT",
+          "text": "回国导致自己phd居无定所"
+        },
+        {
+          "content_hash": "9a8b81d4e8cef30f",
+          "style": "NORMAL_TEXT",
+          "text": "抽象，想一出是一出，idea像是在做梦，技术细节特别是learning依托"
+        }
+      ]
+    }
+  ]
+}
