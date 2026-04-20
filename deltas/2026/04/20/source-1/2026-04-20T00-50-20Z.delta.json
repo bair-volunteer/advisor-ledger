@@ -1,0 +1,128 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-46-00Z",
+    "revision_id": "AMHacu59iWofXz1VIa5qLcAzKCmNN0K4auJJ_brrUPqiNRfTFUlEvua6fky3pRLFmtkTlEfyduC3EcICmfUmYd5FSQ",
+    "paragraph_count": 581
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-50-20Z",
+    "revision_id": "AMHacu5Bls_Kr3p05YjHHDR2j3sSfsED99DJV3aKnutPUUWvCtGzERhLqtqs-388zd-7pBmpiM5EX6PoWqSjnSfSIw",
+    "paragraph_count": 589
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 2,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0034,
+    "insertion_ratio": 0.017
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 74,
+      "paragraphs": [
+        {
+          "content_hash": "8bb0f3b59410142b",
+          "style": "NORMAL_TEXT",
+          "text": "（组i）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 213,
+      "paragraphs": [
+        {
+          "content_hash": "ace647de8c8d464a",
+          "style": "NORMAL_TEXT",
+          "text": "you老师人很好，不至于上黑榜"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 243,
+      "at_to": 245,
+      "from_paragraphs": [
+        {
+          "content_hash": "621d958bde48498d",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "66ad4571e1e24baa",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了)（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 349,
+      "at_to": 351,
+      "from_paragraphs": [
+        {
+          "content_hash": "188cb3fefb8ccd35",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）（我在这个组，没有这么多intern吧，一般感兴趣会拉入slack参加group meeting，但做项目没有这么多，项目没做出来的也给写信了）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3cd852ce403ce7f3",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）（我在这个组做intern，没有这么多intern吧，一般只要感兴趣会拉入slack，可以参加group meeting，是要inclusive，但做项目没有多少人，项目没做出来的也给写信了，好处是给信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 562,
+      "paragraphs": [
+        {
+          "content_hash": "bf74681ec893d919",
+          "style": "NORMAL_TEXT",
+          "text": "他举报的Xiaofeng wang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 580,
+      "paragraphs": [
+        {
+          "content_hash": "3937dad7c690c6c2",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake, Ziqing Li"
+        },
+        {
+          "content_hash": "2709726e851f3c1f",
+          "style": "NORMAL_TEXT",
+          "text": "瓜有点多"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
