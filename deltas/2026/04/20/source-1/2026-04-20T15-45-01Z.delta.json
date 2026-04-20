@@ -1,0 +1,172 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-40-50Z",
+    "revision_id": "AMHacu79bIxTgL_d5y6W0TPwSoTupBhmZ9jK4MWjtgcPPwfBlEAmyyCoHzFmkZWjIY29wqLyrvhe_qVCgb3D3zyg5Q",
+    "paragraph_count": 2074
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-45-01Z",
+    "revision_id": "AMHacu5Tq2ll__zBnMR4bbT_nexFxH9wiOOUID7OShb2mNvOI7zHR3eg3aY1-rcu78qadXWKBqT8TMOE4qIHRMMTzQ",
+    "paragraph_count": 2087
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 3,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0014,
+    "insertion_ratio": 0.0077
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 63,
+      "paragraphs": [
+        {
+          "content_hash": "23ced6a00fb2d7e7",
+          "style": "NORMAL_TEXT",
+          "text": "\u000bStanford, Jure Leskovec"
+        },
+        {
+          "content_hash": "7508f48319be4d76",
+          "style": "NORMAL_TEXT",
+          "text": "有人了解这个大佬吗？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 94,
+      "paragraphs": [
+        {
+          "content_hash": "10f06695b6dd883a",
+          "style": "NORMAL_TEXT",
+          "text": "（太好笑了，作为Yiwei学生简直笑掉大牙。不是你都不是他学生你吠什么？不要你就破防了？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 98,
+      "paragraphs": [
+        {
+          "content_hash": "ac4b0e2ae4e3fc17",
+          "style": "NORMAL_TEXT",
+          "text": "（我写论文就是yiwei手把手教的，哪怕带了我一两年还是会亲自改论文指导实验甚至亲自改图）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 104,
+      "at_to": 109,
+      "from_paragraphs": [
+        {
+          "content_hash": "bd93891ea90fee4e",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在和王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "40d98c5f7c6834eb",
+          "style": "NORMAL_TEXT",
+          "text": "（不然怎么给你一个标准？是把会议具体名字给你列出来吗？）"
+        },
+        {
+          "content_hash": "4a4c04f5bbca7ddd",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）"
+        },
+        {
+          "content_hash": "3965dd51852f700a",
+          "style": "NORMAL_TEXT",
+          "text": "（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）"
+        },
+        {
+          "content_hash": "7b8debdc18699dd7",
+          "style": "NORMAL_TEXT",
+          "text": "（在和王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+        },
+        {
+          "content_hash": "7bdfe074d1200dc7",
+          "style": "NORMAL_TEXT",
+          "text": "yujun姐怎么重量级了？重量级的好吗？我的论文yujun姐一段一段改过，"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 388,
+      "paragraphs": [
+        {
+          "content_hash": "bcbafa3ebe44435d",
+          "style": "NORMAL_TEXT",
+          "text": "UMN Katie Zhao"
+        },
+        {
+          "content_hash": "1f15fbc8bdcf1ead",
+          "style": "NORMAL_TEXT",
+          "text": "很push 组里有学生quit"
+        },
+        {
+          "content_hash": "6cd284ed3dfb5bfa",
+          "style": "NORMAL_TEXT",
+          "text": "她们组的学生和奴隶差不多"
+        },
+        {
+          "content_hash": "cf2348950d4e16db",
+          "style": "NORMAL_TEXT",
+          "text": "和celine一样hhh"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 647,
+      "at_to": 660,
+      "from_paragraphs": [
+        {
+          "content_hash": "270d2d3c01284bf3",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "43d5505787008231",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1884,
+      "at_to": 1897,
+      "from_paragraphs": [
+        {
+          "content_hash": "e5c0b74058e3cb28",
+          "style": "NORMAL_TEXT",
+          "text": "主要精力花在开公司上头，创业项目vest周期5年锁定期，融资没成功g团队基本都跑光了，融资"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "200d20d59712f462",
+          "style": "NORMAL_TEXT",
+          "text": "主要精力花在开中医公司上头，创业项目vest周期5年锁定期，融资失败，团队基本都跑光了"
+        }
+      ]
+    }
+  ]
+}

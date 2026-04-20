@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-45-01Z.delta.json",
+  "delta_ts": "2026-04-20T15-45-01Z",
+  "reviewed_at_utc": "2026-04-20T15:45:41Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student/private individual (Hao Ran Geng) disclosed alongside personal relationship status and allegations about academic integrity",
+      "excerpt": "hao ran geng 的女朋友"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal attack using animalistic comparison (barking) and mockery of emotional state (breakdown) rather than addressing advising practices",
+      "excerpt": "你吠什么？不要你就破防了？"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Accusation of bad-faith censorship targeting another editor rather than discussing advisor behavior",
+      "excerpt": "不会刚才就是你删的吧"
+    }
+  ],
+  "prompt_sha256": "c79c1ccc5f1db3bcb761dc4a7cc2b5977460cc2fe1635215e263839b96352ae1",
+  "finish_reason": "stop",
+  "completion_tokens": 3694
+}
