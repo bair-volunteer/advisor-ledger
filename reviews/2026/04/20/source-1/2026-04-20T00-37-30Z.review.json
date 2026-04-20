@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T00-37-30Z.delta.json",
+  "delta_ts": "2026-04-20T00-37-30Z",
+  "reviewed_at_utc": "2026-04-20T00:38:15Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Gendered personal insult attributing professor's temperament to menopause rather than criticizing concrete advising practices",
+      "excerpt": "这阿姨脾气应该说是更年期"
+    }
+  ],
+  "prompt_sha256": "6d21360e1c1bfc8bad26710f06cec67a59aa1265d0d80336f9a0b59b8ed0dac2",
+  "finish_reason": "stop",
+  "completion_tokens": 3760
+}

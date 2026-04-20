@@ -1,0 +1,233 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-35-20Z",
+    "revision_id": "AMHacu6ns_NJyHSOtgG4eWzJWK4aBa99ih1m7rV5ahY281Cd7wL_xPzxVg3BrmcSxmFTXD1q8Z9Zc0XO8LEPC34rtQ",
+    "paragraph_count": 584
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-37-30Z",
+    "revision_id": "AMHacu7OrYvb4tu06kH004A-05LFw0NfqhugvaK1Y5rk8Fy9tauIBpF3sAGXVdvrt9cgwVBH-8i8bdfR4yisWI2X4Q",
+    "paragraph_count": 582
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 13,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0223,
+    "insertion_ratio": 0.0189
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 71,
+      "from_paragraphs": [
+        {
+          "content_hash": "7c74b6198997b507",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养还是ao'pu）这阿姨脾气应该说是更年期…"
+        },
+        {
+          "content_hash": "08a7bab15e62684b",
+          "style": "NORMAL_TEXT",
+          "text": "六年AP生涯中组里PhD quit率超三分之一"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "40cab5ac7501849f",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）这阿姨脾气应该说是更年期…（这个可能你得反思一下你干了啥把她能给惹火了）"
+        },
+        {
+          "content_hash": "b6c6af7d9867af60",
+          "style": "NORMAL_TEXT",
+          "text": "六年AP生涯中组里PhD quit率超三分之一（这个个人觉得遇人不淑确实算丁老师纯倒霉，而且这个数据有点问题吧，hhh）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 74,
+      "at_to": 74,
+      "from_paragraphs": [
+        {
+          "content_hash": "32c80dcbf45b1747",
+          "style": "NORMAL_TEXT",
+          "text": "在 Ding 组里 intern 过，我认为她是个大好人 ：）组里"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f64fa60ec7a50059",
+          "style": "NORMAL_TEXT",
+          "text": "（在 Ding 组里 intern 过，我认为她是个大好人 ：）组里的推荐信都很好，当年一起 intern 过的同学评价也都很好；申请的时候有prof问她学生怎么样还认真写邮件推荐"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 133,
+      "at_to": 133,
+      "from_paragraphs": [
+        {
+          "content_hash": "1b73625df4a20d08",
+          "style": "NORMAL_TEXT",
+          "text": "学术界第一个发币敛财的，AIOS项目，联合币圈群组(D群)收割散户，学生似乎不知情。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "846e45cffdcdc1d3",
+          "style": "NORMAL_TEXT",
+          "text": "学术圈第一个发币敛财的，AIOS项目，联合币圈群组(D群) 收割散户，发币时学生似乎不知情。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 209,
+      "at_to": 209,
+      "from_paragraphs": [
+        {
+          "content_hash": "5c65088ff29fe5d4",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD (不push)(尤老师人挺好的，感觉不至于在黑榜)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d26bda9f374f6db7",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD (不push)(尤老师人挺好的，感觉不至于在黑榜)（有mscs私信我说他很想转）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 211,
+      "at_to": 211,
+      "from_paragraphs": [
+        {
+          "content_hash": "17c3f80b707bcbaa",
+          "style": "NORMAL_TEXT",
+          "text": "文档作者留言：这个组已经联系我了 （啥情况），组内学生反应这个导师很好，不应该在黑榜，暂且保留这个批注 (虽然但是，尤老师人真的还可以吧)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c3619a9b370020b6",
+          "style": "NORMAL_TEXT",
+          "text": "文档作者留言：这个组已经联系我了 （啥情况），组内学生反应这个导师很好，不应该在黑榜，暂且保留这个批注 (虽然但是，尤老师人真的还可以吧) 可以反驳的，正反面综合考虑（嗯嗯！）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 250,
+      "at_to": 250,
+      "from_paragraphs": [
+        {
+          "content_hash": "1ab6c3da32730b34",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊) （那应该放一个新的altas wang，这里又没证据）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1630396883404d72",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊) （写错地方了吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 262,
+      "at_to": 262,
+      "from_paragraphs": [
+        {
+          "content_hash": "0f017f5055d0d3d9",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度长时间骂人，每句话都带个亲戚那种，骂哭骂跑过几个学生。（据说开会有其他组的人在会收敛一些）"
+        },
+        {
+          "content_hash": "e88a5c6d9837d225",
+          "style": "NORMAL_TEXT",
+          "text": "之前招学生进来全部 ta 被学校警告过不知道真假"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "740f1544ba8053c7",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度长时间骂人，每句话都带个亲戚那种，骂哭骂跑过几个学生。（据说开会有其他组的人在会收敛一些）之前招学生进来全部 ta 被学校警告过不知道真假"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 337,
+      "at_to": 336,
+      "from_paragraphs": [
+        {
+          "content_hash": "e84b7e91113e5e15",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品 (哪个phd带过课？）（找自己学生来给个guest lecture而已，这不是常规操作？）（自己跑出去玩是什么鬼）"
+        },
+        {
+          "content_hash": "10d47f04d45a285c",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）（这个点我作为当事人（喂猫的）直接回应一下，我当时跟eric住的比较近，而且我自己也养着猫，所以拜托我有空上门看一下。这事我本身都不觉得有啥哈）（你不觉得有啥不代表他的行为没问题，这就是没有边界感不professional的体现，请不要为这种在权力不平等关系里越界的上位者洗白）（有没有问题，是否是洗白，这个看大家咋想了，我只是提供一下当事人视角）（按照这个说法）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3fc2172ae4e8aa05",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看，细品 (哪个phd带过课？）（找自己学生来给个guest lecture而已，这不是常规操作？）（自己跑出去玩是什么鬼，反正就他要过节）"
+        },
+        {
+          "content_hash": "8d5d2289437de17b",
+          "style": "NORMAL_TEXT",
+          "text": "让学生帮忙喂猫，“我希望我和我的PhD是朋友关系” （这有啥，难不成一直喂，这不是代表和谐吗）（这个点我作为当事人（喂猫的）直接回应一下，我当时跟eric住的比较近，而且我自己也养着猫，所以拜托我有空上门看一下。这事我本身都不觉得有啥哈）（你不觉得有啥不代表他的行为没问题，这就是没有边界感不professional的体现，请不要为这种在权力不平等关系里越界的上位者洗白）（有没有问题，是否是洗白，这个看大家咋想了，我只是提供一下当事人视角）（按照这个说法杜克某教授让学生剪草坪也是自愿的没问题）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 366,
+      "at_to": 365,
+      "from_paragraphs": [
+        {
+          "content_hash": "081a6263a21e05d4",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（Mindcube这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6d48f7c2bb9705b0",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（Mindcube这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊) (一篇paper而已 who cares?)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 474,
+      "paragraphs": [
+        {
+          "content_hash": "7b0e080f3a088d80",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Hao Peng"
+        }
+      ]
+    }
+  ]
+}
