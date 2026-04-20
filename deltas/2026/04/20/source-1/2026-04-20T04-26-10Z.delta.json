@@ -1,0 +1,142 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-24-09Z",
+    "revision_id": "AMHacu61mUhI0abet_IK-jYOI33kGKU5cQMohYkP8yA9GubWf-MtB6Y2Ogncyi29ulqutTvM3Ca-hYT7LE4-rXvxig",
+    "paragraph_count": 1094
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-26-10Z",
+    "revision_id": "AMHacu5ET1_fRZmi2xTAb9zJRPPFUap3gU40KslW8EdPaoyxj1ANHYOYxkr5kDnElspZDE4yjFWJzv6K_z7VZ-x5kg",
+    "paragraph_count": 1101
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 3,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0027,
+    "insertion_ratio": 0.0091
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 278,
+      "at_to": 278,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e2b0d5132552e2e7",
+          "style": "NORMAL_TEXT",
+          "text": "一个phd quit以后跟他在打官司"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 318,
+      "paragraphs": [
+        {
+          "content_hash": "5bb047636ac7f43d",
+          "style": "NORMAL_TEXT",
+          "text": "顶了，还是中式英文。。。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 512,
+      "at_to": 513,
+      "from_paragraphs": [
+        {
+          "content_hash": "d26bda9f374f6db7",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD (不push)(尤老师人挺好的，感觉不至于在黑榜)（有mscs私信我说他很想转）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c184a01273d95a6c",
+          "style": "NORMAL_TEXT",
+          "text": "很push，组里面的mscs据说都不太想转他的PhD (不push)(尤老师人挺好的，感觉不至于在黑榜)（有mscs私信我说他很想转）(那可能有两个mscs说想转)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 516,
+      "paragraphs": [
+        {
+          "content_hash": "6e41f2a4d273cd1a",
+          "style": "NORMAL_TEXT",
+          "text": "尤老师人很好啊，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 590,
+      "at_to": 592,
+      "from_paragraphs": [
+        {
+          "content_hash": "4cdd9cf476f5bd1b",
+          "style": "NORMAL_TEXT",
+          "text": "phd面试考ai八股，压力面是真的，phd会陪着面，结束之后问也只有套话，只推荐m来，正常人别来"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dec8101f4fa11b01",
+          "style": "NORMAL_TEXT",
+          "text": "Phd面试考ai八股，压力面是真的，phd会陪着面，结束之后问也只有套话，只推荐m来，正常人别来"
+        },
+        {
+          "content_hash": "8206c4c15b716395",
+          "style": "NORMAL_TEXT",
+          "text": "又矮又丑"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 849,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 852,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d9566e0afdd3aced",
+          "style": "NORMAL_TEXT",
+          "text": "性压抑了http://xhslink.com/o/2KZfkRJ8GZ6"
+        }
+      ]
+    }
+  ]
+}
