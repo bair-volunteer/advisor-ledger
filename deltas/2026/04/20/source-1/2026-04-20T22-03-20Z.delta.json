@@ -1,0 +1,179 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T21-54-48Z",
+    "revision_id": "AMHacu7M-P3yLVtihH0G-3qdofGqJg1fn5yRsZveRbA8VEqE7Hy3nePmjztHYVYhS5Tt-Qb77x8amzSiH9bXl_Nzxg",
+    "paragraph_count": 2162
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-03-20Z",
+    "revision_id": "AMHacu4giK-yc3o9seo3JRTN1OnVRjhQx--hwO9BTYyfMuI_xxxaGjIoKIQPo8bJSjN_wSbWQzEKyJSzgHd0su2jFA",
+    "paragraph_count": 2158
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 11,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0051,
+    "insertion_ratio": 0.0032
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 16,
+      "paragraphs": [
+        {
+          "content_hash": "91f0b40d30ef6f69",
+          "style": "NORMAL_TEXT",
+          "text": "批注：这个网页版本保存了所有历史删减记录 并用AI分析删减意图"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 19,
+      "at_to": 20,
+      "from_paragraphs": [
+        {
+          "content_hash": "17bafb205896a6c0",
+          "style": "NORMAL_TEXT",
+          "text": "可视化浏览工具"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "daa49a87ce8c9b8e",
+          "style": "NORMAL_TEXT",
+          "text": "可视化浏览工具（是不是有bug）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 36,
+      "at_to": 37,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c357172f5b6bb85",
+          "style": "NORMAL_TEXT",
+          "text": "听他 master 学生说 手底下 1000多个 intern？貌似有料，打个窝"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5733587b7c19088c",
+          "style": "NORMAL_TEXT",
+          "text": "听他 master 学生说 手底下 1000多个 intern？貌似有料，打个窝（什么帕鲁世界）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 476,
+      "paragraphs": [
+        {
+          "content_hash": "8435220ed93634fb",
+          "style": "NORMAL_TEXT",
+          "text": "对导师招生不做评价，但是他人真的很好，会一点点sh"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 484,
+      "at_to": 486,
+      "from_paragraphs": [
+        {
+          "content_hash": "b179d14aac96ecbc",
+          "style": "NORMAL_TEXT",
+          "text": "因为确实实力不行，导致对学生几乎没有正向的指导，大部分都是捣乱。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1cf8013b6ff7e6f5",
+          "style": "NORMAL_TEXT",
+          "text": "因为确实实力不行，导致对学生几乎没有正向的指导，大部分都是捣乱。合作的大佬们都很无奈但是"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 764,
+      "paragraphs": [
+        {
+          "content_hash": "ea9cbc0f3c3538fe",
+          "style": "NORMAL_TEXT",
+          "text": "=============== 给yufei姐姐单独腾地方 ==============="
+        },
+        {
+          "content_hash": "fce4fe54aed7eb0c",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众怒了属于是，可以移步下面的haoran geng看看，这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/ jeanette也是神人，怎么看上这姐们的 热知识，妲 己不会亲自承认是学术妲 己，至于科研和推荐信，不是有耿哥和炮灰们顶着吗"
+        },
+        {
+          "content_hash": "cadb24abd15c6d8b",
+          "style": "NORMAL_TEXT",
+          "text": "今年stanford的phd，haoran geng 的女朋友，纯学术妲 己,考试还作弊(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正据说已经快闹掰了还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，¥学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已 作弊这件事情真的有人实名举报吗？实名举报可以看录像的。"
+        },
+        {
+          "content_hash": "4495b7b3cb2580aa",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有没有可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        },
+        {
+          "content_hash": "2b8b0315a4a601cf",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持  支持 只能说她高中就能看出来.."
+        },
+        {
+          "content_hash": "9a90e1c003bef298",
+          "style": "NORMAL_TEXT",
+          "text": "经典学术妲己桥段吧     （完全是在吸认真做科研的人的血）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 911,
+      "at_to": 907,
+      "from_paragraphs": [
+        {
+          "content_hash": "1d3b1c47514de41e",
+          "style": "NORMAL_TEXT",
+          "text": "风评不太行，反正别选 lu wang 就行，nlp别选 lu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c552037d703a0ddc",
+          "style": "NORMAL_TEXT",
+          "text": "风评不太行，反正别选  就行，nlp别选 lu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1565,
+      "at_to": 1561,
+      "from_paragraphs": [
+        {
+          "content_hash": "485447253a0e77c3",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，全靠老公 （老公的帖子下面说靠老婆。。。）（夫妻之间的小情趣（？））"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d36e86fc830290b1",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，全靠老公 （老公的帖子下面说靠老婆。。。）（夫妻之间的小情趣（？））(这世界上就没有靠谱的夫妻档。。。)"
+        }
+      ]
+    }
+  ]
+}

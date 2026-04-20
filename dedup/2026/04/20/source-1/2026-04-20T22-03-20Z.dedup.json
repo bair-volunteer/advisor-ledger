@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T22-03-20Z",
+  "reviewed_at_utc": "2026-04-20T22:04:24Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 11,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "17bafb205896a6c0",
+      "insert_hash": "daa49a87ce8c9b8e",
+      "note": "added parenthetical about bug",
+      "ghost_text": "可视化浏览工具",
+      "insert_text": "可视化浏览工具（是不是有bug）"
+    },
+    {
+      "ghost_hash": "4c357172f5b6bb85",
+      "insert_hash": "5733587b7c19088c",
+      "note": "added Palworld reference",
+      "ghost_text": "听他 master 学生说 手底下 1000多个 intern？貌似有料，打个窝",
+      "insert_text": "听他 master 学生说 手底下 1000多个 intern？貌似有料，打个窝（什么帕鲁世界）"
+    },
+    {
+      "ghost_hash": "b179d14aac96ecbc",
+      "insert_hash": "1cf8013b6ff7e6f5",
+      "note": "extended with collaborator comment",
+      "ghost_text": "因为确实实力不行，导致对学生几乎没有正向的指导，大部分都是捣乱。",
+      "insert_text": "因为确实实力不行，导致对学生几乎没有正向的指导，大部分都是捣乱。合作的大佬们都很无奈但是"
+    },
+    {
+      "ghost_hash": "1d3b1c47514de41e",
+      "insert_hash": "c552037d703a0ddc",
+      "note": "redacted specific name",
+      "ghost_text": "风评不太行，反正别选 lu wang 就行，nlp别选 lu",
+      "insert_text": "风评不太行，反正别选  就行，nlp别选 lu"
+    },
+    {
+      "ghost_hash": "485447253a0e77c3",
+      "insert_hash": "d36e86fc830290b1",
+      "note": "added comment on couples",
+      "ghost_text": "水平很差，全靠老公 （老公的帖子下面说靠老婆。。。）（夫妻之间的小情趣（？））",
+      "insert_text": "水平很差，全靠老公 （老公的帖子下面说靠老婆。。。）（夫妻之间的小情趣（？））(这世界上就没有靠谱的夫妻档。。。)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1865,
+  "skipped_reason": null
+}

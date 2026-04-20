@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T22-03-20Z.delta.json",
+  "delta_ts": "2026-04-20T22-03-20Z",
+  "reviewed_at_utc": "2026-04-20T22:04:10Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Deleted text contains full names of students (Yufei Ding, Haoran Geng) and specific academic circumstances that could de-anonymize them",
+      "excerpt": "Yufei Ding (PKU)... haoran geng 的女朋友，纯学术妲己"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Deleted text contains severe unsupported personal attacks against students using derogatory terms and character judgments",
+      "excerpt": "学术妲己... 蛇鼠一窝... 这种人好恶心，光是看到都气得发抖了"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Large deletion removes substantive legitimate observations about specific advisors (Jeanette, Angjoo, Pieter) regarding PhD admission decisions and academic integrity handling, alongside the removed PII",
+      "excerpt": "jeanette也是神人... angjoo没看上她... pieter不能容忍学术污点"
+    }
+  ],
+  "prompt_sha256": "a0a535370dd2d19c853118920b6d6fc9ff95472181413bef8151e74a24a38ae4",
+  "finish_reason": "stop",
+  "completion_tokens": 5165
+}
