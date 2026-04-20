@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-40-13Z.delta.json",
+  "delta_ts": "2026-04-20T19-40-13Z",
+  "reviewed_at_utc": "2026-04-20T19:41:15Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Detailed lab-specific descriptors of a specific student (educational background: 西工大本科/北大博后, behavior, and gender) sufficient to de-anonymize the individual",
+      "excerpt": "组里有个西工大本科，北大博后，抢一作成瘾，去年被xhs狂喷（这位哥别删了，北大人尽皆知你）"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Pure personal attack regarding family life, marital fidelity, and unsupported character judgment unrelated to advising practices",
+      "excerpt": "抛妻弃子，找小三"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Large deletion removing substantive observations about multiple specific advisors (Emory Liang Zhao, Princeton Mengdi Wang, Princeton Zhuang Liu, Stanford Shuran Song, Stanford Jiajun Wu), appearing to suppress legitimate criticism rather than perform cleanup",
+      "excerpt": "Emory Liang Zhao 听说有瓜 打个窝 和学生用ai写预印本的水文王..."
+    }
+  ],
+  "prompt_sha256": "9f0871185bde0f302ad20d0a67f2442f7f798f76271554a18df21cf9b60449bc",
+  "finish_reason": "stop",
+  "completion_tokens": 6503
+}

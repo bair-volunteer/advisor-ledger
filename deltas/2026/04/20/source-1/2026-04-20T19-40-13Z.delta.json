@@ -1,0 +1,790 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-36-00Z",
+    "revision_id": "AMHacu6Y0HKJeFJ6Bu0tmxa45k7qgi7eYi4UpGuAO8dNv-RdX4DRtY9NUZu_UrbDBic5hEQz9M-Zbi4oKVBaq0MVKg",
+    "paragraph_count": 1997
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-40-13Z",
+    "revision_id": "AMHacu7XSLkEzII6BZAXRO2uyJtbLVAPq94i_yFCa7UjlOyw7BvZ8JlTQpUkK9Ol5JKS2brEK5bMz3ttiTg7aq7Hsw",
+    "paragraph_count": 1983
+  },
+  "summary": {
+    "inserted_paragraphs": 52,
+    "deleted_paragraphs": 66,
+    "operations": 23,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.033,
+    "insertion_ratio": 0.0262
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 5,
+      "paragraphs": [
+        {
+          "content_hash": "a990172c316a4e45",
+          "style": "NORMAL_TEXT",
+          "text": "P.S. 能不能去一下重，有很多大段被重复了一遍"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 41,
+      "at_to": 42,
+      "from_paragraphs": [
+        {
+          "content_hash": "877a265000ec184e",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】【第一年quit的学生去处好，跟这个老师本身没关系，是学生自己重新申请的，这老师完全不会帮忙只会倒踩一脚】"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "110264820fb68e8d",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 326,
+      "at_to": 327,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "941926a080b387cb",
+          "style": "NORMAL_TEXT",
+          "text": "Princeton Mengdi Wang"
+        },
+        {
+          "content_hash": "7b077e9fe92b9f31",
+          "style": "NORMAL_TEXT",
+          "text": "招非常多intern，夫妻店"
+        },
+        {
+          "content_hash": "637135eada0b1b32",
+          "style": "NORMAL_TEXT",
+          "text": "单纯好奇 mengdi老公是谁（congle)"
+        },
+        {
+          "content_hash": "d0d72aec3fe341b5",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个西工大本科，北大博后，抢一作成瘾，去年被xhs狂喷（这位哥别删了，北大人尽皆知你）"
+        },
+        {
+          "content_hash": "530787e1c65eec2e",
+          "style": "NORMAL_TEXT",
+          "text": "合作过，相处下来我觉得王老师人非常好，只是真的很忙"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 330,
+      "at_to": 335,
+      "from_paragraphs": [
+        {
+          "content_hash": "224d21888b3e0403",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很差 几乎没有拿到offer的 没return任何人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f2b5d604930adaf",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很差 几乎没有拿到offer的 没return任何人 （没合作过，但是知道几个他的intern申请情况都不错？虽然没return是真的）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 332,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 378,
+      "paragraphs": [
+        {
+          "content_hash": "2a4bbf66686a95f9",
+          "style": "NORMAL_TEXT",
+          "text": "极其严格，如果对自己的智商和身体没有绝对自信建议不要有太多交集"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 624,
+      "paragraphs": [
+        {
+          "content_hash": "ea9cbc0f3c3538fe",
+          "style": "NORMAL_TEXT",
+          "text": "=============== 给yufei姐姐单独腾地方 ==============="
+        },
+        {
+          "content_hash": "fce4fe54aed7eb0c",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众怒了属于是，可以移步下面的haoran geng看看，这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/ jeanette也是神人，怎么看上这姐们的 热知识，妲 己不会亲自承认是学术妲 己，至于科研和推荐信，不是有耿哥和炮灰们顶着吗"
+        },
+        {
+          "content_hash": "9224075240e76b47",
+          "style": "NORMAL_TEXT",
+          "text": "今年stanford的phd，haoran geng 的女朋友，纯学术妲 己,考试还作弊(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了hao ran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，¥学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "8c39fd1b9fd97ce7",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有没有可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        },
+        {
+          "content_hash": "2b8b0315a4a601cf",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持  支持 只能说她高中就能看出来.."
+        },
+        {
+          "content_hash": "9a90e1c003bef298",
+          "style": "NORMAL_TEXT",
+          "text": "经典学术妲己桥段吧     （完全是在吸认真做科研的人的血）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 631,
+      "paragraphs": [
+        {
+          "content_hash": "a8f51507531ee920",
+          "style": "NORMAL_TEXT",
+          "text": "===============给yufei姐姐单独腾地方 ==============="
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 631,
+      "paragraphs": [
+        {
+          "content_hash": "fb624fc54207ad82",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jimeng Sun (别删啊 我还没看完)"
+        },
+        {
+          "content_hash": "3e2146138ef08921",
+          "style": "NORMAL_TEXT",
+          "text": "从Gtech跳槽的时候没处理好之前的学生 （基本上就是全部开除了） https://www.1point3acres.com/bbs/thread-833309-1-1.html"
+        },
+        {
+          "content_hash": "8146bbbf19416628",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死 (????????????????????)（惊讶什么？这事情DM圈都知道啊）(这种不需要负责吗 法律上）（负责个屁，当时他已经去uiuc了）（这是真的）"
+        },
+        {
+          "content_hash": "54095975c9a752ae",
+          "style": "NORMAL_TEXT",
+          "text": "在GT的时候中国学生第一年没有一作paper就开除，有学生博三博四也被开除"
+        },
+        {
+          "content_hash": "b331bf080e47886e",
+          "style": "NORMAL_TEXT",
+          "text": "抛妻弃子，找小三 （把学生都推去小三的公司打工）"
+        },
+        {
+          "content_hash": "2976a0b6ddc1990c",
+          "style": "NORMAL_TEXT",
+          "text": "跪舔白人，白人没有被开除的，也不push"
+        },
+        {
+          "content_hash": "1cf92e32cd667584",
+          "style": "NORMAL_TEXT",
+          "text": "部分 AI for Health paper"
+        },
+        {
+          "content_hash": "02e96de90ffbc848",
+          "style": "NORMAL_TEXT",
+          "text": "歧视女性"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "095d20fbc2e00fb6",
+          "style": "NORMAL_TEXT",
+          "text": "-----------"
+        },
+        {
+          "content_hash": "e32e94a2929d0602",
+          "style": "NORMAL_TEXT",
+          "text": "↓↓↓ 注意：此发帖人造谣成性还喜欢乱咬人，已经造谣坑害多个同学！！！请各位仔细斟酌！！可信度极低！！！ （不维护XCW，只想让各位知道此人是什么人品🤣） ↓↓↓"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "53d53a7197d86998",
+          "style": "NORMAL_TEXT",
+          "text": "Johns Hopkins University，Chaowei Xiao （他单独的page总被删，这里保留一份）"
+        },
+        {
+          "content_hash": "b2020fe22ef5f014",
+          "style": "NORMAL_TEXT",
+          "text": "请大家别再涉及学生信息了，学生是无辜的！～ <- 不是你之前在这儿乱造谣学生吗，这会儿装起好人来了，搁这儿自导自演呢😅"
+        },
+        {
+          "content_hash": "85482ddda998380e",
+          "style": "NORMAL_TEXT",
+          "text": "我建议保留Chaowei Xiao在这里以防cs删tab但只保留事实陈述部分：这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）（给他送榜首吧）"
+        },
+        {
+          "content_hash": "a642a0da926ae2d3",
+          "style": "NORMAL_TEXT",
+          "text": "闹麻了🤣一个人编那么多条很累吧 🤡"
+        },
+        {
+          "content_hash": "e2a2fc1a32ace421",
+          "style": "NORMAL_TEXT",
+          "text": "之前编学生的怎么删了🤣 敢做不敢认？"
+        },
+        {
+          "content_hash": "c7de4472dad6f1ac",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你先想想你干的那些事吧！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "77beda51c084fc31",
+          "style": "NORMAL_TEXT",
+          "text": "你删的了一时删不了一世。我们们在哪儿呢 的目的永远是让这个人永远招不到学生！！！"
+        },
+        {
+          "content_hash": "e3ff650483c10583",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！在线等！急急急！！怎么还没有实名啊！！知道都是编的心虚了？警告你！被这个b人坑害的学生没没没，不如被你造谣的学生多 至少有上百人！太牛了，问问这上百人知不知道 你要是再jb删我们直接实名了！快快快！等着呢！(先生大义！还在这RP装圣人呢 ）我们群众的力量众在哪儿呢足够把你跟你的走狗一波带走。太对了，反驳你的都是走狗，众人皆浊我独清！ 别给脸不要脸！（没事我给每个新tab都粘贴了内容）（再删我再粘贴）"
+        },
+        {
+          "content_hash": "5055ce11e1b74b7d",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University 是不是把你认识的intern的学校都写了一遍🤡没错被NV举报但是还在NV哥们就是这么幽默desu"
+        },
+        {
+          "content_hash": "985c711d4e2ee7c3",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（私立学校只背调crime）(btw为什么私立学校只背调crime)（私立学校对于过往经历和reputation调查没有那么严格）（因为什么事情举报的？）（看下面）不容易，一个学生能够兼职UW-Madison HR"
+        },
+        {
+          "content_hash": "2e9215d59d0fcefc",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）(wisc也要脸；但是这个b由于跑得太快，wisc还在调查就让这个b跑了，于是后面调查报告以及处理结果不得不中断)还兼职警察！"
+        },
+        {
+          "content_hash": "56babb18e5496a95",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架还兼职系主任！！"
+        },
+        {
+          "content_hash": "907958084d49d73f",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱无敌了，压抑哥每次造谣经典节目，不得不品（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        },
+        {
+          "content_hash": "6966ea311c2b8861",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）（这个事情wisc CS正式调查和找他了）"
+        },
+        {
+          "content_hash": "4001ed19334fe03a",
+          "style": "NORMAL_TEXT",
+          "text": "此外，问gpt自己的孩子应该取什么名字才能以后至少是个phd (这你都知道？)"
+        },
+        {
+          "content_hash": "9bcb8492a359a0c0",
+          "style": "NORMAL_TEXT",
+          "text": "还有！给学生写推荐信使用gmail，推荐信内容大概率黑推，导致学生直接被desk rejec"
+        },
+        {
+          "content_hash": "179c534bf86f6a24",
+          "style": "NORMAL_TEXT",
+          "text": "我们继续！不许学生假期正常休假，只要微信/slack半个小时没回复就破口大骂；给学生半夜三四点直接打电话（微信call），不管学生是否在睡觉"
+        },
+        {
+          "content_hash": "eebd4b8f1fac0c80",
+          "style": "NORMAL_TEXT",
+          "text": "虽然是madison的ap之前，但是常年不在madison，让学生替他抗房租（哈哈哈哈哈哈哈这个笑死我了）(笑死了太难绷了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 637,
+      "at_to": 666,
+      "from_paragraphs": [
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7f7eca677511e44f",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个) BAIR Phd来评论下, haoran给lab里面申了很多大额funding 需要找人完成, 是老板们同意的, 我在项目proposal里面, 这点我认为还算合理, 导师肯定是同意过的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 643,
+      "at_to": 672,
+      "from_paragraphs": [
+        {
+          "content_hash": "00e91c9b1f1b8d44",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 再往后还有呢，他这事之后做的paper，也禁不起查\u000b旁观者视角：关于paper造假确实不能乱指责，毕竟很多都“辟谣”了，咱也不好说，但这位同学的paper可不是一两篇，我复现过他早年仿真的2篇论文，都是不太work的，这不算造假，但是很难评啊"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2c539334816b67e6",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 知情人评价, 王鹤告的是一个叫songlin wei的人, 不是horan, 但是是他们一块的paper 旁观者视角：关于paper造假确实不能乱指责，毕竟很多都“辟谣”了，咱也不好说，但这位同学的paper可不是一两篇，我复现过他早年仿真的2篇论文，都是不太work的，这不算造假，但是很难评啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 664,
+      "at_to": 693,
+      "from_paragraphs": [
+        {
+          "content_hash": "a88962210553ce0d",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你公司api@somastacks.com这个邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a228adaf5e9c283",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你公司邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 668,
+      "at_to": 697,
+      "from_paragraphs": [
+        {
+          "content_hash": "ac0059df7a50ae3e",
+          "style": "NORMAL_TEXT",
+          "text": "有种叫你耿哥自己来rebuttal啊？自己躲着派intern洗，怕什么呢，耿浩然？？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ce47eb73544e6bf4",
+          "style": "NORMAL_TEXT",
+          "text": "有种叫你耿哥自己来rebuttal啊？自己躲着intern洗，怕什么呢，耿浩然？？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1303,
+      "paragraphs": [
+        {
+          "content_hash": "34df6bca066ce073",
+          "style": "NORMAL_TEXT",
+          "text": "作为（前）组内成员来说一说，楼上不实消息多。总的来说，tuo老师为人极好。关于面试很凶：面试轻声细语地跟我讲了一个小时，没看出来凶。关于出路：tuo老师学术和工业界资源都很多，本科生和phd都有极好的出路，就我观察到的几个样本都能去很好的工业界lab或者academia。关于骂人声音大：从来没见过他骂人。他那门口确实有个白板和桌子，讨论问题确实走廊上就能听到。关于性格特点：tuo老师为人坦率（太坦率了），喜欢网上冲浪，人非常和蔼可亲。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1497,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2dfaefaadd143059",
+          "style": "NORMAL_TEXT",
+          "text": "Emory Liang Zhao"
+        },
+        {
+          "content_hash": "a84a0f4c6936b83c",
+          "style": "NORMAL_TEXT",
+          "text": "听说有瓜 打个窝"
+        },
+        {
+          "content_hash": "ff64525c2012292f",
+          "style": "NORMAL_TEXT",
+          "text": "和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引，一个学生一年能刷100篇。然后iclr开盒发现自己用ai写10、20条weakness，oa拉最低conf拉满。学术毒瘤"
+        },
+        {
+          "content_hash": "6161c71f59b0fa1a",
+          "style": "NORMAL_TEXT",
+          "text": "爱写survey？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1513,
+      "paragraphs": [
+        {
+          "content_hash": "941926a080b387cb",
+          "style": "NORMAL_TEXT",
+          "text": "Princeton Mengdi Wang"
+        },
+        {
+          "content_hash": "7b077e9fe92b9f31",
+          "style": "NORMAL_TEXT",
+          "text": "招非常多intern，夫妻店"
+        },
+        {
+          "content_hash": "637135eada0b1b32",
+          "style": "NORMAL_TEXT",
+          "text": "单纯好奇 mengdi老公是谁（congle)"
+        },
+        {
+          "content_hash": "d0d72aec3fe341b5",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个西工大本科，北大博后，抢一作成瘾，去年被xhs狂喷（这位哥别删了，北大人尽皆知你）"
+        },
+        {
+          "content_hash": "530787e1c65eec2e",
+          "style": "NORMAL_TEXT",
+          "text": "合作过，相处下来我觉得王老师人非常好，只是真的很忙"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9fa5c59c4c4465c0",
+          "style": "NORMAL_TEXT",
+          "text": "Princeton Zhuang Liu"
+        },
+        {
+          "content_hash": "364281c354774546",
+          "style": "NORMAL_TEXT",
+          "text": "AP 第一年就有学生quit了吧（听说不是quit，是换导师？）"
+        },
+        {
+          "content_hash": "8f2b5d604930adaf",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很差 几乎没有拿到offer的 没return任何人 （没合作过，但是知道几个他的intern申请情况都不错？虽然没return是真的）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b3eee2368fd3bf20",
+          "style": "NORMAL_TEXT",
+          "text": "蹲princeton别的瓜🥺"
+        },
+        {
+          "content_hash": "b34a833c8e76952b",
+          "style": "NORMAL_TEXT",
+          "text": "想问的人留下老师名字"
+        },
+        {
+          "content_hash": "86b6e734a2a31aa9",
+          "style": "NORMAL_TEXT",
+          "text": "想知道Olga Russakovsky的瓜，为啥代表作是ImageNet Challenge，但是ImageNet是Deng Jia弄的。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c6a4186e86b5981f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有Columbia的瓜，求求🥺"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "047880d228ad6610",
+          "style": "NORMAL_TEXT",
+          "text": "有没有Stanford的瓜，求求🥺"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ca6200bb5472e84a",
+          "style": "NORMAL_TEXT",
+          "text": "有没有老杭二人知道某 stanford phd 姐的故事（时代的眼泪了都……当时利益相关者真的没气晕吗，作弊者去了stanford美美读phd）（zwj? 很有名了hh）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "961b6c1d944e9b52",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford Shuran Song"
+        },
+        {
+          "content_hash": "b8104f5d21642700",
+          "style": "NORMAL_TEXT",
+          "text": "往事已成过去，但Shuran确实是一位非常优秀的教授。Fisher Yu的学生与她的学生在幸福感上的差异，足以说明过去那场风波中究竟是谁出了问题。"
+        },
+        {
+          "content_hash": "6b427cc1fca8268c",
+          "style": "NORMAL_TEXT",
+          "text": " (shuran现在对学生还不错吧 有机会上红榜吧）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a62177d493cb3f80",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford Jiajun Wu"
+        },
+        {
+          "content_hash": "d8ff1538bdae8fb0",
+          "style": "NORMAL_TEXT",
+          "text": "（听说有瓜）"
+        },
+        {
+          "content_hash": "5c7c908add7c4e6d",
+          "style": "NORMAL_TEXT",
+          "text": "认识前后两届在他那里暑研的人，回来人都不好了，一个直接去工业界了（已经有多篇一作的，大家都觉得很强），还有一个据说拿了黑推"
+        },
+        {
+          "content_hash": "8281584cf6c9e795",
+          "style": "NORMAL_TEXT",
+          "text": "道听途说就不要瞎黑了，谢谢！本人在jiajun组里做过暑研，是科研进步最快的一段时间了。老师人非常nice。我们这一届申请的也非常不错"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0cd42f131c846d0c",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun老师人本身非常nice，对学术也非常严格，非常supportive，很多同学去向都非常不错，如果对自己有信心准备return stanford的同学非常推荐到他那里暑研，他的信毫无疑问也是非常有含金量的，就算没有return 也会积极推荐到top 10 其他学校，但不可否认和jiajun 老师work 需要讲究一些技巧，认识有些同学在jiajun组里面做的一般但是到工业界或者其他老师那边可以做的非常好，anyway，jiajun老师是很好的老师，但不一定适合100%所有人。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "411f8baf22e7769d",
+          "style": "NORMAL_TEXT",
+          "text": "真别刻板印象，本人在 Jiajun 组做过暑研，那一年 intern 最后申请保底 top10。Jiajun 在申请上是非常非常 supportive 的，暑假结束前（如果 intern 没主动约他）会主动约 intern 聊申请。会提前很久主动发邮件问你要交哪些信。本人恰好赶上了他在 5 分钟内给我交了十几封信（我自己一个一个点开都不止 5 分钟，也不知道他怎么搞的，泪目了）。基本上 Jiajun 的 intern 只要暑研结束能 result in 一篇 iclr/icra/cvpr 申请就稳了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1553,
+      "at_to": 1538,
+      "from_paragraphs": [
+        {
+          "content_hash": "7c0cb64eab5ee04a",
+          "style": "NORMAL_TEXT",
+          "text": "grumpy"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cb57e91318b936a2",
+          "style": "NORMAL_TEXT",
+          "text": "Grumpy 懂得都懂"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1556,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1550,
+      "paragraphs": [
+        {
+          "content_hash": "2a4bbf66686a95f9",
+          "style": "NORMAL_TEXT",
+          "text": "极其严格，如果对自己的智商和身体没有绝对自信建议不要有太多交集"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1680,
+      "at_to": 1665,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f28b725713ff6fda",
+          "style": "NORMAL_TEXT",
+          "text": "Mbzuai Di Wang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1706,
+      "at_to": 1691,
+      "from_paragraphs": [
+        {
+          "content_hash": "fcb77dfeeb7bec56",
+          "style": "NORMAL_TEXT",
+          "text": "组里有著名西交少年班出身的xhs学术女网红(Blue whale?)，论文stpami是被送的，学术能力为0，人是最mean的有人d她的小红书真的很经典）（4篇tpami还卖课学量化，能看出来这人实力是啥样了😅）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f522363f4b04ee20",
+          "style": "NORMAL_TEXT",
+          "text": "组里有著名西交少年班出身的xhs学术女网红(Blue whale?)，论文是中不了的，tpami是被送的，学术能力为0，人是最mean的有人d她的小红书真的很经典）（4篇tpami还卖课学量化，能看出来这人实力是啥样了😅）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1770,
+      "at_to": 1755,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc62272880ef866f",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）(may人很友善的，可以很平等地交流沟通)（may的中文有时候有歧义导致误会hh，我觉得还是善解人意的吧）（可能前面的人没见过她不稳定的时候，反正很恐怖，虽然她事后有道歉）（前面那个我知道你是谁了笑死hh）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "818045b8477d7b42",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）(may人很友善的，可以很平等地交流沟通)（may的中文有时候有歧义导致误会hh，我觉得还是善解人意的吧）（可能前面的人没见过她不稳定的时候，反正很恐怖，虽然她事后有道歉）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1918,
+      "at_to": 1903,
+      "from_paragraphs": [
+        {
+          "content_hash": "31d7205a61d23560",
+          "style": "NORMAL_TEXT",
+          "text": "导师离婚三次，手底下一堆学生集体抢intern一作，(吃瓜好不热闹)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cb69355114087101",
+          "style": "NORMAL_TEXT",
+          "text": "离婚三次，手底下一堆学生集体抢intern一作，(吃瓜好不热闹)"
+        },
+        {
+          "content_hash": "f8910ad127667ebe",
+          "style": "NORMAL_TEXT",
+          "text": "私下很喜欢chui bi"
+        }
+      ]
+    }
+  ]
+}
