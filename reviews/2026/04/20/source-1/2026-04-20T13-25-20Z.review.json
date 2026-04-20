@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-25-20Z.delta.json",
+  "delta_ts": "2026-04-20T13-25-20Z",
+  "reviewed_at_utc": "2026-04-20T13:26:08Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Contains personal insults directed at critics including '小丑🤡一个' (clown), '破防了孩子' (triggered/butthurt), and '你是来找爹妈还是来找导师的？', which constitute pure personal attacks rather than substantive criticism of advising practices.",
+      "excerpt": "小丑🤡一个，大家都不理你不代表你可以一直乱咬人...你是来找爹妈还是来找导师的？"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of substantive claims regarding a professor's inappropriate relationship with their PhD advisor and faculty warnings to prospective students, appearing to suppress specific observations about an advisor rather than performing cleanup.",
+      "excerpt": "曾和phd导师搞暧昧\n（今年phd选offer就有国内的faculty 劝退）（去年也有）"
+    }
+  ],
+  "prompt_sha256": "d9b64979315a267146c59694d0cd01a2d7767630b8fc65c71ca344f73aabf8dd",
+  "finish_reason": "stop",
+  "completion_tokens": 4715
+}

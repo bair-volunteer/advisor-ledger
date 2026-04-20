@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T13-25-20Z",
+  "reviewed_at_utc": "2026-04-20T13:26:25Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 17,
+  "pairs": [
+    {
+      "ghost_hash": "19c756da05b195f6",
+      "insert_hash": "19c756da05b195f6",
+      "note": "identical text",
+      "ghost_text": "pieter, jitendra不知道有这么多intern和startup的存在",
+      "insert_text": "pieter, jitendra不知道有这么多intern和startup的存在"
+    },
+    {
+      "ghost_hash": "693ffaf2f11560df",
+      "insert_hash": "3ca0469b182cc1c8",
+      "note": "added teacher responsibility question",
+      "ghost_text": "纯路人吃瓜： 看本人发言，动不动让学生自己反思，PUA话术习惯了？中东一家独大也是nb",
+      "insert_text": "纯路人吃瓜： 看本人发言，动不动让学生自己反思，PUA话术习惯了？老师自己没有半点责任不反思一下自己？中东一家独大也是nb"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2189,
+  "skipped_reason": null
+}

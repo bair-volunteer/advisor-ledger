@@ -1,0 +1,209 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-23-10Z",
+    "revision_id": "AMHacu4aQFJ8yOjRCm1OYilqGyBe5tQqdAGpS8nFeJ28eLN1kSiNOA9BO77UnYq2yBuu84W7UaYit-mTswcSGvVWiw",
+    "paragraph_count": 1867
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-25-20Z",
+    "revision_id": "AMHacu42wDG6EIdJsWxW5rZeqVafOW2JuU6kGB7MTAXbJieqMgeRkNY3pz5FZfdP_n12KKbufUop2yXgV_wqp5oaiQ",
+    "paragraph_count": 1884
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 5,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0027,
+    "insertion_ratio": 0.0117
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 559,
+      "paragraphs": [
+        {
+          "content_hash": "0b0ada0819358995",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+        },
+        {
+          "content_hash": "a23cc1a8abf33b92",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）"
+        },
+        {
+          "content_hash": "329d7e127334b486",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）"
+        },
+        {
+          "content_hash": "b46801d3f7383a67",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？） （不属实，王老师认可COLM等会议）"
+        },
+        {
+          "content_hash": "bd93891ea90fee4e",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在和王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+        },
+        {
+          "content_hash": "7d3a40bbef658879",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）（不属实，王老师向来建议学生开源代码）"
+        },
+        {
+          "content_hash": "21996038250370b2",
+          "style": "NORMAL_TEXT",
+          "text": "ICLR投稿无数篇，榜上有名，且全是低分（兄弟你iclr多少分我倒要看看，全是低分怎么中稿这么多？自己没写出来破防了？）"
+        },
+        {
+          "content_hash": "7146c21da1ef8f45",
+          "style": "NORMAL_TEXT",
+          "text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换（666，和几个学术上的好友在会议上交流算舔，黑的没招了吧）"
+        },
+        {
+          "content_hash": "f6eb5dcaacc796a1",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生字就写的，你自己活做的怎么样心里有点数）"
+        },
+        {
+          "content_hash": "18f71bb6b08a8c11",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？(说这句话百分百不了解组里情况，纯乐子)"
+        },
+        {
+          "content_hash": "1e5e39520f4b9125",
+          "style": "NORMAL_TEXT",
+          "text": "（王老师对学生肯定是没得说的，相当关心学生就业，并且会给合子作学生带小礼物）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0a8520d15a4ec3ac",
+          "style": "NORMAL_TEXT",
+          "text": "UWashington Sumit Roy"
+        },
+        {
+          "content_hash": "4317e3113f85a7dd",
+          "style": "NORMAL_TEXT",
+          "text": "聽說不讓學生發Paper只能寫Proposal"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 586,
+      "paragraphs": [
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 572,
+      "paragraphs": [
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 574,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1421,
+      "at_to": 1436,
+      "from_paragraphs": [
+        {
+          "content_hash": "ddee0d0b7b030b36",
+          "style": "NORMAL_TEXT",
+          "text": "曾和phd导师搞暧昧"
+        },
+        {
+          "content_hash": "8ed96518b6701b98",
+          "style": "NORMAL_TEXT",
+          "text": "（今年phd选offer就有国内的faculty 劝退）（去年也有）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1560,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "cb51a1bd38829334",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Kwabena Bediako"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1604,
+      "at_to": 1621,
+      "from_paragraphs": [
+        {
+          "content_hash": "693ffaf2f11560df",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人吃瓜： 看本人发言，动不动让学生自己反思，PUA话术习惯了？中东一家独大也是nb"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3ca0469b182cc1c8",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人吃瓜： 看本人发言，动不动让学生自己反思，PUA话术习惯了？老师自己没有半点责任不反思一下自己？中东一家独大也是nb"
+        }
+      ]
+    }
+  ]
+}
