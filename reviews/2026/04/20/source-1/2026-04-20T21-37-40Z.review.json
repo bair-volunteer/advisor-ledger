@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-37-40Z.delta.json",
+  "delta_ts": "2026-04-20T21-37-40Z",
+  "reviewed_at_utc": "2026-04-20T21:38:20Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Real full name of student (Ding Yufei) disclosed alongside institutional affiliation (PKU) and personal relationship context, potentially de-anonymizing the individual",
+      "excerpt": "ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Profanity/insult ('脑残' meaning brain-dead/idiot) directed at professor without substantive criticism of advising practices",
+      "excerpt": "yue是脑残吗?"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive complaint about specific advisor (Junjie Hu) regarding time management and reliability, appearing to suppress legitimate observation rather than perform cleanup",
+      "excerpt": "UW-Madison Junjie Hu\n  鱼王，前一秒说好，后一秒直接玩消失，毫无时间观念"
+    }
+  ],
+  "prompt_sha256": "7f02533c85719a74ac97c75dddafc752843305315de4619e37808380d9892355",
+  "finish_reason": "stop",
+  "completion_tokens": 3772
+}
