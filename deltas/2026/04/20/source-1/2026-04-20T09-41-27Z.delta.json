@@ -1,0 +1,132 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T09-39-22Z",
+    "revision_id": "AMHacu5Ofe-in-s8f07pukEbEfCL_BXOvZwnZf0-3tifQkGTfW31FbSwjNkvCyBl_VxSPiNL-E42meIzUjjGnmXeFQ",
+    "paragraph_count": 1475
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T09-41-27Z",
+    "revision_id": "AMHacu69hbTlLdPN-LsHq1eUr3JHKnSBxa-KKXVK_mZt4EsADladtVWYIsYdhcLxzOwDtBystmRa9M3uazQIQ3dZIw",
+    "paragraph_count": 1476
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 5,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0034,
+    "insertion_ratio": 0.0041
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 203,
+      "at_to": 203,
+      "from_paragraphs": [
+        {
+          "content_hash": "809a1bfbdd994757",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0b67e164a3f2ea8f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟..."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 225,
+      "at_to": 225,
+      "from_paragraphs": [
+        {
+          "content_hash": "f8d8642d5683471c",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) Feishi Wang Charlie Cheng 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c6be7917f082bb51",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) Feishi Wang Charlie Cheng 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）来"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 294,
+      "at_to": 294,
+      "from_paragraphs": [
+        {
+          "content_hash": "116add451f908a49",
+          "style": "NORMAL_TEXT",
+          "text": "（6666）（6666）（已取餐😋😋）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "671259df95e61847",
+          "style": "NORMAL_TEXT",
+          "text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了）（6666）（6666）（已取餐😋😋）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 697,
+      "at_to": 697,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f8ef51f76883c8fd",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Fan Lai"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 873,
+      "at_to": 873,
+      "from_paragraphs": [
+        {
+          "content_hash": "52c88aa380a0f1d1",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Manling Li （存在争议，请谨慎辨别）许多内容已被控评 (有什么不好的?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cfb2619d7ea98036",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Manling Li （存在争议，请谨慎辨别）许多内容已被控评"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1402,
+      "paragraphs": [
+        {
+          "content_hash": "6f28e72f2f10880d",
+          "style": "NORMAL_TEXT",
+          "text": "纯c's"
+        }
+      ]
+    }
+  ]
+}

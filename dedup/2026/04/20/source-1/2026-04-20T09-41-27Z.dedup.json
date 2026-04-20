@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T09-41-27Z",
+  "reviewed_at_utc": "2026-04-20T09:42:31Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 6,
+  "pairs": [
+    {
+      "ghost_hash": "f8d8642d5683471c",
+      "insert_hash": "c6be7917f082bb51",
+      "note": "Extended with clarification",
+      "ghost_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) Feishi Wang Charlie Cheng 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?",
+      "insert_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) Feishi Wang Charlie Cheng 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）来"
+    },
+    {
+      "ghost_hash": "116add451f908a49",
+      "insert_hash": "671259df95e61847",
+      "note": "Added context prefix",
+      "ghost_text": "（6666）（6666）（已取餐😋😋）",
+      "insert_text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了）（6666）（6666）（已取餐😋😋）"
+    },
+    {
+      "ghost_hash": "52c88aa380a0f1d1",
+      "insert_hash": "cfb2619d7ea98036",
+      "note": "Removed parenthetical question",
+      "ghost_text": "NWU Manling Li （存在争议，请谨慎辨别）许多内容已被控评 (有什么不好的?)",
+      "insert_text": "NWU Manling Li （存在争议，请谨慎辨别）许多内容已被控评"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2581,
+  "skipped_reason": null
+}
