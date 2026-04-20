@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T10-15-50Z",
+  "reviewed_at_utc": "2026-04-20T10:16:48Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 3,
+  "n_inserts": 25,
+  "pairs": [
+    {
+      "ghost_hash": "f4c48f88e00f9434",
+      "insert_hash": "a6772511ac8d15ed",
+      "note": "removed '也不太看学校' at end",
+      "ghost_text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是没pub的，也不太看学校）",
+      "insert_text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是没pub的）"
+    },
+    {
+      "ghost_hash": "29625e59f5fd3d6a",
+      "insert_hash": "6cc16abff3d8b02c",
+      "note": "removed '对intern的' qualifier",
+      "ghost_text": "（下面所有对intern的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）",
+      "insert_text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2680,
+  "skipped_reason": null
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-15-50Z.delta.json",
+  "delta_ts": "2026-04-20T10-15-50Z",
+  "reviewed_at_utc": "2026-04-20T10:16:27Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Reference to a specific student using relationship descriptor ('ghr的npy' implying the professor's girlfriend) that de-anonymizes the individual, combined with discussion of specific students' private admission outcomes and recommendation letter details",
+      "excerpt": "不就是ghr的npy吗？"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment attacking the poster's motives by attributing the criticism to personal failure in PhD admissions",
+      "excerpt": "我猜你就是没申请好的, 来着黑吧兄弟"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of substantive observation regarding low research involvement ('感觉科研的参与程度不高') without replacement, appearing to suppress legitimate criticism rather than cleanup",
+      "excerpt": "感觉科研的参与程度不高"
+    }
+  ],
+  "prompt_sha256": "a23fada34bbe5f444d9e940e5559aa4727b0d399cce9b50caafff994ad71a1e0",
+  "finish_reason": "stop",
+  "completion_tokens": 3843
+}

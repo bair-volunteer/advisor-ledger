@@ -1,0 +1,307 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T10-05-10Z",
+    "revision_id": "AMHacu7EMfAFiJpNt7rllhoagSJs9x9MWBB4L74OlqFipzCserH68qX_i84cgk85tb-Bahgw0O1I6gJmqJgmmKyiXg",
+    "paragraph_count": 1466
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T10-15-50Z",
+    "revision_id": "AMHacu6rR0s8f1s8Mj2xK5HyoTrve5R4IeMcsaAMimurzKN7fAYOe_ntgC9SRVe-DrHF2hRt4mclLrabq-NP1sUwaw",
+    "paragraph_count": 1506
+  },
+  "summary": {
+    "inserted_paragraphs": 43,
+    "deleted_paragraphs": 3,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.002,
+    "insertion_ratio": 0.0286
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 42,
+      "paragraphs": [
+        {
+          "content_hash": "19be8dbbafdc9944",
+          "style": "NORMAL_TEXT",
+          "text": "尝试claim 转组学生一篇毫不相关的文章，并threaten legal action without any evidence"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 226,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        },
+        {
+          "content_hash": "354116970b8cc266",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？)"
+        },
+        {
+          "content_hash": "18a52f472a4ba3dd",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人” (没和我说过) （那你更惨patpat）"
+        },
+        {
+          "content_hash": "7041f5db35fdfa47",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假"
+        },
+        {
+          "content_hash": "39d148bed8e12be3",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "369eee4665b13a12",
+          "style": "NORMAL_TEXT",
+          "text": "Xs haoran这是得罪哪个intern了 吃瓜 (你应该问没得罪哪个intern)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bebc7f82ed3aee71",
+          "style": "NORMAL_TEXT",
+          "text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1e1af6706d3752b9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d57596298710a597",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我BAIR phd，我不知道haoran到底有多少intern，但他的intern去年暑假至少有10个人占了BAIR其他phd的工位（同，证实这一点）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f87b3ce24ea93d6c",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了吗?"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bf8c02ef890ff7a1",
+          "style": "NORMAL_TEXT",
+          "text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况..."
+        },
+        {
+          "content_hash": "95e056270a3197c0",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 236,
+      "at_to": 269,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b85ba6589f50bdc",
+          "style": "NORMAL_TEXT",
+          "text": "感觉科研的参与程度不高"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 271,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "438ec1938ee13a91",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haiwen F"
+        },
+        {
+          "content_hash": "ea7b138dd61209d8",
+          "style": "NORMAL_TEXT",
+          "text": "读着书开公司, 不好好合作"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 846,
+      "at_to": 882,
+      "from_paragraphs": [
+        {
+          "content_hash": "f4c48f88e00f9434",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是没pub的，也不太看学校）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a6772511ac8d15ed",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是没pub的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 857,
+      "at_to": 893,
+      "from_paragraphs": [
+        {
+          "content_hash": "29625e59f5fd3d6a",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有对intern的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6cc16abff3d8b02c",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1113,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "411f8baf22e7769d",
+          "style": "NORMAL_TEXT",
+          "text": "真别刻板印象，本人在 Jiajun 组做过暑研，那一年 intern 最后申请保底 top10。Jiajun 在申请上是非常非常 supportive 的，暑假结束前（如果 intern 没主动约他）会主动约 intern 聊申请。会提前很久主动发邮件问你要交哪些信。本人恰好赶上了他在 5 分钟内给我交了十几封信（我自己一个一个点开都不止 5 分钟，也不知道他怎么搞的，泪目了）。基本上 Jiajun 的 intern 只要暑研结束能 result in 一篇 iclr/icra/cvpr 申请就稳了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
