@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-48-30Z.delta.json",
+  "delta_ts": "2026-04-20T19-48-30Z",
+  "reviewed_at_utc": "2026-04-20T19:49:17Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies spouse of professor by name 'congle' and adds personal name '乐乐', exposing private family information about non-public individuals",
+      "excerpt": "mengdi老公是谁（congle) 乐乐"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported allegation of sexual relationship with PhD advisor, constituting personal attack rather than criticism of advising practices",
+      "excerpt": "和自己博士老板搞也是真的？"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Allegation that female teacher advanced via inappropriate relationship with postdoc supervisor, constituting unsupported personal attack",
+      "excerpt": "有个女老师靠和白男博后老板na"
+    }
+  ],
+  "prompt_sha256": "5f992fdc26744fa6a99e08285c4edd9a82dfbd58e7c49a0d08157b89189dd50a",
+  "finish_reason": "stop",
+  "completion_tokens": 4583
+}

@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T19-48-30Z",
+  "reviewed_at_utc": "2026-04-20T19:49:46Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 9,
+  "pairs": [
+    {
+      "ghost_hash": "0a6b3afe102576c7",
+      "insert_hash": "6e131ce6f993f022",
+      "note": "nü shen clarified to 女生谨慎考虑吧",
+      "ghost_text": "见过他本人 只能说很神奇 nü shen",
+      "insert_text": "见过他本人 只能说很神奇 女生谨慎考虑吧"
+    },
+    {
+      "ghost_hash": "637135eada0b1b32",
+      "insert_hash": "5471f6ad1ac3e529",
+      "note": "added 乐乐, same question",
+      "ghost_text": "单纯好奇 mengdi老公是谁（congle)",
+      "insert_text": "单纯好奇 mengdi老公是谁（congle) 乐乐"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3738,
+  "skipped_reason": null
+}

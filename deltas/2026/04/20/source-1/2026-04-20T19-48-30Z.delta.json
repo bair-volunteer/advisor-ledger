@@ -1,0 +1,153 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-46-24Z",
+    "revision_id": "AMHacu4xd9jl7TAr5Gdh7nUcxa9GSIYRreMVibaaWmzojw83DdRhJx-fXw7aH6g1TCSq-WX8-6AymbkONpTuaAjhNQ",
+    "paragraph_count": 1993
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-48-30Z",
+    "revision_id": "AMHacu7GOI7XY1k0-swXJQSLfsZlloCsBfq0B9syEqFnx3I5Kq3XinEMDtYjdg5Xl6QLZN7_OSUqIgjQtr4d2ksqpg",
+    "paragraph_count": 1997
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 5,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0025,
+    "insertion_ratio": 0.0045
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 273,
+      "at_to": 273,
+      "from_paragraphs": [
+        {
+          "content_hash": "0a6b3afe102576c7",
+          "style": "NORMAL_TEXT",
+          "text": "见过他本人 只能说很神奇 nü shen"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e131ce6f993f022",
+          "style": "NORMAL_TEXT",
+          "text": "见过他本人 只能说很神奇 女生谨慎考虑吧"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 292,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "98226a7a5dbeb830",
+          "style": "NORMAL_TEXT",
+          "text": "A老师push是真的 但资源多也是真的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 332,
+      "at_to": 334,
+      "from_paragraphs": [
+        {
+          "content_hash": "637135eada0b1b32",
+          "style": "NORMAL_TEXT",
+          "text": "单纯好奇 mengdi老公是谁（congle)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5471f6ad1ac3e529",
+          "style": "NORMAL_TEXT",
+          "text": "单纯好奇 mengdi老公是谁（congle) 乐乐"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 358,
+      "at_to": 360,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b427cc1fca8268c",
+          "style": "NORMAL_TEXT",
+          "text": " (shuran现在对学生还不错吧 有机会上红榜吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "db97c71d77a58d02",
+          "style": "NORMAL_TEXT",
+          "text": " (shuran现在对学生还不错吧 有机会上红榜吧）老师tenure前后是两幅面孔"
+        },
+        {
+          "content_hash": "cc92dbbf700005bf",
+          "style": "NORMAL_TEXT",
+          "text": "和自己博士老板搞也是真的？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 560,
+      "paragraphs": [
+        {
+          "content_hash": "714dcf7006c041e2",
+          "style": "NORMAL_TEXT",
+          "text": "有个女老师靠和白男博后老板na"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1542,
+      "at_to": 1546,
+      "from_paragraphs": [
+        {
+          "content_hash": "51bf3c1dec8d2fb8",
+          "style": "NORMAL_TEXT",
+          "text": "态度极其傲慢 自大"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cadb783056150641",
+          "style": "NORMAL_TEXT",
+          "text": "搞政治 态度极其傲慢 自大"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1829,
+      "at_to": 1833,
+      "from_paragraphs": [
+        {
+          "content_hash": "1e7566fea9bfb6b5",
+          "style": "NORMAL_TEXT",
+          "text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push （学到了高情商表达，指导不动=还是能够给出很有insight的建议）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "98388dc612d9e135",
+          "style": "NORMAL_TEXT",
+          "text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push （学到了高情商表达，指导不动=还是能够给出很有insight的建议，不讲废话都能拿出来作为优点吗，多找别的靠谱老师合作吃点好的吧）"
+        }
+      ]
+    }
+  ]
+}
