@@ -1,0 +1,253 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-59-20Z",
+    "revision_id": "AMHacu621jULBbCasslPO0AFbntA9pHsaPvQ4RwraMGSpfUENTWva5wDthG9Wv2sJfxCEJF6HdNJKhLumqFRrS2HiQ",
+    "paragraph_count": 1419
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T09-03-50Z",
+    "revision_id": "AMHacu4gWwglKUBkmhy3AA9i6b4PhblekDSevDf9qvRJfPxW5xboPpPm0ftu-TWH_-agK0R7pB0V3g3IyWxJ3Sjpog",
+    "paragraph_count": 1421
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 13,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0092,
+    "insertion_ratio": 0.0106
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 56,
+      "at_to": 56,
+      "from_paragraphs": [
+        {
+          "content_hash": "22ebf20e7c1d55ba",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（见红榜描述），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到。四大毒王四大毒王四大毒王，多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）(这黑字太招笑了辩论被打爆了啊，我就是你所谓的eth合作过的学长，我也知道所谓那些空穴来风，说白了确实他以前有点push上压力呗，说来说去就这一句但是其他方向确实没得说啊，这里本来就是让大家一起评价分享信息的，你在这最后来一句人家是bb真的太好笑了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eef1df1e637d8315",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（见红榜描述），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到。四大毒王四大毒王四大毒王，多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）(这黑字太招笑了辩论被打爆了啊，我就是你所谓的eth合作过的学长，我也知道所谓那些空穴来风，说白了确实他以前有点push上压力呗，说来说去就这一句但是其他方向确实没得说啊，这里本来就是让大家一起评价分享信息的，你在这最后来一句人家是bb真的太好笑了，收收爹味ok？没逻辑的乱喷只会显得你越来越像小丑)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 185,
+      "paragraphs": [
+        {
+          "content_hash": "2069b7aa74232f1f",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "4337d5fc43b31528",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友，让人怀疑是否有利益交换。"
+        },
+        {
+          "content_hash": "8f7ea9c996926ab1",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 189,
+      "paragraphs": [
+        {
+          "content_hash": "c2ce6caf561cc2e0",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天 phd jiageng mao 没水平 一个人带十几个intern啥都做不出来 只想着水论文"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 732,
+      "at_to": 728,
+      "from_paragraphs": [
+        {
+          "content_hash": "9a0d347be5523b5c",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度长时间骂人，每句话都带 个亲戚那种，骂哭骂跑过几个学生。（据说开会有其他组的人在会收敛一些）之前招学生进来全部 ta 被学校警告过不知道真假  （前面一点也就跑了一个学生，后面一点也就是最近funding大家都知道很紧张，被砍了一些funding, 所以低年级的要多做做ta, ucsb ta压力没那么大，普遍5h/week, 除了极个别课。一个几乎不花时间的ta v.s. 做ra, 然后funding pro然后关于骂人这事，现在当爹之后以及tenure之后其实好很多了，而且实话实说他骂人是真的挺希望学生好的，也是尽自己的资源去托举学生。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7ea2b6d830774204",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度长时间骂人，每句话都带 个亲戚那种，骂哭骂跑过几个学生。（据说开会有其他组的人在会收敛一些）之前招学生进来全部 ta 被学校警告过不知道真假  （前面一点也就跑了一个学生，后面一点也就是最近funding大家都知道很紧张，被砍了一些funding, 所以低年级的要多做做ta, ucsb ta压力没那么大，普遍<5h/week, 除了极个别课。一个几乎不花时间的ta v.s. 做ra, 然后funding project有很多限制，不觉得ta是个黑点。然后关于骂人这事，现在当爹之后以及tenure之后其实好很多了，而且实话实说他骂人是真的挺希望学生好的，也是尽自己的资源去托举学生。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 734,
+      "at_to": 730,
+      "from_paragraphs": [
+        {
+          "content_hash": "475abb898eeb72b1",
+          "style": "NORMAL_TEXT",
+          "text": "Phd面试考ai八股，压力面是真的，phd会陪着面，结束之后问也只有套话，只推荐m来，正常人别来 （常老师今年才加的coding面，事实上他还问了我们这些phd意见，当时我们就开玩笑和他讲，你小心上黑榜。回到正题，当时大家一致认为，如果这一点点压力面都坚持不了，在现在这个形势下就别想找好一点的实习。）"
+        },
+        {
+          "content_hash": "636a82d32b12a234",
+          "style": "NORMAL_TEXT",
+          "text": "又矮又丑(您这是有多帅啊，还攻击上教授长相了，而且常老师和这两点不太沾边吧)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "009932f91bd4b45b",
+          "style": "NORMAL_TEXT",
+          "text": "Phd面试考ai八股，压力面是真的，phd会陪着面，结束之后问也只有套话，只推荐m来，正常人别来 （常老师今年才加的一些coding/八股面，事实上他还问了我们这些phd意见，当时我们就开玩笑和他讲，你小心上黑榜。回到正题，当时大家一致认为，如果这一点点压力面都坚持不了，在现在这个形势下就别想找好一点的实习。）"
+        },
+        {
+          "content_hash": "8cd88860426f48c6",
+          "style": "NORMAL_TEXT",
+          "text": "又矮又丑(您这是有多帅啊，还攻击上教授长相了，而且常老师正常人长相身高，和这两点不太沾边吧)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 844,
+      "at_to": 840,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c722bcef6c92ce4",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )（这么多人怎么写推荐信）（吓哭了）（绷不住了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "03562635f2a8a96e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) （这么多人怎么写推荐信）（吓哭了）（绷不住了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 847,
+      "at_to": 843,
+      "from_paragraphs": [
+        {
+          "content_hash": "385ae35b2ba357f8",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）（\t）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4b99d009210cbe08",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，评价就是又当又立，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）（\t）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 853,
+      "paragraphs": [
+        {
+          "content_hash": "aa31dd622d6b201d",
+          "style": "NORMAL_TEXT",
+          "text": "6. 欢迎补充 （李老师你是想让我补充你自己都不知道的细节嘛）(何忆卫)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1118,
+      "at_to": 1116,
+      "from_paragraphs": [
+        {
+          "content_hash": "236d135564683e5f",
+          "style": "NORMAL_TEXT",
+          "text": "Little mentorship, few research idea, lots of pressure"
+        },
+        {
+          "content_hash": "5da73942f35bacc5",
+          "style": "NORMAL_TEXT",
+          "text": "Multiple students leave"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6610ab0dfb7469e4",
+          "style": "NORMAL_TEXT",
+          "text": "不会带学生，没idea，压力学生。说学生不行 也说不出行的方向，人菜瘾大。"
+        },
+        {
+          "content_hash": "a46bdc5cad03ec19",
+          "style": "NORMAL_TEXT",
+          "text": "科研划水。"
+        },
+        {
+          "content_hash": "5eef7406593bcd10",
+          "style": "NORMAL_TEXT",
+          "text": "对学生有意见不说，突然发难。 半年3个博士离组。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1157,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3ead240fb7dd51a2",
+          "style": "NORMAL_TEXT",
+          "text": "Waterloo Yuntian Deng"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1405,
+      "at_to": 1407,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b4a2c7dc2464b68",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家，OCRzhuan"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "73a2d2b82ec3e515",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家，OCR专家，具身智能专家，联邦学习专家，AIGC专家，da'mo'xi"
+        }
+      ]
+    }
+  ]
+}
