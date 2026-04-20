@@ -1,0 +1,215 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-48-27Z",
+    "revision_id": "AMHacu7ejCr5g-KcSxhfHuBJVwqyfu9lNue25l4SvluAXMzoErFRKEFD5Te-iseE7G_bbHig59Lswof9tSUCc8TTiw",
+    "paragraph_count": 1412
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-52-48Z",
+    "revision_id": "AMHacu6DXcjU1BJi3elDcPvilGQMpGUNN3xXLI01APRmapkdtmpfCZcXnO917ZT8OG7WpEqPOAHUACZU3pRT3-3Cnw",
+    "paragraph_count": 1413
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 10,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0071,
+    "insertion_ratio": 0.0078
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 17,
+      "at_to": 17,
+      "from_paragraphs": [
+        {
+          "content_hash": "b3c585442e8ff560",
+          "style": "NORMAL_TEXT",
+          "text": "加一个黑榜list:"
+        },
+        {
+          "content_hash": "857b737059bd39c7",
+          "style": "NORMAL_TEXT",
+          "text": "Tong(Tony) Geng, Rice University"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "014f51a464fd22f2",
+          "style": "NORMAL_TEXT",
+          "text": "加一个黑榜list:Tong(Tony) Geng, Rice University"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 57,
+      "at_to": 56,
+      "from_paragraphs": [
+        {
+          "content_hash": "5f5c88fa35cb4fed",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（见红榜描述），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到。四大毒王四大毒王四大毒王，多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "357fa72989a537c0",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（见红榜描述），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到。四大毒王四大毒王四大毒王，多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）(这黑字太招笑了辩论被打爆了啊，我就是你所谓的eth做合作的学长，我也知道所谓那些空穴来风，说白了确实)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 678,
+      "at_to": 677,
+      "from_paragraphs": [
+        {
+          "content_hash": "a542f89474800bcd",
+          "style": "NORMAL_TEXT",
+          "text": "MIT hansong"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "249d7409d5888c95",
+          "style": "NORMAL_TEXT",
+          "text": "MIT SonsonSonSoongHaaaaan"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 953,
+      "at_to": 952,
+      "from_paragraphs": [
+        {
+          "content_hash": "3db22a5376afcd54",
+          "style": "NORMAL_TEXT",
+          "text": "这个问题的谜底藏在谜面里，看起来是那篇文章的一作“听到了”加了名字的那个人的 idea"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c2fdb601c7b1f648",
+          "style": "NORMAL_TEXT",
+          "text": "这个问题的谜底藏在谜面里，在这个叙事下，那篇文章的一作（转组的人）“听到了”后来加了名字的那个人的 idea（顾老师方面的“女学生”）。虽然“女学生”的水平的确一直被人质疑，但是或许我们可以有请双方辩一辩 XD"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 956,
+      "at_to": 955,
+      "from_paragraphs": [
+        {
+          "content_hash": "e6b97fa073f86b42",
+          "style": "NORMAL_TEXT",
+          "text": "https://huaren.us/showtopic.html?topicid=3088729&fid=398 Gu教授是这里的ML大佬，把合作者逼疯了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1794fa76d98f1c3f",
+          "style": "NORMAL_TEXT",
+          "text": "https://huaren.us/showtopic.html?topicid=3088729&fid=398 Gu教授是这里的ML大佬，把合作者逼疯了 （不是说andrewng吗）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1000,
+      "paragraphs": [
+        {
+          "content_hash": "26c3de3d4f89d7d2",
+          "style": "NORMAL_TEXT",
+          "text": "羡慕她可以泡到身高两米左右的白男做老公 年龄相差了大概20岁？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1116,
+      "at_to": 1116,
+      "from_paragraphs": [
+        {
+          "content_hash": "27b21a4619f8bf48",
+          "style": "NORMAL_TEXT",
+          "text": "Little mentorship, little original idea, harsh"
+        },
+        {
+          "content_hash": "a4781c7d37df7f5f",
+          "style": "NORMAL_TEXT",
+          "text": "Multiple students leaving"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "236d135564683e5f",
+          "style": "NORMAL_TEXT",
+          "text": "Little mentorship, few research idea, lots of pressure"
+        },
+        {
+          "content_hash": "5da73942f35bacc5",
+          "style": "NORMAL_TEXT",
+          "text": "Multiple students leave"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1173,
+      "at_to": 1173,
+      "from_paragraphs": [
+        {
+          "content_hash": "b69b683b3086694d",
+          "style": "NORMAL_TEXT",
+          "text": "组里瓜很多（细说?听说 去mbzuai了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bbf3d2756f5e2500",
+          "style": "NORMAL_TEXT",
+          "text": "组里瓜很多（细说?听说 去mbzuai了，求细说)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1402,
+      "at_to": 1402,
+      "from_paragraphs": [
+        {
+          "content_hash": "96539456ae658460",
+          "style": "NORMAL_TEXT",
+          "text": "PUA+画饼之神（喜欢和她老公商讨怎么PUA），信口开河，张口就来，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b7aad43a0314b6da",
+          "style": "NORMAL_TEXT",
+          "text": "PUA+画饼之神（喜欢和她老公商讨怎么PUA），信口开河，张口就来，常常给别人许诺基本上没有兑现过（就算有代价大到要脱三层皮）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1404,
+      "paragraphs": [
+        {
+          "content_hash": "6178455f24ad86a9",
+          "style": "NORMAL_TEXT",
+          "text": "欢迎自虐狂入组，Huang老师会自上而下，自下而上，由里及外，深入浅出地教你做人的道理，学会感恩"
+        }
+      ]
+    }
+  ]
+}
