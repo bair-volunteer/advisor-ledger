@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-32-40Z.delta.json",
+  "delta_ts": "2026-04-20T02-32-40Z",
+  "reviewed_at_utc": "2026-04-20T02:33:32Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes a parenthetical defense regarding the professor's academic record (claiming she has many representative works and proper author positions), suppressing a substantive counter-argument while retaining only the critical assessment.",
+      "excerpt": "(她还是挺多代表作的吧，现在top paper还要么是一作/共一，要么是尾作)"
+    }
+  ],
+  "prompt_sha256": "eecdb389282eb9b9d13c80e5ef4145cb815dc3fcd812d998dd9faec4205fab95",
+  "finish_reason": "stop",
+  "completion_tokens": 4385
+}
