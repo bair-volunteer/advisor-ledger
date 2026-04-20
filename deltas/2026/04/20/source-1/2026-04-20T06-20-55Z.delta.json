@@ -1,0 +1,88 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-18-50Z",
+    "revision_id": null,
+    "paragraph_count": 1178
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-20-55Z",
+    "revision_id": null,
+    "paragraph_count": 1179
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 3,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0025,
+    "insertion_ratio": 0.0034
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 300,
+      "at_to": 300,
+      "from_paragraphs": [
+        {
+          "content_hash": "cb4075f82a64574b",
+          "style": "NORMAL_TEXT",
+          "text": "组里PhD"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d5813706dbfa5125",
+          "style": "NORMAL_TEXT",
+          "text": "组里PhD的Rebuttal：组里phd看了这个帖子，只想说几点：里面有些内容并不属实，也有明显带节奏、靠道听途说拼凑的部分；匿名发帖还公开他人邮箱等个人信息，更是已经越界。组里很多人只是低调、内向，不喜欢下场对线，不代表默认这些说法，更不代表没有自己的判断。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 302,
+      "at_to": 302,
+      "from_paragraphs": [
+        {
+          "content_hash": "d6d2ec3760d6b59b",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Yufei Ding"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e4e8e9e384dbfa3a",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Yufei Ding （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 330,
+      "at_to": 330,
+      "from_paragraphs": [
+        {
+          "content_hash": "6d293dd6cd6a3527",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Zhun"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c7cd839563446d06",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Zhun（存在争议，请谨慎辨别）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
