@@ -1,0 +1,560 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T09-03-50Z",
+    "revision_id": "AMHacu4gWwglKUBkmhy3AA9i6b4PhblekDSevDf9qvRJfPxW5xboPpPm0ftu-TWH_-agK0R7pB0V3g3IyWxJ3Sjpog",
+    "paragraph_count": 1421
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T09-08-14Z",
+    "revision_id": "AMHacu4eVzXcJoKWSv9Q9TLNyz4ez97b94PHYYRFFqpPpn8ooT6DjCPm87wB68ExsaOU2-ipr7XEReMlb6N5OELeZQ",
+    "paragraph_count": 1487
+  },
+  "summary": {
+    "inserted_paragraphs": 75,
+    "deleted_paragraphs": 9,
+    "operations": 15,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0063,
+    "insertion_ratio": 0.0504
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 0,
+      "at_to": 0,
+      "from_paragraphs": [
+        {
+          "content_hash": "d4e8830a71c73edf",
+          "style": "NORMAL_TEXT",
+          "text": "Purpose"
+        },
+        {
+          "content_hash": "05f8b07ec34fbe8b",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        },
+        {
+          "content_hash": "6ed2dfb0e1378de4",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+        },
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "bad2bf12a5800164",
+          "style": "NORMAL_TEXT",
+          "text": "满口谎言，没有一句实话"
+        },
+        {
+          "content_hash": "5870250e76df3843",
+          "style": "NORMAL_TEXT",
+          "text": "paper大部分是造假的"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1116077eeeef9fb7",
+          "style": "NORMAL_TEXT",
+          "text": "Purpose对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 190,
+      "paragraphs": [
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        },
+        {
+          "content_hash": "6ed2dfb0e1378de4",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+        },
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "bad2bf12a5800164",
+          "style": "NORMAL_TEXT",
+          "text": "满口谎言，没有一句实话"
+        },
+        {
+          "content_hash": "5870250e76df3843",
+          "style": "NORMAL_TEXT",
+          "text": "paper大部分是造假的"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 216,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 219,
+      "paragraphs": [
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        },
+        {
+          "content_hash": "6ed2dfb0e1378de4",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+        },
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "bad2bf12a5800164",
+          "style": "NORMAL_TEXT",
+          "text": "满口谎言，没有一句实话"
+        },
+        {
+          "content_hash": "5870250e76df3843",
+          "style": "NORMAL_TEXT",
+          "text": "paper大部分是造假的"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 191,
+      "at_to": 234,
+      "from_paragraphs": [
+        {
+          "content_hash": "857e3076d04d318b",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了 2 个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8edaa13a95a85281",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 195,
+      "at_to": 238,
+      "from_paragraphs": [
+        {
+          "content_hash": "8336d69accc42759",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup xs"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5243c2896d0a894f",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 242,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7913c738251390cc",
+          "style": "NORMAL_TEXT",
+          "text": "有种别删，在下面rebuttal"
+        },
+        {
+          "content_hash": "ae5720c2a5e278b5",
+          "style": "NORMAL_TEXT",
+          "text": "刚才那个，哪个UC Davis的老师，你敢说出来吗？Junsha"
+        },
+        {
+          "content_hash": "30f739de20aab6f6",
+          "style": "NORMAL_TEXT",
+          "text": "（Haoran Geng是真的雷，请不要没证据乱删我们的东西）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 273,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        },
+        {
+          "content_hash": "6ed2dfb0e1378de4",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+        },
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "bad2bf12a5800164",
+          "style": "NORMAL_TEXT",
+          "text": "满口谎言，没有一句实话"
+        },
+        {
+          "content_hash": "5870250e76df3843",
+          "style": "NORMAL_TEXT",
+          "text": "paper大部分是造假的"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 901,
+      "paragraphs": [
+        {
+          "content_hash": "0fae038fa8d1f34f",
+          "style": "NORMAL_TEXT",
+          "text": "在这个组当phd太爽了，都说老师人好不push，第一年还有这么多paper awards，一定是我们phd都非常非常的厉害，四大水平的都来投奔李老师了才能有这么多贡献吧！(何意味)"
+        },
+        {
+          "content_hash": "9379c083291149f6",
+          "style": "NORMAL_TEXT",
+          "text": "知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀 (哪篇intern参与的工作是\"打白工”, 请举出具体例子??)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 840,
+      "at_to": 905,
+      "from_paragraphs": [
+        {
+          "content_hash": "03562635f2a8a96e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) （这么多人怎么写推荐信）（吓哭了）（绷不住了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0703a8f089fcd46e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）（吓哭了）（绷不住了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 854,
+      "at_to": 919,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9bc15e9dfd005c30",
+          "style": "NORMAL_TEXT",
+          "text": "7. （李老师，大半夜的自己洗地不累吗？明天不用开会push我们了嘛）(河异味, 整个post下面几乎全都是你(Anonymous Pumpkin)在发, 一会儿装自己是phd一会儿说自己是intern累不累?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1116,
+      "at_to": 1181,
+      "from_paragraphs": [
+        {
+          "content_hash": "6610ab0dfb7469e4",
+          "style": "NORMAL_TEXT",
+          "text": "不会带学生，没idea，压力学生。说学生不行 也说不出行的方向，人菜瘾大。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e0e59f2c83fe7e6f",
+          "style": "NORMAL_TEXT",
+          "text": "学生得不到指导，没idea，压力学生。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1118,
+      "at_to": 1183,
+      "from_paragraphs": [
+        {
+          "content_hash": "5eef7406593bcd10",
+          "style": "NORMAL_TEXT",
+          "text": "对学生有意见不说，突然发难。 半年3个博士离组。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4cfca9f156f56eb9",
+          "style": "NORMAL_TEXT",
+          "text": "对学生有意见不进行有效沟通，突然发难。 半年3个博士离组。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1351,
+      "paragraphs": [
+        {
+          "content_hash": "af166fe30fffbddf",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1407,
+      "at_to": 1473,
+      "from_paragraphs": [
+        {
+          "content_hash": "73a2d2b82ec3e515",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家，OCR专家，具身智能专家，联邦学习专家，AIGC专家，da'mo'xi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a48a9453012ea720",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大，自诩农业专家，房地产专家，OCR专家，具身智能专家，联邦学习专家，AIGC专家，大模型专家，医疗模型专家，自动驾驶专家，数字人专家"
+        }
+      ]
+    }
+  ]
+}
