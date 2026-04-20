@@ -1,0 +1,176 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-33-19Z",
+    "revision_id": "AMHacu48EJ_37FFHqW0JV7EcJZNtKuQB926GyUFZhJuJUXFNWcGeectO6A3QWkCu82RgZBOD3-vhGljCBQTz3q6a9A",
+    "paragraph_count": 1294
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-35-20Z",
+    "revision_id": "AMHacu6Yd30W1IZQjedXQ2nHj_th2edBdgfU7DqzRRXjJZObHWEz9uncIs5v5s12yi8jg5u4sv16eOu3laLt3Kic5Q",
+    "paragraph_count": 1300
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 6,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0046,
+    "insertion_ratio": 0.0092
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 53,
+      "at_to": 53,
+      "from_paragraphs": [
+        {
+          "content_hash": "a3ce5e71a2d29ce3",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给一个人写了最强推，你不要告诉别人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "80044002e3718928",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 323,
+      "at_to": 326,
+      "from_paragraphs": [
+        {
+          "content_hash": "8582eec8cfb7377c",
+          "style": "NORMAL_TEXT",
+          "text": "早期在UCSB转ML过程中非常push，圣诞节daily meeting（这个老师好勤奋）（老师主观上应该也希望过节休息陪家人吧。圣诞节一般离ICML ddl一个月以上。如果学生对自己的论文足够上心，老师怎么会愿意挑这个时间开会），消耗了好几个学生，最后投稿几十篇paper都没中几篇，后期又转会做ML for sys （这里MLsys怎么不提paper数目了？丁老师组在MLSys方向上的publication网站可查，人均数篇顶会）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0686afbc2e8ab50c",
+          "style": "NORMAL_TEXT",
+          "text": "早期在UCSB转ML过程中非常push，圣诞节daily meeting（这个老师好勤奋）（老师也希望过节休息陪家人吧。圣诞节一般离ICML ddl一个月以上。如果学生对自己的论文足够上心，感觉老师也不会愿意这个时间加班），消耗了好几个学生，最后投稿几十篇paper都没中几篇，后期又转会做ML for sys （这里MLsys也应该补充paper数目。具体publication网站可查，人均数篇顶会）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 607,
+      "at_to": 610,
+      "from_paragraphs": [
+        {
+          "content_hash": "8f4aec1176924a55",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了做不出有用的research(什么有用的research)，各种事情一个不落"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6c442983475eef1a",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了做不出有用的research(什么有用的research)，各种事情一个不落(非常supportive，组里所有PhD从一年级暑假开始就全部都有业界intern)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 747,
+      "at_to": 750,
+      "from_paragraphs": [
+        {
+          "content_hash": "b53f1e5623c4dc4a",
+          "style": "NORMAL_TEXT",
+          "text": "6. （李老师，大半夜的自己洗地不累吗？明天不用开会push我们了嘛）(整个post下面全都是你在回复, 一会儿装自己是phd一会儿说自己是intern累不累? Anonymous Kiwi?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0cbebbe2df811872",
+          "style": "NORMAL_TEXT",
+          "text": "6. （李老师，大半夜的自己洗地不累吗？明天不用开会push我们了嘛）(我就是组里phd, 整个post下面全都是你在回复, 一会儿装自己是phd一会儿说自己是intern累不累? Anonymous Pumpkin?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 906,
+      "at_to": 909,
+      "from_paragraphs": [
+        {
+          "content_hash": "a70167d5aec3d89e",
+          "style": "NORMAL_TEXT",
+          "text": "据说曾和p hd导师搞暧昧"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ddee0d0b7b030b36",
+          "style": "NORMAL_TEXT",
+          "text": "曾和phd导师搞暧昧"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 954,
+      "paragraphs": [
+        {
+          "content_hash": "3cb707bfc8d22e9a",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1039,
+      "at_to": 1043,
+      "from_paragraphs": [
+        {
+          "content_hash": "703148005076e219",
+          "style": "NORMAL_TEXT",
+          "text": "UCONN J"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "becf66a9f5451e5c",
+          "style": "NORMAL_TEXT",
+          "text": "UCONN Jonathan Shihao Ji"
+        },
+        {
+          "content_hash": "e2fc2dfdd3170f6b",
+          "style": "NORMAL_TEXT",
+          "text": "以前从GSU过来的，组内曾经有多名学生退学，非常擅长PUA，直接对学生shuo"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
