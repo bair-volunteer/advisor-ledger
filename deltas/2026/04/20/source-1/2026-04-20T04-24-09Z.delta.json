@@ -1,0 +1,148 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-22-09Z",
+    "revision_id": "AMHacu68LVRIsUKbWThDqGgwEkmsIDKi4wZ4DJw6umR5MkwuYLuK_SzUdTRAZJUB6oslmNKZ8-N9OAwd4vFuR3HUZA",
+    "paragraph_count": 1091
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-24-09Z",
+    "revision_id": "AMHacu61mUhI0abet_IK-jYOI33kGKU5cQMohYkP8yA9GubWf-MtB6Y2Ogncyi29ulqutTvM3Ca-hYT7LE4-rXvxig",
+    "paragraph_count": 1094
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 5,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0046,
+    "insertion_ratio": 0.0073
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 106,
+      "at_to": 106,
+      "from_paragraphs": [
+        {
+          "content_hash": "71b7d41384f78150",
+          "style": "NORMAL_TEXT",
+          "text": "开公司，让学生给他打工，实习要尾作 （不给任何劳务报酬？）（fake，本科生都有工资，只是偏低）（那感觉还行其实？)（公司也不是他的，而且去的学生都给了工资。也就一个印度phd去了，那人之前也没啥别的去处）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3fbf862fdc12a360",
+          "style": "NORMAL_TEXT",
+          "text": "开公司，让学生给他打工，实习要尾作 （不给任何劳务报酬？）（fake，本科生都有工资，只是偏低）（那感觉还行其实？)（公司也不是他的，而且去的学生都给了工资。也就一个印度phd去了，那人之前也没啥别的去处。而且他在公司也是在做research，后面靠这个还中了好几篇，他本人还挺满意的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 151,
+      "at_to": 151,
+      "from_paragraphs": [
+        {
+          "content_hash": "6159ebbcc0917901",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b3f635724e71ae76",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）(聊天记录为真，约炮未被证实，请大家理性吃瓜。)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 426,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 427,
+      "at_to": 428,
+      "from_paragraphs": [
+        {
+          "content_hash": "fd32eb60f02778f6",
+          "style": "NORMAL_TEXT",
+          "text": "看来陈老师是一直在盯着这个google doc的，刚刚明明看到他名字了然后就莫名其妙消失了，那我来补充一下吧"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "368e1af6f8fe024b",
+          "style": "NORMAL_TEXT",
+          "text": "看来陈老师是一直在盯着这个google doc的，刚刚明明看到他名字了然后就莫名其妙消失了，那我来补充一下吧（笑死了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 921,
+      "at_to": 922,
+      "from_paragraphs": [
+        {
+          "content_hash": "1bbd7c6595e0151d",
+          "style": "NORMAL_TEXT",
+          "text": "UofT Bo Wang （想听瓜）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6bc4c54ff1c11f28",
+          "style": "NORMAL_TEXT",
+          "text": "UofT Bo Wang （想听瓜）（细说"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1014,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1017,
+      "at_to": 1019,
+      "from_paragraphs": [
+        {
+          "content_hash": "523c7837d949b0f7",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习 top组找你不让去 只让你去他谈的垃圾项目 钱都到他自己手里"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "98ee684d5a1c3ade",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习 顶组找你不让去 只让你去他谈的垃圾项目 钱都到他自己手里"
+        },
+        {
+          "content_hash": "d79edce580b89bd9",
+          "style": "NORMAL_TEXT",
+          "text": "根本不懂科研"
+        }
+      ]
+    }
+  ]
+}
