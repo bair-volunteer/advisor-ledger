@@ -1,0 +1,537 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-59-22Z",
+    "revision_id": "AMHacu7yJqYQEx2XINp_WYJ4L5EGmFX3_Hr-o9cjqXq11TloFtQbYzh9n2ehj9YlTpoG7ETuArnRG_KAKpmwc_iV8g",
+    "paragraph_count": 1219
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-03-33Z",
+    "revision_id": "AMHacu7fM87YvVRKIFAPYauqKrBbeFFRUtJj0vPCTYPIdlbk0eMdgCqAzYY-zeUBRg6BU-8eUtBpe-ADZbEMh3Di-A",
+    "paragraph_count": 1224
+  },
+  "summary": {
+    "inserted_paragraphs": 35,
+    "deleted_paragraphs": 30,
+    "operations": 22,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0246,
+    "insertion_ratio": 0.0286
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 34,
+      "at_to": 34,
+      "from_paragraphs": [
+        {
+          "content_hash": "79be1fb62b2fd64e",
+          "style": "NORMAL_TEXT",
+          "text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(感觉对学生hai)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6a9e196d2722d841",
+          "style": "NORMAL_TEXT",
+          "text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(相处下来感觉对学生还挺好的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 56,
+      "at_to": 56,
+      "from_paragraphs": [
+        {
+          "content_hash": "ecef712574e51b84",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（我会在红榜描述一下），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到 四大毒王四大毒王四大毒王 多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1ba271ac39bd4cf1",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（我会在红榜描述一下），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）（就凭他之前eth的破事传遍全网了，绿字一句空穴来风尬黑就不是拉偏架了？去问问以前eth的学生吧，别连这点事情都检索不到 四大毒王四大毒王四大毒王 多了解下吧）(还是同一个重点吧，不知真相不予置评，我无意反驳别人的看法，只描述客观目前的状态，大家可以有自己的观点，但至少我认为当下的状态才是对更多想了解的人更重要的的信息吧) (我也只是让大家知道之前过去的事情并不是尬黑，至于大家怎么看待他是否转变现在到底咋样，这两者并不矛盾。你可以觉得你现在的生活很舒服，但他过去的事情已经是传遍当时全网的事实，我只是看空穴来风不爽罢了。另外他在startup初期也是一样的push和toxic，你现在幸福的生活背后有多少其他人的血汗希望你有些自知。)（幸福生活 背后血汗 有些自知，有点搞笑了哈哈哈，怎么评价一下还要教育一下别人呢？还需要我们对你感恩戴德？不想争辩了，公道在人心，情绪宣泄没有任何意义）（自知指的就是让你多去了解了解，另外公道在人心太对了，去问问你导eth时期以前的学长们/intern们呗？这不比在这bb强？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 246,
+      "at_to": 246,
+      "from_paragraphs": [
+        {
+          "content_hash": "9ae74f0134320be7",
+          "style": "NORMAL_TEXT",
+          "text": "听说瓜很多（蹲一个）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e155b889f316a13",
+          "style": "NORMAL_TEXT",
+          "text": "听说瓜很多（蹲一个）(蹲)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 465,
+      "at_to": 465,
+      "from_paragraphs": [
+        {
+          "content_hash": "4dec1f9ff228f6ff",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了（去berkeley的前一年还招了个学生，也没带走，留在pton不管）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2613e391f3e18501",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了（去berkeley的前一年还招了个学生，也没带走，留在pton不管）(但是他的学生和postdoc出路还挺好的？有去MIT、Courant当AP"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 697,
+      "at_to": 697,
+      "from_paragraphs": [
+        {
+          "content_hash": "e6ba229202659690",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint几乎全是来自同一个账号Anonymous Kiwi, 应该是在组里work了但没有发出一作paper/没有好的去向从而反目成仇的intern, 大家谨慎鉴别）"
+        },
+        {
+          "content_hash": "07900642419263aa",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，return offer没接。组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？(intern和advisor永远是双向选择, 首先组里所有做出project的人一定全都给了推荐信, 没有例外, 其次有些没做出来的也给了推荐信, phd和prof有利益绑定没错, 但是由这个就揣测对intern不好是不是逻辑太跨越了? 而且照这么说难道要对intern比对phd更好才行?那是不是对phd好的老师都不是好老师了?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b395f57ab80f64c5",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给Junior学生，可以说比起以前更像是用爱发电。对于年轻老师而言，在繁忙的工作/项目压力下，还愿意额外投入时间找方向，给反馈，对于commitment很少的RA来说不是理所当然的义务。。"
+        },
+        {
+          "content_hash": "dc8b0d34ef6c783c",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint, 包括下面三条几乎全是来自同一个账号Anonymous Kiwi, 应该是在组里work了但没有发出一作paper/没有好的去向从而反目成仇的intern, 大家谨慎鉴别）"
+        },
+        {
+          "content_hash": "23b38501460df98a",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？(intern和advisor永远是双向选择, 首先组里所有做出project的人一定全都给了推荐信, 没有例外, 其次有些没做出来的也给了推荐信, phd和prof有利益绑定没错, 但是由这个就揣测对intern不好是不是逻辑太跨越了? 而且照这么说难道要对intern比对phd更好才行?那是不是对phd好的老师都不是好老师了?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 700,
+      "at_to": 701,
+      "from_paragraphs": [
+        {
+          "content_hash": "a54c454ae2c77b0e",
+          "style": "NORMAL_TEXT",
+          "text": "知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀"
+        },
+        {
+          "content_hash": "b395f57ab80f64c5",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给Junior学生，可以说比起以前更像是用爱发电。对于年轻老师而言，在繁忙的工作/项目压力下，还愿意额外投入时间找方向，给反馈，对于commitment很少的RA来说不是理所当然的义务。。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9379c083291149f6",
+          "style": "NORMAL_TEXT",
+          "text": "知道为什么有这么多给李老师洗白的吗？如果都听了你们的话，没有那么多intern打白工，这些phd怎么发文章呀，李老师怎么继续rising呀 (哪篇intern参与的工作是\"打白工”, 请举出具体例子??)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 715,
+      "at_to": 715,
+      "from_paragraphs": [
+        {
+          "content_hash": "f3d3e85a6b0d9ce8",
+          "style": "NORMAL_TEXT",
+          "text": "4. summer每周lab meeting讲research skill（这有什么用吗？骗骗自己就可以了 不用没话找话的）(那你还想怎么样? 能讲research skill还不是因为带intern hand, 知道intern需要什么skill, 能总结出training lecture? 每天给你开八个小时会你又说push?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3e07fc36b31174c9",
+          "style": "NORMAL_TEXT",
+          "text": "4. summer每周lab meeting讲research skill（这有什么用吗？骗骗自己就可以了 不用没话找话的）(那你还想怎么样? 能讲research skill还不是因为带intern, 知道intern需要什么skill, 能总结出training lecture? 每天给你开八个小时会你又说push?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 723,
+      "at_to": 723,
+      "from_paragraphs": [
+        {
+          "content_hash": "8f7304b074f21c86",
+          "style": "NORMAL_TEXT",
+          "text": "我从项目启动之初就是 co-first author，这一点在最初的分工中已经明确。在项目的24年11月，一直到次年的3月，我的职责包括与合作者讨论 idea refinement、实验设计、annotation scheme 设计（label taxonomy，如何利用camera trajectories以及其他的自动化生成的实验想法）、human annotator 对接流程，以及 benchmark analysis 的方向。"
+        },
+        {
+          "content_hash": "8d2b3ba3501e8f56",
+          "style": "NORMAL_TEXT",
+          "text": "在后续的推进过程中，我的 contribution 持续增长。具体而言，在xiang，我承担了以下工作："
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "af9b83f45d04eb56",
+          "style": "NORMAL_TEXT",
+          "text": "我从项目启动之初就是 co-first author，这一点在最初的分工中已经明确。在24年11月项目启动，一直到次年的4月，我的职责包括与合作者讨论 idea refinement、实验设计、annotation scheme 设计（label taxonomy，如何利用camera trajectories以及其他的自动化生成的实验想法）、human annotator 对接流程，以及 benchmark analysis 的方向。"
+        },
+        {
+          "content_hash": "4d58e64e648b1ccd",
+          "style": "NORMAL_TEXT",
+          "text": "在后续的推进过程中，我的 contribution 持续增长。具体而言在NeurIPS以及ICLR的paper迭代期间（25年5月至25年9月），我承担了以下工作："
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 728,
+      "at_to": 728,
+      "from_paragraphs": [
+        {
+          "content_hash": "64c5eb3771269390",
+          "style": "NORMAL_TEXT",
+          "text": "正文中绝大部分 figures 的制作"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eba3552915681972",
+          "style": "NORMAL_TEXT",
+          "text": "正文中大部分的 figures 的制作"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 747,
+      "at_to": 747,
+      "from_paragraphs": [
+        {
+          "content_hash": "0aabe4fde4f17d45",
+          "style": "NORMAL_TEXT",
+          "text": "非常push （说zhuowen push你们还是人吗，21年之后全部快乐放养随便实习一周不去lab都行没组会不强制project最晚五年毕业这还push，21之前的老登别发言了吧）（非常同意）"
+        },
+        {
+          "content_hash": "baea8bc4b2b52a1c",
+          "style": "NORMAL_TEXT",
+          "text": "走廊骂哭过本科生 （“骂”在哪儿？讲课确实烂，给分很好，本科生哭应该是承受力不行，难道哭了就无条件给高分吗）（每个学校都有这样的本科生，当过TA的都知道，想尽办法让你拉高ta的GPA）（确实）（不上课不写作业然后还要及格，有点太离谱了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d734d3c3bbe23926",
+          "style": "NORMAL_TEXT",
+          "text": "非常push （说zhuowen push你们还是人吗，很好的老板好吧）（非常同意）"
+        },
+        {
+          "content_hash": "90781afc6d47cc0b",
+          "style": "NORMAL_TEXT",
+          "text": "走廊骂哭过本科生 （“骂”在哪儿？本科生哭应该是承受力不行，难道哭了就无条件给高分吗）（每个学校都有这样的本科生，当过TA的都知道，想尽办法让你拉高ta的GPA）（确实）（不上课不写作业然后还要及格，有点太离谱了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 753,
+      "at_to": 753,
+      "from_paragraphs": [
+        {
+          "content_hash": "96a495a1f6a7785b",
+          "style": "NORMAL_TEXT",
+          "text": "真没啥好喷的吧，随便放暑期实习，学期中随便实习，无组会好毕业人nice关心学生，不知道在喷什么 （老哥细说推实习）（放实习）（给推实习吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b177bdb9dc95fbaf",
+          "style": "NORMAL_TEXT",
+          "text": "真没啥好喷的吧，随便放暑期实习，学期中随便实习，人nice关心学生，不知道在喷什么"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 799,
+      "at_to": 799,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3dc24c2cdc56bb44",
+          "style": "NORMAL_TEXT",
+          "text": "我曾直接向顾老师询问过这个事件。顾老师的视角下，这几位同学在参加顾老师的组会时，把顾老师这边组会上听到的 idea 在那个新组做了，但与此同时并没有加上顾老师这边的贡献。 - 利益无关：我不是顾老师的学生"
+        },
+        {
+          "content_hash": "cb39c997040b383a",
+          "style": "NORMAL_TEXT",
+          "text": "这个帖子无非是帮大家避雷"
+        },
+        {
+          "content_hash": "330d944fd024ed14",
+          "style": "NORMAL_TEXT",
+          "text": "，现在旧事重提无非是吃瓜群众看热闹不嫌事大。z"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 903,
+      "at_to": 905,
+      "from_paragraphs": [
+        {
+          "content_hash": "8c3719f12aced733",
+          "style": "NORMAL_TEXT",
+          "text": "听说intern申请结果最好只有uiuc ms"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "af88f19a6d00cf19",
+          "style": "NORMAL_TEXT",
+          "text": "听说intern申请结果最好只有uiuc ms（有认识intern最后去了CMU LTI PhD）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 919,
+      "at_to": 921,
+      "from_paragraphs": [
+        {
+          "content_hash": "d9566e0afdd3aced",
+          "style": "NORMAL_TEXT",
+          "text": "性压抑了http://xhslink.com/o/2KZfkRJ8GZ6"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d399be60a1ec0992",
+          "style": "NORMAL_TEXT",
+          "text": "性压抑了http://xhslink.com/o/2KZfkRJ8GZ6 (这位真是个重量级)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 982,
+      "at_to": 984,
+      "from_paragraphs": [
+        {
+          "content_hash": "af34f1feccda54e1",
+          "style": "NORMAL_TEXT",
+          "text": "不会带学生，没idea，只会压力学生。说学生不行，但是自己也说不出行的东西。"
+        },
+        {
+          "content_hash": "e6bc3eb2fa575703",
+          "style": "NORMAL_TEXT",
+          "text": "半年3个学生离组。发pip信，当面开除。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "90ecc4ee75d9689a",
+          "style": "NORMAL_TEXT",
+          "text": "不会带学生，没idea，只会压力学生，学生被压力去看心理医生。说学生不行，但是自己也说不出行的东西。"
+        },
+        {
+          "content_hash": "2cac04cd8fbd9ea5",
+          "style": "NORMAL_TEXT",
+          "text": "半年3个学生离组。发pip信，当面开除，用的都是同一套理由。"
+        },
+        {
+          "content_hash": "48dfa39303301c4a",
+          "style": "NORMAL_TEXT",
+          "text": "业界connection可以忽略不计。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 989,
+      "paragraphs": [
+        {
+          "content_hash": "76c8717131840e9e",
+          "style": "NORMAL_TEXT",
+          "text": "NJIT hao wang ()"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 991,
+      "paragraphs": [
+        {
+          "content_hash": "08647e9891664351",
+          "style": "NORMAL_TEXT",
+          "text": "NJIT hao wang (被删了？)"
+        },
+        {
+          "content_hash": "0029cb22b2004090",
+          "style": "NORMAL_TEXT",
+          "text": "老婆是在多大当TA的时候勾搭上的，违反policy，读书期间抢idea，不止一次想追同组女生，分手或失败以后暗戳戳背地里搞人，散播谣言，可以看看他的导师UofT baochun li，上梁不正下梁歪"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1016,
+      "paragraphs": [
+        {
+          "content_hash": "0beedd029e1e0c3f",
+          "style": "NORMAL_TEXT",
+          "text": "是不是有个他的女学生刚去港科任教，也有大瓜，在小红书看过，有无老哥知道的？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1051,
+      "at_to": 1052,
+      "from_paragraphs": [
+        {
+          "content_hash": "a0bee2e4f8f6d6c7",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话4篇一zuo) （可以看看其他ap比如junxina he"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54879b59166544a3",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话4篇一作2篇ACL级别的顶会吧…) （可以看看其他ap比如junxian he的profile）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1054,
+      "at_to": 1055,
+      "from_paragraphs": [
+        {
+          "content_hash": "c104b1ae9eb4acaf",
+          "style": "NORMAL_TEXT",
+          "text": "24年在xhs发帖子招intern，招了之后又鸽intern"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "04449d3617ba105d",
+          "style": "NORMAL_TEXT",
+          "text": "24年在xhs发帖子招intern，招了之后又放鸽子"
+        },
+        {
+          "content_hash": "1099da8808c8b5d3",
+          "style": "NORMAL_TEXT",
+          "text": "她从heng ji组毕业的时候，heng发了有庆祝照片的推、也更新了网站news说may要加入hkust。之后xhs有人转载了heng的推，不久之后xhs帖子、heng的推、网站更新都删了。虽然感觉这个没用的观察毫无意义但还是interesting hhh"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1143,
+      "paragraphs": [
+        {
+          "content_hash": "fefcc7728afbb87d",
+          "style": "NORMAL_TEXT",
+          "text": "HITSZ, Shuo Yang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1150,
+      "at_to": 1155,
+      "from_paragraphs": [
+        {
+          "content_hash": "84044c5124cbe4fc",
+          "style": "NORMAL_TEXT",
+          "text": "Pua学生是常态，曾暗示来实习的本科生三个月发不出ACL就退组"
+        },
+        {
+          "content_hash": "46c6fb13d6d5cf31",
+          "style": "NORMAL_TEXT",
+          "text": "日报周报不写扣工资，名义上是实验室经费，但是很多人都不写，导致大家工资基本都是不到500/月"
+        },
+        {
+          "content_hash": "0a7fb7b3b800f3b6",
+          "style": "NORMAL_TEXT",
+          "text": "之前知乎出现过黑评，自己伪装成德国ip洗白自己，并让心腹学生写洗白文"
+        },
+        {
+          "content_hash": "3cf8a08cb7ec3df6",
+          "style": "NORMAL_TEXT",
+          "text": "如果本人看见了最好别想着删 不然就把上面这些事的证据放出来"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "092260b871e8a3bc",
+          "style": "NORMAL_TEXT",
+          "text": "PUA和高压是常态，对本科实习生的KPI是三个月内出ACL，不然暗示劝退。"
+        },
+        {
+          "content_hash": "0df0e1d1f3288167",
+          "style": "NORMAL_TEXT",
+          "text": "劳务费发放设卡，用不写日报周报为由扣除大部分所谓“实验室经费”，多个人实际月入不到500。"
+        },
+        {
+          "content_hash": "cc309f376a1046c1",
+          "style": "NORMAL_TEXT",
+          "text": "之前知乎有过避雷帖，随后上演了德国IP亲自下场洗白+指派嫡系学生发文护航的戏码。 注：上述所有事情均已保留好全部实锤证据。奉劝相关人士不要尝试删帖，一旦强行公关，下一步就是直接放图放证据。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
