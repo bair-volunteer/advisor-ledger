@@ -1,0 +1,108 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-03-20Z",
+    "revision_id": "AMHacu59tg8-cMndzog4gs1JGtYXISlQ5mA-i1MyduXcIeMN8aPZwAmsX35KTznP0HD5wbP9TTOLiipSawsWNwAvhQ",
+    "paragraph_count": 540
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-07-40Z",
+    "revision_id": "AMHacu6CM4D_22ojejvCSdvD5s4awHAwi06OXsoycCo3nQ2lvTID-up6OQJNro4TNeUIzr2j-UJlfCWx6PZQk1SeaA",
+    "paragraph_count": 549
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 1,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0019,
+    "insertion_ratio": 0.0182
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 11,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4c650d06ac2654a8",
+          "style": "NORMAL_TEXT",
+          "text": "Leigh Lichao Sun"
+        },
+        {
+          "content_hash": "2c0b284ea08f32b3",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们没人喷？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 247,
+      "paragraphs": [
+        {
+          "content_hash": "0f017f5055d0d3d9",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度长时间骂人，每句话都带个亲戚那种，骂哭骂跑过几个学生。（据说开会有其他组的人在会收敛一些）"
+        },
+        {
+          "content_hash": "40f38baca2a469ae",
+          "style": "NORMAL_TEXT",
+          "text": "之前zhao xu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 347,
+      "at_to": 353,
+      "from_paragraphs": [
+        {
+          "content_hash": "0ad204a840a34a75",
+          "style": "NORMAL_TEXT",
+          "text": "真没啥好喷的吧，暑期实习保底，学期中随便实习，无组会好毕业人nice关心学生，不知道在喷什么 （老哥细说推实习）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a083fe2e47545b6a",
+          "style": "NORMAL_TEXT",
+          "text": "真没啥好喷的吧，随便放暑期实习，学期中随便实习，无组会好毕业人nice关心学生，不知道在喷什么 （老哥细说推实习）（放实习）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 532,
+      "paragraphs": [
+        {
+          "content_hash": "7133afb701175e24",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU, Jiwei Li"
+        },
+        {
+          "content_hash": "2e25887f4d1bbe00",
+          "style": "NORMAL_TEXT",
+          "text": "这人到底ZJU吗? 之前也是听说口碑烂完了。蹲一下"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
