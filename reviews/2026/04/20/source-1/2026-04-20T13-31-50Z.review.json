@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-31-50Z.delta.json",
+  "delta_ts": "2026-04-20T13-31-50Z",
+  "reviewed_at_utc": "2026-04-20T13:32:46Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of entire entry regarding Princeton professor Mengdi Wang including substantive criticism about hiring practices (夫妻店) and intern management, suggesting suppression of legitimate observations rather than cleanup.",
+      "excerpt": "Princeton Mengdi Wang\n招非常多intern，夫妻店\n单纯好奇 mengdi老公是谁（congle)\n合作过，相处下来我觉得王老师人非常好，只是真的很忙"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted unsupported personal insult targeting another commenter by modifying their identifier to include '你也太纯了' (you're too naive/pure), which is a character judgment unrelated to advising practices.",
+      "excerpt": "纯路人吃瓜（纯路人上来就是立场 你也太纯了）："
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of claim regarding inappropriate relationship between advisor and PhD student (曾和phd导师搞暧昧), potentially suppressing observation of advisor misconduct.",
+      "excerpt": "曾和phd导师搞暧昧"
+    }
+  ],
+  "prompt_sha256": "1b15ec41326e224d78675fb453f83ec5e81f2bd436ea5da9dbb0973e97b47316",
+  "finish_reason": "stop",
+  "completion_tokens": 5691
+}

@@ -1,0 +1,161 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-29-40Z",
+    "revision_id": "AMHacu784pI8AgfacDIXnQJ1sTrYo9c9JXHfLRURC-ke9jpnRh7DD2JYx1d10IK8JNpf5Yw_PWsKsiWF-oarAVpR6Q",
+    "paragraph_count": 1885
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-31-50Z",
+    "revision_id": "AMHacu7hEN9Hw4vllZ0onDd-9TvTVfU86gZjZfs3bgICbm0C3C01BBiBU0PHWshmjA6BTo0ACZo-RaFfjx7Nibo1kQ",
+    "paragraph_count": 1880
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 10,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0053,
+    "insertion_ratio": 0.0027
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 186,
+      "paragraphs": [
+        {
+          "content_hash": "ddee0d0b7b030b36",
+          "style": "NORMAL_TEXT",
+          "text": "曾和phd导师搞暧昧"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 198,
+      "paragraphs": [
+        {
+          "content_hash": "941926a080b387cb",
+          "style": "NORMAL_TEXT",
+          "text": "Princeton Mengdi Wang"
+        },
+        {
+          "content_hash": "7b077e9fe92b9f31",
+          "style": "NORMAL_TEXT",
+          "text": "招非常多intern，夫妻店"
+        },
+        {
+          "content_hash": "637135eada0b1b32",
+          "style": "NORMAL_TEXT",
+          "text": "单纯好奇 mengdi老公是谁（congle)"
+        },
+        {
+          "content_hash": "530787e1c65eec2e",
+          "style": "NORMAL_TEXT",
+          "text": "合作过，相处下来我觉得王老师人非常好，只是真的很忙"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 581,
+      "at_to": 576,
+      "from_paragraphs": [
+        {
+          "content_hash": "9e4398c75ce05f2a",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的 呵呵一口一个耿哥的叫 被耿哥卖了还在数钱 说他骚操作等着找死  你还别说，我看他真是在等着找死"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "954816a62c9c0bee",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的 呵呵一口一个耿哥的叫 被耿哥卖了还在数钱 说他骚操作等着找死  你还别说，我看他真是在等着找死+1"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 630,
+      "at_to": 625,
+      "from_paragraphs": [
+        {
+          "content_hash": "a23cc1a8abf33b92",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0ecfbba6e9ad492a",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）(申请季被鸽过面试.....很想知道为什么后续不回邮件了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 786,
+      "at_to": 781,
+      "from_paragraphs": [
+        {
+          "content_hash": "f814b6cfebc19bce",
+          "style": "NORMAL_TEXT",
+          "text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（羡慕啊）（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到合适的的岗位)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "35d8ed093e2a3ec5",
+          "style": "NORMAL_TEXT",
+          "text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（羡慕啊）（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到合适的的岗位) 而且丁老师不会限制学生去i"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 791,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1624,
+      "at_to": 1618,
+      "from_paragraphs": [
+        {
+          "content_hash": "d3bea34969a5a472",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人吃瓜（纯路人s）： 看本人发言，动不动让学生自己反思，PUA话术习惯了？（你是不是魔怔了 叫学生反思就是pua了 要不要看看学生的行为 做错了还不能反思了吗）老师自己没有半点责任不反思一下自己？中东一家独大也是nb (不要天然设置老师和学生的对立立场，这会让你的感官被蒙蔽。很多时候上榜与否，或许只是因为组里有一个毒瘤而已。)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5e19c868f0303177",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人吃瓜（纯路人上来就是立场 你也太纯了）： 看本人发言，动不动让学生自己反思，PUA话术习惯了？（你是不是魔怔了 叫学生反思就是pua了 要不要看看学生的行为 做错了还不能反思了吗）老师自己没有半点责任不反思一下自己？中东一家独大也是nb (不要天然设置老师和学生的对立立场，这会让你的感官被蒙蔽。很多时候上榜与否，或许只是因为组里有一个毒瘤而已。)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1702,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
