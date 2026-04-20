@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-20-40Z.delta.json",
+  "delta_ts": "2026-04-20T21-20-40Z",
+  "reviewed_at_utc": "2026-04-20T21:21:32Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains unsupported character judgment accusing a specific individual of historical cheating in high school physics competitions, which is unrelated to concrete advising practices and constitutes a personal attack.",
+      "excerpt": "怎么没人开团stf zhaowanjia，高中物理竞赛就开始作弊的人，给她混上stf了你们都不吱声啊❗️"
+    }
+  ],
+  "prompt_sha256": "83ec4b3fe151f54ac4ebc6518e965fb1108352f5b5c6787c07b32bc661233526",
+  "finish_reason": "stop",
+  "completion_tokens": 5556
+}
