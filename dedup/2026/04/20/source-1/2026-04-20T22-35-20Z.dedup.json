@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T22-35-20Z",
+  "reviewed_at_utc": "2026-04-20T22:36:39Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 12,
+  "pairs": [
+    {
+      "ghost_hash": "b05da9af02c0c272",
+      "insert_hash": "d1506868ea3d2cb3",
+      "note": "appended student outcome comment",
+      "ghost_text": "（也不是完全不能洗，有的图确实引了，但引了也没要许可啊……这就尬住了\u000b（",
+      "insert_text": "（也不是完全不能洗，有的图确实引了，但引了也没要许可啊……这就尬住了\u000b（他们组学生好像看着去向还行啊"
+    },
+    {
+      "ghost_hash": "e3796178cf3fdde4",
+      "insert_hash": "62986f0cf9d514d9",
+      "note": "corrected report destination",
+      "ghost_text": "据说被组里学生联名举报打乱了",
+      "insert_text": "据说被组里学生联名举报到了系里"
+    },
+    {
+      "ghost_hash": "735b71acf2dbef94",
+      "insert_hash": "f50d3698ebaa81bb",
+      "note": "removed self-email accusation",
+      "ghost_text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？你用gmail自己给自己发",
+      "insert_text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？"
+    },
+    {
+      "ghost_hash": "2b1969402c948958",
+      "insert_hash": "390f450dc4e334e4",
+      "note": "completed truncated phrase",
+      "ghost_text": "组里开会风格基本上吹牛+“做不出来ji”",
+      "insert_text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话那么硬，大概意思是这样, 极度的push。"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3311,
+  "skipped_reason": null
+}

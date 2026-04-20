@@ -1,0 +1,201 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-31-02Z",
+    "revision_id": "AMHacu59j5uya34BWBzwdW3sD6kUHpFqva5Jtwv9ij6mWCkc2odt5fpTpDNRnC4z0DbEjGleBUf3EJMQqhtnwFYyEg",
+    "paragraph_count": 2158
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-35-20Z",
+    "revision_id": "AMHacu714IKGbHP1XmbeRhT8ToC8M2sikBiMCuuSz1HKJ7DsVIq8hcNFA5HkzfqNUNAY1pbF2ohbPlcwfZEtP_UCpg",
+    "paragraph_count": 2162
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 8,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0037,
+    "insertion_ratio": 0.0056
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "68a768c11b26f81b",
+          "style": "NORMAL_TEXT",
+          "text": "“我翻开 doc 一查，这 doc 没有年代，歪歪斜斜的每页上都写着‘仁义道德’几个字。我横竖睡不着，仔细看了半夜，才从字缝里看出字来，满本都写着两个字是‘吃人’！”"
+        },
+        {
+          "content_hash": "79b05ea2686c5b72",
+          "style": "NORMAL_TEXT",
+          "text": "— 改自鲁迅《狂人日记》"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 69,
+      "at_to": 68,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6536d220684d8c16",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，刚好一个朋友在他们组，得到的回复是现在挺正常的，老师也很professional，晚上6点之后，周末不找学生。不用微信联系学生，有事情都是teams和邮件。讲诚信，答应的事情都会兑现。hands-on指导学生，给idea，遇到困难会跟学生用心讨论解决。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 114,
+      "at_to": 113,
+      "from_paragraphs": [
+        {
+          "content_hash": "5ce0a356ed5005d7",
+          "style": "NORMAL_TEXT",
+          "text": "有人了解吗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5dbdf1f9abd9b09e",
+          "style": "NORMAL_TEXT",
+          "text": "听说intern特别多"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 273,
+      "at_to": 272,
+      "from_paragraphs": [
+        {
+          "content_hash": "b05da9af02c0c272",
+          "style": "NORMAL_TEXT",
+          "text": "（也不是完全不能洗，有的图确实引了，但引了也没要许可啊……这就尬住了\u000b（"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d1506868ea3d2cb3",
+          "style": "NORMAL_TEXT",
+          "text": "（也不是完全不能洗，有的图确实引了，但引了也没要许可啊……这就尬住了\u000b（他们组学生好像看着去向还行啊"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 475,
+      "paragraphs": [
+        {
+          "content_hash": "ddc4e3b62033a3c5",
+          "style": "NORMAL_TEXT",
+          "text": "人很mean是真的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 479,
+      "at_to": 479,
+      "from_paragraphs": [
+        {
+          "content_hash": "e3796178cf3fdde4",
+          "style": "NORMAL_TEXT",
+          "text": "据说被组里学生联名举报打乱了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "62986f0cf9d514d9",
+          "style": "NORMAL_TEXT",
+          "text": "据说被组里学生联名举报到了系里"
+        },
+        {
+          "content_hash": "52a03b1aff741e0d",
+          "style": "NORMAL_TEXT",
+          "text": "UW-Madison Ying Li"
+        },
+        {
+          "content_hash": "153dcc0cbb574b07",
+          "style": "NORMAL_TEXT",
+          "text": "上班打卡的神"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 778,
+      "at_to": 780,
+      "from_paragraphs": [
+        {
+          "content_hash": "735b71acf2dbef94",
+          "style": "NORMAL_TEXT",
+          "text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？你用gmail自己给自己发"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f50d3698ebaa81bb",
+          "style": "NORMAL_TEXT",
+          "text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1801,
+      "paragraphs": [
+        {
+          "content_hash": "4e8c1d5a150bada2",
+          "style": "NORMAL_TEXT",
+          "text": "组里大量文章数据造假不开源（参考NeurIPS去年某oral，挂了Github）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2073,
+      "at_to": 2076,
+      "from_paragraphs": [
+        {
+          "content_hash": "2b1969402c948958",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来ji”"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "390f450dc4e334e4",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话那么硬，大概意思是这样, 极度的push。"
+        },
+        {
+          "content_hash": "921b6ec3e780e5d0",
+          "style": "NORMAL_TEXT",
+          "text": "sp意淫你师姐开心还是逼死组里实习生开心？骂你导师最开心吧哈哈哈"
+        }
+      ]
+    }
+  ]
+}
