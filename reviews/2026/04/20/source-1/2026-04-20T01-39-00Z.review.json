@@ -1,0 +1,33 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-39-00Z.delta.json",
+  "delta_ts": "2026-04-20T01-39-00Z",
+  "reviewed_at_utc": "2026-04-20T01:39:57Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Names spouse of professor (Liu Ge), who is a private individual not subject of the document",
+      "excerpt": "以前以为他很强把老婆liu ge以前bundle进uiuc了"
+    },
+    {
+      "type": "pii",
+      "detail": "Identifies professor's spouse (Bo Li) or identifies professor as spouse of Bo Li, revealing private individual's identity",
+      "excerpt": "Bo Li老公，之前在ETH就很有名"
+    },
+    {
+      "type": "pii",
+      "detail": "Detailed descriptors about specific female student (appearance, humanities background, living arrangements, relationship status) sufficient to de-anonymize",
+      "excerpt": "有点姿色的女学生，文科生...phd前几年还住老师家...现已和男朋友上岸港校"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of allegation about advisor suppressing social media criticism (buying off Xiaohongshu posts), which is a substantive observation about advising reputation",
+      "excerpt": "小红书有挂他的帖子，一开始热度很高，后年说是被人买咸鱼热度刷掉了"
+    }
+  ],
+  "prompt_sha256": "57cb3b9767d056bf93786dedac4e1da4e7e74c237f9ba1f5c5c54de926b7735a",
+  "finish_reason": "stop",
+  "completion_tokens": 4780
+}

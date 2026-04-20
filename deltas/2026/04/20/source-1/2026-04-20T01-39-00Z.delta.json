@@ -1,0 +1,252 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-34-50Z",
+    "revision_id": "AMHacu5V3LltWMjsSZsBaBjGKZkhwee4XzKcawtFEh-Wh8m9qYIQi3UFzTH81g2rFXX6G3rkkIJRljLHnEHK7z_EeA",
+    "paragraph_count": 699
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-39-00Z",
+    "revision_id": "AMHacu5zO2mGNUi52dgbOj10xZoqJ_k-A3ObDdt-W3wuYumhd8aT2MK2uNTIENm3aXBHRnGkFTGKzl-yfo3BLb_SdQ",
+    "paragraph_count": 705
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 10,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0143,
+    "insertion_ratio": 0.0227
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 5,
+      "at_to": 5,
+      "from_paragraphs": [
+        {
+          "content_hash": "ff3c1413eec35427",
+          "style": "NORMAL_TEXT",
+          "text": "任何对PhD学生本人的评论都需要被删除，本文档只针对PI"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c045ca7f3a32e58",
+          "style": "NORMAL_TEXT",
+          "text": "任何对PhD学生本人的评论都需要被删除，本文档只针对PI，请大家帮忙维护一些学生隐私。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 130,
+      "at_to": 130,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec38df19a0063a47",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个phd家暴进局子，被他保释包庇了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "32b0ec87d13e163a",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个phd家暴进局子，被他保释包庇了(????)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 199,
+      "at_to": 199,
+      "from_paragraphs": [
+        {
+          "content_hash": "e0e551b6fdb2d667",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fd5f3efbb90f7087",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 254,
+      "paragraphs": [
+        {
+          "content_hash": "63398da1cad08d9f",
+          "style": "NORMAL_TEXT",
+          "text": "纯菜，以前干GNN的，半路出家搞agent，只会鹦鹉学舌没有自己的in。态度还行，不push，但是为啥iclr中稿率那么低呢，靠招一堆ms和intern免费干活赌概率呗"
+        },
+        {
+          "content_hash": "e6f3a5c4279cc021",
+          "style": "NORMAL_TEXT",
+          "text": "以前以为他很强把老婆liu ge以前bundle进uiuc了，现在看他是被bundle的那个"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 267,
+      "paragraphs": [
+        {
+          "content_hash": "1464bbfd708edcc0",
+          "style": "NORMAL_TEXT",
+          "text": "Bo Li老公，之前在ETH就很有名，非常toxic"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 304,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 408,
+      "at_to": 410,
+      "from_paragraphs": [
+        {
+          "content_hash": "874634bf2c9b488d",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，有空发长篇大论小红书立人设，没时间回消息）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ae7437b41a9a93c9",
+          "style": "NORMAL_TEXT",
+          "text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整当时给我弄的生气）（另外，某个组里的学长学姐很难评，不是个人意见，得到了他人的完全认可）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 569,
+      "at_to": 571,
+      "from_paragraphs": [
+        {
+          "content_hash": "84c98a30b16c2f51",
+          "style": "NORMAL_TEXT",
+          "text": "小红书扒皮招了个有点姿色的女学生，文科生，老师和男朋友一起给她发paper，在组内抢idea，搞政斗，phd前几年还住老师家，啧啧，现已和男朋友上岸港校？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "472df8d704c159fd",
+          "style": "NORMAL_TEXT",
+          "text": "小红书扒皮招了个有点姿色的女学生，文科生，老师和男朋友一起给她发paper，在组内抢idea，搞政斗，phd前几年还住老师家，啧啧，现已和男朋友上岸港校？(那女生水平巨烂，doc"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 571,
+      "at_to": 573,
+      "from_paragraphs": [
+        {
+          "content_hash": "1bdc45e9988a1d14",
+          "style": "NORMAL_TEXT",
+          "text": "张口闭口浓浓我是你大爹, 禁实习，组内不能相互合作。会对你说idea垃圾不要做，转头发现组里其他学生在做（这个太典了，他组里抢idea的事情最多了，前脚不给做的idea后面就被组里其他人发了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "287e020706cd9090",
+          "style": "NORMAL_TEXT",
+          "text": "张口闭口浓浓我是你大爹, 禁实习，组内不能相互合作。会对你说idea垃圾不要做，转头发现组里其他学生在做（这个太典了，他组里抢idea的事情最多了，前脚不给做的idea后面就被组里其他人发了）（http://xhslink.com/o/ALsIeDm5c7v ）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 573,
+      "at_to": 575,
+      "from_paragraphs": [
+        {
+          "content_hash": "0587ec622a75e504",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（学生在ua出轨本科生， rate my professor上有）（组内早年一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）"
+        },
+        {
+          "content_hash": "c899013eb668c673",
+          "style": "NORMAL_TEXT",
+          "text": "小红书有挂他的帖子，一开始热度很高，后年说是被人买咸鱼热度刷掉了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f69dd2b442190e19",
+          "style": "NORMAL_TEXT",
+          "text": "Infocom就是他那个圈子的人（wireless）搞臭的（他学生在ua当faculty出轨本科生， rate my professor上有）（组内早年一批还有瓜的，把一个女生保送进HK某校了，后面干不下去了跑路了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 696,
+      "at_to": 697,
+      "from_paragraphs": [
+        {
+          "content_hash": "048b3b181335eccc",
+          "style": "NORMAL_TEXT",
+          "text": "没funding但是敢招一堆人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "094a298d93b3bd50",
+          "style": "NORMAL_TEXT",
+          "text": "Funding不够但是敢招一堆人，纯坑人"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 699,
+      "paragraphs": [
+        {
+          "content_hash": "4839cb19afc7c628",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励组内淘汰"
+        },
+        {
+          "content_hash": "7c9ba2a8e2cbad1d",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢在系主任和自己当年的老板那里说别人坏话"
+        },
+        {
+          "content_hash": "67ecb6dcc6142632",
+          "style": "NORMAL_TEXT",
+          "text": "不知道为什么感觉很着急，一星期没进展恨不得把你皮扒下来"
+        },
+        {
+          "content_hash": "a8bdddc1be2b8180",
+          "style": "NORMAL_TEXT",
+          "text": "看得出来自己很心虚，新招的学生去campus visit，去跟其他老师见面的环节她得盯着，生怕打听到什么事情"
+        },
+        {
+          "content_hash": "4b8bafe64b333491",
+          "style": "NORMAL_TEXT",
+          "text": "说话永远都是“你可以做.....”，然后你没做就要被喷"
+        }
+      ]
+    }
+  ]
+}
