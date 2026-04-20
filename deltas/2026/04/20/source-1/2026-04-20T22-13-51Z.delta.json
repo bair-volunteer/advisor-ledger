@@ -1,0 +1,211 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-11-50Z",
+    "revision_id": "AMHacu4S28qongQoBLCUoCIWJIge_DR0e7n0xtf5kfgId-vBhmRbkv1iItot5jlzcax9ZU4xef9Xgb9wgolfok_CbA",
+    "paragraph_count": 2126
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-13-51Z",
+    "revision_id": "AMHacu6XjWHOuMf5UJqwxqHFP89RbaSNcBKw8T0pjGo-ERFoX_HBquasPQBU0_C2baejq3XijtoNZ0luM8trIqLR8Q",
+    "paragraph_count": 2130
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 9,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0042,
+    "insertion_ratio": 0.0061
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 100,
+      "at_to": 100,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a55495a93098b47",
+          "style": "NORMAL_TEXT",
+          "text": "Northeastern University DaKuo Wang ：面试面leetocde 然后和他的博士后一起面试，一起Pua 面试者"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 187,
+      "at_to": 187,
+      "from_paragraphs": [
+        {
+          "content_hash": "27f56880396a65bd",
+          "style": "NORMAL_TEXT",
+          "text": "（yujun姐怎么重量级了？重量级的好吗？我的论文yujun姐一段一段改过，我没遇到过别的老师能这么好）（那你可能确实没遇到过正常老师哈）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "058c333f3024df34",
+          "style": "NORMAL_TEXT",
+          "text": "（yujun姐怎么重量级了？重量级的好吗？我的论文yujun姐一段一段改过，我没遇到过别的老师能这么好）（那你可能确实没遇到过正常老师哈）（那你给我推荐一下你遇到的这么好的老师哈，）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 476,
+      "paragraphs": [
+        {
+          "content_hash": "29b8c9d5b5e57611",
+          "style": "NORMAL_TEXT",
+          "text": "Name some"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 519,
+      "at_to": 520,
+      "from_paragraphs": [
+        {
+          "content_hash": "f3c80a2610e7d9e4",
+          "style": "NORMAL_TEXT",
+          "text": "组会态度傲慢不尊重学生 经典《你这周做什么了》"
+        },
+        {
+          "content_hash": "1a1e85c71df05471",
+          "style": "NORMAL_TEXT",
+          "text": "现在好像去硅谷拉人创业 （这是黑点？组里同学没找到实习可以去）"
+        },
+        {
+          "content_hash": "80aa9c064360a046",
+          "style": "NORMAL_TEXT",
+          "text": "去找找他有几篇开源工作🤣"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c13094622e53bb18",
+          "style": "NORMAL_TEXT",
+          "text": "组会态度傲慢不尊重学生 经典《你这周做什么了》（低年级学生赵老师会手把手带，这个见仁见智）"
+        },
+        {
+          "content_hash": "836b0d0520f2b756",
+          "style": "NORMAL_TEXT",
+          "text": "现在好像去硅谷拉人创业 （这是黑点？组里同学没找到实习可以去这里实习，甚至允许remote）"
+        },
+        {
+          "content_hash": "84774cacfa7b01da",
+          "style": "NORMAL_TEXT",
+          "text": "去找找他有几篇开源工作🤣 （欢迎私信各位一作要code）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 712,
+      "at_to": 713,
+      "from_paragraphs": [
+        {
+          "content_hash": "77961fb69dc2756e",
+          "style": "NORMAL_TEXT",
+          "text": "一股子AI味老师亲自下场吗哈哈哈哈哈哈哈 (那你可能要反思一下自己是不是个人机，看啥都是AI味，毕竟证据证据是拿不出的，只会嘴两句)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f0c2c910158fd242",
+          "style": "NORMAL_TEXT",
+          "text": "一股子AI味老师亲自下场吗哈哈哈哈哈哈哈 (那你可能要反思一下自己是不是个人机，看啥都是AI味，毕竟证据证据是拿不出的，只会嘴两句)Bro"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1312,
+      "paragraphs": [
+        {
+          "content_hash": "fd130a749effdaf6",
+          "style": "NORMAL_TEXT",
+          "text": "龙哥虽然风格像atlas，但是人比atlas好"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1321,
+      "at_to": 1324,
+      "from_paragraphs": [
+        {
+          "content_hash": "976b282abeef1c9d",
+          "style": "NORMAL_TEXT",
+          "text": "骂人这种事儿感觉在这个doc里都已经是共性了，能上黑榜的鲜有不骂人的，但这位兄弟把私聊骂学生的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ef9937863d47efe6",
+          "style": "NORMAL_TEXT",
+          "text": "骂人这种事儿感觉在这个doc里都已经是共性了，能上黑榜的鲜有不骂人的，但这位兄弟把私聊骂学生的内容pin到公共channel给所有phd说ashamed.具体内容忘了当时看的截图"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1589,
+      "at_to": 1592,
+      "from_paragraphs": [
+        {
+          "content_hash": "514ea3612e3aff4f",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据  (还有人看看github有多少人抱怨复现不出来:)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5ee0e47771e6a9a7",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据  (还有人洗，看看他们组github issue里有多少人抱怨复现不出来:)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1595,
+      "at_to": 1598,
+      "from_paragraphs": [
+        {
+          "content_hash": "53a24464c7e7a1ec",
+          "style": "NORMAL_TEXT",
+          "text": "目前这些负面评价，大多数源于2024年三名学生从课题组转出的相关事件。在转组前后，确实出现了一些人际冲突和具体事件，这些情况有助于全面理解相关评价的背景："
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0b17f9ee9911e2ed",
+          "style": "NORMAL_TEXT",
+          "text": "gqq的狗腿还在发力删评论"
+        },
+        {
+          "content_hash": "18af1fa345e4ffec",
+          "style": "NORMAL_TEXT",
+          "text": "目前这些负面评价，大多数源于2024年三名学生从课题组转出的相关事件（拉倒吧，gu干的抽象事的jiu ni）。在转组前后，确实出现了一些人际冲突和具体事件，这些情况有助于全面理解相关评价的背景："
+        }
+      ]
+    }
+  ]
+}

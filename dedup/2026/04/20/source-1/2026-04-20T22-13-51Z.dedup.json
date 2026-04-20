@@ -1,0 +1,69 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T22-13-51Z",
+  "reviewed_at_utc": "2026-04-20T22:14:55Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 9,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "27f56880396a65bd",
+      "insert_hash": "058c333f3024df34",
+      "note": "added request for recommendation",
+      "ghost_text": "（yujun姐怎么重量级了？重量级的好吗？我的论文yujun姐一段一段改过，我没遇到过别的老师能这么好）（那你可能确实没遇到过正常老师哈）",
+      "insert_text": "（yujun姐怎么重量级了？重量级的好吗？我的论文yujun姐一段一段改过，我没遇到过别的老师能这么好）（那你可能确实没遇到过正常老师哈）（那你给我推荐一下你遇到的这么好的老师哈，）"
+    },
+    {
+      "ghost_hash": "f3c80a2610e7d9e4",
+      "insert_hash": "c13094622e53bb18",
+      "note": "added note about 赵老师 teaching",
+      "ghost_text": "组会态度傲慢不尊重学生 经典《你这周做什么了》",
+      "insert_text": "组会态度傲慢不尊重学生 经典《你这周做什么了》（低年级学生赵老师会手把手带，这个见仁见智）"
+    },
+    {
+      "ghost_hash": "1a1e85c71df05471",
+      "insert_hash": "836b0d0520f2b756",
+      "note": "added remote internship detail",
+      "ghost_text": "现在好像去硅谷拉人创业 （这是黑点？组里同学没找到实习可以去）",
+      "insert_text": "现在好像去硅谷拉人创业 （这是黑点？组里同学没找到实习可以去这里实习，甚至允许remote）"
+    },
+    {
+      "ghost_hash": "80aa9c064360a046",
+      "insert_hash": "84774cacfa7b01da",
+      "note": "added invitation to ask for code",
+      "ghost_text": "去找找他有几篇开源工作🤣",
+      "insert_text": "去找找他有几篇开源工作🤣 （欢迎私信各位一作要code）"
+    },
+    {
+      "ghost_hash": "77961fb69dc2756e",
+      "insert_hash": "f0c2c910158fd242",
+      "note": "added 'Bro' at end",
+      "ghost_text": "一股子AI味老师亲自下场吗哈哈哈哈哈哈哈 (那你可能要反思一下自己是不是个人机，看啥都是AI味，毕竟证据证据是拿不出的，只会嘴两句)",
+      "insert_text": "一股子AI味老师亲自下场吗哈哈哈哈哈哈哈 (那你可能要反思一下自己是不是个人机，看啥都是AI味，毕竟证据证据是拿不出的，只会嘴两句)Bro"
+    },
+    {
+      "ghost_hash": "976b282abeef1c9d",
+      "insert_hash": "ef9937863d47efe6",
+      "note": "completed the sentence details",
+      "ghost_text": "骂人这种事儿感觉在这个doc里都已经是共性了，能上黑榜的鲜有不骂人的，但这位兄弟把私聊骂学生的",
+      "insert_text": "骂人这种事儿感觉在这个doc里都已经是共性了，能上黑榜的鲜有不骂人的，但这位兄弟把私聊骂学生的内容pin到公共channel给所有phd说ashamed.具体内容忘了当时看的截图"
+    },
+    {
+      "ghost_hash": "514ea3612e3aff4f",
+      "insert_hash": "5ee0e47771e6a9a7",
+      "note": "minor wording adjustment",
+      "ghost_text": "论文数据造假，美化数据  (还有人看看github有多少人抱怨复现不出来:)",
+      "insert_text": "论文数据造假，美化数据  (还有人洗，看看他们组github issue里有多少人抱怨复现不出来:)"
+    },
+    {
+      "ghost_hash": "53a24464c7e7a1ec",
+      "insert_hash": "18af1fa345e4ffec",
+      "note": "added parenthetical rebuttal",
+      "ghost_text": "目前这些负面评价，大多数源于2024年三名学生从课题组转出的相关事件。在转组前后，确实出现了一些人际冲突和具体事件，这些情况有助于全面理解相关评价的背景：",
+      "insert_text": "目前这些负面评价，大多数源于2024年三名学生从课题组转出的相关事件（拉倒吧，gu干的抽象事的jiu ni）。在转组前后，确实出现了一些人际冲突和具体事件，这些情况有助于全面理解相关评价的背景："
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2948,
+  "skipped_reason": null
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T22-13-51Z.delta.json",
+  "delta_ts": "2026-04-20T22-13-51Z",
+  "reviewed_at_utc": "2026-04-20T22:14:32Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insulting characterization of individuals as 'lapdogs' (狗腿) of professor gqq constitutes a pure personal attack rather than substantive criticism of advising practices",
+      "excerpt": "gqq的狗腿还在发力删评论"
+    }
+  ],
+  "prompt_sha256": "024e1645c915fad48b571167bb25570eaaaba66b1fcd9afdb2f74caf7c0b7d91",
+  "finish_reason": "stop",
+  "completion_tokens": 3956
+}
