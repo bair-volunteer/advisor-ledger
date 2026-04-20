@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T09-18-52Z.delta.json",
+  "delta_ts": "2026-04-20T09-18-52Z",
+  "reviewed_at_utc": "2026-04-20T09:19:33Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive observations about a specific NEU advisor (recently tenured robotics professor) regarding concrete advising failures (ghosting students, not replying to emails), which appears to suppress legitimate criticism rather than perform cleanup.",
+      "excerpt": "NEU 某刚tenure的机器人老师\n不回邮件 ghost 性格怪异"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Systematic removal of detailed accusations about UCB Haoran Geng's advising practices across multiple locations, including claims about intern recruitment, recommendation letter handling, and financial disputes. The volume and specificity of removed content suggests suppression of substantive observations rather than mere deduplication or typo cleanup.",
+      "excerpt": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!\n招了超过40个intern不负责(有40个吗，虽然我感觉有20个)\n给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行"
+    }
+  ],
+  "prompt_sha256": "ed8b31e4507705e3f7e18413e0799f83b3392012e8db388ecc2121ace9e0c3ad",
+  "finish_reason": "stop",
+  "completion_tokens": 3946
+}
