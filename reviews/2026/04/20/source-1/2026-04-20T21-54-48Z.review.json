@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-54-48Z.delta.json",
+  "delta_ts": "2026-04-20T21-54-48Z",
+  "reviewed_at_utc": "2026-04-20T21:55:20Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Edit adds identifying personal relationship detail (that the PI is Manling's friend) in a passage already containing detailed circumstantial information about a specific intern's application history; this combination risks de-anonymizing the private individuals involved.",
+      "excerpt": "该校PI是manling朋友"
+    }
+  ],
+  "prompt_sha256": "ba62bc1e4221705bc0532b491e2dd6014c8f762a2d1ffe6e89cc815f9b4ab060",
+  "finish_reason": "stop",
+  "completion_tokens": 2877
+}
