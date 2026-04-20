@@ -1,0 +1,212 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-17-30Z",
+    "revision_id": "AMHacu5X8po_IO4wk-4NInNQx-AKdQi3Ovv7JByzMSKVLtuOmlMeUYhtYx4nDmAvO_3gWaoXSfGxMaDeXaDQHRYWjw",
+    "paragraph_count": 797
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-19-40Z",
+    "revision_id": "AMHacu7FCsqfAcBz5FiBAtbvvniOeQKuHjhaCvS1VxOrYLhxNMu5FQWZ7vZdCgvXrhGxPYsIbrINlAezLsNb-dlkWg",
+    "paragraph_count": 800
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 9,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0113,
+    "insertion_ratio": 0.015
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 66,
+      "at_to": 66,
+      "from_paragraphs": [
+        {
+          "content_hash": "45bb78491a50bf03",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3fcce82e603526af",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech Animesh"
+        },
+        {
+          "content_hash": "9ae74f0134320be7",
+          "style": "NORMAL_TEXT",
+          "text": "听说瓜很多（蹲一个）"
+        },
+        {
+          "content_hash": "cf017f9d203fd6c6",
+          "style": "NORMAL_TEXT",
+          "text": "完全不给学生交推荐信"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 136,
+      "at_to": 138,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "775f63691afe2ac2",
+          "style": "NORMAL_TEXT",
+          "text": "抽象"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 337,
+      "at_to": 339,
+      "from_paragraphs": [
+        {
+          "content_hash": "cec516f41fb38e13",
+          "style": "NORMAL_TEXT",
+          "text": "据说他本人在UVA也快待不下去了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3122fed5841c3bea",
+          "style": "NORMAL_TEXT",
+          "text": "据说他本人在UVA也快待不下去了（什么原因？）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 353,
+      "paragraphs": [
+        {
+          "content_hash": "6cea8b2a567da93e",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 367,
+      "at_to": 368,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a69812d933703a9f",
+          "style": "NORMAL_TEXT",
+          "text": "有幸拜读过这篇，这老师当年来我们学校给talk的时候狂的不行，出事之后低调了很多(nips’ 16应该是，几年之前知乎刷到过)（（Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 486,
+      "at_to": 487,
+      "from_paragraphs": [
+        {
+          "content_hash": "7e5f40aeb3f3ff23",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste极差, 自己的paper只能拿neurips 主会oral 和workshop awards, 根本拿不了主会best paper, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        },
+        {
+          "content_hash": "bf25ca51e5af895c",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3cfc6085d18862c4",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste, 自己的paper只能拿neurips 主会oral 和workshop awards, 根本拿不了主会best paper, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        },
+        {
+          "content_hash": "ea0d37efa7fedc2c",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向差, 而且几乎不给return offer, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 572,
+      "at_to": 573,
+      "from_paragraphs": [
+        {
+          "content_hash": "b39dc896cdf99c7d",
+          "style": "NORMAL_TEXT",
+          "text": "在GT的时候中国学生第一年没有一作就开除，有学生博三博四也被开除"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54095975c9a752ae",
+          "style": "NORMAL_TEXT",
+          "text": "在GT的时候中国学生第一年没有一作paper就开除，有学生博三博四也被开除"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 576,
+      "paragraphs": [
+        {
+          "content_hash": "bb6a57f2e647bcec",
+          "style": "NORMAL_TEXT",
+          "text": "部分 AI for Health paper 无法复现"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 763,
+      "at_to": 765,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c15d1d72ca2f5fe",
+          "style": "NORMAL_TEXT",
+          "text": "在他看来当他的学生就是亏欠他的，要还三年债，天天随时待命就好了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c3d12c7fe32102c8",
+          "style": "NORMAL_TEXT",
+          "text": "在他看来当他的学生就是亏欠他的，要还三年债，横向本子写不完，天天随时待命就好了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 791,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-19-40Z.delta.json",
+  "delta_ts": "2026-04-20T02-19-40Z",
+  "reviewed_at_utc": "2026-04-20T02:20:42Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive discussion of advisor Atlas Wang's paper retraction with specific links and claims of career-long fabrication, while subsequent insertion restores only milder version without the core allegation",
+      "excerpt": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的... https://www.zhihu.com/question/50508148"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains insults directed at other editors ('通网吧', '洗地', implying ignorance/shilling) rather than criticism of advising practices",
+      "excerpt": "上面的通网吧，洗地也用心一点，当人google search都不会用吗"
+    }
+  ],
+  "prompt_sha256": "7adae1b16e956fd3606b46f457b9496341666f699b688e50788b897d70cc9e61",
+  "finish_reason": "stop",
+  "completion_tokens": 5006
+}
