@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T00-46-00Z.delta.json",
+  "delta_ts": "2026-04-20T00-46-00Z",
+  "reviewed_at_utc": "2026-04-20T00:46:32Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Inserted the real full name of a student (Yuanzhe Hu) in a context suggesting de-anonymization of a previously pseudonymous commenter ('马甲掉了'). This identifies a private individual.",
+      "excerpt": "yuanzhe hu？"
+    }
+  ],
+  "prompt_sha256": "1059f9db12df4f8206c61924cec59d95e01633140d251d2dcbf8a6c4994ed1b0",
+  "finish_reason": "stop",
+  "completion_tokens": 2514
+}
