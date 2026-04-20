@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-46-24Z.delta.json",
+  "delta_ts": "2026-04-20T19-46-24Z",
+  "reviewed_at_utc": "2026-04-20T19:47:18Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains unsupported personal character attacks ('心眼坏', '脾气还巨臭', '态度极其傲慢 自大') that constitute pure insults without substantive criticism of concrete advising practices, alongside valid criticisms like 'harsh on intern' and '不开源代码'.",
+      "excerpt": "态度极其傲慢 自大"
+    }
+  ],
+  "prompt_sha256": "1c79ad5745afa934d3aa408a68683de6b746108e70396c3a940e4b0b42a0bc87",
+  "finish_reason": "stop",
+  "completion_tokens": 5532
+}

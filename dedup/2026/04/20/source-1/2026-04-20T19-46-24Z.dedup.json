@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T19-46-24Z",
+  "reviewed_at_utc": "2026-04-20T19:47:33Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 7,
+  "n_inserts": 15,
+  "pairs": [
+    {
+      "ghost_hash": "d3401533b8f98273",
+      "insert_hash": "4969b8286c92b070",
+      "note": "Capitalization fix",
+      "ghost_text": "waitwait，他和女学生的事怎么就被忽略了，这个问题明显很严重啊，为啥都在说人好【有没有pdf链接】",
+      "insert_text": "Waitwait，他和女学生的事怎么就被忽略了，这个问题明显很严重啊，为啥都在说人好【有没有pdf链接】"
+    },
+    {
+      "ghost_hash": "735b71acf2dbef94",
+      "insert_hash": "875821102bd98091",
+      "note": "Added cc clarification",
+      "ghost_text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？你用gmail自己给自己发",
+      "insert_text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？你用gmail自己给自己发, 这个确实cc jitendra了啊, 是主页里面的邮箱"
+    },
+    {
+      "ghost_hash": "1ee0d1af09b760ff",
+      "insert_hash": "00fb62a3e477217f",
+      "note": "Added parenthetical remark",
+      "ghost_text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是最合适的组织方式了。到点回来毕业答辩就行了也不卡毕业 很多学生三四年就毕业了 不知道这怎么成的了黑点。。。",
+      "insert_text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是最合适的组织方式了。到点回来毕业答辩就行了也不卡毕业 很多学生三四年就毕业了 不知道这怎么成的了黑点。。。（纯路人，能提供工业界资源的是好老师）"
+    },
+    {
+      "ghost_hash": "c29a9979a0c67952",
+      "insert_hash": "d8e5d44eda8db09e",
+      "note": "Added 懂得都懂",
+      "ghost_text": "这人不仅心眼坏 脾气还巨臭 避雷",
+      "insert_text": "这人不仅心眼坏 脾气还巨臭 懂得都懂 避雷"
+    },
+    {
+      "ghost_hash": "f28b725713ff6fda",
+      "insert_hash": "9cdc9b326e54ea54",
+      "note": "Added institutional detail",
+      "ghost_text": "Mbzuai Di Wang",
+      "insert_text": "Mbzuai Di Wang （这是KAUST的吧，坐等细节）"
+    },
+    {
+      "ghost_hash": "d6aad1f8326886b6",
+      "insert_hash": "1e7566fea9bfb6b5",
+      "note": "Added sarcastic comment",
+      "ghost_text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push",
+      "insert_text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push （学到了高情商表达，指导不动=还是能够给出很有insight的建议）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1899,
+  "skipped_reason": null
+}

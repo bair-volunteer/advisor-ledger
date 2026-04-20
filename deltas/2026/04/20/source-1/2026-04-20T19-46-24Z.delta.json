@@ -1,0 +1,208 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-42-20Z",
+    "revision_id": "AMHacu4x8sbnZJDls6YIMrD4agTbGqPfhAqW04mlZ15XYaYRKadcd6uD7fKCpvoz9zZBj6gJNEMJ6iN1GX2z9gE-Kw",
+    "paragraph_count": 1985
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-46-24Z",
+    "revision_id": "AMHacu4xd9jl7TAr5Gdh7nUcxa9GSIYRreMVibaaWmzojw83DdRhJx-fXw7aH6g1TCSq-WX8-6AymbkONpTuaAjhNQ",
+    "paragraph_count": 1993
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 7,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0035,
+    "insertion_ratio": 0.0075
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 75,
+      "at_to": 75,
+      "from_paragraphs": [
+        {
+          "content_hash": "d3401533b8f98273",
+          "style": "NORMAL_TEXT",
+          "text": "waitwait，他和女学生的事怎么就被忽略了，这个问题明显很严重啊，为啥都在说人好【有没有pdf链接】"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4969b8286c92b070",
+          "style": "NORMAL_TEXT",
+          "text": "Waitwait，他和女学生的事怎么就被忽略了，这个问题明显很严重啊，为啥都在说人好【有没有pdf链接】"
+        },
+        {
+          "content_hash": "579160b9db2d9f8a",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生的瓜是真的 为什么没人说？？？ 和学生交往违反职业道德吧 title9 放在我们学校完全tenure不了 不能因为人好 就忽略私人生活吧"
+        },
+        {
+          "content_hash": "7e83feab884ac85c",
+          "style": "NORMAL_TEXT",
+          "text": "女生避雷"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 273,
+      "paragraphs": [
+        {
+          "content_hash": "0a6b3afe102576c7",
+          "style": "NORMAL_TEXT",
+          "text": "见过他本人 只能说很神奇 nü shen"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 690,
+      "at_to": 693,
+      "from_paragraphs": [
+        {
+          "content_hash": "735b71acf2dbef94",
+          "style": "NORMAL_TEXT",
+          "text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？你用gmail自己给自己发"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "875821102bd98091",
+          "style": "NORMAL_TEXT",
+          "text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？你用gmail自己给自己发, 这个确实cc jitendra了啊, 是主页里面的邮箱"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1435,
+      "at_to": 1438,
+      "from_paragraphs": [
+        {
+          "content_hash": "1ee0d1af09b760ff",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是最合适的组织方式了。到点回来毕业答辩就行了也不卡毕业 很多学生三四年就毕业了 不知道这怎么成的了黑点。。。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "00fb62a3e477217f",
+          "style": "NORMAL_TEXT",
+          "text": "跑路去xai了，现在不知道组里phd怎么办（组内学生对此讳莫如深）大部分直接毕业了 他组里的phd基本都是属于一个工业界parttime的情况 在工业界用工业界的资源解决工业界的问题 这种核心AI方向学术界哪来那么多资源做 这种是最合适的组织方式了。到点回来毕业答辩就行了也不卡毕业 很多学生三四年就毕业了 不知道这怎么成的了黑点。。。（纯路人，能提供工业界资源的是好老师）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1537,
+      "at_to": 1540,
+      "from_paragraphs": [
+        {
+          "content_hash": "c29a9979a0c67952",
+          "style": "NORMAL_TEXT",
+          "text": "这人不仅心眼坏 脾气还巨臭 避雷"
+        },
+        {
+          "content_hash": "cb57e91318b936a2",
+          "style": "NORMAL_TEXT",
+          "text": "Grumpy 懂得都懂"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d8e5d44eda8db09e",
+          "style": "NORMAL_TEXT",
+          "text": "这人不仅心眼坏 脾气还巨臭 懂得都懂 避雷"
+        },
+        {
+          "content_hash": "05001d131ec6f9f8",
+          "style": "NORMAL_TEXT",
+          "text": "Grumpy, harsh on intern"
+        },
+        {
+          "content_hash": "51bf3c1dec8d2fb8",
+          "style": "NORMAL_TEXT",
+          "text": "态度极其傲慢 自大"
+        },
+        {
+          "content_hash": "548a620caba819da",
+          "style": "NORMAL_TEXT",
+          "text": "不开源代码 paper 无法复现"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1665,
+      "at_to": 1670,
+      "from_paragraphs": [
+        {
+          "content_hash": "f28b725713ff6fda",
+          "style": "NORMAL_TEXT",
+          "text": "Mbzuai Di Wang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9cdc9b326e54ea54",
+          "style": "NORMAL_TEXT",
+          "text": "Mbzuai Di Wang （这是KAUST的吧，坐等细节）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1777,
+      "paragraphs": [
+        {
+          "content_hash": "234186515c7d8d84",
+          "style": "NORMAL_TEXT",
+          "text": "对标NTU的Dacheng Tao"
+        },
+        {
+          "content_hash": "38218e3344fbf784",
+          "style": "NORMAL_TEXT",
+          "text": "工业界的克星，干黄了多少公司笑死"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1783,
+      "paragraphs": [
+        {
+          "content_hash": "82af3af365ed4e44",
+          "style": "NORMAL_TEXT",
+          "text": "记不记得知乎说要感恩美国"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1821,
+      "at_to": 1829,
+      "from_paragraphs": [
+        {
+          "content_hash": "d6aad1f8326886b6",
+          "style": "NORMAL_TEXT",
+          "text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1e7566fea9bfb6b5",
+          "style": "NORMAL_TEXT",
+          "text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push （学到了高情商表达，指导不动=还是能够给出很有insight的建议）"
+        }
+      ]
+    }
+  ]
+}
