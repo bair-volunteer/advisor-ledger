@@ -1,0 +1,454 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T16-08-00Z",
+    "revision_id": "AMHacu74qySFffRWyKf2nxzAxtsaCKT9fhP6mZaFJa63Fsq2mAYn2MAfXxCmhtipaMN_FvaEuq5agAWBCfb_bzIeKg",
+    "paragraph_count": 2130
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T16-16-10Z",
+    "revision_id": "AMHacu7CBVXzvowIXQquG5dbyaHxXETpuwZuD6k9L_cH7K68qYGUycQQfrwtb15_FU8uedfqTA6B1KSGAOq_Q5_zXQ",
+    "paragraph_count": 2135
+  },
+  "summary": {
+    "inserted_paragraphs": 27,
+    "deleted_paragraphs": 22,
+    "operations": 22,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0103,
+    "insertion_ratio": 0.0126
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 60,
+      "at_to": 60,
+      "from_paragraphs": [
+        {
+          "content_hash": "20a09b8222ccc3f9",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）"
+        },
+        {
+          "content_hash": "efc34d22b2909fed",
+          "style": "NORMAL_TEXT",
+          "text": "和她组里的学生认识(几个高年级phd)，感觉都很健康且前途光明啊？(what doesnt kill you make you stronger???)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "026f4c4128cd7520",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）(纯路人，搜了一下貌似是Bennet Landman组里Master out了，12到13年)（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）"
+        },
+        {
+          "content_hash": "6fd772907f496625",
+          "style": "NORMAL_TEXT",
+          "text": "和她组里的学生认识(几个高年级phd)，感觉都很健康且前途光明啊？(what doesnt kill you make you stronger???) (光明确实光明，并不健康)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 91,
+      "paragraphs": [
+        {
+          "content_hash": "1f0c5e1ffc497777",
+          "style": "NORMAL_TEXT",
+          "text": "【--------------------------------------守护Yiwei和Yujun--------------------------------------】"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 104,
+      "at_to": 105,
+      "from_paragraphs": [
+        {
+          "content_hash": "3d548b6dc88c3c82",
+          "style": "NORMAL_TEXT",
+          "text": "认识yiwei老师三年了，当时我一篇论文都没有，yiwei老师不嫌弃我菜，会给我发论文列表给我参考；那会我很不听话，yiwei老师也会耐心教导我，多年以后回头看，yiwei老师拯救了我很多次（学术 & 生活上）；我的第一篇论文的标题是yiwei老师开会与我一起想的；图片是yiwei老师手把手改的；"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "78f48b4e8bf9f7ab",
+          "style": "NORMAL_TEXT",
+          "text": "完全是无稽之谈。认识yiwei老师三年了，当时我一篇论文都没有，yiwei老师不嫌弃我菜，会给我发论文列表给我参考；那会我很不听话，yiwei老师也会耐心教导我，多年以后回头看，yiwei老师救了我很多次（学术 & 生活上）；我的第一篇论文的标题是yiwei老师开会与我一起想的；图片是yiwei老师手把手改的；没有比yiwei老师更耐心的人了。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 119,
+      "paragraphs": [
+        {
+          "content_hash": "3fb5afc8ed0c0fc1",
+          "style": "NORMAL_TEXT",
+          "text": "（yujun老师本人相当nice，每一篇文章甚至rebuttal都会逐字逐句帮忙修改，文章idea都会一起讨论，甚至对于学生的身心健康和未来发展相当上心，让我印象最深刻的是我在初期接触科研的时候并不是很有自信，曾经有一次yujun老师 深夜电话帮忙疏导缓解我的心理压力，真的非常感动，真的是yujun老师一点一点教会我怎么做科研。）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 134,
+      "paragraphs": [
+        {
+          "content_hash": "0a9b3bf6f3cad641",
+          "style": "NORMAL_TEXT",
+          "text": "你发这种评论和自曝有什么区别？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 140,
+      "paragraphs": [
+        {
+          "content_hash": "755c96d73bd19661",
+          "style": "NORMAL_TEXT",
+          "text": "你会不会英语啊，alumni指的是yiwei合作过的学生，不是他自己的学生"
+        },
+        {
+          "content_hash": "75d499336fa8fac2",
+          "style": "NORMAL_TEXT",
+          "text": "我有他phd的vx，你要吗"
+        },
+        {
+          "content_hash": "8483306778cea5e8",
+          "style": "NORMAL_TEXT",
+          "text": "截图还标注中国时间，建议你删除一下，到时候自爆了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 176,
+      "at_to": 182,
+      "from_paragraphs": [
+        {
+          "content_hash": "7f51feda4ae5a5d1",
+          "style": "NORMAL_TEXT",
+          "text": "顾全全你自己想清楚，可以冷处理的事情是不是非要把说过的话发的满天飞。（很支持，转组的事情都已经结束了，顾老师和转组的学生双方都不想提，这完全是吃瓜群众看热闹不嫌事大。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "46c20fee97765eaa",
+          "style": "NORMAL_TEXT",
+          "text": "顾全全你自己想清楚，可以冷处理的事情是不是非要把说过的话发的满天飞。（很支持，转组的事情都已经结束了，顾老师和转组的学生双方都不想提，这完全是吃瓜群众看热闹不嫌事大。）（到底是谁在害怕）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 227,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "11880d443a0ab512",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？哥们别删我了，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "366b17e858f0604a",
+          "style": "NORMAL_TEXT",
+          "text": "组里某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(bai姓的postdoc？哥们别删我了，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 381,
+      "at_to": 387,
+      "from_paragraphs": [
+        {
+          "content_hash": "5fc5b5cc0f4802c1",
+          "style": "NORMAL_TEXT",
+          "text": "据说是毒王常toxic"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "243713f01b96f97e",
+          "style": "NORMAL_TEXT",
+          "text": "据说是毒王常toxic (eth时期的事情了)"
+        },
+        {
+          "content_hash": "c259f07bb3dbf90a",
+          "style": "NORMAL_TEXT",
+          "text": "Bo li 老公，夫妻店？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 498,
+      "at_to": 505,
+      "from_paragraphs": [
+        {
+          "content_hash": "a6649a17503a95a2",
+          "style": "NORMAL_TEXT",
+          "text": "下面评论朋友们注意真伪。目前看到说骂哭逼疯等都是组内phd能证实不存在的事情。包括之前版本有人故意造谣拱火写卡毕业等后来又删除。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "851da9e35ad34091",
+          "style": "NORMAL_TEXT",
+          "text": "下面评论朋友们注意真伪。目前看到说骂哭逼疯等都是组内phd能证实不存在的事情。"
+        },
+        {
+          "content_hash": "f78303f85c66276d",
+          "style": "NORMAL_TEXT",
+          "text": "有人故意造谣拱火，包括之前版本写卡毕业等后来又删除。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 501,
+      "at_to": 509,
+      "from_paragraphs": [
+        {
+          "content_hash": "769d4e82e6bf2054",
+          "style": "NORMAL_TEXT",
+          "text": "楼上的能别洗地了吗。我亲眼见证本科同学拿了chuang gan和另外一位老板的暑研offer，最后没有选择chuang gan，你们的创总亲自下场威胁 “把我的暑研offer拒了，你这是非常不诚信，我就让你在学术圈混不下去，你要去的新老板我也很熟，我发一个微信你就去不了了“诸如此类的话。（你反悔撕了offer，还让老板开心谢谢你ma）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "16c3f7d342eec9cf",
+          "style": "NORMAL_TEXT",
+          "text": "楼上的能别洗地了吗。我亲眼见证本科同学拿了chuang gan和另外一位老板的暑研offer，最后没有选择chuang gan，你们的创总亲自下场威胁 “把我的暑研offer拒了，你这是非常不诚信，我就让你在学术圈混不下去，你要去的新老板我也很熟，我发一个微信你就去不了了“诸如此类的话。（创总发暑研offer 都要通过学校，DS2019很多流程，肯定问了确定要来才发的的。你同学反悔撕了offer，学校一帮人忙活完了，你t不来，还让老板开心谢谢你同学吗？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 514,
+      "at_to": 522,
+      "from_paragraphs": [
+        {
+          "content_hash": "4ec74ac493111155",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜) (）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5450c39fb380e3c7",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜) （phd的谣也想造？至于吗？要休假又哪里听来的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 518,
+      "at_to": 526,
+      "from_paragraphs": [
+        {
+          "content_hash": "d8bbe3dba405ac9e",
+          "style": "NORMAL_TEXT",
+          "text": "● 微信发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）(聊天记录为真，约炮未被证实，请大家理性吃瓜。) （真实情况是，一个学生被另外一个纽约知名学者感情欺骗了，这个人正好是他哥们。作为mentor，他好心帮助了解事情真相，问他是否跟这个人真的发生事情，结果被人断章取义。我觉得创总被黑也活该，做了好事最后反而被人搞。创总平时确实对学生边界感太差，我们组有两三个同学失恋，他都从波士顿特意跑到amherst，来陪着喝酒。这种事情我们学生都劝他别管了，他后来也因为这个事好像不再找女生做phd了。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "707c1e6d2fd8abce",
+          "style": "NORMAL_TEXT",
+          "text": "● 微信发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）(聊天记录为真，约炮未被证实，请大家理性吃瓜。) （真实情况是，一个学生被另外一个纽约知名学者感情欺骗了，这个人正好是他哥们。作为mentor，他好心帮助了解事情真相，问他是否跟这个人真的发生事情，如果有证据可以报警，结果有人报复他，被人断章取义。我觉得创总被黑也活该，做了好事最后反而被人搞。创总平时确实对学生边界感太差，我们组有两三个同学失恋，他都从波士顿特意跑到amherst，来陪着喝酒。这种事情我们学生都劝他别管了。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 523,
+      "at_to": 531,
+      "from_paragraphs": [
+        {
+          "content_hash": "3e2df5f68abf2822",
+          "style": "NORMAL_TEXT",
+          "text": "知情人表示有更离谱的，保护受害者不说了。。。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e6518d0fd06f4b89",
+          "style": "NORMAL_TEXT",
+          "text": "知情人表示有更离谱的，保护受害者不说了。。。（我去还有谜语人环节）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 699,
+      "paragraphs": [
+        {
+          "content_hash": "79da0e5762555370",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jiagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)(确实，只能说Jiageng mao没水平，希望yue别支持这种事情）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 704,
+      "at_to": 710,
+      "from_paragraphs": [
+        {
+          "content_hash": "72b0e5140b5c9ba7",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊?(点赞)被uc b取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了hao ran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "92bcfa794a1a5eeb",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众n今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了hao ran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 745,
+      "at_to": 751,
+      "from_paragraphs": [
+        {
+          "content_hash": "0dc430c7567f7739",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的)jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据: 黑子们点进来看, 这是jitendra本人给我发的email, ccl"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c33793c414df830e",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的)jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据: 黑子们点进来看, 这是jitendra本人给我发的email, ccl 图呢，有种别删啊，你怕什么呢？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 771,
+      "at_to": 777,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ac0059df7a50ae3e",
+          "style": "NORMAL_TEXT",
+          "text": "有种叫你耿哥自己来rebuttal啊？自己躲着派intern洗，怕什么呢，耿浩然？？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1317,
+      "at_to": 1322,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "490eff058701cc7b",
+          "style": "NORMAL_TEXT",
+          "text": "Atlas 料这么少的吗，巅峰时期paper水王，tianlong的100多篇paper不都是atlas带出来的？tianlong的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1444,
+      "at_to": 1448,
+      "from_paragraphs": [
+        {
+          "content_hash": "403cc0abe13477eb",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 他也拿到了某校 offer. 这个intern心里很没数, 申请的时候给初稿写的是\"Strongest Student of this year\", 然后phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他， 当时有个老师不愿意给他写推荐信，还是manling组里临时帮他找的推荐人，他自己去某校 work了两个月那边老师都不愿意给他写推荐信。申请的时候一直问能不能发personal note，后来他很想去的学校私下问manling情况，manling也都给了点对点的personal strong recommendation，没专门邀功而已)(所以最后去哪里了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2647f97b5ad126a2",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 那些面试就是证明，他也拿到了某校 offer. 这个intern心里很没数, 申请的时候他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了。。其实申请的时候还帮过他， 当时有个老师不愿意给他写推荐信，还是manling组里临时帮他找的推荐人，他自己去某校 work了一段时间那边老师都不愿意给他写推荐信。申请的时候一直问能不能发personal note，后来他很想去的学校私下问manling情况，manling也都给了点对点的personal strong recommendation，没专门邀功而已)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1730,
+      "at_to": 1734,
+      "from_paragraphs": [
+        {
+          "content_hash": "2b6001354c5b672a",
+          "style": "NORMAL_TEXT",
+          "text": "自己和自己的神人学生故意往linux kernel里扔有毒的东西，把linux kernel的开发者搞火从而ban掉umn域名下的所有提交"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7cdb738a598c14b0",
+          "style": "NORMAL_TEXT",
+          "text": "自己和自己的神人学生故意往linux kernel里扔有毒的东西，把linux kernel的开发者搞火从hkust而ban掉umn域名下的所有提交"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1882,
+      "at_to": 1886,
+      "from_paragraphs": [
+        {
+          "content_hash": "80dece1d9ce5fe20",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "83906912ba494449",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang 别删了，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "73060170ccb23d82",
+          "style": "NORMAL_TEXT",
+          "text": "买Github stars的事情能不能解释一下？ 删评论算什么本事？ 敢做不敢当是吧，之前还小红书私信威胁别人质疑，别人质疑你就删评论堵嘴。敢不敢正面回应？"
+        }
+      ]
+    }
+  ]
+}

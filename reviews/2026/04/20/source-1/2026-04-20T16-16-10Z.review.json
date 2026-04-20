@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-16-10Z.delta.json",
+  "delta_ts": "2026-04-20T16-16-10Z",
+  "reviewed_at_utc": "2026-04-20T16:17:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Offering to share private contact information (WeChat ID) of a PhD student",
+      "excerpt": "我有他phd的vx，你要吗"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insulting commenter's English language proficiency",
+      "excerpt": "你会不会英语啊"
+    },
+    {
+      "type": "pii",
+      "detail": "Disclosure of student's full name (Geng Haoran)",
+      "excerpt": "耿浩然"
+    }
+  ],
+  "prompt_sha256": "b54eefae619ae90eb12c24c3c19adb7cc9f8e48ca2764cbdb968a482cda7097d",
+  "finish_reason": "stop",
+  "completion_tokens": 5680
+}
