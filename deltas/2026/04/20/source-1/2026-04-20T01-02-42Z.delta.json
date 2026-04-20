@@ -1,0 +1,162 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-58-26Z",
+    "revision_id": "AMHacu7fQWJd2i38oicrnJsweulLIxsNCI5iSmdWBRLhyTdni93LpPfN0cSVl69JHLiUKieKpccWnZqZzI26LvWUcw",
+    "paragraph_count": 609
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-02-42Z",
+    "revision_id": "AMHacu4i4LppKFxkLHTUOWRl3kjHR-SCXqZY-6t0Fete4h3UEnaQ0x__NHZiHVGPr9z7b4XmnEi_AcT57q5rr1jdYQ",
+    "paragraph_count": 613
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 5,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0082,
+    "insertion_ratio": 0.0147
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 9,
+      "paragraphs": [
+        {
+          "content_hash": "8294b6f773981e79",
+          "style": "NORMAL_TEXT",
+          "text": "（很多兄弟们可能不懂如何编辑。教程：进入链接https://docs.google.com/document/d/1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds/edit?tab=t.0，会显示“由于此文件目前的查看人数过多，因此部分工具可能无法使用。请重试”，一直点击请重试即可，不要直接刷新页面）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 12,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 23,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 273,
+      "paragraphs": [
+        {
+          "content_hash": "55f61944a5d0d0d3",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，各种事情一个不落"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 363,
+      "at_to": 365,
+      "from_paragraphs": [
+        {
+          "content_hash": "25c7c3979832644a",
+          "style": "NORMAL_TEXT",
+          "text": "meeting感觉很aggressive很push"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0dcb7efa9d434b43",
+          "style": "NORMAL_TEXT",
+          "text": "Meeting感觉很aggressive很push"
+        },
+        {
+          "content_hash": "ec954120960107cf",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经好很多了说实话"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 372,
+      "at_to": 375,
+      "from_paragraphs": [
+        {
+          "content_hash": "6199321d03a2fd4a",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)，也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "31834d1656f23cc0",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职，有什么误解，或者圈层不够理解有限，她在NLP算不上什么top candidate，她那一年正好llm出来所以沾了光了再加上DEI，现在想跳槽到更好的发现走不掉）(她那一年都有哪些NLP top candidate？去nw绰绰有余了吧)（她那一年有几个top candidate都去oai什么的frontier lab了，后面uw的那几个candidate上了以后她基本没法跳槽，她也是因此拿一堆顶校面试，然而面了cmu，ucla最后几个学校都没看上她），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 393,
+      "at_to": 396,
+      "from_paragraphs": [
+        {
+          "content_hash": "6637f09da53d6d79",
+          "style": "NORMAL_TEXT",
+          "text": "Zhuowen人很好，虽然研究方向没那么新但作为supervisor没得说"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a1d63070982c9377",
+          "style": "NORMAL_TEXT",
+          "text": "Zhuowen人很好，虽然研究方向没那么新但作为导师人品真没得说，推荐信几乎没有不强推的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 481,
+      "at_to": 484,
+      "from_paragraphs": [
+        {
+          "content_hash": "042b74947e3d5d30",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd，去年刚毕业，overall Heng不算完美，但是也是在方方面面fully supportive。有时候比较严厉会批评（对事不对人），其他时候相处融洽，来世还当heng学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "483e4a4e35867274",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd，去年刚毕业，overall Heng不算完美，但是也是在方方面面fully supportive。有时候比较严厉会批评做的不好的地方（对事不对人），其他时候相处融洽，来世还当heng学生"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 559,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "HEADING_1",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
