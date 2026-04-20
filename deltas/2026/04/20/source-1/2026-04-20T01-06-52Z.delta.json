@@ -1,0 +1,229 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-04-50Z",
+    "revision_id": "AMHacu7t6PuvkcKsE4eIFgf4svcYR8NohGtfbWLGMXkgM_YMe-uEFCY3UIw36CMP68UsLxmBN01gTmLF_WddXaD2rQ",
+    "paragraph_count": 621
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-06-52Z",
+    "revision_id": "AMHacu67DoPKHWp23Gn9-oYF-ket3uiBgetAP2ZU1vvdQt6yGzFG-8gPQBmzxpBxbgZ4SbBKbJLgUnPNaZ1LI5BvqQ",
+    "paragraph_count": 634
+  },
+  "summary": {
+    "inserted_paragraphs": 19,
+    "deleted_paragraphs": 6,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0097,
+    "insertion_ratio": 0.03
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 88,
+      "at_to": 88,
+      "from_paragraphs": [
+        {
+          "content_hash": "3c0aafed25c67ca4",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四散各地 不知所踪…这通操作至今仍是UCSB一段\"佳话”"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "426baead07a0f837",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四散各地 不知所踪…这通操作至今仍是UCSB一段\"佳话” （我是毕业的学生"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 144,
+      "paragraphs": [
+        {
+          "content_hash": "5b19907c79552ee6",
+          "style": "NORMAL_TEXT",
+          "text": "典型的上岸关门过河拆桥，劝人不发文章然后自己猛猛水"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 240,
+      "at_to": 241,
+      "from_paragraphs": [
+        {
+          "content_hash": "868cc0aee9faec4d",
+          "style": "NORMAL_TEXT",
+          "text": "水平低，不懂技术，纯靠学生探索，要求学生3个月搞一篇论文 (啊？？真嘟假嘟)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "01a5dc7861936e37",
+          "style": "NORMAL_TEXT",
+          "text": "水平低，不懂技术，纯靠学生探索 (啊？？真嘟假嘟)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 243,
+      "at_to": 244,
+      "from_paragraphs": [
+        {
+          "content_hash": "aa0e45c2e12c372e",
+          "style": "NORMAL_TEXT",
+          "text": "rex组里学生表示很多不符合事实，没听说过3个月搞论文，不至于上黑榜.."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "19992c4530acf5c7",
+          "style": "NORMAL_TEXT",
+          "text": "Rex组里学生表示不至于上黑榜.."
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 268,
+      "at_to": 270,
+      "from_paragraphs": [
+        {
+          "content_hash": "bb1f2e72667ef311",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键quit 了之后人家重新申了其他的 phd）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "26ac007d13ca501c",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键quit 了之后人家重新申了其他的 phd）（之后没法master out了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 372,
+      "at_to": 374,
+      "from_paragraphs": [
+        {
+          "content_hash": "d6082a5ed20c37a9",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）（我在这个组做过intern，没有这么多intern吧，是比较inclusive，一般只要感兴趣会拉入slack，可以参加group meeting，但做项目没有多少人，项目没做出来的也给写信了，好处是给信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2cdc0fb6b9fdd51e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）（我在这个组做过intern，没有这么多intern吧，是比较inclusive，一般只要感兴趣会拉入slack，可以参加group meeting，但做项目没有多少人，听说以前的Intern有项目没做出来的也给写信了，好处是给信）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 390,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "50ea1ef9ea5c8a38",
+          "style": "NORMAL_TEXT",
+          "text": "NWU Kaize Ding"
+        },
+        {
+          "content_hash": "2bef97f9b35cf19a",
+          "style": "NORMAL_TEXT",
+          "text": "丁丁老师xhsyi j"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 426,
+      "paragraphs": [
+        {
+          "content_hash": "8f9da1652868146d",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD hao zhang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 456,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 483,
+      "at_to": 496,
+      "from_paragraphs": [
+        {
+          "content_hash": "2e27ff65ad1966f1",
+          "style": "NORMAL_TEXT",
+          "text": "(jiatao和lingjie是夫妻档吗?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f0795d13005c8858",
+          "style": "NORMAL_TEXT",
+          "text": "(jiatao和lingjie是夫妻档吗?)（是）"
+        }
+      ]
+    }
+  ]
+}

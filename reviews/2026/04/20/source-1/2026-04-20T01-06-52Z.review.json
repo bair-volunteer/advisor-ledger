@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-06-52Z.delta.json",
+  "delta_ts": "2026-04-20T01-06-52Z",
+  "reviewed_at_utc": "2026-04-20T01:07:28Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of specific student defense that contested a factual claim about advising practices (the '3-month paper' requirement), suppressing substantive counter-evidence while retaining the criticism",
+      "excerpt": "rex组里学生表示很多不符合事实，没听说过3个月搞论文"
+    }
+  ],
+  "prompt_sha256": "c962668cb741d37115472b2b998c64b1e70a675de749a357f6f051f15bc663ea",
+  "finish_reason": "stop",
+  "completion_tokens": 2968
+}
