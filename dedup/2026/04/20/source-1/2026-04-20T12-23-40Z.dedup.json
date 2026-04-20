@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-23-40Z",
+  "reviewed_at_utc": "2026-04-20T12:24:32Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 2,
+  "n_inserts": 6,
+  "pairs": [
+    {
+      "ghost_hash": "cb2f23c5529e2673",
+      "insert_hash": "0766cc2b4fabb65f",
+      "note": "Added bracketed clarification",
+      "ghost_text": "我是lijie的intern之一，从24年到现在一直和lijie合作，lijie的人品我觉得绝对是最好的那一档，她真的愿意带0基础的学生做科研，而且也会愿意和你交流不管是学术上还是未来发展上的问题。她要是看出身会愿意带那么多0基础的学生发顶会？甚至会愿意抽时间帮你模拟面试，没有人有义务帮你，你自己没拿到offer跑回来怪lijie给黑推，有没有可能是你bg不太行？？",
+      "insert_text": "我是lijie的intern之一，从24年到现在一直和lijie合作，lijie的人品我觉得绝对是最好的那一档，她真的愿意带0基础的学生做科研[甚至愿意直接给idea的]，而且也会愿意和你交流不管是学术上还是未来发展上的问题。她要是看出身会愿意带那么多0基础的学生发顶会？甚至会愿意抽时间帮你模拟面试，没有人有义务帮你，你自己没拿到offer跑回来怪lijie给黑推，有没有可能是你bg不太行？？"
+    },
+    {
+      "ghost_hash": "36e5e678adb8299c",
+      "insert_hash": "77c78432c7156b0f",
+      "note": "Completed cut-off sentence and expanded",
+      "ghost_text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己",
+      "insert_text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1764,
+  "skipped_reason": null
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-23-40Z.delta.json",
+  "delta_ts": "2026-04-20T12-23-40Z",
+  "reviewed_at_utc": "2026-04-20T12:24:18Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "The edit contains personal insults directed at another commenter rather than substantive criticism of advising practices. Phrases like '无能狂怒' (incompetent rage) and '不下头吗' (pathetic/embarrassing) constitute unsupported character judgments attacking the individual's competence and dignity.",
+      "excerpt": "自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊"
+    }
+  ],
+  "prompt_sha256": "66490fb1c1df05fd48bf9f6c0d6b0476b00505e9e9702141bdfdfbe83dff9711",
+  "finish_reason": "stop",
+  "completion_tokens": 3927
+}
