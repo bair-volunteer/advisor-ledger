@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-52-40Z.delta.json",
+  "delta_ts": "2026-04-20T21-52-40Z",
+  "reviewed_at_utc": "2026-04-20T21:53:27Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains unsupported clinical diagnosis '纯npd人格' (pure NPD personality) used as personal attack against an advisor, which constitutes an unsupported character judgment rather than criticism of concrete advising practices.",
+      "excerpt": "纯npd人格，gaslighting所有人，组里学生都到了要去看心理医生的地步"
+    }
+  ],
+  "prompt_sha256": "0346631f57d1598ed5ce3d63717f613c27b8a63ec6883ba7ba885965f4579c2e",
+  "finish_reason": "stop",
+  "completion_tokens": 4571
+}

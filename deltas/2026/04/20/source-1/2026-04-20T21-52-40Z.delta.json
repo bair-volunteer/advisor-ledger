@@ -1,0 +1,161 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T21-48-16Z",
+    "revision_id": "AMHacu4LjUd2vuRSGu1HgREAJjObEFsC93CGSjDOS8sRhipY6ymRm-SvBDXYGp9qJ5VuXBHlWoVyx56auYPrFFIQMw",
+    "paragraph_count": 2161
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T21-52-40Z",
+    "revision_id": "AMHacu7O06HV3ogtxQRoMb_WFe2KqE7xBzjc0JDSCuhQm7avZYwi1zes-0qHYc41nbpOpPILrp3NHEPNfkWjeMqF6Q",
+    "paragraph_count": 2162
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 7,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0032,
+    "insertion_ratio": 0.0037
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 0,
+      "paragraphs": [
+        {
+          "content_hash": "68a768c11b26f81b",
+          "style": "NORMAL_TEXT",
+          "text": "“我翻开 doc 一查，这 doc 没有年代，歪歪斜斜的每页上都写着‘仁义道德’几个字。我横竖睡不着，仔细看了半夜，才从字缝里看出字来，满本都写着两个字是‘吃人’！”"
+        },
+        {
+          "content_hash": "fe372a8917f161a3",
+          "style": "NORMAL_TEXT",
+          "text": " — 改自鲁迅《狂人日记》"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 373,
+      "at_to": 371,
+      "from_paragraphs": [
+        {
+          "content_hash": "7e44268239883a6b",
+          "style": "NORMAL_TEXT",
+          "text": "（说过他的课 ti yan）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b1ac5613cc18eb67",
+          "style": "NORMAL_TEXT",
+          "text": "上过他的课 体验很不好"
+        },
+        {
+          "content_hash": "b6d718ffb3ae5c7c",
+          "style": "NORMAL_TEXT",
+          "text": "听说早年自己招的学生全部ms out/quit/转组"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 469,
+      "paragraphs": [
+        {
+          "content_hash": "2af8b2de267859c0",
+          "style": "NORMAL_TEXT",
+          "text": "UW-Madison Eftychios Sifakis"
+        },
+        {
+          "content_hash": "da0e4ecc2de443d3",
+          "style": "NORMAL_TEXT",
+          "text": "据传0指导，人均八年毕业"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 482,
+      "paragraphs": [
+        {
+          "content_hash": "4b614c0d579b4c47",
+          "style": "NORMAL_TEXT",
+          "text": "纯npd人格，gaslighting所有人，组里学生都到了要去看心理医生的地步，甚至有人有更极端的行为。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 660,
+      "at_to": 662,
+      "from_paragraphs": [
+        {
+          "content_hash": "ba426e34e45a1281",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱无敌了，压抑哥每次造谣经典节目，不得不品（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）（libo 和"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "04435b13a1ee71c1",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱无敌了，压抑哥每次造谣经典节目，不得不品（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal techAnima）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）（libo 和"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1198,
+      "paragraphs": [
+        {
+          "content_hash": "9fee4acb337f5d43",
+          "style": "NORMAL_TEXT",
+          "text": "Push & 洗脑"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1200,
+      "at_to": 1201,
+      "from_paragraphs": [
+        {
+          "content_hash": "d0b504c02e7ba8ec",
+          "style": "NORMAL_TEXT",
+          "text": "组里很多学生quit/转组"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "50de8a605192c6eb",
+          "style": "NORMAL_TEXT",
+          "text": "组里很多学生quit/转组（8个）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1495,
+      "at_to": 1496,
+      "from_paragraphs": [
+        {
+          "content_hash": "a6121a21504385d5",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了... 其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过几个月, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee. 该校的PI是manling的朋友，所以letter)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6dfe216a767f3078",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了... 其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过几个月, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee. 该校的PI明确说了看了letter才推荐的committee)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ]
+    }
+  ]
+}
