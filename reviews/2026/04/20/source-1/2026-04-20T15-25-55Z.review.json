@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-25-55Z.delta.json",
+  "delta_ts": "2026-04-20T15-25-55Z",
+  "reviewed_at_utc": "2026-04-20T15:26:51Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student (Yufei Ding) disclosed alongside sensitive allegations about academic integrity and personal conduct; students are private individuals unlike the professor subjects of the document",
+      "excerpt": "Yufei Ding 今年stanford的phd，纯学术妲己,考试还作弊"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Gendered slur 'academic Daji' (学术妲己) used to attack student character without substantive evidence regarding advising practices",
+      "excerpt": "纯学术妲己"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Complete removal of entry regarding advisor Huazhu Fu including specific misconduct allegations, appearing to suppress substantive observation rather than perform cleanup",
+      "excerpt": "- Astar, Huazhu Fu\n- 听说搞婚外情？有无懂的CN"
+    }
+  ],
+  "prompt_sha256": "b22cf60059a054e24ca4f23ad38407393f85c5f5045ec88d2565d8bfd064c38e",
+  "finish_reason": "stop",
+  "completion_tokens": 4805
+}

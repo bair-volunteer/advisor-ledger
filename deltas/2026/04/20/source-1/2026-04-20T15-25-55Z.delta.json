@@ -1,0 +1,322 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-21-49Z",
+    "revision_id": "AMHacu6LU6xy64Jhe0AjgxKTGcsTft386-ixQgZBJkknykiR8aFrBBKB8i51yQ3Rox1Xnn47xLc1aLWo-wOPtazlwg",
+    "paragraph_count": 2047
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-25-55Z",
+    "revision_id": "AMHacu4CsfkTjrEDsnodY8AyeoSHGd336Tb98CQl9RGPPseCSjiKu-aadlow6LYtKJRpwSB9nQDEMplee0nQyBe08g",
+    "paragraph_count": 2053
+  },
+  "summary": {
+    "inserted_paragraphs": 20,
+    "deleted_paragraphs": 14,
+    "operations": 15,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0068,
+    "insertion_ratio": 0.0097
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 428,
+      "at_to": 428,
+      "from_paragraphs": [
+        {
+          "content_hash": "1b151993900d2141",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是创总intern，当时拿了两个四大offers, 确实当时很早给我还有其他2个做的好的同学return, 但我们表达想冲击top 4， 他也很支持。从结果来看至少每个人都拿到了很多面试，也大多都去了不错的学校，但好像也有同学没把面试转化成offer, 但这个怪创总信不够强就不地道了吧。实习过程对我们很好的，他是东北人比较好爽，经常请我们吃饭聊天。现在我们还有联系，找实习啥的他也帮忙。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ae989748327878db",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是创总intern，当时拿了两个四大offer, 确实当时很早给我还有其他2个做的好的同学return, 但我们表达想冲击top 4， 他也很支持。从结果来看至少每个人都拿到了很多面试，也大多都去了不错的学校，但好像也有同学没把面试转化成offer, 但这个怪创总信不够强就不地道了吧。实习过程对我们很好的，他是东北人比较好爽，经常请我们吃饭聊天。现在我们还有联系，找实习啥的他也帮忙。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 433,
+      "at_to": 433,
+      "from_paragraphs": [
+        {
+          "content_hash": "8e8306e58e68573d",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，到其他老师那说坏话和造谣，暑研不答应留下不给一作 (据我所知大部分intern干得好的都有共一/一作吧...) （他们组没几篇paper不是共一的吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0d001977d79a3328",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，到其他老师那说坏话和造谣，暑研不答应留下不给一作 (据我所知大部分intern干得好的都有共一/一作吧...) （他们组没几篇intern的paper不是共一的吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 446,
+      "at_to": 446,
+      "from_paragraphs": [
+        {
+          "content_hash": "79c69b58226ed365",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（听说当年去找另一个candiate换offer 人家没鸟他）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "47c7b0e64a5a856f",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（这个都是八百年前的谣了，还有人继续翻呢啊。 真实情况是，他老板想让他留在美国，没交香港推荐信。第二年也确实拿了美国很多面试和offer。他当时pub还拿不到国内offer吗？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 452,
+      "at_to": 452,
+      "from_paragraphs": [
+        {
+          "content_hash": "90d3969efb1ac400",
+          "style": "NORMAL_TEXT",
+          "text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（纯造谣。。还把）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b26b6291a33942f3",
+          "style": "NORMAL_TEXT",
+          "text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（造谣。。还把人删掉。。。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 622,
+      "at_to": 622,
+      "from_paragraphs": [
+        {
+          "content_hash": "92f9bdb86d7ace85",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把haoran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "d2b0c12d59cebf6a",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有咩用可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断。wo kan是多个人写的，只不过后来被删"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6c45c305e6c4a1fa",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stanford的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把haoran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "b27e1b1aed46b3ff",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有咩用可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1224,
+      "at_to": 1224,
+      "from_paragraphs": [
+        {
+          "content_hash": "665077f5ca5d20c7",
+          "style": "NORMAL_TEXT",
+          "text": "nb"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ca1ba591cb6577bb",
+          "style": "NORMAL_TEXT",
+          "text": "龙哥nb"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1231,
+      "at_to": 1231,
+      "from_paragraphs": [
+        {
+          "content_hash": "31e07e53db9d86d8",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名，和楼上也算师徒荣辱与共了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "266c2c47a812bf52",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1297,
+      "paragraphs": [
+        {
+          "content_hash": "11f71a10bd87084a",
+          "style": "NORMAL_TEXT",
+          "text": "（面试就很凶是真的）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1699,
+      "paragraphs": [
+        {
+          "content_hash": "4971f94d313b6ca9",
+          "style": "NORMAL_TEXT",
+          "text": "慎选，基本算雷区。我之前在 causal NLP 方向和她合作过。申请流程非常消耗时间，一个表格就能填掉半天，而且填完大概率石沉大海。合作内容是可解释性，但只要对这个方向稍微有点判断力，就能看出她这几年论文产出水分很大，早期做 causal NLP 时也存在类似问题。更离谱的是，她会先让你无偿干活：做项目、维护 GitHub、按她一时兴起的方向写综述。前期投入非常高，等你已经花了大量时间之后，才可能给你一个面试机会。面试体验也很差。我刚开始做 presentation 几分钟，她直接把会议关了，随后发邮件说我英语发音需要加强，还强调实验室竞争激烈。整体感受就是：投入高、反馈差、态度冷硬，沟通方式也比较伤人。谨慎考虑。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1842,
+      "at_to": 1844,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ed109059ed9e4fb6",
+          "style": "NORMAL_TEXT",
+          "text": "不得不贴上图"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1854,
+      "at_to": 1856,
+      "from_paragraphs": [
+        {
+          "content_hash": "8ba25a3e46c0e2eb",
+          "style": "NORMAL_TEXT",
+          "text": "Astar, Huazhu Fu"
+        },
+        {
+          "content_hash": "77366606d7a3dbf6",
+          "style": "NORMAL_TEXT",
+          "text": "听说搞婚外情？有无懂的CN"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1916,
+      "paragraphs": [
+        {
+          "content_hash": "8a5b41ae15649693",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU Changqing Zou"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1926,
+      "at_to": 1930,
+      "from_paragraphs": [
+        {
+          "content_hash": "54a0aa658a900126",
+          "style": "NORMAL_TEXT",
+          "text": "不会AI就不要硬凑，不要再搞你的那什么DFT和PUF了，别浪费经费了，学生出去都不好意思讲自己做的这个能干嘛，再说你是网安的啊，你搞PUF这种硬件安全我还能说你是占了“安全”两个字，你搞DFT是干嘛的，本科"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bbcb623fa9f7c204",
+          "style": "NORMAL_TEXT",
+          "text": "不会AI就不要硬凑，不要再搞你的那什么DFT和PUF了，别浪费经费了，学生出去都不好意思讲自己做的这个能干嘛，再说你是网安的啊，你搞PUF这种硬件安全我还能说你是占了“安全”两个字，你搞DFT是干嘛的，本科学造船的，去了CMU读了几年硕士就说自己是搞DFT的？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1929,
+      "at_to": 1933,
+      "from_paragraphs": [
+        {
+          "content_hash": "086234e93f4651c4",
+          "style": "NORMAL_TEXT",
+          "text": "21级的快毕业了，还没走人呢，6月初就发邮件给学生的美国学校说学生有学术诚信问题，脸呢？懂人家做的东西吗？毕业之前还求人家干活呢，你不会忘了自己还偷自己"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c142ba113a1c3a33",
+          "style": "NORMAL_TEXT",
+          "text": "21级的快毕业了，还没走人呢，6月初就发邮件给学生的美国学校说学生有学术诚信问题，脸呢？懂人家做的东西吗？毕业之前还求人家干活呢，你不会忘了自己还偷自己硕士导师的数据这件事吧"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1931,
+      "at_to": 1935,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5188f43475afec8c",
+          "style": "NORMAL_TEXT",
+          "text": "HUST Wang Pao"
+        },
+        {
+          "content_hash": "90f20ea86528832f",
+          "style": "NORMAL_TEXT",
+          "text": "天天打游戏，还拉着学生打游戏"
+        },
+        {
+          "content_hash": "b00d8a7edf812eea",
+          "style": "NORMAL_TEXT",
+          "text": "出口成渣，辱骂"
+        }
+      ]
+    }
+  ]
+}
