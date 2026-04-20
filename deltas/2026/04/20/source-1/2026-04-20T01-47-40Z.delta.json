@@ -1,0 +1,392 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-43-20Z",
+    "revision_id": "AMHacu4siNS6pvRisoMwe63XAiVlgkyL3AqAsn-sjn-jtVQJTb0KYTDakC74dMzD48xP1Vh_PoEP_7vQVa9C12h2JQ",
+    "paragraph_count": 722
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-47-40Z",
+    "revision_id": "AMHacu7tp0InpPUiNWbtGn2jIPI8ElOTXE4Ov-RKwENVqooF6W79oY0m6B8JN1XJRkfiui6PAcw5ED1c8x-Gt2VMfQ",
+    "paragraph_count": 729
+  },
+  "summary": {
+    "inserted_paragraphs": 29,
+    "deleted_paragraphs": 22,
+    "operations": 14,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0305,
+    "insertion_ratio": 0.0398
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 12,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5c69509ff0dec47b",
+          "style": "NORMAL_TEXT",
+          "text": "兄弟姐妹如果觉得别人说的有问题，可以不要随意开盒别人吗？如果我在这个帖子上把他们所有的PhD at 进来还有几个人的故事会在这里？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 71,
+      "paragraphs": [
+        {
+          "content_hash": "79d790e5ec025c10",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很好"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 129,
+      "at_to": 132,
+      "from_paragraphs": [
+        {
+          "content_hash": "32b0ec87d13e163a",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个phd家暴进局子，被他保释包庇了(????)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ab1eb910db91a1d1",
+          "style": "NORMAL_TEXT",
+          "text": "组里有个phd家暴进局子，被他保释包庇了(????)（保释不算包庇吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 212,
+      "at_to": 215,
+      "from_paragraphs": [
+        {
+          "content_hash": "b9511360994d1ef9",
+          "style": "NORMAL_TEXT",
+          "text": "UCSC, CV夫妻店"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "251b5359056c7fc6",
+          "style": "NORMAL_TEXT",
+          "text": "UCSC, CV夫妻店（感觉本人过来洗地写了一堆，实在太假删了，多人quit后面还写什么true but changed，你怎么知道changed？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 244,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f6bdf68feb0244e6",
+          "style": "NORMAL_TEXT",
+          "text": "University of Virginia, Xiaoxuan Yang"
+        },
+        {
+          "content_hash": "37be3a909835da91",
+          "style": "NORMAL_TEXT",
+          "text": "Stereotype上大分"
+        },
+        {
+          "content_hash": "d7eb95368bd067d8",
+          "style": "NORMAL_TEXT",
+          "text": "经典NPD"
+        },
+        {
+          "content_hash": "51a0bd45fab55fe5",
+          "style": "NORMAL_TEXT",
+          "text": "Funding似乎只够1~2个学生，但是敢招3个，纯坑人"
+        },
+        {
+          "content_hash": "e966b17e31d9ee43",
+          "style": "NORMAL_TEXT",
+          "text": "嘴上说让学生别着急，自己不push，其实push得很"
+        },
+        {
+          "content_hash": "4839cb19afc7c628",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励组内淘汰"
+        },
+        {
+          "content_hash": "7c9ba2a8e2cbad1d",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢在系主任和自己当年的老板那里说别人坏话"
+        },
+        {
+          "content_hash": "67ecb6dcc6142632",
+          "style": "NORMAL_TEXT",
+          "text": "不知道为什么感觉很着急，一星期没进展恨不得把你皮扒下来"
+        },
+        {
+          "content_hash": "a8bdddc1be2b8180",
+          "style": "NORMAL_TEXT",
+          "text": "看得出来自己很心虚，新招的学生去campus visit，去跟其他老师见面的环节她得盯着，生怕打听到什么事情"
+        },
+        {
+          "content_hash": "4b8bafe64b333491",
+          "style": "NORMAL_TEXT",
+          "text": "说话永远都是“你可以做.....”，然后你没做就要被喷"
+        },
+        {
+          "content_hash": "71a20b02e6aefbfa",
+          "style": "NORMAL_TEXT",
+          "text": "一周开多次会，还要填写weekly report sheet（虽然这个sheet的逻辑很离谱）"
+        },
+        {
+          "content_hash": "470499cd6abc2529",
+          "style": "NORMAL_TEXT",
+          "text": "脾气的梯度很大"
+        },
+        {
+          "content_hash": "4de806970f2273d3",
+          "style": "NORMAL_TEXT",
+          "text": "作为一个博导给不出有用的指导（也可能是故意不给），只会念经“找独一无二的创新点”“你的进展是什么”"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 276,
+      "at_to": 294,
+      "from_paragraphs": [
+        {
+          "content_hash": "7b7ec38d4ece6125",
+          "style": "NORMAL_TEXT",
+          "text": "作为 rex 的学生想说一句：第一学年出产出的期待的确存在（个人觉得在情理之中），但组内氛围不是高压。没达到的同学也没什么事，黑榜这个描述和我的实际体验有较大 gap"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f10bed336e7542e3",
+          "style": "NORMAL_TEXT",
+          "text": "作为 rex 的学生想说一句：第一学年出产出的期待的确存在（个人觉得在情理之中），但组内氛围不是高压。没达到的同学也没什么事，黑榜这个描述和我的实际体验有较大 gap （在rex组做过intern的同意）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 308,
+      "at_to": 326,
+      "from_paragraphs": [
+        {
+          "content_hash": "92f66430fc64017d",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了有用的research(什么有用的research)，各种事情一个不落"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f4aec1176924a55",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了做不出有用的research(什么有用的research)，各种事情一个不落"
+        },
+        {
+          "content_hash": "2f83198754a53ab2",
+          "style": "NORMAL_TEXT",
+          "text": "说其他老师的坏话（学术不行, 工作垃圾之类的）(有人删除了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 379,
+      "at_to": 398,
+      "from_paragraphs": [
+        {
+          "content_hash": "5d0a4435f390e38d",
+          "style": "NORMAL_TEXT",
+          "text": "偷snap的diffusion checkpoint拿来当做自己创业公司成果 (????????????????????)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ff0d11420cbb871c",
+          "style": "NORMAL_TEXT",
+          "text": "偷snap的diffusion checkpoint拿来当做自己创业公司成果"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 427,
+      "at_to": 446,
+      "from_paragraphs": [
+        {
+          "content_hash": "50fc0eebba36eab6",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？😄 （难道不是学生自己强吗？大家又不是白纸进来的）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "00718eb2d7af2561",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常？😄 （难道不是学生自己强吗？大家又不是白纸进来的）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。再者这个去向被列举出来，当事人知道吗，当事人可能表示ta能去这个地方，和组毫无关系，强行绑定来着。老师是个好老师，别营销过度了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 450,
+      "at_to": 469,
+      "from_paragraphs": [
+        {
+          "content_hash": "99786d63d0027b28",
+          "style": "NORMAL_TEXT",
+          "text": "World model Phd 大兵团现在这种发展想做foundation model不大兵团怎么干得过我请问呢，而且组里一直有phd在做别的方向也不是只有wm在发paper吧。。。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "60fcaefaa0d86a48",
+          "style": "NORMAL_TEXT",
+          "text": "World model Phd 大兵团现在这种发展想做foundation model不大兵团怎么干得过我请问呢，而且组里一直有phd在做别的方向也不是只有wm在发paper吧。。。Reasoning/audio/GUI Agent不是都在发吗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 531,
+      "at_to": 550,
+      "from_paragraphs": [
+        {
+          "content_hash": "de6fce3024502cf7",
+          "style": "NORMAL_TEXT",
+          "text": "申请季自己名声太差招不到好学生就拉老公一起发co advise offer"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "694c3bac376c5136",
+          "style": "NORMAL_TEXT",
+          "text": "申请季自己名声太差招不到好学生就拉老公一起发co advise offer （coadivse offer也没人敢去）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 534,
+      "at_to": 553,
+      "from_paragraphs": [
+        {
+          "content_hash": "676f97ef80033982",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU人尽皆知吧"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9eb3a6fa74478962",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU人尽皆知吧 (能讲讲吗)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 569,
+      "paragraphs": [
+        {
+          "content_hash": "2e4d8de0cd60d72b",
+          "style": "NORMAL_TEXT",
+          "text": "听说不放学生毕业"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 709,
+      "paragraphs": [
+        {
+          "content_hash": "f6bdf68feb0244e6",
+          "style": "NORMAL_TEXT",
+          "text": "University of Virginia, Xiaoxuan Yang"
+        },
+        {
+          "content_hash": "37be3a909835da91",
+          "style": "NORMAL_TEXT",
+          "text": "Stereotype上大分"
+        },
+        {
+          "content_hash": "d7eb95368bd067d8",
+          "style": "NORMAL_TEXT",
+          "text": "经典NPD"
+        },
+        {
+          "content_hash": "094a298d93b3bd50",
+          "style": "NORMAL_TEXT",
+          "text": "Funding不够但是敢招一堆人，纯坑人"
+        },
+        {
+          "content_hash": "e966b17e31d9ee43",
+          "style": "NORMAL_TEXT",
+          "text": "嘴上说让学生别着急，自己不push，其实push得很"
+        },
+        {
+          "content_hash": "4839cb19afc7c628",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励组内淘汰"
+        },
+        {
+          "content_hash": "7c9ba2a8e2cbad1d",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢在系主任和自己当年的老板那里说别人坏话"
+        },
+        {
+          "content_hash": "67ecb6dcc6142632",
+          "style": "NORMAL_TEXT",
+          "text": "不知道为什么感觉很着急，一星期没进展恨不得把你皮扒下来"
+        },
+        {
+          "content_hash": "a8bdddc1be2b8180",
+          "style": "NORMAL_TEXT",
+          "text": "看得出来自己很心虚，新招的学生去campus visit，去跟其他老师见面的环节她得盯着，生怕打听到什么事情"
+        },
+        {
+          "content_hash": "4b8bafe64b333491",
+          "style": "NORMAL_TEXT",
+          "text": "说话永远都是“你可以做.....”，然后你没做就要被喷"
+        },
+        {
+          "content_hash": "71a20b02e6aefbfa",
+          "style": "NORMAL_TEXT",
+          "text": "一周开多次会，还要填写weekly report sheet（虽然这个sheet的逻辑很离谱）"
+        },
+        {
+          "content_hash": "470499cd6abc2529",
+          "style": "NORMAL_TEXT",
+          "text": "脾气的梯度很大"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

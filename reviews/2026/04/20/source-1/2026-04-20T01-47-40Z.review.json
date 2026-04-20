@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-47-40Z.delta.json",
+  "delta_ts": "2026-04-20T01-47-40Z",
+  "reviewed_at_utc": "2026-04-20T01:48:54Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported clinical character judgment (labeling as NPD/narcissist) and stereotype-based insult targeting a specific professor",
+      "excerpt": "经典NPD\nStereotype上大分"
+    }
+  ],
+  "prompt_sha256": "1ccded97379cdacb4a446cf6baa0b9913e45cd4b03f578da57a2c420366fae6e",
+  "finish_reason": "stop",
+  "completion_tokens": 6542
+}
