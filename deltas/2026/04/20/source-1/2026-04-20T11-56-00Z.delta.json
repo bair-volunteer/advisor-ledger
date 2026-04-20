@@ -1,0 +1,115 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T11-53-50Z",
+    "revision_id": "AMHacu6iq821JF_6IFYaa3lZrKa0WaT1fVbfxnMXRzeMGBp-Tus-G_foHFUH724TmY80xs9W5Pl6v04YyqECe3vOOg",
+    "paragraph_count": 1497
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T11-56-00Z",
+    "revision_id": "AMHacu4hYD_Rk36TNuHxVdbW8eofpQkxqrOygHRhjdqQTXvuxUm6dKAY9MN0LuDXPgsfDuhwTqrm2qqZCUKCPINxbQ",
+    "paragraph_count": 1499
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 4,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0027,
+    "insertion_ratio": 0.004
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 86,
+      "paragraphs": [
+        {
+          "content_hash": "5772ee448798998a",
+          "style": "NORMAL_TEXT",
+          "text": "之前算是lichao的intern，他对自己的学生很好好吧，人品非常好"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 240,
+      "at_to": 241,
+      "from_paragraphs": [
+        {
+          "content_hash": "b13ebb565c08d022",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假, 我  理解有参与了   他那个是灰色地带的一种说辞，比较难以界定，但是论文写的不清不楚，他怎么解释也可以 那他后面的论文还有和银河的版权纠纷呢 怎么没人提 不都被wanghe告了吗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e31fe9ae7851768c",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假   bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以 那他后面的论文还有和银河的知识产权纠纷呢 怎么没人提 不都被wanghe告了吗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 361,
+      "at_to": 362,
+      "from_paragraphs": [
+        {
+          "content_hash": "552f7ba69c165ec4",
+          "style": "NORMAL_TEXT",
+          "text": "0 research guidance 100 东亚 pua toxic拉满, 经典言论: “i pay you a lot”"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8c0b98fca2e225a4",
+          "style": "NORMAL_TEXT",
+          "text": "0 research guidance 100 东亚 pua toxic拉满, 经典言论: “i pay you a lot” “spring break is not for phd student”"
+        },
+        {
+          "content_hash": "7e70dde5c4505a5e",
+          "style": "NORMAL_TEXT",
+          "text": "组li"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 671,
+      "paragraphs": [
+        {
+          "content_hash": "b73b31672e512f9f",
+          "style": "NORMAL_TEXT",
+          "text": "化学phd指导cs？哈哈"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 902,
+      "at_to": 904,
+      "from_paragraphs": [
+        {
+          "content_hash": "cc11c7656f917da7",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个 (fake，十几个) (哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多，大兵团（绷不住了）（这么多人怎么写推荐信）(只要参与进项目中，项目不管是否做出来，都给了strong letter)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ef793b6d32e4e5ea",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个 (fake，十几个) (哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管) Intern数量比我高三班级人数还多，大兵团（绷不住了）（这么多人怎么写推荐信）(只要参与进项目中，项目不管是否做出来，都给了strong letter)"
+        }
+      ]
+    }
+  ]
+}

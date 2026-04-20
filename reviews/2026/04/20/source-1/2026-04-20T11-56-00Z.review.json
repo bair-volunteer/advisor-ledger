@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-56-00Z.delta.json",
+  "delta_ts": "2026-04-20T11-56-00Z",
+  "reviewed_at_utc": "2026-04-20T11:56:45Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive clarification about lab structure, specifically the distinction between Slack observers and actual project interns, suppressing nuance that mitigates the 'too many interns' criticism",
+      "excerpt": "(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )"
+    }
+  ],
+  "prompt_sha256": "4c684efb8ff6af6f29828639d000273b15f20c8c28ae94ba352ee6e0b7ab401f",
+  "finish_reason": "stop",
+  "completion_tokens": 4913
+}
