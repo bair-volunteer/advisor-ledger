@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-43-20Z.delta.json",
+  "delta_ts": "2026-04-20T01-43-20Z",
+  "reviewed_at_utc": "2026-04-20T01:44:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive observation about an advisor's conduct (speaking ill of colleagues/attacking others' academic quality) without replacement or explanation, suggesting potential suppression of legitimate criticism rather than cleanup.",
+      "excerpt": "说其他老师的坏话（学术不行, 工作垃圾之类的）"
+    },
+    {
+      "type": "pii",
+      "detail": "Insertion of lab-specific descriptors about a specific intern/student ('本科刚毕业' / fresh undergraduate graduate) in the context of a specific advisor's group at PolyU, which combined with the described incident (impersonating a PhD to recruit students) is detailed enough to potentially de-anonymize the private individual.",
+      "excerpt": "组里一个实习生装自己是polyU phd在外面装逼替他招学生，实则自己本科刚毕业"
+    }
+  ],
+  "prompt_sha256": "15ab1defa3ab6a559862407e59d06dabb90af3b8d5fd17869339b11973516011",
+  "finish_reason": "stop",
+  "completion_tokens": 3991
+}
