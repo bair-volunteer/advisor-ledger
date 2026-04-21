@@ -1,0 +1,45 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-21T00-22-10Z",
+    "revision_id": null,
+    "paragraph_count": 706
+  },
+  "to": {
+    "captured_at_utc": "2026-04-21T00-24-20Z",
+    "revision_id": null,
+    "paragraph_count": 706
+  },
+  "summary": {
+    "inserted_paragraphs": 1,
+    "deleted_paragraphs": 1,
+    "operations": 1,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0014,
+    "insertion_ratio": 0.0014
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 3,
+      "at_to": 3,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b93193b67a3d956",
+          "style": "NORMAL_TEXT",
+          "text": "（如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "43de646a6dcb37e1",
+          "style": "NORMAL_TEXT",
+          "text": "如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接：https://github.com/the-hidden-fish/advisor-ledger"
+        }
+      ]
+    }
+  ]
+}
