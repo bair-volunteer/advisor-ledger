@@ -22,8 +22,8 @@ SNAPSHOTS: list[dict] = [
         "path": "snapshots/2026/04/20/source-1/2026-04-20T20-55-10Z.json",
     },
     {
-        "ts": "2026-04-21T01-05-00Z",
-        "path": "snapshots/2026/04/21/source-1/2026-04-21T01-05-00Z.json",
+        "ts": "2026-04-20T23-33-20Z",
+        "path": "snapshots/2026/04/20/source-1/2026-04-20T23-33-20Z.json",
     },
 ]
 
