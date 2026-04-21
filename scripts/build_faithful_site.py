@@ -18,6 +18,10 @@ OUT_DIR = ROOT / "docs" / "faithful"
 # Oldest first. The newest entry becomes index.html and is marked "最新".
 SNAPSHOTS: list[dict] = [
     {
+        "ts": "2026-04-20T19-03-30Z",
+        "path": "snapshots/2026/04/20/source-1/2026-04-20T19-03-30Z.json",
+    },
+    {
         "ts": "2026-04-20T23-33-20Z",
         "path": "snapshots/2026/04/20/source-1/2026-04-20T23-33-20Z.json",
     },
