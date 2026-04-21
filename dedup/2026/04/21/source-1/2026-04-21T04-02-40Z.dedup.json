@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-21T04-02-40Z",
+  "reviewed_at_utc": "2026-04-21T04:03:09Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 3,
+  "n_inserts": 3,
+  "pairs": [
+    {
+      "ghost_hash": "151fdd4a0eb72267",
+      "insert_hash": "57d6f31e214cea7e",
+      "note": "same URL, added log note",
+      "ghost_text": "GitHub有部分之前的缓存：https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1",
+      "insert_text": "GitHub有部分之前的缓存：https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1 （log记录）"
+    },
+    {
+      "ghost_hash": "3e7c6c4aa7a833d0",
+      "insert_hash": "5669224d29ab94bb",
+      "note": "same URL, added detail note",
+      "ghost_text": "https://advisoreval2026-star.github.io/rankmyadvisor/",
+      "insert_text": "https://advisoreval2026-star.github.io/rankmyadvisor/ （只有名单和rebuttal tag，没有细节）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1940,
+  "skipped_reason": null
+}

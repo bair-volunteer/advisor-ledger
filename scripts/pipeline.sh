@@ -73,6 +73,19 @@ done
 log "render"
 "$PY" scripts/render_ledger.py >/dev/null
 
+# Render the Google Doc 原文 (high-fidelity, default view at /) from a PINNED
+# pre-vandalism snapshot. On 2026-04-21T00-17-50Z a single edit removed ~98% of
+# the doc; every snapshot after that is an empty/attacked version. We freeze the
+# default view on the last known-good snapshot so readers still see the ledger
+# they came for. Edit history / deletions remain visible at /ledger.html.
+log "render (faithful)"
+FAITHFUL_SNAPSHOT="snapshots/2026/04/20/source-1/2026-04-20T20-55-10Z.json"
+if [ -f "$FAITHFUL_SNAPSHOT" ]; then
+  ts="$(basename "$FAITHFUL_SNAPSHOT" .json)"
+  meta="Snapshot <b>${ts}</b> · source-1 · 1:1 Google Docs API JSON render (pinned pre-vandalism)"
+  "$PY" scripts/render_gdoc_faithful.py "$FAITHFUL_SNAPSHOT" docs/index.html --meta "$meta" >/dev/null
+fi
+
 # Commit + push if anything new is staged. normalized/ stays gitignored (purely derived);
 # docs/ is tracked so GitHub Pages can serve the rendered ledger from /docs.
 log "git"

@@ -523,6 +523,20 @@ a.rich-link {
   border-radius: 4px;
 }
 .gd-meta b { color: #202124; }
+.view-nav {
+  max-width: 780pt;
+  margin: 0 auto 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 13px;
+}
+.view-nav a {
+  color: #555; text-decoration: none;
+  padding: 4px 10px; border-radius: 3px;
+  background: #fff; border: 1px solid #dadce0;
+  margin-right: 6px; display: inline-block;
+}
+.view-nav a.current { background: #202124; color: #fff; border-color: #202124; }
+.view-nav .exp { color: #7a5af5; font-weight: 600; font-size: 11px; margin-left: 4px; }
 @media (max-width: 900px) {
   body { padding: 12px 0 40px; }
   .gd-page { border-radius: 0; }
@@ -530,9 +544,21 @@ a.rich-link {
 @media print {
   body { background: #fff; padding: 0; }
   .gd-page { box-shadow: none; border-radius: 0; }
-  .gd-meta { display: none; }
+  .gd-meta, .view-nav, .gd-nav { display: none; }
 }
 """
+
+
+def view_nav_html(prefix: str = "") -> str:
+    """Row 1: upstream's three-view nav. Identical markup/CSS to upstream;
+    only href prefix differs so links resolve from nested paths."""
+    return (
+        '<div class="view-nav">'
+        f'<a href="{prefix}index.html" class="current">Google Doc 原文</a>'
+        f'<a href="{prefix}ledger.html">编辑历史</a>'
+        f'<a href="{prefix}deduped.html">去重视图<span class="exp">实验</span></a>'
+        '</div>'
+    )
 
 
 def normalize_named_styles(named_styles_root: dict) -> dict:
@@ -569,8 +595,8 @@ def page_css(doc_style: dict) -> str:
 
 
 def render_nav(nav_snapshots: list[dict], current_ts: str | None) -> str:
-    """Build the fixed top-bar with a snapshot selector + prev/next links.
-    `nav_snapshots` is ordered newest-first; each entry is {ts, href, label}."""
+    """Row 2: sticky top bar with 学界黑榜 title + 快照 selector + prev/next.
+    Only rendered when nav_snapshots is non-empty (i.e. on 原文视图)."""
     if not nav_snapshots:
         return ""
     # resolve indices for prev/next (older = prev, newer = next, within newest-first list)
@@ -601,7 +627,6 @@ def render_nav(nav_snapshots: list[dict], current_ts: str | None) -> str:
         f'<label>快照: <select onchange="location.href=this.value">{"".join(opts)}</select></label>'
         f'<span class="pn">{older_a} {newer_a}</span>'
         '<span class="spacer"></span>'
-        '<span class="back"><a href="../">← ledger 视图</a></span>'
         "</nav>"
     )
 
@@ -611,6 +636,7 @@ def render_html(
     meta_banner: str | None = None,
     nav_snapshots: list[dict] | None = None,
     current_ts: str | None = None,
+    view_nav_prefix: str = "",
 ) -> str:
     named_styles = normalize_named_styles(doc.get("namedStyles") or {})
     inline_objects = doc.get("inlineObjects") or {}
@@ -641,8 +667,9 @@ def render_html(
     title = doc.get("title") or "Document"
     page_style = page_css(doc.get("documentStyle") or {})
     meta_html = f'<div class="gd-meta">{meta_banner}</div>' if meta_banner else ""
-    nav_html = render_nav(nav_snapshots or [], current_ts)
-    body_class = "has-nav" if nav_html else ""
+    row1 = view_nav_html(view_nav_prefix)  # upstream 三视图 — shown on all faithful pages
+    row2 = render_nav(nav_snapshots or [], current_ts)  # ours — only on 原文视图 w/ selector
+    body_class = "has-nav" if row2 else ""
     return (
         "<!DOCTYPE html>\n"
         f'<html lang="zh"><head>'
@@ -651,7 +678,8 @@ def render_html(
         f"<title>{html.escape(title)}</title>"
         f"<style>{BASE_CSS}</style>"
         f'</head><body class="{body_class}">'
-        f"{nav_html}"
+        f"{row2}"
+        f"{row1}"
         f"{meta_html}"
         f'<article class="gd-page" style="{page_style}">'
         f"{''.join(body_parts)}"
@@ -704,6 +732,12 @@ def main() -> int:
         help="The timestamp of this snapshot; used to mark the <select> option "
         "and to place prev/next links. Required with --nav-snapshots.",
     )
+    ap.add_argument(
+        "--view-nav-prefix",
+        default="",
+        help='Path prefix for the 三视图 (原文/编辑历史/去重) link hrefs. '
+        'Use "" for docs/ root, "../" for docs/faithful/*.',
+    )
     args = ap.parse_args()
 
     nav_snapshots = None
@@ -719,6 +753,7 @@ def main() -> int:
         meta_banner=args.meta,
         nav_snapshots=nav_snapshots,
         current_ts=args.current_ts,
+        view_nav_prefix=args.view_nav_prefix,
     )
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(html_out, encoding="utf-8")
