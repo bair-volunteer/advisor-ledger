@@ -597,7 +597,7 @@ def render_nav(nav_snapshots: list[dict], current_ts: str | None) -> str:
     return (
         '<nav class="gd-nav">'
         '<span class="gd-nav-title">Advisor Red Flags Notes'
-        '<span class="sub">· 快照视图</span></span>'
+        '<span class="sub">· 学界黑榜快照</span></span>'
         f'<label>快照: <select onchange="location.href=this.value">{"".join(opts)}</select></label>'
         f'<span class="pn">{older_a} {newer_a}</span>'
         '<span class="spacer"></span>'
