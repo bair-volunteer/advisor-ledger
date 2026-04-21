@@ -1,0 +1,65 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-21T03-54-00Z",
+    "revision_id": null,
+    "paragraph_count": 708
+  },
+  "to": {
+    "captured_at_utc": "2026-04-21T04-02-40Z",
+    "revision_id": null,
+    "paragraph_count": 708
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 3,
+    "operations": 1,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0042,
+    "insertion_ratio": 0.0042
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 4,
+      "at_to": 4,
+      "from_paragraphs": [
+        {
+          "content_hash": "151fdd4a0eb72267",
+          "style": "NORMAL_TEXT",
+          "text": "GitHub有部分之前的缓存：https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1"
+        },
+        {
+          "content_hash": "3e7c6c4aa7a833d0",
+          "style": "NORMAL_TEXT",
+          "text": "https://advisoreval2026-star.github.io/rankmyadvisor/"
+        },
+        {
+          "content_hash": "bd029c714945a7cb",
+          "style": "NORMAL_TEXT",
+          "text": "作者本人已被熟人拷打，期待和大家在ICLR线下rebuttal！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "57d6f31e214cea7e",
+          "style": "NORMAL_TEXT",
+          "text": "GitHub有部分之前的缓存：https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1 （log记录）"
+        },
+        {
+          "content_hash": "8a08671aea09f9ef",
+          "style": "NORMAL_TEXT",
+          "text": "https://bair-volunteer.github.io/advisor-ledger/faithful/"
+        },
+        {
+          "content_hash": "5669224d29ab94bb",
+          "style": "NORMAL_TEXT",
+          "text": "https://advisoreval2026-star.github.io/rankmyadvisor/ （只有名单和rebuttal tag，没有细节）"
+        }
+      ]
+    }
+  ]
+}
