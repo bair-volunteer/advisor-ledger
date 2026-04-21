@@ -440,6 +440,39 @@ body {
   padding: 24px 12px 60px;
   min-height: 100vh;
 }
+body.has-nav { padding-top: 64px; }
+.gd-nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  background: #ffffff;
+  border-bottom: 1px solid #dadce0;
+  box-shadow: 0 1px 3px rgba(0,0,0,.08);
+  padding: 8px 16px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 13px;
+  color: #202124;
+  display: flex; gap: 14px; align-items: center; flex-wrap: wrap;
+}
+.gd-nav-title { font-weight: 600; color: #202124; }
+.gd-nav-title .sub { font-weight: 400; color: #5f6368; margin-left: 4px; }
+.gd-nav select {
+  font-size: 13px; padding: 4px 8px;
+  border: 1px solid #dadce0; border-radius: 4px;
+  background: #fff; color: #202124; min-width: 260px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+.gd-nav .pn a, .gd-nav .back a {
+  text-decoration: none; color: #1a73e8;
+  padding: 4px 8px; border-radius: 4px;
+}
+.gd-nav .pn a:hover, .gd-nav .back a:hover { background: #f1f3f4; }
+.gd-nav .pn a.disabled { color: #bdc1c6; pointer-events: none; }
+.gd-nav .spacer { flex: 1; }
+.gd-nav .back { border-left: 1px solid #dadce0; padding-left: 14px; }
+@media (max-width: 720px) {
+  .gd-nav { font-size: 12px; gap: 8px; padding: 6px 10px; }
+  .gd-nav select { min-width: 0; max-width: 55vw; }
+  body.has-nav { padding-top: 96px; }
+}
 .gd-page {
   background: #ffffff;
   margin: 0 auto;
@@ -535,7 +568,50 @@ def page_css(doc_style: dict) -> str:
     return join_style(parts)
 
 
-def render_html(doc: dict, meta_banner: str | None = None) -> str:
+def render_nav(nav_snapshots: list[dict], current_ts: str | None) -> str:
+    """Build the fixed top-bar with a snapshot selector + prev/next links.
+    `nav_snapshots` is ordered newest-first; each entry is {ts, href, label}."""
+    if not nav_snapshots:
+        return ""
+    # resolve indices for prev/next (older = prev, newer = next, within newest-first list)
+    idx = next((i for i, s in enumerate(nav_snapshots) if s["ts"] == current_ts), 0)
+    newer = nav_snapshots[idx - 1] if idx > 0 else None
+    older = nav_snapshots[idx + 1] if idx + 1 < len(nav_snapshots) else None
+    opts: list[str] = []
+    for s in nav_snapshots:
+        sel = " selected" if s["ts"] == current_ts else ""
+        opts.append(
+            f'<option value="{html.escape(s["href"], quote=True)}"{sel}>'
+            f"{html.escape(s['label'])}</option>"
+        )
+    older_a = (
+        f'<a href="{html.escape(older["href"], quote=True)}">← 上一版</a>'
+        if older
+        else '<a class="disabled">← 上一版</a>'
+    )
+    newer_a = (
+        f'<a href="{html.escape(newer["href"], quote=True)}">下一版 →</a>'
+        if newer
+        else '<a class="disabled">下一版 →</a>'
+    )
+    return (
+        '<nav class="gd-nav">'
+        '<span class="gd-nav-title">Advisor Red Flags Notes'
+        '<span class="sub">· 快照视图</span></span>'
+        f'<label>快照: <select onchange="location.href=this.value">{"".join(opts)}</select></label>'
+        f'<span class="pn">{older_a} {newer_a}</span>'
+        '<span class="spacer"></span>'
+        '<span class="back"><a href="../">← ledger 视图</a></span>'
+        "</nav>"
+    )
+
+
+def render_html(
+    doc: dict,
+    meta_banner: str | None = None,
+    nav_snapshots: list[dict] | None = None,
+    current_ts: str | None = None,
+) -> str:
     named_styles = normalize_named_styles(doc.get("namedStyles") or {})
     inline_objects = doc.get("inlineObjects") or {}
     lists = doc.get("lists") or {}
@@ -565,6 +641,8 @@ def render_html(doc: dict, meta_banner: str | None = None) -> str:
     title = doc.get("title") or "Document"
     page_style = page_css(doc.get("documentStyle") or {})
     meta_html = f'<div class="gd-meta">{meta_banner}</div>' if meta_banner else ""
+    nav_html = render_nav(nav_snapshots or [], current_ts)
+    body_class = "has-nav" if nav_html else ""
     return (
         "<!DOCTYPE html>\n"
         f'<html lang="zh"><head>'
@@ -572,7 +650,8 @@ def render_html(doc: dict, meta_banner: str | None = None) -> str:
         f'<meta name="viewport" content="width=device-width,initial-scale=1">'
         f"<title>{html.escape(title)}</title>"
         f"<style>{BASE_CSS}</style>"
-        f"</head><body>"
+        f'</head><body class="{body_class}">'
+        f"{nav_html}"
         f"{meta_html}"
         f'<article class="gd-page" style="{page_style}">'
         f"{''.join(body_parts)}"
@@ -613,10 +692,34 @@ def main() -> int:
         default=None,
         help="Optional HTML fragment shown above the page (e.g. snapshot info)",
     )
+    ap.add_argument(
+        "--nav-snapshots",
+        default=None,
+        help="JSON array (string or @file) of {ts, href, label}, newest-first; "
+        "renders a fixed top-bar selector. Omit to hide the bar.",
+    )
+    ap.add_argument(
+        "--current-ts",
+        default=None,
+        help="The timestamp of this snapshot; used to mark the <select> option "
+        "and to place prev/next links. Required with --nav-snapshots.",
+    )
     args = ap.parse_args()
 
+    nav_snapshots = None
+    if args.nav_snapshots:
+        raw = args.nav_snapshots
+        if raw.startswith("@"):
+            raw = Path(raw[1:]).read_text(encoding="utf-8")
+        nav_snapshots = json.loads(raw)
+
     doc = json.loads(args.input.read_text(encoding="utf-8"))
-    html_out = render_html(doc, meta_banner=args.meta)
+    html_out = render_html(
+        doc,
+        meta_banner=args.meta,
+        nav_snapshots=nav_snapshots,
+        current_ts=args.current_ts,
+    )
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(html_out, encoding="utf-8")
     print(f"[ok] wrote {args.output} ({len(html_out):,} bytes)")
